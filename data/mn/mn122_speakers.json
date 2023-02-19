@@ -1,0 +1,18 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn122:2.11+mn122:2.12^where_else_mentioned": "K\u0101\u1e37akhemaka",
+  "mn122:3.1+mn122:19.2^who_else_mentioned": "\u0100nanda",
+  "mn122:2.6+mn122:2.7": "The Buddha",
+  "mn122:2.11+mn122:2.12": "The Buddha",
+  "mn122:2.14+mn122:2.15": "\u0100nanda",
+  "mn122:17.3": "The Buddha",
+  "mn122:3.1+mn122:19.2": "The Buddha",
+  "mn122:19.3": "\u0100nanda",
+  "before^mn122:19.3^who_around": "Many other mendicants",
+  "before^mn122:19.3^who_mentioned": "Ka\u0304\u1e37akhemaka the Sakyan, Gha\u1e6da the Sakyan",
+  "before^mn122:19.3^where": "Kapilavatthu in the Banyan Tree Monastery",
+  "where": "Kapilavatthu in the Banyan Tree Monastery",
+  "mn122:20.1+mn122:27.4^who_else_mentioned": "Buddha, \u0100nanda",
+  "mn122:20.1+mn122:27.4": "The Buddha",
+  "before^mn122:20.1^who_around": "\u0100nanda"
+}

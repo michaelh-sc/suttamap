@@ -1,0 +1,15 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn130:2.1+mn130:7.12^who_else_mentioned": "Yama",
+  "mn130:1.4": "The Buddha",
+  "mn130:1.5": "the mendicants",
+  "mn130:4.7": "The Buddha",
+  "mn130:5.11": "The Buddha",
+  "mn130:6.11": "The Buddha",
+  "mn130:2.1+mn130:7.12": "The Buddha",
+  "mn130:8.11": "The Buddha",
+  "before^mn130:8.11^who_around": "An\u0101thapi\u1e47\u1e0dika's monastery",
+  "before^mn130:8.11^who_mentioned": "King Yama, the wardens of hell, the fifth messenger of the gods",
+  "before^mn130:8.11^where": "Jeta's Grove, S\u0101vatth\u012b",
+  "where": "Jeta's Grove, S\u0101vatth\u012b"
+}

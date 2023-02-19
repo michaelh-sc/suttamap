@@ -1,0 +1,23 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn123:2.2+mn123:2.4^who_else_mentioned": "Buddhas",
+  "mn123:3.1+mn123:21.6^who_else_mentioned": "Buddha, M\u0101ras, Brahm\u0101s, K\u0101s\u012b",
+  "mn123:22.1+mn123:22.5^who_else_mentioned": "\u0100nanda",
+  "mn123:23.1+mn123:23.4^who_else_mentioned": "Buddha",
+  "mn123:2.2+mn123:2.4": "Several senior mendicants",
+  "mn123:2.6+mn123:2.7": "\u0100nanda",
+  "mn123:2.11": "The Buddha",
+  "mn123:2.19": "The Buddha",
+  "mn123:7.5": "Sentient beings",
+  "mn123:12.4": "Someone with good eyesight",
+  "mn123:17.2": "Four deities",
+  "mn123:20.2": "Being intent on awakening",
+  "mn123:21.4": "Sentient beings",
+  "mn123:3.1+mn123:21.6": "\u0100nanda",
+  "mn123:22.1+mn123:22.5": "The Buddha",
+  "mn123:23.1+mn123:23.4": "\u0100nanda",
+  "before^mn123:23.1^who_around": "Several senior mendicants, \u0100nanda",
+  "before^mn123:23.1^who_mentioned": "Sentient beings, Four deities, Being intent on awakening, Someone with good eyesight",
+  "before^mn123:23.1^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery",
+  "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery"
+}

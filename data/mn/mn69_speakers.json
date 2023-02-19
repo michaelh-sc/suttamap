@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "who_around": "Guliss\u0101ni",
+  "where": "R\u0101jagaha, in the Bamboo Grove, the squirrels' feeding ground.",
+  "mn69:3.1+mn69:19.6^who_else_mentioned": "Sa\u1e45gha",
+  "mn69:19.8^who_else_mentioned": "S\u0101riputta",
+  "mn69:19.9^who_else_mentioned": "S\u0101riputta",
+  "mn69:3.1+mn69:19.6": "S\u0101riputta",
+  "mn69:19.8": "Mah\u0101moggall\u0101na",
+  "mn69:19.9": "S\u0101riputta",
+  "before^mn69:19.9^who_around": "Guliss\u0101ni",
+  "before^mn69:19.9^where": "Bamboo Grove, near R\u0101jagaha"
+}

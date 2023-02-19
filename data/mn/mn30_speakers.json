@@ -1,0 +1,11 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn30:2.3+mn30:2.5^who_else_mentioned": "Gotama, P\u016bra\u1e47a Kassapa, Makkhali Gos\u0101la, Niga\u1e47\u1e6dha N\u0101\u1e6daputta, Sa\u00f1jaya Bela\u1e6d\u1e6dhiputta, Pakudha Kacc\u0101yana, Ajita Kesakambala",
+  "mn30:2.3+mn30:2.5": "Pi\u1e45galakoccha",
+  "mn30:2.6+mn30:2.9": "the Buddha",
+  "mn30:2.10": "Pi\u1e45galakoccha",
+  "before^mn30:2.10^who_around": "the Buddha",
+  "before^mn30:2.10^who_mentioned": "ascetics and brahmins",
+  "before^mn30:2.10^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery",
+  "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery"
+}

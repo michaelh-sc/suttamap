@@ -1,0 +1,10 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn121:3.1+mn121:3.4^where_else_mentioned": "Sakyans, Townsville",
+  "mn121:3.1+mn121:3.4^who_else_mentioned": "Buddha, \u0100nanda",
+  "mn121:3.5+mn121:13.5^who_else_mentioned": "\u0100nanda, Mig\u0101ra, Sa\u1e45gha",
+  "mn121:3.1+mn121:3.4": "\u0100nanda",
+  "mn121:3.5+mn121:13.5": "the Buddha",
+  "before^mn121:3.5^where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother.",
+  "where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother."
+}

@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn14:3.1+mn14:21.21^where_else_mentioned": "R\u0101jagaha, the Vulture, Peak Mountain, Isigili, the Black Rock, M\u0101gadha",
+  "mn14:3.1+mn14:21.21^who_else_mentioned": "Mah\u0101n\u0101ma, Jain, N\u0101taputta, Gotama, Seniya Bimbis\u0101ra, Bimbis\u0101ra",
+  "mn14:2.2+mn14:2.8": "Mah\u0101n\u0101ma the Sakyan",
+  "mn14:17.3": "the Buddha",
+  "mn14:20.11": "the Buddha",
+  "mn14:3.1+mn14:21.21": "the Buddha",
+  "before^mn14:3.1^who_around": "King Bimbis\u0101ra",
+  "before^mn14:3.1^who_mentioned": "Jain ascetics",
+  "before^mn14:3.1^where": "Kapilavatthu in the Banyan Tree Monastery",
+  "where": "Kapilavatthu in the Banyan Tree Monastery"
+}

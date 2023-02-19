@@ -1,0 +1,20 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn141:2.1+mn141:5.7^where_else_mentioned": "Isipatana",
+  "mn141:2.1+mn141:5.7^who_else_mentioned": "Buddha, M\u0101ra, Brahm\u0101, Moggall\u0101na, S\u0101riputta",
+  "mn141:1.4": "The Buddha",
+  "mn141:1.5": "The mendicants",
+  "mn141:2.1+mn141:5.7": "The Buddha",
+  "mn141:7.2": "S\u0101riputta",
+  "mn141:7.3": "The mendicants",
+  "before^mn141:7.3^who_around": "The mendicants",
+  "before^mn141:7.3^who_mentioned": "M\u0101ra, Brahm\u0101",
+  "before^mn141:7.3^where": "Near Benares, in the deer park at Isipatana",
+  "where": "Near Benares, in the deer park at Isipatana",
+  "mn141:8.1+mn141:32.2^where_else_mentioned": "Isipatana",
+  "mn141:8.1+mn141:32.2^who_else_mentioned": "Buddha, M\u0101ra, Brahm\u0101",
+  "mn141:8.1+mn141:32.2": "S\u0101riputta",
+  "before^mn141:8.1^who_around": "The Buddha",
+  "before^mn141:8.1^who_mentioned": "Ascetic, Brahmin, God, M\u0101ra, Brahm\u0101",
+  "before^mn141:8.1^where": "Near Benares, in the deer park at Isipatana"
+}

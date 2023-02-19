@@ -1,0 +1,7 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn40:1.4": "The Buddha",
+  "mn40:1.5": "The mendicants",
+  "before^mn40:1.5^where": "The land of the A\u1e45gas, near the A\u1e45gan town named Assapura.",
+  "where": "The land of the A\u1e45gas, near the A\u1e45gan town named Assapura."
+}

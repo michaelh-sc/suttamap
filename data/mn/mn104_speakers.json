@@ -1,0 +1,23 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn104:4.2+mn104:4.3^who_else_mentioned": "Cunda, Buddha",
+  "mn104:4.9+mn104:4.11^who_else_mentioned": "Buddha, Sa\u1e45gha",
+  "mn104:5.1+mn104:5.3^who_else_mentioned": "\u0100nanda",
+  "mn104:5.4+mn104:5.7^where_else_mentioned": "Sa\u1e45gha",
+  "mn104:5.4+mn104:5.7^who_else_mentioned": "Buddha",
+  "mn104:5.8+mn104:22.1^where_else_mentioned": "Sa\u1e45gha",
+  "mn104:22.3+mn104:22.4^who_else_mentioned": "\u0100nanda",
+  "mn104:2.3": "Jain ascetics",
+  "mn104:4.2+mn104:4.3": "\u0100nanda",
+  "mn104:4.4": "Cunda",
+  "mn104:4.9+mn104:4.11": "\u0100nanda",
+  "mn104:5.1+mn104:5.3": "the Buddha",
+  "mn104:5.4+mn104:5.7": "\u0100nanda",
+  "mn104:5.8+mn104:22.1": "the Buddha",
+  "mn104:22.2": "\u0100nanda",
+  "mn104:22.3+mn104:22.4": "the Buddha",
+  "before^mn104:22.3^who_around": "Cunda, the Jain ascetics, the Niga\u1e47\u1e6dha N\u0101taputta's white-clothed lay disciples",
+  "before^mn104:22.3^who_mentioned": "the Niga\u1e47\u1e6dha N\u0101taputta",
+  "before^mn104:22.3^where": "S\u0101ma village near the village of P\u0101v\u0101",
+  "where": "S\u0101ma village near the village of P\u0101v\u0101"
+}

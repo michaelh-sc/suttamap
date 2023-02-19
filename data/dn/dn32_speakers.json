@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn32:2.2+dn32:2.15^who_else_mentioned": "Buddha",
+  "dn32:2.2+dn32:2.15": "Great King Vessava\u1e47a",
+  "before^dn32:2.2^who_around": "Four Great Kings, spirits, fairies, goblins, and dragons",
+  "before^dn32:2.2^who_mentioned": "monks, nuns, laymen, and laywomen",
+  "before^dn32:2.2^where": "Vulture's Peak Mountain, near R\u0101jagaha",
+  "where": "Vulture's Peak Mountain, near R\u0101jagaha",
+  "dn32:3.2+dn32:7.90^where_else_mentioned": "Sun, Uttarakuru, Mount Meru, Kusin\u0101\u1e6d\u0101, Parakusin\u0101\u1e6d\u0101, Kap\u012bvanta, Jonogha, Navanavutiya, Kuvera, Tatol\u0101, Tattal\u0101, Tatotal\u0101, Ojasi, Tejasi, Tatojasi, S\u016bra, R\u0101j\u0101, Ari\u1e6d\u1e6dha, Nemi",
+  "dn32:3.2+dn32:7.90^who_else_mentioned": "Hail Vipass\u012b, Hail Sikh\u012b, Hail Vessabh\u016b, Hail Kakusandha, M\u0101ra, Hail Ko\u1e47\u0101gamana, Hail Kassapa, Hail A\u1e45g\u012brasa, Sakyan, Gotama, Aditi, Dhatara\u1e6d\u1e6dha, Indra, Buddha, Kinsman, Vir\u016b\u1e37ha, Vir\u016bpakkha, N\u0101\u1e6dasuriy\u0101, Parakusi\u1e6dan\u0101\u1e6d\u0101, Vessava\u1e47a, Bhagalavat\u012b",
+  "dn32:3.2+dn32:7.90": "Great King Vessava\u1e47a",
+  "dn32:11.3": "the Buddha",
+  "dn32:13.1+dn32:13.4": "the Buddha",
+  "before^dn32:13.1^who_around": "spirits, Four Great Kings, mendicants",
+  "before^dn32:13.1^who_mentioned": "Indra, Soma, Varu\u1e47a, Bh\u0101radv\u0101ja, Paj\u0101pati, Candana, K\u0101mase\u1e6d\u1e6dha, Kinnugha\u1e47\u1e0du, Nigha\u1e47\u1e0du, Pan\u0101da, Opama\u00f1\u00f1a, M\u0101tali, Vipass\u012b, the king of Magadha, bandits, Cittasena, Nala, Janesabha, S\u0101t\u0101gira, Hemavata, Pu\u1e47\u1e47aka, Karatiya, Gu\u1e37a, Sivaka, Mucalinda, Vess\u0101mitta, Yugandhara, Gop\u0101la, Supparodha, Hiri, Netti, Mandiya, Pa\u00f1c\u0101laca\u1e47\u1e0da, \u0100\u1e37avaka, Pajjunna, Sumana, Sumukha, Dadhimukha, Ma\u1e47i, M\u0101\u1e47ivara, D\u012bgha, Ser\u012bsaka",
+  "before^dn32:13.1^where": "the Buddha's presence"
+}

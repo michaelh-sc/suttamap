@@ -1,0 +1,10 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn15:1.4": "Mah\u0101moggall\u0101na",
+  "mn15:1.5": "the mendicants",
+  "before^mn15:1.5^where": "The land of the Bhaggas on Crocodile Hill, in the deer park at Bhesaka\u1e37\u0101's Wood.",
+  "where": "The land of the Bhaggas on Crocodile Hill, in the deer park at Bhesaka\u1e37\u0101's Wood.",
+  "mn15:2.1+mn15:8.7": "Mah\u0101moggall\u0101na",
+  "before^mn15:2.1^who_around": "the mendicants",
+  "before^mn15:2.1^where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesaka\u1e37\u0101's Wood."
+}

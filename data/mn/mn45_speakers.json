@@ -1,0 +1,11 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn45:1.4": "The Buddha",
+  "mn45:1.5": "The mendicants",
+  "before^mn45:1.5^who_mentioned": "An\u0101thapi\u1e47\u1e0dika",
+  "before^mn45:1.5^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery",
+  "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery",
+  "mn45:2.1+mn45:7.11": "The Buddha",
+  "before^mn45:2.1^who_around": "The mendicants",
+  "before^mn45:2.1^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery near S\u0101vatth\u012b"
+}

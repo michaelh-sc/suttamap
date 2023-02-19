@@ -1,0 +1,16 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn103:2.1+mn103:2.2^who_else_mentioned": "Gotama",
+  "mn103:2.9+mn103:2.11^who_else_mentioned": "Buddha",
+  "mn103:2.12+mn103:17.6^who_else_mentioned": "Ascetic, Buddha",
+  "mn103:1.4": "The Buddha",
+  "mn103:1.5": "The mendicants",
+  "mn103:2.1+mn103:2.2": "The Buddha",
+  "mn103:2.3": "The mendicants",
+  "mn103:2.5+mn103:2.8": "The Buddha",
+  "mn103:2.9+mn103:2.11": "The mendicants",
+  "mn103:2.12+mn103:17.6": "The Buddha",
+  "before^mn103:2.12^who_around": "The mendicants",
+  "before^mn103:2.12^where": "Near Kusin\u0101ra, in the Forest of Offerings",
+  "where": "Near Kusin\u0101ra, in the Forest of Offerings"
+}
