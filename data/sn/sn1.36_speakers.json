@@ -1,0 +1,9 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn1.36:2.1+sn1.36:2.4": "one deity",
+  "sn1.36:4.1+sn1.36:4.4": "another deity",
+  "sn1.36:5.1+sn1.36:6.4": "another deity",
+  "before^sn1.36:5.1^who_around": "the Buddha",
+  "before^sn1.36:5.1^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's Monastery",
+  "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's Monastery"
+}

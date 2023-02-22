@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn5.6:2.1+sn5.6:2.4^who_else_mentioned": "Nun",
+  "sn5.6:3.1+sn5.6:5.4^who_else_mentioned": "Buddha",
+  "sn5.6:1.5": "M\u0101ra the Wicked",
+  "sn5.6:1.6": "C\u0101l\u0101",
+  "sn5.6:2.1+sn5.6:2.4": "M\u0101ra the Wicked",
+  "sn5.6:3.1+sn5.6:5.4": "C\u0101l\u0101",
+  "sn5.6:6.1": "M\u0101ra the Wicked",
+  "before^sn5.6:6.1^where": "S\u0101vatth\u012b",
+  "where": "S\u0101vatth\u012b"
+}

@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn15.8:2.3+sn15.8:2.12^where_else_mentioned": "Ganges",
+  "sn15.8:3.2+sn15.8:3.3^who_else_mentioned": "Gotama",
+  "sn15.8:1.4": "a certain brahmin",
+  "sn15.8:1.5+sn15.8:1.7": "the Buddha",
+  "sn15.8:2.1": "a certain brahmin",
+  "sn15.8:2.2": "the Buddha",
+  "sn15.8:2.3+sn15.8:2.12": "the Buddha",
+  "sn15.8:3.2+sn15.8:3.3": "the brahmin",
+  "before^sn15.8:3.2^where": "Near R\u0101jagaha, in the Bamboo Grove.",
+  "where": "Near R\u0101jagaha, in the Bamboo Grove."
+}

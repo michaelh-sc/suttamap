@@ -1,0 +1,20 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn6.5:7.1+sn6.5:7.4^where_else_mentioned": "Brahm\u0101",
+  "sn6.5:8.1+sn6.5:8.6^who_else_mentioned": "Brahm\u0101",
+  "sn6.5:9.3+sn6.5:9.5^who_else_mentioned": "Mah\u0101moggall\u0101na, Moggall\u0101na, Buddha, Kassapa, Kappina, Anuruddha",
+  "sn6.5:10.1+sn6.5:10.4^who_else_mentioned": "Buddha",
+  "sn6.5:11.2+sn6.5:12.4^who_else_mentioned": "Mah\u0101moggall\u0101na, Buddha",
+  "sn6.5:1.3": "a certain Brahm\u0101",
+  "sn6.5:2.2": "Mah\u0101moggall\u0101na",
+  "sn6.5:7.1+sn6.5:7.4": "Mah\u0101moggall\u0101na",
+  "sn6.5:8.1+sn6.5:8.6": "the Brahm\u0101",
+  "sn6.5:9.3+sn6.5:9.5": "the Brahm\u0101",
+  "sn6.5:9.6": "the retinue member",
+  "sn6.5:10.1+sn6.5:10.4": "Mah\u0101moggall\u0101na",
+  "sn6.5:11.2+sn6.5:12.4": "the retinue member",
+  "before^sn6.5:11.2^who_around": "the Buddha, Mah\u0101moggall\u0101na, Mah\u0101kassapa, Mah\u0101kappina, Anuruddha, the Brahm\u0101's retinue member",
+  "before^sn6.5:11.2^who_mentioned": "Moggall\u0101na, Kassapa, Kappina, Anuruddha",
+  "before^sn6.5:11.2^where": "S\u0101vatth\u012b and the Brahm\u0101 realm",
+  "where": "S\u0101vatth\u012b and the Brahm\u0101 realm"
+}

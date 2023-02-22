@@ -1,0 +1,22 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn40.10:2.1+sn40.10:2.6^who_else_mentioned": "Buddha, Sa\u1e45gha",
+  "sn40.10:3.1+sn40.10:3.6^who_else_mentioned": "Moggall\u0101na",
+  "sn40.10:8.1+sn40.10:11.2^who_else_mentioned": "Buddha, Sa\u1e45gha",
+  "sn40.10:12.1+sn40.10:15.2^who_else_mentioned": "Moggall\u0101na, Sa\u1e45gha",
+  "sn40.10:26.1+sn40.10:28.4^who_else_mentioned": "Buddha, Sa\u1e45gha",
+  "sn40.10:29.1^who_else_mentioned": "Moggall\u0101na, Buddha",
+  "sn40.10:38.1+sn40.10:41.1^who_else_mentioned": "Buddha, Sa\u1e45gha",
+  "sn40.10:42.1^who_else_mentioned": "Moggall\u0101na, Buddha",
+  "sn40.10:2.1+sn40.10:2.6": "Mah\u0101moggall\u0101na",
+  "sn40.10:3.1+sn40.10:3.6": "Sakka, lord of gods",
+  "sn40.10:8.1+sn40.10:11.2": "Mah\u0101moggall\u0101na",
+  "sn40.10:12.1+sn40.10:15.2": "Sakka, lord of gods",
+  "sn40.10:26.1+sn40.10:28.4": "Mah\u0101moggall\u0101na",
+  "sn40.10:29.1": "Sakka, lord of gods",
+  "sn40.10:38.1+sn40.10:41.1": "Mah\u0101moggall\u0101na",
+  "sn40.10:42.1": "Sakka, lord of gods",
+  "before^sn40.10:42.1^who_around": "Five hundred deities, Six hundred deities, Seven hundred deities, Eight hundred deities, Eighty thousand deities",
+  "before^sn40.10:42.1^where": "Jeta's Grove",
+  "where": "Jeta's Grove"
+}

@@ -1,0 +1,21 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn12.24:1.4+sn12.24:1.5^where_else_mentioned": "R\u0101jagaha",
+  "sn12.24:3.1+sn12.24:3.6^who_else_mentioned": "S\u0101riputta, Gotama",
+  "sn12.24:4.1+sn12.24:6.4^who_else_mentioned": "Buddha",
+  "sn12.24:8.1+sn12.24:12.2^where_else_mentioned": "R\u0101jagaha, the Bamboo Grove",
+  "sn12.24:8.1+sn12.24:12.2^who_else_mentioned": "S\u0101riputta",
+  "sn12.24:18.1^who_else_mentioned": "\u0100nanda",
+  "sn12.24:18.2+sn12.24:21.17^who_else_mentioned": "\u0100nanda, Grasping",
+  "sn12.24:1.4+sn12.24:1.5": "S\u0101riputta",
+  "sn12.24:3.1+sn12.24:3.6": "the wanderers",
+  "sn12.24:4.1+sn12.24:6.4": "S\u0101riputta",
+  "sn12.24:8.1+sn12.24:12.2": "the Buddha",
+  "sn12.24:17.1+sn12.24:17.3": "\u0100nanda",
+  "sn12.24:18.1": "the Buddha",
+  "sn12.24:18.2+sn12.24:21.17": "\u0100nanda",
+  "before^sn12.24:18.2^who_around": "the wanderers",
+  "before^sn12.24:18.2^who_mentioned": "the ascetics and brahmins",
+  "before^sn12.24:18.2^where": "Near R\u0101jagaha, in the Bamboo Grove",
+  "where": "Near R\u0101jagaha, in the Bamboo Grove"
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn38.1:2.1+sn38.1:2.2^who_else_mentioned": "S\u0101riputta",
+  "sn38.1:2.1+sn38.1:2.2": "Jambukh\u0101daka",
+  "sn38.1:2.3+sn38.1:2.4": "S\u0101riputta",
+  "sn38.1:2.5": "Jambukh\u0101daka",
+  "sn38.1:2.6": "S\u0101riputta",
+  "sn38.1:2.7": "Jambukh\u0101daka",
+  "sn38.1:2.8+sn38.1:2.10": "S\u0101riputta",
+  "sn38.1:2.11+sn38.1:2.12": "Jambukh\u0101daka",
+  "before^sn38.1:2.11^who_around": "S\u0101riputta",
+  "before^sn38.1:2.11^where": "the land of the Magadhans near the little village of N\u0101laka",
+  "where": "the land of the Magadhans near the little village of N\u0101laka"
+}

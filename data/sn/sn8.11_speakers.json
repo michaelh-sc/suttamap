@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn8.11:1.4+sn8.11:1.6^where_else_mentioned": "Camp\u0101",
+  "sn8.11:1.4+sn8.11:1.6^who_else_mentioned": "Buddha, Sa\u1e45gha",
+  "sn8.11:1.4+sn8.11:1.6": "Va\u1e45g\u012bsa",
+  "sn8.11:2.2": "Va\u1e45g\u012bsa",
+  "sn8.11:2.3": "the Buddha",
+  "sn8.11:3.1+sn8.11:3.4": "Va\u1e45g\u012bsa",
+  "before^sn8.11:3.1^who_around": "a large Sa\u1e45gha of around five hundred mendicants, seven hundred male and seven hundred female lay followers, and many thousands of deities",
+  "before^sn8.11:3.1^where": "Camp\u0101 on the banks of the Gaggar\u0101 Lotus Pond",
+  "where": "Camp\u0101 on the banks of the Gaggar\u0101 Lotus Pond"
+}

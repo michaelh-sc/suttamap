@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn46.52:1.3+sn46.52:1.4^who_else_mentioned": "S\u0101vatth\u012b",
+  "sn46.52:3.1+sn46.52:3.5^who_else_mentioned": "Gotama",
+  "sn46.52:4.3^who_else_mentioned": "Buddha",
+  "sn46.52:1.3+sn46.52:1.4": "the mendicants",
+  "sn46.52:3.1+sn46.52:3.5": "the wanderers",
+  "sn46.52:4.3": "the mendicants",
+  "before^sn46.52:4.3^who_around": "the wanderers",
+  "before^sn46.52:4.3^who_mentioned": "the ascetic Buddha",
+  "before^sn46.52:4.3^where": "S\u0101vatth\u012b",
+  "where": "S\u0101vatth\u012b",
+  "sn46.52:3.1^who_else_mentioned": "Buddha",
+  "sn46.52:8.1+sn46.52:16.3^who_else_mentioned": "M\u0101ras, Brahm\u0101s",
+  "sn46.52:8.1+sn46.52:16.3": "the Buddha (assumed)",
+  "before^sn46.52:8.1^who_around": "the wanderers who follow other paths",
+  "before^sn46.52:8.1^who_mentioned": "the seven awakening factors",
+  "before^sn46.52:8.1^where": "unspecified"
+}

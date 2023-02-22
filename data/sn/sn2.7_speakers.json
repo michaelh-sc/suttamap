@@ -1,0 +1,9 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn2.7:2.1+sn2.7:2.4^who_else_mentioned": "Buddha",
+  "sn2.7:2.1+sn2.7:2.4": "the god Pa\u00f1c\u0101laca\u1e47\u1e0da",
+  "sn2.7:3.1": "the Buddha",
+  "sn2.7:3.3+sn2.7:3.5": "the Buddha",
+  "before^sn2.7:3.3^where": "S\u0101vatth\u012b",
+  "where": "S\u0101vatth\u012b"
+}

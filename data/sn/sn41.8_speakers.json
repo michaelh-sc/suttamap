@@ -1,0 +1,23 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn41.8:1.5+sn41.8:1.6^who_else_mentioned": "Gotama",
+  "sn41.8:2.1+sn41.8:2.2^who_else_mentioned": "Buddha",
+  "sn41.8:2.4^where_else_mentioned": "Ganges",
+  "sn41.8:2.4^who_else_mentioned": "Citta",
+  "sn41.8:3.3^where_else_mentioned": "Ganges",
+  "sn41.8:3.3^who_else_mentioned": "Citta",
+  "sn41.8:4.2^where_else_mentioned": "Ganges",
+  "sn41.8:4.2^who_else_mentioned": "Citta",
+  "sn41.8:5.1+sn41.8:5.9^who_else_mentioned": "Citta",
+  "sn41.8:1.5+sn41.8:1.6": "Niga\u1e47\u1e6dha N\u0101\u1e6daputta",
+  "sn41.8:2.1+sn41.8:2.2": "Citta the householder",
+  "sn41.8:2.4": "Niga\u1e47\u1e6dha N\u0101\u1e6daputta",
+  "sn41.8:3.1+sn41.8:3.2": "Citta the householder",
+  "sn41.8:3.3": "Niga\u1e47\u1e6dha N\u0101\u1e6daputta",
+  "sn41.8:3.4+sn41.8:3.9": "Citta the householder",
+  "sn41.8:4.2": "Niga\u1e47\u1e6dha N\u0101\u1e6daputta",
+  "sn41.8:5.1+sn41.8:5.9": "Citta the householder",
+  "before^sn41.8:5.1^who_around": "a large assembly of Jain ascetics, several lay followers",
+  "before^sn41.8:5.1^where": "Macchik\u0101sa\u1e47\u1e0da",
+  "where": "Macchik\u0101sa\u1e47\u1e0da"
+}

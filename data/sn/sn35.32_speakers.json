@@ -1,0 +1,22 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.32:1.1+sn35.32:2.2": "the Buddha (assumed)",
+  "sn35.32:3.1": "Mendicants",
+  "sn35.32:4.1": "the Buddha (assumed)",
+  "sn35.32:5.1": "Mendicants",
+  "sn35.32:6.1+sn35.32:6.2": "the Buddha (assumed)",
+  "sn35.32:7.1": "Mendicants",
+  "sn35.32:8.1+sn35.32:10.1": "the Buddha (assumed)",
+  "sn35.32:11.1": "Mendicants",
+  "sn35.32:12.1": "the Buddha (assumed)",
+  "sn35.32:13.1": "Mendicants",
+  "sn35.32:14.1+sn35.32:14.2": "the Buddha (assumed)",
+  "sn35.32:15.1": "Mendicants",
+  "sn35.32:16.1+sn35.32:22.1": "the Buddha (assumed)",
+  "sn35.32:23.1": "Mendicants",
+  "sn35.32:24.1": "the Buddha (assumed)",
+  "sn35.32:25.1": "Mendicants",
+  "sn35.32:26.1+sn35.32:26.2": "the Buddha (assumed)",
+  "sn35.32:27.1": "Mendicants",
+  "sn35.32:28.1+sn35.32:28.8": "the Buddha (assumed)"
+}

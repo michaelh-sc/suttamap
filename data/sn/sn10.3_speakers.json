@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn10.3:2.7+sn10.3:2.8^where_else_mentioned": "Ganges",
+  "sn10.3:2.9+sn10.3:2.10^who_else_mentioned": "M\u0101ras, Brahm\u0101s",
+  "sn10.3:1.4": "Shaggy",
+  "sn10.3:1.5+sn10.3:1.6": "Spiky",
+  "sn10.3:2.4": "Spiky",
+  "sn10.3:2.5+sn10.3:2.6": "the Buddha",
+  "sn10.3:2.7+sn10.3:2.8": "Spiky",
+  "sn10.3:2.9+sn10.3:2.10": "the Buddha",
+  "sn10.3:3.1+sn10.3:3.4": "Spiky",
+  "sn10.3:4.1+sn10.3:6.4": "the Buddha",
+  "before^sn10.3:4.1^who_around": "Shaggy",
+  "before^sn10.3:4.1^who_mentioned": "M\u0101ras, Brahm\u0101s, ascetics, brahmins, gods, humans",
+  "before^sn10.3:4.1^where": "Gay\u0101 on the cut-stone ledge in the haunt of Spiky the native spirit",
+  "where": "Gay\u0101 on the cut-stone ledge in the haunt of Spiky the native spirit"
+}

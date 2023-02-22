@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn2.8:8.2+sn2.8:8.3^who_else_mentioned": "T\u0101yana",
+  "sn2.8:14.1+sn2.8:14.5^who_else_mentioned": "T\u0101yana",
+  "sn2.8:2.1+sn2.8:6.4": "the god T\u0101yana",
+  "sn2.8:8.2+sn2.8:8.3": "the Buddha",
+  "sn2.8:14.1+sn2.8:14.5": "the Buddha",
+  "before^sn2.8:14.1^who_around": "the mendicants",
+  "before^sn2.8:14.1^who_mentioned": "the god T\u0101yana",
+  "before^sn2.8:14.1^where": "S\u0101vatth\u012b, Jeta's Grove",
+  "where": "S\u0101vatth\u012b, Jeta's Grove"
+}

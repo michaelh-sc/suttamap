@@ -1,0 +1,10 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn48.49:1.4": "Pi\u1e47\u1e0dola Bh\u0101radv\u0101ja",
+  "sn48.49:2.3": "Several Mendicants",
+  "sn48.49:3.2": "Pi\u1e47\u1e0dola Bh\u0101radv\u0101ja",
+  "sn48.49:3.12": "Pi\u1e47\u1e0dola Bh\u0101radv\u0101ja",
+  "before^sn48.49:3.12^who_around": "The Buddha",
+  "before^sn48.49:3.12^where": "Ghosita's Monastery, near Kosambi",
+  "where": "Ghosita's Monastery, near Kosambi"
+}

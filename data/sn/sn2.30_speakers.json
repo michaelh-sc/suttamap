@@ -1,0 +1,20 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn2.30:2.1+sn2.30:2.6^who_else_mentioned": "Kassapa",
+  "sn2.30:8.1+sn2.30:8.4^where_else_mentioned": "Pakudhaka, K\u0101tiy\u0101na, Niga\u1e47\u1e6dha",
+  "sn2.30:8.1+sn2.30:8.4^who_else_mentioned": "Makkhali, P\u016bra\u1e47a",
+  "sn2.30:16.1+sn2.30:17.4^where_else_mentioned": "R\u0101jagaha, Vipula",
+  "sn2.30:16.1+sn2.30:17.4^who_else_mentioned": "Himalayan, Buddha",
+  "sn2.30:2.1+sn2.30:2.6": "Asama",
+  "sn2.30:4.1+sn2.30:4.4": "Sahal\u012b",
+  "sn2.30:6.1+sn2.30:6.4": "Ni\u1e45ka",
+  "sn2.30:8.1+sn2.30:8.4": "\u0100ko\u1e6daka",
+  "sn2.30:10.1+sn2.30:10.4": "Vetambar\u012b",
+  "sn2.30:12.1+sn2.30:12.6": "M\u0101ra the Wicked",
+  "sn2.30:14.1+sn2.30:14.4": "the Buddha",
+  "sn2.30:16.1+sn2.30:17.4": "M\u0101\u1e47avag\u0101miya",
+  "before^sn2.30:16.1^who_around": "the Buddha",
+  "before^sn2.30:16.1^who_mentioned": "P\u016bra\u1e47a Kassapa, Makkhali Gosala, Niga\u1e47\u1e6dha N\u0101taputta, Pakudhaka, K\u0101tiy\u0101na, and Niga\u1e47\u1e6dha",
+  "before^sn2.30:16.1^where": "Bamboo Grove near R\u0101jagaha",
+  "where": "Bamboo Grove near R\u0101jagaha"
+}

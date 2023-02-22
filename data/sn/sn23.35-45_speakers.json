@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn23.35:1.3+sn23.35:1.7^who_else_mentioned": "R\u0101dha, M\u0101ra",
+  "sn23.35:1.3+sn23.35:1.7": "The Buddha",
+  "sn23.36:1.1": "The Buddha",
+  "sn23.37:1.1": "The Buddha",
+  "sn23.38:1.1": "The Buddha",
+  "sn23.39:1.1": "The Buddha",
+  "sn23.40:1.1": "The Buddha",
+  "sn23.41:1.1": "The Buddha",
+  "sn23.42:1.1": "The Buddha",
+  "sn23.43:1.1": "The Buddha",
+  "sn23.44:1.1": "The Buddha",
+  "sn23.45:1.1": "The Buddha",
+  "before^sn23.45:1.1^who_around": "R\u0101dha",
+  "before^sn23.45:1.1^who_mentioned": "M\u0101ra",
+  "before^sn23.45:1.1^where": "S\u0101vatth\u012b",
+  "where": "S\u0101vatth\u012b"
+}

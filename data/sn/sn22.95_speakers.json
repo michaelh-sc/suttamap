@@ -1,0 +1,10 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.95:2.1+sn22.95:7.3^where_else_mentioned": "Ganges",
+  "sn22.95:9.1+sn22.95:15.4^who_else_mentioned": "Kinsman",
+  "sn22.95:2.1+sn22.95:7.3": "the Buddha",
+  "sn22.95:9.1+sn22.95:15.4": "the Holy One, the Teacher",
+  "before^sn22.95:9.1^who_around": "the mendicants",
+  "before^sn22.95:9.1^where": "near Ayojjh\u0101 on the bank of the Ganges river",
+  "where": "near Ayojjh\u0101 on the bank of the Ganges river"
+}

@@ -1,0 +1,21 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.90:2.2+sn22.90:2.13^who_else_mentioned": "Channa",
+  "sn22.90:4.2+sn22.90:4.4^where_else_mentioned": "Kosambi, Ghosita\u2019s Monastery",
+  "sn22.90:4.2+sn22.90:4.4^who_else_mentioned": "Buddha, \u0100nanda",
+  "sn22.90:8.1+sn22.90:8.3^who_else_mentioned": "Channa",
+  "sn22.90:1.3": "Channa",
+  "sn22.90:2.2+sn22.90:2.13": "the senior mendicants",
+  "sn22.90:3.2+sn22.90:3.17": "Channa",
+  "sn22.90:4.2+sn22.90:4.4": "Channa",
+  "sn22.90:7.5": "Channa",
+  "sn22.90:8.1+sn22.90:8.3": "\u0100nanda",
+  "sn22.90:8.5": "Channa",
+  "sn22.90:9.6": "Channa",
+  "sn22.90:9.10": "\u0100nanda",
+  "sn22.90:9.11": "\u0100nanda",
+  "before^sn22.90:9.11^who_around": "the senior mendicants",
+  "before^sn22.90:9.11^who_mentioned": "Kacc\u0101nagotta",
+  "before^sn22.90:9.11^where": "Benares, in the deer park at Isipatana",
+  "where": "Benares, in the deer park at Isipatana"
+}

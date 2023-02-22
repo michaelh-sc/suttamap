@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn6.2:2.2+sn6.2:6.3^who_else_mentioned": "M\u0101ras, Brahm\u0101s",
+  "sn6.2:7.3+sn6.2:7.6^who_else_mentioned": "Buddhas, May the Blessed One, Buddha",
+  "sn6.2:8.1+sn6.2:10.4^who_else_mentioned": "Buddhas, Buddha",
+  "sn6.2:1.4": "the Buddha",
+  "sn6.2:2.2+sn6.2:6.3": "the Buddha",
+  "sn6.2:7.3+sn6.2:7.6": "Brahm\u0101 Sahampati",
+  "sn6.2:8.1+sn6.2:10.4": "Brahm\u0101 Sahampati",
+  "before^sn6.2:8.1^who_mentioned": "All Buddhas in the past",
+  "before^sn6.2:8.1^where": "Uruvel\u0101 at the root of the goatherd's banyan tree on the bank of the Nera\u00f1jar\u0101 River",
+  "where": "Uruvel\u0101 at the root of the goatherd's banyan tree on the bank of the Nera\u00f1jar\u0101 River"
+}

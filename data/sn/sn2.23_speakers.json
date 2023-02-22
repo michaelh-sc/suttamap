@@ -1,0 +1,14 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn2.23:5.1+sn2.23:5.2^who_else_mentioned": "Gotama",
+  "sn2.23:8.1+sn2.23:14.4^who_else_mentioned": "Ser\u012b, Gotama",
+  "sn2.23:2.1+sn2.23:2.4": "The god Ser\u012b",
+  "sn2.23:3.1+sn2.23:4.4": "The Buddha",
+  "sn2.23:5.1+sn2.23:5.2": "The god Ser\u012b",
+  "sn2.23:8.8": "The god Ser\u012b",
+  "sn2.23:9.6": "The god Ser\u012b",
+  "sn2.23:10.6": "The god Ser\u012b",
+  "sn2.23:11.6": "The god Ser\u012b",
+  "sn2.23:8.1+sn2.23:14.4": "The god Ser\u012b",
+  "before^sn2.23:8.1^who_mentioned": "King Ser\u012b"
+}

@@ -1,0 +1,22 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.117:2.2+sn35.117:2.6^who_else_mentioned": "Buddha",
+  "sn35.117:3.2+sn35.117:3.4^who_else_mentioned": "\u0100nanda, Buddha",
+  "sn35.117:8.1+sn35.117:8.14^who_else_mentioned": "Buddha",
+  "sn35.117:11.1+sn35.117:11.3^who_else_mentioned": "\u0100nanda",
+  "sn35.117:1.1+sn35.117:1.9": "the Buddha (assumed)",
+  "sn35.117:2.2+sn35.117:2.6": "those mendicants",
+  "sn35.117:3.2+sn35.117:3.4": "those mendicants",
+  "sn35.117:5.15": "those mendicants",
+  "sn35.117:6.1": "\u0100nanda",
+  "sn35.117:6.2": "those mendicants",
+  "sn35.117:7.1": "\u0100nanda",
+  "sn35.117:7.2": "those mendicants",
+  "sn35.117:8.1+sn35.117:8.14": "\u0100nanda",
+  "sn35.117:9.1": "those mendicants",
+  "sn35.117:10.14": "those mendicants",
+  "sn35.117:11.1+sn35.117:11.3": "the Buddha",
+  "before^sn35.117:11.1^who_around": "\u0100nanda",
+  "before^sn35.117:11.1^where": "unspecified",
+  "where": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn7.11:2.8+sn7.11:2.9^who_else_mentioned": "Gotama",
+  "sn7.11:8.1+sn7.11:8.3^who_else_mentioned": "Gotama",
+  "sn7.11:9.1+sn7.11:10.4^who_else_mentioned": "Buddhas",
+  "sn7.11:11.2+sn7.11:11.3^who_else_mentioned": "Gotama",
+  "sn7.11:2.5+sn7.11:2.6": "Bh\u0101radv\u0101ja the Farmer",
+  "sn7.11:2.7": "the Buddha",
+  "sn7.11:2.8+sn7.11:2.9": "Bh\u0101radv\u0101ja the Farmer",
+  "sn7.11:3.1+sn7.11:3.4": "Bh\u0101radv\u0101ja the Farmer",
+  "sn7.11:4.1+sn7.11:7.4": "the Buddha",
+  "sn7.11:8.1+sn7.11:8.3": "Bh\u0101radv\u0101ja the Farmer",
+  "sn7.11:9.1+sn7.11:10.4": "the Buddha",
+  "sn7.11:11.2+sn7.11:11.3": "Bh\u0101radv\u0101ja the Farmer",
+  "before^sn7.11:11.2^where": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekan\u0101\u1e37a",
+  "where": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekan\u0101\u1e37a"
+}

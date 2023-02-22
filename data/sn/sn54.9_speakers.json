@@ -1,0 +1,16 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn54.9:5.3+sn54.9:5.4^who_else_mentioned": "Sa\u1e45gha",
+  "sn54.9:2.2+sn54.9:2.3": "the Buddha",
+  "sn54.9:2.4": "the mendicants",
+  "sn54.9:3.2": "the mendicants",
+  "sn54.9:4.2": "the Buddha",
+  "sn54.9:4.6": "\u0100nanda",
+  "sn54.9:5.1": "the Buddha",
+  "sn54.9:5.2": "\u0100nanda",
+  "sn54.9:5.3+sn54.9:5.4": "\u0100nanda",
+  "sn54.9:6.3+sn54.9:8.4": "the Buddha",
+  "before^sn54.9:6.3^who_around": "\u0100nanda",
+  "before^sn54.9:6.3^where": "Ves\u0101l\u012b, at the Great Wood, in the hall with the peaked roof",
+  "where": "Ves\u0101l\u012b, at the Great Wood, in the hall with the peaked roof"
+}

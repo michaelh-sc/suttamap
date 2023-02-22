@@ -1,0 +1,18 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn47.9:1.4+sn47.9:1.5^where_else_mentioned": "Beluva",
+  "sn47.9:1.4+sn47.9:1.5^who_else_mentioned": "Ves\u0101l\u012b",
+  "sn47.9:2.4+sn47.9:2.5^who_else_mentioned": "Sa\u1e45gha",
+  "sn47.9:3.3+sn47.9:3.8^who_else_mentioned": "Buddha, Sa\u1e45gha",
+  "sn47.9:4.1+sn47.9:6.7^where_else_mentioned": "\u0100nanda",
+  "sn47.9:4.1+sn47.9:6.7^who_else_mentioned": "Sa\u1e45gha, The Realized One",
+  "sn47.9:1.4+sn47.9:1.5": "the Buddha",
+  "sn47.9:1.6": "the mendicants",
+  "sn47.9:2.4+sn47.9:2.5": "the Buddha",
+  "sn47.9:3.3+sn47.9:3.8": "\u0100nanda",
+  "sn47.9:4.1+sn47.9:6.7": "the Buddha",
+  "before^sn47.9:4.1^who_around": "the mendicants",
+  "before^sn47.9:4.1^who_mentioned": "Sa\u1e45gha of mendicants",
+  "before^sn47.9:4.1^where": "Ves\u0101l\u012b, at the little village of Beluva",
+  "where": "Ves\u0101l\u012b, at the little village of Beluva"
+}

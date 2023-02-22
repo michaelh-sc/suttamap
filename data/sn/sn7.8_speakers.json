@@ -1,0 +1,14 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn7.8:7.1+sn7.8:7.2^who_else_mentioned": "Gotama",
+  "sn7.8:8.1+sn7.8:9.4^who_else_mentioned": "Buddhas",
+  "sn7.8:1.3": "Bh\u0101radv\u0101ja the Fire-Worshiper",
+  "sn7.8:3.1+sn7.8:3.4": "Bh\u0101radv\u0101ja the Fire-Worshiper",
+  "sn7.8:4.1+sn7.8:6.4": "the Buddha",
+  "sn7.8:7.1+sn7.8:7.2": "Bh\u0101radv\u0101ja the Fire-Worshiper",
+  "sn7.8:8.1+sn7.8:9.4": "the Buddha",
+  "sn7.8:10.2": "Bh\u0101radv\u0101ja the Fire-Worshiper",
+  "before^sn7.8:10.2^who_around": "The Buddha",
+  "before^sn7.8:10.2^where": "R\u0101jagaha, in the Bamboo Grove, the squirrels' feeding ground",
+  "where": "R\u0101jagaha, in the Bamboo Grove, the squirrels' feeding ground"
+}

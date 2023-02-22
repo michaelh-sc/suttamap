@@ -1,0 +1,20 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn8.8:1.5+sn8.8:1.7^who_else_mentioned": "Buddha",
+  "sn8.8:3.1+sn8.8:6.4^where_else_mentioned": "the Holy One",
+  "sn8.8:3.1+sn8.8:6.4^who_else_mentioned": "Buddha, Sa\u1e45gha, Va\u1e45g\u012bsa",
+  "sn8.8:8.1+sn8.8:11.4^who_else_mentioned": "M\u0101ra, Buddha",
+  "sn8.8:1.5+sn8.8:1.7": "Va\u1e45g\u012bsa",
+  "sn8.8:2.2": "Va\u1e45g\u012bsa",
+  "sn8.8:2.3": "the Buddha",
+  "sn8.8:3.1+sn8.8:6.4": "Va\u1e45g\u012bsa",
+  "sn8.8:7.1": "the Buddha",
+  "sn8.8:7.2": "Va\u1e45g\u012bsa",
+  "sn8.8:7.3": "the Buddha",
+  "sn8.8:7.4": "Va\u1e45g\u012bsa",
+  "sn8.8:8.1+sn8.8:11.4": "Va\u1e45g\u012bsa",
+  "before^sn8.8:8.1^who_around": "a large Sa\u1e45gha of 1,250 mendicants",
+  "before^sn8.8:8.1^who_mentioned": "M\u0101ra",
+  "before^sn8.8:8.1^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery",
+  "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery"
+}

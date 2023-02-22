@@ -1,0 +1,9 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn1.2:2.1": "Glorious deity",
+  "sn1.2:3.1": "The Buddha",
+  "sn1.2:4.1": "Glorious deity",
+  "sn1.2:5.1+sn1.2:5.5": "The Buddha",
+  "before^sn1.2:5.1^where": "S\u0101vatth\u012b, Jeta's Grove",
+  "where": "S\u0101vatth\u012b, Jeta's Grove"
+}

@@ -1,0 +1,18 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.234:2.1+sn35.234:2.2^who_else_mentioned": "\u0100nanda, Buddha",
+  "sn35.234:3.2+sn35.234:4.1^who_else_mentioned": "Ud\u0101y\u012b",
+  "sn35.234:2.1+sn35.234:2.2": "Ud\u0101y\u012b",
+  "sn35.234:3.2+sn35.234:4.1": "\u0100nanda",
+  "sn35.234:4.2": "Ud\u0101y\u012b",
+  "sn35.234:4.3": "\u0100nanda",
+  "sn35.234:4.4": "Ud\u0101y\u012b",
+  "sn35.234:4.5+sn35.234:6.1": "\u0100nanda",
+  "sn35.234:6.2": "Ud\u0101y\u012b",
+  "sn35.234:6.3": "\u0100nanda",
+  "sn35.234:6.4": "Ud\u0101y\u012b",
+  "sn35.234:6.5+sn35.234:7.5": "\u0100nanda",
+  "before^sn35.234:6.5^who_around": "Ghosita",
+  "before^sn35.234:6.5^where": "Kosambi, in Ghosita's Monastery",
+  "where": "Kosambi, in Ghosita's Monastery"
+}

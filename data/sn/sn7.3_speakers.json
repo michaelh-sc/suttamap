@@ -1,0 +1,9 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn7.3:1.6": "Bh\u0101radv\u0101ja the Fiend",
+  "sn7.3:2.1+sn7.3:5.4": "the Buddha",
+  "sn7.3:6.2": "Bh\u0101radv\u0101ja the Fiend",
+  "before^sn7.3:6.2^who_around": "the Buddha",
+  "before^sn7.3:6.2^where": "R\u0101jagaha, in the Bamboo Grove, the squirrels' feeding ground",
+  "where": "R\u0101jagaha, in the Bamboo Grove, the squirrels' feeding ground"
+}

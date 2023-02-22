@@ -1,0 +1,23 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn16.6:1.3+sn16.6:1.6^who_else_mentioned": "Kassapa",
+  "sn16.6:2.1+sn16.6:2.3^who_else_mentioned": "Bha\u1e47\u1e0da, Abhi\u00f1jika, Anuruddha",
+  "sn16.6:3.2+sn16.6:3.3^who_else_mentioned": "Bha\u1e47\u1e0da, Abhi\u00f1jika, Anuruddha",
+  "sn16.6:1.3+sn16.6:1.6": "The Buddha",
+  "sn16.6:2.1+sn16.6:2.3": "Mah\u0101kassapa",
+  "sn16.6:3.2+sn16.6:3.3": "A certain monk",
+  "sn16.6:3.4": "The monk",
+  "sn16.6:3.5": "The monk",
+  "sn16.6:4.1": "Bha\u1e47\u1e0da and Abhi\u00f1jika",
+  "sn16.6:4.2+sn16.6:4.3": "The Buddha",
+  "sn16.6:4.4": "Bha\u1e47\u1e0da and Abhi\u00f1jika",
+  "sn16.6:4.5+sn16.6:4.7": "The Buddha",
+  "sn16.6:4.8": "Bha\u1e47\u1e0da and Abhi\u00f1jika",
+  "sn16.6:4.9+sn16.6:4.10": "The Buddha",
+  "sn16.6:5.2+sn16.6:5.4": "Bha\u1e47\u1e0da and Abhi\u00f1jika",
+  "sn16.6:6.1+sn16.6:6.4": "The Buddha",
+  "before^sn16.6:6.1^who_around": "Mah\u0101kassapa",
+  "before^sn16.6:6.1^who_mentioned": "\u0100nanda, Anuruddha",
+  "before^sn16.6:6.1^where": "Near R\u0101jagaha, in the Bamboo Grove",
+  "where": "Near R\u0101jagaha, in the Bamboo Grove"
+}

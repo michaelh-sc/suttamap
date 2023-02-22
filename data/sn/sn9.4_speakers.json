@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn9.4:2.1+sn9.4:2.4^who_else_mentioned": "Gotama",
+  "sn9.4:4.1+sn9.4:4.4^where_else_mentioned": "Magadha, Kosala",
+  "sn9.4:4.1+sn9.4:4.4^who_else_mentioned": "Vajjian",
+  "sn9.4:2.1+sn9.4:2.4": "the deity haunting the forest",
+  "sn9.4:4.1+sn9.4:4.4": "another deity",
+  "before^sn9.4:4.1^who_around": "several mendicants",
+  "before^sn9.4:4.1^who_mentioned": "the disciples of Buddha",
+  "before^sn9.4:4.1^where": "the land of the Kosalans in a certain forest grove",
+  "where": "the land of the Kosalans in a certain forest grove"
+}

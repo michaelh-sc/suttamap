@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.69:2.7+sn35.69:2.16^who_else_mentioned": "S\u0101riputta",
+  "sn35.69:3.1+sn35.69:3.5^who_else_mentioned": "Upasena",
+  "sn35.69:1.4+sn35.69:1.6": "Upasena",
+  "sn35.69:2.2+sn35.69:2.6": "S\u0101riputta",
+  "sn35.69:2.7+sn35.69:2.16": "Upasena",
+  "sn35.69:3.1+sn35.69:3.5": "S\u0101riputta",
+  "before^sn35.69:3.1^who_around": "Mendicants",
+  "before^sn35.69:3.1^where": "R\u0101jagaha, the Cool Grove, under the Snake's Hood Grotto",
+  "where": "R\u0101jagaha, the Cool Grove, under the Snake's Hood Grotto"
+}

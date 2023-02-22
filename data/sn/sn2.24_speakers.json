@@ -1,0 +1,22 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn2.24:2.1+sn2.24:2.4^where_else_mentioned": "Aviha",
+  "sn2.24:4.1+sn2.24:4.6^where_else_mentioned": "Upaka, Palaga\u1e47\u1e0da, Pukkus\u0101ti, Pi\u1e45giya",
+  "sn2.24:4.1+sn2.24:4.6^who_else_mentioned": "Bhaddiya, Bhaddadeva, B\u0101hudant\u012b",
+  "sn2.24:5.1+sn2.24:5.4^who_else_mentioned": "M\u0101ra",
+  "sn2.24:9.1+sn2.24:11.4^where_else_mentioned": "Vebhali\u1e45ga",
+  "sn2.24:9.1+sn2.24:11.4^who_else_mentioned": "Buddha Kassapa",
+  "sn2.24:12.1+sn2.24:13.6^where_else_mentioned": "Vebhali\u1e45ga",
+  "sn2.24:12.1+sn2.24:13.6^who_else_mentioned": "Bhaggava, Buddha Kassapa",
+  "sn2.24:2.1+sn2.24:2.4": "the god Gha\u1e6d\u012bk\u0101ra",
+  "sn2.24:3.1+sn2.24:3.4": "the god Gha\u1e6d\u012bk\u0101ra",
+  "sn2.24:4.1+sn2.24:4.6": "the god Gha\u1e6d\u012bk\u0101ra",
+  "sn2.24:5.1+sn2.24:5.4": "the god Gha\u1e6d\u012bk\u0101ra",
+  "sn2.24:6.1+sn2.24:7.4": "the god Gha\u1e6d\u012bk\u0101ra",
+  "sn2.24:8.1+sn2.24:8.4": "the god Gha\u1e6d\u012bk\u0101ra",
+  "sn2.24:9.1+sn2.24:11.4": "the god Gha\u1e6d\u012bk\u0101ra",
+  "sn2.24:12.1+sn2.24:13.6": "the god Gha\u1e6d\u012bk\u0101ra",
+  "sn2.24:14.1+sn2.24:14.4": "the god Gha\u1e6d\u012bk\u0101ra",
+  "before^sn2.24:14.1^who_around": "The Buddha",
+  "before^sn2.24:14.1^who_mentioned": "Upaka, Palaga\u1e47\u1e0da"
+}

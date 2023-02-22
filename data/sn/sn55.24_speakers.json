@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn55.24:1.6+sn55.24:1.11^who_else_mentioned": "Buddha, Sarak\u0101ni",
+  "sn55.24:1.6+sn55.24:1.11": "Mah\u0101n\u0101ma the Sakyan",
+  "before^sn55.24:1.6^who_around": "The Buddha",
+  "before^sn55.24:1.6^who_mentioned": "Sarak\u0101ni the Sakyan",
+  "before^sn55.24:1.6^where": "Kapilavatthu",
+  "where": "Kapilavatthu",
+  "sn55.24:3.1+sn55.24:9.11^who_else_mentioned": "Mah\u0101n\u0101ma, Buddha, Sa\u1e45gha, Sarak\u0101ni, Sakyan",
+  "sn55.24:3.1+sn55.24:9.11": "The Buddha",
+  "before^sn55.24:3.1^who_around": "Mah\u0101n\u0101ma the Sakyan",
+  "before^sn55.24:3.1^who_mentioned": "Sarak\u0101ni the Sakyan"
+}

@@ -1,0 +1,21 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn1.50:1.1+sn1.50:1.4^where_else_mentioned": "Aviha",
+  "sn1.50:3.1+sn1.50:3.6^who_else_mentioned": "Upaka, Palaga\u1e47\u1e0da, Pukkus\u0101ti, Pi\u1e45giya, Bhaddiya, Bhaddadeva, B\u0101hudant\u012b",
+  "sn1.50:4.1+sn1.50:4.4^who_else_mentioned": "M\u0101ra",
+  "sn1.50:8.1+sn1.50:10.4^where_else_mentioned": "Vebhali\u1e45ga",
+  "sn1.50:8.1+sn1.50:10.4^who_else_mentioned": "Buddha Kassapa",
+  "sn1.50:11.1+sn1.50:12.4^where_else_mentioned": "Vebhali\u1e45ga",
+  "sn1.50:11.1+sn1.50:12.4^who_else_mentioned": "Bhaggava, Buddha Kassapa",
+  "sn1.50:1.1+sn1.50:1.4": "Ghaṭīkāra",
+  "sn1.50:2.1+sn1.50:2.4": "Ghaṭīkāra",
+  "sn1.50:3.1+sn1.50:3.6": "Ghaṭīkāra",
+  "sn1.50:4.1+sn1.50:4.4": "Ghaṭīkāra",
+  "sn1.50:5.1+sn1.50:6.4": "Ghaṭīkāra",
+  "sn1.50:7.1+sn1.50:7.4": "Ghaṭīkāra",
+  "sn1.50:8.1+sn1.50:10.4": "Ghaṭīkāra",
+  "sn1.50:11.1+sn1.50:12.4": "Ghaṭīkāra",
+  "sn1.50:13.1+sn1.50:13.4": "Ghaṭīkāra",
+  "before^sn1.50:13.1^who_around": "Upaka and Palaga\u1e47\u1e0da",
+  "before^sn1.50:13.1^who_mentioned": "the Buddha"
+}

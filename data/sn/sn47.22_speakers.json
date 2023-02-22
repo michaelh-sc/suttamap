@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn47.22:1.3+sn47.22:1.4^who_else_mentioned": "\u0100nanda",
+  "sn47.22:2.1+sn47.22:2.5^who_else_mentioned": "Bhadda, \u0100nanda, the Realized One",
+  "sn47.22:1.3+sn47.22:1.4": "Reverend \u0100nanda",
+  "sn47.22:2.1+sn47.22:2.5": "Reverend Bhadda",
+  "sn47.22:2.6": "the mendicants",
+  "sn47.22:2.7+sn47.22:3.7": "the Buddha (assumed)",
+  "before^sn47.22:2.7^who_around": "Reverend \u0100nanda, Reverend Bhadda",
+  "before^sn47.22:2.7^where": "The same setting",
+  "where": "The same setting"
+}

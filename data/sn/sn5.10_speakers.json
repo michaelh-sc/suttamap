@@ -1,0 +1,11 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn5.10:4.1+sn5.10:6.4^who_else_mentioned": "M\u0101ra",
+  "sn5.10:2.1+sn5.10:2.4": "M\u0101ra the Wicked",
+  "sn5.10:3.2": "the nun Vajir\u0101",
+  "sn5.10:3.4": "the nun Vajir\u0101",
+  "sn5.10:4.1+sn5.10:6.4": "the nun Vajir\u0101",
+  "sn5.10:7.1": "M\u0101ra the Wicked",
+  "before^sn5.10:7.1^where": "S\u0101vatth\u012b, Dark Forest",
+  "where": "S\u0101vatth\u012b, Dark Forest"
+}

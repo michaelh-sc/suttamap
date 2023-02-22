@@ -1,0 +1,15 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn54.12:2.1+sn54.12:11.6^where_else_mentioned": "Icch\u0101na\u1e45gala",
+  "sn54.12:2.1+sn54.12:11.6^who_else_mentioned": "Mah\u0101n\u0101ma, Buddha, Mendicants, Gotama",
+  "sn54.12:1.3": "Mah\u0101n\u0101ma the Sakyan",
+  "sn54.12:7.3": "Lomasava\u1e45g\u012bsa",
+  "sn54.12:7.4": "Lomasava\u1e45g\u012bsa",
+  "sn54.12:7.7": "Lomasava\u1e45g\u012bsa",
+  "sn54.12:8.2": "Lomasava\u1e45g\u012bsa",
+  "sn54.12:11.2": "Lomasava\u1e45g\u012bsa",
+  "sn54.12:2.1+sn54.12:11.6": "Lomasava\u1e45g\u012bsa",
+  "before^sn54.12:2.1^who_around": "Mah\u0101n\u0101ma the Sakyan",
+  "before^sn54.12:2.1^where": "Banyan Tree Monastery, Kapilavatthu, land of the Sakyans",
+  "where": "Banyan Tree Monastery, Kapilavatthu, land of the Sakyans"
+}

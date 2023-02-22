@@ -1,0 +1,10 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn19.9:1.1+sn19.9:1.8^where_else_mentioned": "Vulture\u2019s Peak Mountain",
+  "sn19.9:1.9^where_else_mentioned": "R\u0101jagaha",
+  "sn19.9:1.1+sn19.9:1.8": "the Buddha",
+  "sn19.9:1.9": "the Buddha",
+  "before^sn19.9:1.9^who_mentioned": "an informant",
+  "before^sn19.9:1.9^where": "Vulture's Peak Mountain and R\u0101jagaha",
+  "where": "Vulture's Peak Mountain and R\u0101jagaha"
+}

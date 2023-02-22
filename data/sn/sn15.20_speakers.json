@@ -1,0 +1,14 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn15.20:2.1+sn15.20:5.12^where_else_mentioned": "Mount Vepulla, Va\u1e45kaka, Vepulla",
+  "sn15.20:2.1+sn15.20:5.12^who_else_mentioned": "P\u0101c\u012bnava\u1e41sa, Tivaras, Kakusandha, the Blessed One, Buddha, Vidhura, Sa\u00f1j\u012bva, Rohitassas, Ko\u1e47\u0101gamana, Bhiyyosa, Uttara, Suppiyas, Kassapa, Tissa, Bh\u0101radv\u0101ja, Magadhans, S\u0101riputta, Moggall\u0101na",
+  "sn15.20:7.1+sn15.20:8.4^who_else_mentioned": "Tivaras, Supassa, Suppiyas, Vepulla, Magadhans",
+  "sn15.20:1.3": "The Buddha",
+  "sn15.20:1.4": "The mendicants",
+  "sn15.20:2.1+sn15.20:5.12": "The Buddha",
+  "sn15.20:7.1+sn15.20:8.4": "The Buddha",
+  "before^sn15.20:7.1^who_around": "The mendicants",
+  "before^sn15.20:7.1^who_mentioned": "P\u0101c\u012bnava\u1e41sa, Tivaras",
+  "before^sn15.20:7.1^where": "R\u0101jagaha, Vulture's Peak Mountain",
+  "where": "R\u0101jagaha, Vulture's Peak Mountain"
+}

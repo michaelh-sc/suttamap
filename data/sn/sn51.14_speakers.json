@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn51.14:3.3+sn51.14:3.4^who_else_mentioned": "Mig\u0101ra",
+  "sn51.14:4.3+sn51.14:4.4^who_else_mentioned": "Mig\u0101ra",
+  "sn51.14:4.5+sn51.14:4.7^who_else_mentioned": "Moggall\u0101na",
+  "sn51.14:5.1+sn51.14:5.17^where_else_mentioned": "Brahm\u0101",
+  "sn51.14:5.1+sn51.14:5.17^who_else_mentioned": "Moggall\u0101na",
+  "sn51.14:2.2+sn51.14:2.3": "the Buddha (assumed)",
+  "sn51.14:3.1": "Mah\u0101moggall\u0101na",
+  "sn51.14:3.3+sn51.14:3.4": "the mendicants",
+  "sn51.14:4.2": "the Buddha",
+  "sn51.14:4.3+sn51.14:4.4": "the mendicants",
+  "sn51.14:4.5+sn51.14:4.7": "the Buddha",
+  "sn51.14:4.8": "the mendicants",
+  "sn51.14:5.1+sn51.14:5.17": "the Buddha",
+  "before^sn51.14:5.1^who_around": "Mah\u0101moggall\u0101na",
+  "before^sn51.14:5.1^where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother",
+  "where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother"
+}

@@ -1,0 +1,6 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn40.8:1.1+sn40.8:2.5^who_else_mentioned": "Buddha, Moggall\u0101na",
+  "sn40.8:1.1+sn40.8:2.5": "the speaker is not specified, but it is assumed to be the Buddha.",
+  "before^sn40.8:1.1^who_mentioned": "the Teacher"
+}

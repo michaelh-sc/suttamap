@@ -1,0 +1,14 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn1.32:2.1+sn1.32:2.4": "one deity",
+  "sn1.32:4.1+sn1.32:5.4": "another deity",
+  "sn1.32:7.1+sn1.32:8.4": "another deity",
+  "sn1.32:10.1+sn1.32:11.4": "another deity",
+  "sn1.32:12.2": "another deity",
+  "sn1.32:13.1+sn1.32:14.4": "the Buddha",
+  "sn1.32:16.1+sn1.32:16.4": "another deity",
+  "sn1.32:17.1+sn1.32:18.2": "the Buddha",
+  "before^sn1.32:17.1^who_around": "several glorious deities of the Satullapa Group",
+  "before^sn1.32:17.1^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's Monastery near S\u0101vatth\u012b",
+  "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's Monastery near S\u0101vatth\u012b"
+}

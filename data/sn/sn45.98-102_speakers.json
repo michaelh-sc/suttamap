@@ -1,0 +1,14 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn45.98-102:1.1^where_else_mentioned": "Yamun\u0101",
+  "sn45.98-102:1.3^where_else_mentioned": "Yamun\u0101",
+  "sn45.98-102:1.5^where_else_mentioned": "Yamun\u0101",
+  "sn45.98-102:1.7^where_else_mentioned": "Yamun\u0101",
+  "sn45.98-102:1.9^where_else_mentioned": "Yamun\u0101",
+  "sn45.98-102:1.1": "the Buddha (assumed)",
+  "sn45.98-102:1.3": "the Buddha (assumed)",
+  "sn45.98-102:1.5": "the Buddha (assumed)",
+  "sn45.98-102:1.7": "the Buddha (assumed)",
+  "sn45.98-102:1.9": "the Buddha (assumed)",
+  "before^sn45.98-102:1.9^who_mentioned": "Yamun\u0101 river, Aciravat\u012b river, Sarabh\u016b river, Mah\u012b river, all the great rivers"
+}

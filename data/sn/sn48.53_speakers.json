@@ -1,0 +1,9 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn48.53:2.2+sn48.53:7.4^who_else_mentioned": "Buddha",
+  "sn48.53:1.4": "the Buddha (assumed)",
+  "sn48.53:2.1": "the mendicants",
+  "sn48.53:2.2+sn48.53:7.4": "the Buddha (assumed)",
+  "before^sn48.53:2.2^where": "Kosambi, in Ghosita's Monastery",
+  "where": "Kosambi, in Ghosita's Monastery"
+}

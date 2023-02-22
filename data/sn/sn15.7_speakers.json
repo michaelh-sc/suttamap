@@ -1,0 +1,11 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn15.7:1.3": "Several mendicants",
+  "sn15.7:1.4+sn15.7:1.6": "The Buddha",
+  "sn15.7:2.1": "Several mendicants",
+  "sn15.7:2.2": "The Buddha",
+  "sn15.7:2.3+sn15.7:2.11": "The Buddha",
+  "before^sn15.7:2.3^who_mentioned": "Four disciples",
+  "before^sn15.7:2.3^where": "S\u0101vatth\u012b",
+  "where": "S\u0101vatth\u012b"
+}

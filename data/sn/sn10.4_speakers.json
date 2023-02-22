@@ -1,0 +1,8 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn10.4:2.1+sn10.4:2.4": "Ma\u1e47ibhadda",
+  "sn10.4:3.1+sn10.4:4.4": "Ma\u1e47ibhadda",
+  "before^sn10.4:3.1^who_around": "the Buddha",
+  "before^sn10.4:3.1^where": "the land of the Magadhans at the Ma\u1e47im\u0101lika tree shrine",
+  "where": "the land of the Magadhans at the Ma\u1e47im\u0101lika tree shrine"
+}
