@@ -8,7 +8,6 @@
   "mn60:4.3+mn60:6.5": "the Buddha",
   "mn60:6.6": "brahmins and householders of S\u0101l\u0101",
   "before^mn60:6.6^who_around": "a large Sa\u1e45gha of mendicants",
-  ",
   "before^mn60:6.6^where": "the land of the Kosalans, S\u0101l\u0101",
   "where": "the land of the Kosalans, S\u0101l\u0101",
   "mn60:7.1+mn60:14.8^where_else_mentioned": "Ganges",
@@ -22,8 +21,5 @@
   "mn60:23.1+mn60:30.5": "the Buddha",
   "mn60:30.6": "brahmins and householders of S\u0101l\u0101",
   "mn60:31.1+mn60:33.5": "the Buddha",
-  "mn60:33.6": "brahmins and householders of S\u0101l\u0101",
-  "before^mn60:33.6^who_around": "None mentioned",
-  "before^mn60:33.6^who_mentioned": "None mentioned",
-  "before^mn60:33.6^where": "None mentioned"
+  "mn60:33.6": "brahmins and householders of S\u0101l\u0101"
 }

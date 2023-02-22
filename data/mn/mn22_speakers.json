@@ -34,7 +34,6 @@
   "mn22:8.9+mn22:13.2": "the Buddha",
   "mn22:13.3": "the mendicants",
   "before^mn22:13.3^who_around": "An\u0101thapi\u1e47\u1e0dika, Ari\u1e6dtha, the monk",
-  ",
   "before^mn22:13.3^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery",
   "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery",
   "mn22:8.3^who_else_mentioned": "Buddha",
@@ -46,10 +45,8 @@
   "mn22:19.2^who_else_mentioned": "Buddha",
   "mn22:20.1^who_else_mentioned": "Buddha",
   "mn22:20.2^who_else_mentioned": "Buddha",
-  "mn22:20.3+mn22:20.9^who_else_mentioned": "Dhamma",
   "mn22:21.1^who_else_mentioned": "Buddha",
   "mn22:21.2^who_else_mentioned": "Buddha",
-  "mn22:21.3+mn22:22.2^who_else_mentioned": "Dhamma",
   "mn22:22.3^who_else_mentioned": "Buddha",
   "mn22:23.3^who_else_mentioned": "Buddha",
   "mn22:24.3^who_else_mentioned": "Buddha",
@@ -107,8 +104,5 @@
   "mn22:27.1+mn22:41.15^who_else_mentioned": "Indra, Brahm\u0101, Paj\u0101pati, Gotama",
   "mn22:27.1+mn22:41.15": "the Buddha",
   "mn22:41.16+mn22:41.18": "the mendicants",
-  "mn22:41.19+mn22:47.2": "the Buddha",
-  "before^mn22:41.19^who_around": "None mentioned",
-  "before^mn22:41.19^who_mentioned": "None mentioned",
-  "before^mn22:41.19^where": "None mentioned"
+  "mn22:41.19+mn22:47.2": "the Buddha"
 }
