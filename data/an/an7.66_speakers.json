@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.66:1.4": "the Buddha (assumed)",
+  "an7.66:1.5": "the mendicants",
+  "before^an7.66:1.5^where": "Ves\u0101l\u012b, in Ambap\u0101l\u012b's Wood",
+  "where": "Ves\u0101l\u012b, in Ambap\u0101l\u012b's Wood",
+  "an7.66:2.1+an7.66:14.5^where_else_mentioned": "Sineru, Ganges, Yamun\u0101, Aciravat\u012b, Sarabh\u016b, Ku\u1e47\u0101l\u0101, Chaddant\u0101, Mand\u0101kin\u012b, Brahm\u0101",
+  "an7.66:2.1+an7.66:14.5^who_else_mentioned": "Sunetta, the Great Brahm\u0101, Sakka",
+  "an7.66:15.1+an7.66:16.4^who_else_mentioned": "Gotama, Buddha",
+  "an7.66:2.1+an7.66:14.5": "the Buddha (assumed)",
+  "an7.66:15.1+an7.66:16.4": "the Buddha (assumed)",
+  "before^an7.66:15.1^where": "Ves\u0101l\u012b, in Ambap\u0101l\u012b's Wood"
+}

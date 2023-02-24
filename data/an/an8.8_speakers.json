@@ -1,0 +1,14 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.8:3.3+an8.8:13.7^where_else_mentioned": "Sa\u1e45kheyyaka Mountain, R\u0101jagaha, the Vulture\u2019s Peak Mountain",
+  "an8.8:3.3+an8.8:13.7^who_else_mentioned": "Uttara, Sakka, the Blessed One, Buddha, Devadatta, Mendicants",
+  "an8.8:1.3+an8.8:1.6": "Uttara",
+  "an8.8:3.3+an8.8:13.7": "Vessava\u1e47a",
+  "an8.8:5.6": "Uttara",
+  "an8.8:5.7": "Vessava\u1e47a",
+  "an8.8:6.6": "Uttara",
+  "before^an8.8:3.3^who_around": "Mendicants",
+  "before^an8.8:3.3^who_mentioned": "Sakka, lord of gods",
+  "before^an8.8:3.3^where": "Sa\u1e45kheyyaka Mountain in the Mahisa region near Dhavaj\u0101lik\u0101",
+  "where": "Sa\u1e45kheyyaka Mountain in the Mahisa region near Dhavaj\u0101lik\u0101"
+}

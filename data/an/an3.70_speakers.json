@@ -1,0 +1,15 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.70:1.4^who_else_mentioned": "Vis\u0101kh\u0101",
+  "an3.70:1.5^who_else_mentioned": "Vis\u0101kh\u0101",
+  "an3.70:3.11^who_else_mentioned": "Vis\u0101kh\u0101",
+  "an3.70:2.1+an3.70:40.4^where_else_mentioned": "A\u1e45ga, Magadha, K\u0101s\u012b, Kosala, Vajj\u012b, Malla, Ceti, Va\u1e45ga, Kuru, Pa\u00f1c\u0101la, Maccha, S\u016brusena, Assaka, Avanti, Gandh\u0101ra, Kamboja",
+  "an3.70:2.1+an3.70:40.4^who_else_mentioned": "Jains, Buddha, Brahm\u0101, Sa\u1e45gha",
+  "an3.70:1.4": "the Buddha",
+  "an3.70:1.5": "Vis\u0101kh\u0101",
+  "an3.70:2.1+an3.70:40.4": "the Buddha",
+  "an3.70:3.11": "the Buddha",
+  "before^an3.70:3.11^who_around": "Vis\u0101kh\u0101",
+  "before^an3.70:3.11^where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother",
+  "where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother"
+}

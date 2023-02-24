@@ -1,0 +1,16 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an1.275:1.1+an1.275:1.2^who_else_mentioned": "Sa\u1e45gha",
+  "an1.277:1.1+an1.277:1.2^who_else_mentioned": "Buddhas, Buddha",
+  "an1.268:1.1+an1.268:1.2": "the Buddha (assumed)",
+  "an1.269:1.1+an1.269:1.2": "the Buddha (assumed)",
+  "an1.270:1.1+an1.270:1.2": "the Buddha (assumed)",
+  "an1.271:1.1+an1.271:1.2": "the Buddha (assumed)",
+  "an1.272:1.1+an1.272:1.2": "the Buddha (assumed)",
+  "an1.273:1.1+an1.273:1.2": "the Buddha (assumed)",
+  "an1.274:1.1+an1.274:1.2": "the Buddha (assumed)",
+  "an1.275:1.1+an1.275:1.2": "the Buddha (assumed)",
+  "an1.276:1.1+an1.276:1.2": "the Buddha (assumed)",
+  "an1.277:1.1+an1.277:1.2": "the Buddha (assumed)",
+  "before^an1.277:1.1^who_mentioned": "two perfected ones, fully awakened Buddhas, one perfected one, a fully awakened Buddha"
+}

@@ -1,0 +1,10 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an9.7:2.1+an9.7:2.5^where_else_mentioned": "R\u0101jagaha, Mountainfold",
+  "an9.7:2.1+an9.7:2.5^who_else_mentioned": "Buddha",
+  "an9.7:3.1+an9.7:3.6^who_else_mentioned": "Sutav\u0101",
+  "an9.7:2.1+an9.7:2.5": "Sutav\u0101",
+  "an9.7:3.1+an9.7:3.6": "the Buddha",
+  "before^an9.7:3.1^where": "R\u0101jagaha, on the Vulture's Peak Mountain",
+  "where": "R\u0101jagaha, on the Vulture's Peak Mountain"
+}

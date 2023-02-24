@@ -1,0 +1,21 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.19:2.1^who_else_mentioned": "Pah\u0101r\u0101da",
+  "an8.19:2.2^who_else_mentioned": "Pah\u0101r\u0101da",
+  "an8.19:2.3^who_else_mentioned": "Pah\u0101r\u0101da",
+  "an8.19:2.4+an8.19:10.1^where_else_mentioned": "Ganges, Yamun\u0101, Aciravat\u012b, Sarabh\u016b, Mah\u012b",
+  "an8.19:10.2^who_else_mentioned": "Pah\u0101r\u0101da",
+  "an8.19:10.3^who_else_mentioned": "Pah\u0101r\u0101da",
+  "an8.19:10.4+an8.19:19.1^where_else_mentioned": "Ganges, Yamun\u0101, Aciravat\u012b, Sarabh\u016b, Mah\u012b",
+  "an8.19:10.4+an8.19:19.1^who_else_mentioned": "Pah\u0101r\u0101da, Sa\u1e45gha, Sakyan",
+  "an8.19:2.1": "the Buddha",
+  "an8.19:2.2": "Pah\u0101r\u0101da",
+  "an8.19:2.3": "the Buddha",
+  "an8.19:2.4+an8.19:10.1": "the Buddha",
+  "an8.19:10.2": "the Buddha",
+  "an8.19:10.3": "Pah\u0101r\u0101da",
+  "an8.19:10.4+an8.19:19.1": "the Buddha",
+  "before^an8.19:10.4^who_around": "Pah\u0101r\u0101da",
+  "before^an8.19:10.4^where": "Vera\u00f1ja at the root of a neem tree dedicated to Na\u1e37eru",
+  "where": "Vera\u00f1ja at the root of a neem tree dedicated to Na\u1e37eru"
+}

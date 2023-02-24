@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an9.41:3.1+an9.41:3.4^who_else_mentioned": "\u0100nanda",
+  "an9.41:4.1+an9.41:4.3^who_else_mentioned": "Buddha",
+  "an9.41:7.1+an9.41:16.4^who_else_mentioned": "M\u0101ras, Brahm\u0101s",
+  "an9.41:1.4": "the Buddha",
+  "an9.41:1.5": "\u0100nanda",
+  "an9.41:3.1+an9.41:3.4": "Tapussa",
+  "an9.41:4.1+an9.41:4.3": "\u0100nanda",
+  "an9.41:5.1": "Tapussa",
+  "an9.41:9.2": "the Buddha",
+  "an9.41:11.2": "the Buddha",
+  "an9.41:12.2": "the Buddha",
+  "an9.41:13.2": "the Buddha",
+  "an9.41:7.1+an9.41:16.4": "the Buddha",
+  "before^an9.41:7.1^who_around": "\u0100nanda, Tapussa",
+  "before^an9.41:7.1^where": "the land of the Mallas, near the Mallian town named Uruvelakappa",
+  "where": "the land of the Mallas, near the Mallian town named Uruvelakappa"
+}

@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an6.16:2.1+an6.16:7.8^where_else_mentioned": "Bhaggas, Crocodile Hill",
+  "an6.16:2.1+an6.16:7.8^who_else_mentioned": "Buddha, Nakula, Sa\u1e45gha",
+  "an6.16:9.1+an6.16:9.7^who_else_mentioned": "Nakula, Buddha",
+  "an6.16:2.1+an6.16:7.8": "Nakula's mother",
+  "an6.16:9.1+an6.16:9.7": "the Buddha",
+  "before^an6.16:9.1^who_around": "Nakula's father",
+  "before^an6.16:9.1^who_mentioned": "the housewife Nakula's mother",
+  "before^an6.16:9.1^where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesaka\u1e37\u0101's Wood.",
+  "where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesaka\u1e37\u0101's Wood."
+}

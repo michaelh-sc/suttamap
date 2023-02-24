@@ -1,0 +1,9 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.56:1.2+an3.56:1.4^who_else_mentioned": "Gotama",
+  "an3.56:5.1+an3.56:5.2^who_else_mentioned": "Gotama",
+  "an3.56:1.2+an3.56:1.4": "well-to-do Brahmin",
+  "an3.56:2.1+an3.56:4.3": "the Buddha",
+  "an3.56:5.1+an3.56:5.2": "well-to-do Brahmin",
+  "before^an3.56:5.1^who_around": "the Buddha"
+}

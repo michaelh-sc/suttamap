@@ -1,0 +1,11 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "before^the speaker^who_around": "Vis\u0101kh\u0101, Mig\u0101ra's mother",
+  "before^the speaker^where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother",
+  "where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother",
+  "an8.43:1.3+an8.43:12.4^where_else_mentioned": "Vis\u0101kh\u0101, A\u1e45ga, Magadha, K\u0101s\u012b, Kosala, Vajj\u012b, Malla, Ceti, Va\u1e45ga, Kuru, Pa\u00f1c\u0101la, Maccha, S\u016brusena, Kamboja",
+  "an8.43:1.3+an8.43:12.4^who_else_mentioned": "Assaka, Avanti, Gandh\u0101ra, Buddha",
+  "an8.43:1.3+an8.43:12.4": "the Buddha",
+  "before^an8.43:1.3^who_around": "Vis\u0101kh\u0101",
+  "before^an8.43:1.3^where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother"
+}

@@ -1,0 +1,11 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.54:1.3+an8.54:1.4^where_else_mentioned": "K\u0101si",
+  "an8.54:1.3+an8.54:1.4^who_else_mentioned": "Buddha",
+  "an8.54:2.1+an8.54:18.4^who_else_mentioned": "Byagghapajja, Buddha",
+  "an8.54:1.3+an8.54:1.4": "D\u012bghaj\u0101\u1e47u the Koliyan",
+  "an8.54:2.1+an8.54:18.4": "the Buddha",
+  "before^an8.54:2.1^who_mentioned": "Byagghapajja",
+  "before^an8.54:2.1^where": "The land of the Koliyans, Kakkarapatta",
+  "where": "The land of the Koliyans, Kakkarapatta"
+}

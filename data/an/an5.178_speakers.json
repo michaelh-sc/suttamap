@@ -1,0 +1,23 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.178:1.1+an5.178:1.4": "the Buddha (assumed)",
+  "an5.178:1.5": "the mendicants",
+  "an5.178:1.6+an5.178:1.13": "the Buddha (assumed)",
+  "an5.178:1.14": "the mendicants",
+  "an5.178:2.1+an5.178:2.4": "the Buddha (assumed)",
+  "an5.178:2.5": "the mendicants",
+  "an5.178:2.6+an5.178:2.13": "the Buddha (assumed)",
+  "an5.178:2.14": "the mendicants",
+  "an5.178:3.1+an5.178:3.4": "the Buddha (assumed)",
+  "an5.178:3.5": "the mendicants",
+  "an5.178:3.6+an5.178:3.13": "the Buddha (assumed)",
+  "an5.178:3.14": "the mendicants",
+  "an5.178:4.1+an5.178:4.4": "the Buddha (assumed)",
+  "an5.178:4.5": "the mendicants",
+  "an5.178:4.6+an5.178:4.13": "the Buddha (assumed)",
+  "an5.178:4.14": "the mendicants",
+  "an5.178:5.1+an5.178:5.4": "the Buddha (assumed)",
+  "an5.178:5.5": "the mendicants",
+  "an5.178:5.6+an5.178:5.16": "the Buddha (assumed)",
+  "an5.178:5.17": "the mendicants"
+}

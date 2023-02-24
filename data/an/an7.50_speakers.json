@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.50:1.3^who_else_mentioned": "Gotama",
+  "an7.50:1.7^who_else_mentioned": "Gotama",
+  "an7.50:2.1+an7.50:10.3^who_else_mentioned": "M\u0101ras, Brahm\u0101s",
+  "an7.50:11.2+an7.50:11.3^who_else_mentioned": "Gotama",
+  "an7.50:1.3": "the brahmin J\u0101\u1e47usso\u1e47i",
+  "an7.50:1.4+an7.50:1.5": "the Buddha",
+  "an7.50:1.7": "the brahmin J\u0101\u1e47usso\u1e47i",
+  "an7.50:2.1+an7.50:10.3": "the Buddha",
+  "an7.50:11.2+an7.50:11.3": "the brahmin J\u0101\u1e47usso\u1e47i",
+  "before^an7.50:11.2^who_around": "the Buddha"
+}

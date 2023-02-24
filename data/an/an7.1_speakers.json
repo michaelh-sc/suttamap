@@ -1,0 +1,8 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.1:1.4": "the Buddha (assumed)",
+  "an7.1:1.5": "the mendicants",
+  "an7.1:2.1+an7.1:3.4": "the Buddha (assumed)",
+  "before^an7.1:2.1^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery, near S\u0101vatth\u012b",
+  "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery, near S\u0101vatth\u012b"
+}

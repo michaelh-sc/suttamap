@@ -1,0 +1,16 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.46:1.4+an8.46:1.8^who_else_mentioned": "Anuruddha",
+  "an8.46:10.1+an8.46:22.4^who_else_mentioned": "Anuruddha, Buddha, Sa\u1e45gha",
+  "an8.46:1.4+an8.46:1.8": "deities of the Lovable Host",
+  "an8.46:2.2": "Anuruddha",
+  "an8.46:3.2": "Anuruddha",
+  "an8.46:3.3": "Anuruddha",
+  "an8.46:3.4": "Anuruddha",
+  "an8.46:5.1": "deities of the Lovable Host",
+  "an8.46:9.2": "Anuruddha",
+  "an8.46:10.1+an8.46:22.4": "the Buddha",
+  "before^an8.46:10.1^who_around": "Anuruddha",
+  "before^an8.46:10.1^where": "Ghosita's Monastery, near Kosambi",
+  "where": "Ghosita's Monastery, near Kosambi"
+}

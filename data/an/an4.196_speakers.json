@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.196:2.1+an4.196:2.3^who_else_mentioned": "Buddha",
+  "an4.196:3.1+an4.196:5.2^who_else_mentioned": "S\u0101\u1e37ha",
+  "an4.196:6.1+an4.196:9.2^who_else_mentioned": "S\u0101\u1e37ha",
+  "an4.196:10.1+an4.196:13.3^who_else_mentioned": "S\u0101\u1e37ha",
+  "an4.196:2.1+an4.196:2.3": "S\u0101\u1e37ha and Abhaya the Licchavis",
+  "an4.196:3.1+an4.196:5.2": "the Buddha",
+  "an4.196:5.3+an4.196:5.6": "S\u0101\u1e37ha",
+  "an4.196:6.1+an4.196:9.2": "the Buddha",
+  "an4.196:9.3+an4.196:9.7": "S\u0101\u1e37ha",
+  "an4.196:10.1+an4.196:13.3": "the Buddha",
+  "before^an4.196:10.1^who_around": "S\u0101\u1e37ha and Abhaya the Licchavis",
+  "before^an4.196:10.1^who_mentioned": "ascetics and brahmins",
+  "before^an4.196:10.1^where": "Ves\u0101l\u012b, at the Great Wood, in the hall with the peaked roof",
+  "where": "Ves\u0101l\u012b, at the Great Wood, in the hall with the peaked roof"
+}

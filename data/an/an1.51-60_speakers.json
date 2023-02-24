@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an1.51:1.1+an1.51:1.4": "the Buddha (assumed)",
+  "an1.52:1.1+an1.52:1.4": "the Buddha (assumed)",
+  "an1.53:1.1+an1.53:1.4": "the Buddha (assumed)",
+  "an1.54:1.1+an1.54:1.4": "the Buddha (assumed)",
+  "an1.55:1.1+an1.55:1.4": "the Buddha (assumed)",
+  "an1.56:1.1+an1.56:1.2": "the Buddha (assumed)",
+  "an1.57:1.1+an1.57:1.2": "the Buddha (assumed)",
+  "an1.58:1.1+an1.58:1.2": "the Buddha (assumed)",
+  "an1.59:1.1+an1.59:1.2": "the Buddha (assumed)",
+  "an1.60:1.1+an1.60:1.2": "the Buddha (assumed)"
+}

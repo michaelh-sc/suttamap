@@ -1,0 +1,11 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.22:1.5^who_else_mentioned": "Gotama",
+  "an4.22:1.1+an4.22:8.4^where_else_mentioned": "Uruvel\u0101, the Nera\u00f1jar\u0101 River",
+  "an4.22:1.1+an4.22:8.4^who_else_mentioned": "Gotama",
+  "an4.22:1.1+an4.22:8.4": "the Buddha (assumed)",
+  "an4.22:1.5": "the Buddha (assumed)",
+  "before^an4.22:1.5^who_mentioned": "old brahmins, elderly and senior",
+  "before^an4.22:1.5^where": "Uruvel\u0101 at the goatherd's banyan tree on the bank of the Nera\u00f1jar\u0101 River",
+  "where": "Uruvel\u0101 at the goatherd's banyan tree on the bank of the Nera\u00f1jar\u0101 River"
+}

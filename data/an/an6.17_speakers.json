@@ -1,0 +1,21 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an6.17:2.1+an6.17:2.11^where_else_mentioned": "S\u0101riputta, Mah\u0101kassapa, Mah\u0101kacc\u0101na, Mah\u0101ko\u1e6d\u1e6dhita, Mah\u0101cunda, Mah\u0101kappina, \u0100nanda",
+  "an6.17:2.1+an6.17:2.11^who_else_mentioned": "Mah\u0101moggall\u0101na, Anuruddha, Revata",
+  "an6.17:2.12^who_else_mentioned": "Buddha",
+  "an6.17:2.17^who_else_mentioned": "Buddha",
+  "an6.17:3.8^who_else_mentioned": "Buddha",
+  "an6.17:4.4^who_else_mentioned": "Buddha",
+  "an6.17:2.1+an6.17:2.11": "the Buddha (assumed)",
+  "an6.17:2.12": "the mendicants",
+  "an6.17:2.13+an6.17:2.16": "the Buddha (assumed)",
+  "an6.17:2.17": "the mendicants",
+  "an6.17:2.18+an6.17:3.7": "the Buddha (assumed)",
+  "an6.17:3.8": "the mendicants",
+  "an6.17:3.9+an6.17:4.3": "the Buddha (assumed)",
+  "an6.17:4.4": "the mendicants",
+  "an6.17:4.5+an6.17:5.3": "the Buddha (assumed)",
+  "before^an6.17:4.5^who_around": "S\u0101riputta, Mah\u0101moggall\u0101na, Mah\u0101kassapa, Mah\u0101kacc\u0101na, Mah\u0101ko\u1e6d\u1e6dhita, Mah\u0101cunda, Mah\u0101kappina, Anuruddha, Revata, and \u0100nanda",
+  "before^an6.17:4.5^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery near S\u0101vatth\u012b",
+  "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery near S\u0101vatth\u012b"
+}

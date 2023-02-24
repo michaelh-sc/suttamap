@@ -1,0 +1,10 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an6.46:1.4": "Mah\u0101cunda",
+  "an6.46:1.5": "the mendicants",
+  "an6.46:2.1+an6.46:7.5": "Mah\u0101cunda",
+  "an6.46:2.2": "the mendicants who practice absorption meditation",
+  "an6.46:3.2": "the mendicants who practice discernment of principles",
+  "before^an6.46:3.2^where": "the land of the Cetis at Sahaj\u0101ti",
+  "where": "the land of the Cetis at Sahaj\u0101ti"
+}

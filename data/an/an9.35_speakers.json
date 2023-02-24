@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an9.35:1.1+an9.35:18.2^who_else_mentioned": "Brahm\u0101",
+  "an9.35:1.1+an9.35:18.2": "the Buddha (assumed)",
+  "an9.35:5.2": "the noble ones",
+  "an9.35:7.2": "the Buddha (assumed)",
+  "an9.35:8.2": "the Buddha (assumed)",
+  "an9.35:9.2": "the Buddha (assumed)",
+  "an9.35:15.2": "the Buddha (assumed)",
+  "an9.35:15.3": "the Buddha (assumed)",
+  "an9.35:15.4": "the Buddha (assumed)",
+  "an9.35:15.5": "the Buddha (assumed)",
+  "an9.35:15.6": "the Buddha (assumed)",
+  "an9.35:15.7": "the Buddha (assumed)",
+  "an9.35:15.17": "the Buddha (assumed)",
+  "an9.35:16.1": "the Buddha (assumed)"
+}

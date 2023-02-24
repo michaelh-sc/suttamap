@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.30:3.1+an8.30:12.3^where_else_mentioned": "Cet\u012bs, the Eastern Bamboo Park",
+  "an8.30:3.1+an8.30:12.3^who_else_mentioned": "Anuruddha",
+  "an8.30:1.4+an8.30:1.10": "Anuruddha",
+  "an8.30:3.1+an8.30:12.3": "the Buddha",
+  "an8.30:12.4": "Anuruddha",
+  "before^an8.30:12.4^who_around": "the mendicants",
+  "before^an8.30:12.4^where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesaka\u1e37\u0101's Wood and the land of the Cet\u012bs in the Eastern Bamboo Park.",
+  "where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesaka\u1e37\u0101's Wood and the land of the Cet\u012bs in the Eastern Bamboo Park.",
+  "an8.30:23.1+an8.30:25.4^who_else_mentioned": "Buddha",
+  "an8.30:13.4+an8.30:21.5": "the Buddha",
+  "an8.30:22.3": "Anuruddha",
+  "an8.30:23.1+an8.30:25.4": "Anuruddha",
+  "before^an8.30:23.1^who_around": "the mendicants",
+  "before^an8.30:23.1^where": "Eastern Bamboo Park in the land of the Cet\u012bs and Bhesaka\u1e37\u0101's Wood in the land of the Bhaggas"
+}

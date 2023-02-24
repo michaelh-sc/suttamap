@@ -1,0 +1,8 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.49:2.1+an8.49:16.4^who_else_mentioned": "Vis\u0101kh\u0101, Buddha",
+  "an8.49:2.1+an8.49:16.4": "the Buddha",
+  "before^an8.49:2.1^who_around": "Vis\u0101kh\u0101",
+  "before^an8.49:2.1^where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother",
+  "where": "S\u0101vatth\u012b in the Eastern Monastery, the stilt longhouse of Mig\u0101ra's mother"
+}

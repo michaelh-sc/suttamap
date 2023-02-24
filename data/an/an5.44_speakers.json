@@ -1,0 +1,23 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.44:2.1+an5.44:2.4^who_else_mentioned": "Buddha",
+  "an5.44:3.1+an5.44:3.4^who_else_mentioned": "Buddha",
+  "an5.44:6.3+an5.44:6.4^who_else_mentioned": "K\u0101s\u012b, Buddha",
+  "an5.44:7.3+an5.44:7.7^who_else_mentioned": "Buddha",
+  "an5.44:11.5^who_else_mentioned": "Ugga",
+  "an5.44:11.6^who_else_mentioned": "Ugga",
+  "an5.44:2.1+an5.44:2.4": "Ugga",
+  "an5.44:3.1+an5.44:3.4": "Ugga",
+  "an5.44:4.3+an5.44:4.4": "Ugga",
+  "an5.44:5.3+an5.44:5.4": "Ugga",
+  "an5.44:6.3+an5.44:6.4": "Ugga",
+  "an5.44:7.3+an5.44:7.7": "Ugga",
+  "an5.44:8.1+an5.44:9.4": "the Buddha",
+  "an5.44:11.5": "the Buddha",
+  "an5.44:11.6": "Ugga",
+  "an5.44:12.1+an5.44:13.4": "the Buddha",
+  "before^an5.44:12.1^who_around": "the Buddha",
+  "before^an5.44:12.1^who_mentioned": "An\u0101thapi\u1e47\u1e0dika",
+  "before^an5.44:12.1^where": "Ves\u0101l\u012b, at the Great Wood, in the hall with the peaked roof and Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery.",
+  "where": "Ves\u0101l\u012b, at the Great Wood, in the hall with the peaked roof and Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery."
+}

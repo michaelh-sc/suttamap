@@ -1,0 +1,10 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an9.20:2.4+an9.20:9.1^who_else_mentioned": "Vel\u0101ma, Buddha, Buddhas, Sa\u1e45gha",
+  "an9.20:2.1": "the Buddha",
+  "an9.20:2.2+an9.20:2.3": "the householder An\u0101thapi\u1e47\u1e0dika",
+  "an9.20:2.4+an9.20:9.1": "the Buddha",
+  "before^an9.20:2.4^who_around": "the householder An\u0101thapi\u1e47\u1e0dika",
+  "before^an9.20:2.4^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery, near S\u0101vatth\u012b",
+  "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery, near S\u0101vatth\u012b"
+}
