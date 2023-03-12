@@ -1,8 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn22.50:2.1+sn22.50:3.6": "The Buddha",
-  "before^sn22.50:2.1^who_around": "The householder So\u1e47a",
-  "before^sn22.50:2.1^who_mentioned": "Ascetics, Brahmins",
-  "before^sn22.50:2.1^where": "Bamboo Grove, the squirrels' feeding ground near R\u0101jagaha",
-  "where": "Bamboo Grove, the squirrels' feeding ground near R\u0101jagaha"
-}

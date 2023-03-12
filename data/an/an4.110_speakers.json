@@ -1,7 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an4.110:1.1+an4.110:5.7": "the Buddha (assumed)",
-  "before^an4.110:1.1^who_mentioned": "four kinds of viper, four people similar to vipers",
-  "before^an4.110:1.1^where": "the world",
-  "where": "the world"
-}

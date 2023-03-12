@@ -1,9 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn10.9:2.1+sn10.9:3.4^where_else_mentioned": "R\u0101jagaha",
-  "sn10.9:2.1+sn10.9:3.4^who_else_mentioned": "Sukk\u0101",
-  "sn10.9:2.1+sn10.9:3.4": "the native spirit",
-  "before^sn10.9:2.1^who_around": "Sukk\u0101, a large assembly",
-  "before^sn10.9:2.1^where": "R\u0101jagaha, in the Bamboo Grove, the squirrels' feeding ground",
-  "where": "R\u0101jagaha, in the Bamboo Grove, the squirrels' feeding ground"
-}

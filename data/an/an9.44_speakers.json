@@ -1,8 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an9.44:1.1+an9.44:1.2^who_else_mentioned": "Buddha",
-  "an9.44:2.1+an9.44:3.3^who_else_mentioned": "Buddha",
-  "an9.44:1.1+an9.44:1.2": "Reverend",
-  "an9.44:2.1+an9.44:3.3": "the Buddha (assumed)",
-  "before^an9.44:2.1^who_mentioned": "a person called freed by wisdom, a mendicant"
-}

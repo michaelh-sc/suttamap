@@ -1,8 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn11.16:3.1+sn11.16:4.4^who_else_mentioned": "Sa\u1e45gha",
-  "sn11.16:2.1+sn11.16:2.4": "Sakka, lord of gods",
-  "sn11.16:3.1+sn11.16:4.4": "The Buddha",
-  "before^sn11.16:3.1^where": "Vulture's Peak Mountain, near R\u0101jagaha",
-  "where": "Vulture's Peak Mountain, near R\u0101jagaha"
-}

@@ -1,7 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an4.168:2.1+an4.168:2.8^who_else_mentioned": "S\u0101riputta",
-  "an4.168:3.1+an4.168:3.5^who_else_mentioned": "Moggall\u0101na",
-  "an4.168:2.1+an4.168:2.8": "Mah\u0101moggall\u0101na",
-  "an4.168:3.1+an4.168:3.5": "S\u0101riputta"
-}

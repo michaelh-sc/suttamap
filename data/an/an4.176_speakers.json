@@ -1,6 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an4.176:1.1+an4.176:4.3^who_else_mentioned": "S\u0101riputta, Moggall\u0101na, Khem\u0101, Uppalava\u1e47\u1e47\u0101, Citta, Hatthaka, A\u1e37av\u012b, Ve\u1e37uka\u1e47\u1e6dak\u012b, Nanda, Khujjuttar\u0101",
-  "an4.176:1.1+an4.176:4.3": "the Buddha (assumed)",
-  "before^an4.176:1.1^who_mentioned": "Khujjuttar\u0101, Ve\u1e37uka\u1e47\u1e6dak\u012b, Nanda's mother"
-}

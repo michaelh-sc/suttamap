@@ -1,7 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn9.9:2.1+sn9.9:2.4": "the Vajjian mendicant",
-  "sn9.9:4.1+sn9.9:4.4": "the deity haunting the forest",
-  "before^sn9.9:4.1^where": "Ves\u0101l\u012b, in a certain forest grove",
-  "where": "Ves\u0101l\u012b, in a certain forest grove"
-}

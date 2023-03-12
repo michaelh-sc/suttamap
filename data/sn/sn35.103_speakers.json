@@ -1,5 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn35.103:1.1+sn35.103:5.6^who_else_mentioned": "Uddaka, R\u0101ma",
-  "sn35.103:1.1+sn35.103:5.6": "Uddaka, son of R\u0101ma"
-}

@@ -1,7 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an8.42:1.1+an8.42:15.4^where_else_mentioned": "A\u1e45ga, Magadha, K\u0101s\u012b, Kosala, Vajj\u012b, Malla, Ceti, Va\u1e45ga, Kuru, Pa\u00f1c\u0101la, Maccha, S\u016brusena, Kamboja",
-  "an8.42:1.1+an8.42:15.4^who_else_mentioned": "Assaka, Avanti, Gandh\u0101ra, Buddha",
-  "an8.42:1.1+an8.42:15.4": "the Buddha (assumed)",
-  "before^an8.42:1.1^who_around": "Mendicants"
-}

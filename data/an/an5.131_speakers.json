@@ -1,6 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an5.131:1.1+an5.131:4.4^who_else_mentioned": "Buddha, M\u0101ra, Brahm\u0101",
-  "an5.131:1.1+an5.131:4.4": "the Buddha (assumed)",
-  "before^an5.131:1.1^who_mentioned": "wheel-turning monarch, ascetic, brahmin, god, M\u0101ra, Brahm\u0101"
-}

@@ -1,9 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn9.3:2.1+sn9.3:4.4^who_else_mentioned": "Kassapa",
-  "sn9.3:2.1+sn9.3:4.4": "the deity haunting the forest",
-  "before^sn9.3:2.1^who_around": "Kassapagotta",
-  "before^sn9.3:2.1^who_mentioned": "tribal hunter",
-  "before^sn9.3:2.1^where": "land of the Kosalans in a certain forest grove",
-  "where": "land of the Kosalans in a certain forest grove"
-}

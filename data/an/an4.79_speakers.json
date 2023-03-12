@@ -1,8 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an4.79:2.1+an4.79:6.4^who_else_mentioned": "S\u0101riputta",
-  "an4.79:1.2+an4.79:1.5": "S\u0101riputta",
-  "an4.79:2.1+an4.79:6.4": "the Buddha",
-  "before^an4.79:2.1^who_around": "the Buddha",
-  "before^an4.79:2.1^who_mentioned": "an ascetic or brahmin"
-}

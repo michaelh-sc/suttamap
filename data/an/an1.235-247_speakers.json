@@ -1,6 +1,0 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an1.235:1.1+an1.247:1.1^who_else_mentioned": "Bhadd\u0101 Ku\u1e47\u1e0dalakes\u0101, Bhadd\u0101 K\u0101pil\u0101n\u012b, Bhaddakacc\u0101n\u0101, Kis\u0101gotam\u012b",
-  "an1.235:1.1+an1.247:1.1": "The Buddha (assumed)",
-  "before^an1.235:1.1^who_mentioned": "Mah\u0101paj\u0101pat\u012b Gotam\u012b, Si\u1e45g\u0101lakam\u0101t\u0101"
-}
