@@ -2,7 +2,7 @@
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "an6.37:1.5+an6.37:9.4^who_else_mentioned": "Ve\u1e37uka\u1e47\u1e6dak\u012b, Nanda",
   "an6.37:1.5+an6.37:9.4": "the Buddha (assumed)",
-  "before^an6.37:1.5^who_around": "S\u0101riputta and Moggall\u0101na",
+  "before^an6.37:1.5^who_around": "S\u0101riputta, Moggall\u0101na",
   "before^an6.37:1.5^who_mentioned": "Ve\u1e37uka\u1e47\u1e6dak\u012b, Nanda's mother",
   "before^an6.37:1.5^where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery, near S\u0101vatth\u012b",
   "where": "Jeta's Grove, An\u0101thapi\u1e47\u1e0dika's monastery, near S\u0101vatth\u012b"

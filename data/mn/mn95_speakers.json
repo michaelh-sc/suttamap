@@ -2,7 +2,7 @@
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "mn95:3.2+mn95:3.7^who_else_mentioned": "Gotama, Sakyan, Sa\u1e45gha, Buddha, M\u0101ras, Brahm\u0101s, Dhamma",
   "mn95:6.1+mn95:6.4^who_else_mentioned": "Gotama, Sa\u1e45gha, Buddha",
-  "mn95:3.2+mn95:3.7": "The brahmins and householders of Opāsāda",
+  "mn95:3.2+mn95:3.7": "The brahmins of Opāsāda and householders of Opāsāda",
   "mn95:5.4": "Ca\u1e45k\u012b",
   "mn95:6.1+mn95:6.4": "Steward",
   "mn95:6.8": "Steward",
@@ -15,8 +15,8 @@
   "mn95:14.1": "Bh\u0101radv\u0101ja",
   "mn95:15.1": "Buddha",
   "mn95:23.1": "Buddha",
-  "before^mn95:23.1^who_around": "Brahmins and householders, Steward",
-  "before^mn95:23.1^who_mentioned": "A\u1e6d\u1e6dhaka, V\u0101maka, V\u0101madeva, Vess\u0101mitta, Yamadaggi, A\u1e45g\u012brasa, V\u0101se\u1e6d\u1e6dha, Kassapa, and Bhagu, King Pasenadi of Kosala",
+  "before^mn95:23.1^who_around": "Brahmins, householders, Steward",
+  "before^mn95:23.1^who_mentioned": "A\u1e6d\u1e6dhaka, V\u0101maka, V\u0101madeva, Vess\u0101mitta, Yamadaggi, A\u1e45g\u012brasa, V\u0101se\u1e6d\u1e6dha, Kassapa, Bhagu, King Pasenadi of Kosala",
   "before^mn95:23.1^where": "Op\u0101s\u0101da, God's Grove",
   "where": "north of Op\u0101s\u0101da, God's Grove"
 }

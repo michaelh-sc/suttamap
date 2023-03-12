@@ -2,5 +2,5 @@
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn48.15:1.1+sn48.15:1.5^who_else_mentioned": "Akani\u1e6d\u1e6dha",
   "sn48.15:1.1+sn48.15:1.5": "the Buddha (assumed)",
-  "before^sn48.15:1.1^who_mentioned": "perfected one, one who is extinguished between one life and the next, one who is extinguished upon landing, one who is extinguished without extra effort, one who is extinguished with extra effort, one who heads upstream, going to the Akani\u1e6d\u1e6dha realm, a once-returner, a stream-enterer, a follower of the teachings, a follower by faith."
+  "before^sn48.15:1.1^who_mentioned": "the perfected one, one who is extinguished between one life and the next, one who is extinguished upon landing, one who is extinguished without extra effort, one who is extinguished with extra effort, one who heads upstream, going to the Akani\u1e6d\u1e6dha realm, a once-returner, a stream-enterer, a follower of the teachings, a follower by faith."
 }

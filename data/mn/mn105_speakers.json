@@ -1,7 +1,7 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "mn105:4.1+mn105:4.5^who_else_mentioned": "Buddha",
-  "mn105:5.3+mn105:5.11^who_else_mentioned": "Sunakkhatta, the Realized One",
+  "mn105:5.3+mn105:5.11^who_else_mentioned": "Sunakkhatta",
   "mn105:6.1+mn105:6.2^who_else_mentioned": "Buddha",
   "mn105:7.1+mn105:9.6^who_else_mentioned": "Sunakkhatta",
   "mn105:9.8+mn105:15.3^who_else_mentioned": "Sunakkhatta",

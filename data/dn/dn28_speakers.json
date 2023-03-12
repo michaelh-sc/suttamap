@@ -13,7 +13,6 @@
   "dn28:2.1+dn28:19.21^where_else_mentioned": "Brahm\u0101",
   "dn28:2.1+dn28:19.21^who_else_mentioned": "Buddhas, Buddha, The Blessed One, Sa\u1e45gha, S\u0101riputta",
   "dn28:19.22^who_else_mentioned": "Buddha",
-  "dn28:20.2+dn28:20.6^who_else_mentioned": "The Realized One",
   "dn28:20.7+dn28:20.11^who_else_mentioned": "Ud\u0101y\u012b",
   "dn28:21.2+dn28:21.3^who_else_mentioned": "S\u0101riputta",
   "dn28:21.5^who_else_mentioned": "Buddha",
@@ -34,7 +33,7 @@
   "dn28:21.2+dn28:21.3": "the Buddha",
   "dn28:21.5": "the Buddha",
   "before^dn28:21.5^who_around": "Ud\u0101y\u012b",
-  "before^dn28:21.5^who_mentioned": "Buddhas past, future, and present",
+  "before^dn28:21.5^who_mentioned": "Buddhas past, Buddhas future, Buddhas present",
   "before^dn28:21.5^where": "N\u0101land\u0101 in P\u0101v\u0101rika's mango grove",
   "where": "N\u0101land\u0101 in P\u0101v\u0101rika's mango grove"
 }

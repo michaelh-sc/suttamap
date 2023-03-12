@@ -2,7 +2,7 @@
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn41.10:2.15+sn41.10:2.22^who_else_mentioned": "Citta",
   "sn41.10:3.2+sn41.10:3.9^who_else_mentioned": "Buddha, Sa\u1e45gha",
-  "sn41.10:1.3": "deities of the parks, forests, trees, and those who haunt the herbs, grass, and big trees",
+  "sn41.10:1.3": "deities of the parks, forests, trees, and those who haunt the herbs, grass, or big trees",
   "sn41.10:2.2": "Citta",
   "sn41.10:2.4": "friends and colleagues, relatives and family members",
   "sn41.10:2.5": "Citta",
@@ -12,5 +12,5 @@
   "sn41.10:2.15+sn41.10:2.22": "Citta",
   "sn41.10:3.1": "friends and colleagues, relatives and family members",
   "sn41.10:3.2+sn41.10:3.9": "Citta",
-  "before^sn41.10:3.2^who_around": "deities of the parks, forests, trees, and those who haunt the herbs, grass, and big trees, friends and colleagues, relatives and family members"
+  "before^sn41.10:3.2^who_around": "deities of the parks, deities of the forests, deities of the trees, those who haunt the herbs, grass, those who haunt big trees, friends, colleagues, relatives, family members"
 }

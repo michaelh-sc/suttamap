@@ -9,7 +9,7 @@
   "mn126:5.1": "Prince Jayasena",
   "mn126:7.25": "Bh\u016bmija",
   "before^mn126:7.25^who_around": "The Buddha",
-  "before^mn126:7.25^who_mentioned": "Other ascetics and brahmins",
+  "before^mn126:7.25^who_mentioned": "Other ascetics, other brahmins",
   "before^mn126:7.25^where": "R\u0101jagaha, in the Bamboo Grove, the squirrels' feeding ground",
   "where": "R\u0101jagaha, in the Bamboo Grove, the squirrels' feeding ground",
   "mn126:4.1^who_else_mentioned": "Bh\u016bmija",
@@ -17,7 +17,5 @@
   "mn126:19.2^who_else_mentioned": "Bh\u016bmija",
   "mn126:8.1+mn126:19.1": "the Buddha",
   "mn126:19.2": "Bh\u016bmija",
-  "before^mn126:19.2^who_around": "the Buddha",
-  ",
-  "before^mn126:19.2^where": "not specified"
+  "before^mn126:19.2^who_around": "the Buddha"
 }

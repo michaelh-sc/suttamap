@@ -22,7 +22,6 @@
   "mn72:12.3^who_else_mentioned": "Gotama",
   "mn72:13.1+mn72:13.31^who_else_mentioned": "Gotama",
   "mn72:15.1^who_else_mentioned": "Gotama",
-  "mn72:15.2+mn72:15.9^who_else_mentioned": "The Realized One",
   "mn72:16.1^who_else_mentioned": "Gotama",
   "mn72:16.2^who_else_mentioned": "Gotama",
   "mn72:16.3^who_else_mentioned": "Gotama",
@@ -87,7 +86,5 @@
   "mn72:19.18": "Vacchagotta",
   "mn72:20.1+mn72:20.20": "the Buddha",
   "mn72:21.2+mn72:22.2": "Vacchagotta",
-  "before^mn72:21.2^who_around": "the Buddha",
-  ",
-  "before^mn72:21.2^where": "not specified"
+  "before^mn72:21.2^who_around": "the Buddha"
 }

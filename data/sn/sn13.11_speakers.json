@@ -5,7 +5,7 @@
   "sn13.11:1.2+sn13.11:1.4": "the Buddha",
   "sn13.11:2.1+sn13.11:2.3": "the mendicants",
   "sn13.11:3.1+sn13.11:3.2": "the Buddha",
-  "before^sn13.11:3.1^who_mentioned": "ascetics, brahmins, and wanderers",
+  "before^sn13.11:3.1^who_mentioned": "ascetics, brahmins, wanderers",
   "before^sn13.11:3.1^where": "S\u0101vatth\u012b",
   "where": "S\u0101vatth\u012b"
 }

@@ -6,8 +6,8 @@
   "sn35.233:3.1+sn35.233:4.3": "\u0100nanda",
   "sn35.233:4.4+sn35.233:4.6": "\u0100nanda",
   "sn35.233:4.7+sn35.233:4.10": "K\u0101mabh\u016b",
-  "before^sn35.233:4.7^who_around": "\u0100nanda and K\u0101mabh\u016b",
-  "before^sn35.233:4.7^who_mentioned": "The black ox and the white ox",
+  "before^sn35.233:4.7^who_around": "\u0100nanda, K\u0101mabh\u016b",
+  "before^sn35.233:4.7^who_mentioned": "The black ox, the white ox",
   "before^sn35.233:4.7^where": "Ghosita's Monastery, near Kosambi",
   "where": "Ghosita's Monastery, near Kosambi"
 }
