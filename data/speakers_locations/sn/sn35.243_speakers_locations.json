@@ -1,0 +1,47 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.243:1.4+sn35.243:1.7^speaker": "the Sakyans of Kapilavatthu",
+  "sn35.243:1.4+sn35.243:1.7^where_else_mentioned": [
+    "Kapilavatthu"
+  ],
+  "sn35.243:1.4+sn35.243:1.7^who_else_mentioned": [
+    "Sakyans",
+    "Buddha"
+  ],
+  "sn35.243:2.3^speaker": "the Sakyans of Kapilavatthu",
+  "sn35.243:2.8+sn35.243:2.9^speaker": "the Sakyans of Kapilavatthu",
+  "sn35.243:2.8+sn35.243:2.9^who_else_mentioned": [
+    "Gotamas"
+  ],
+  "sn35.243:2.10^speaker": "the Sakyans of Kapilavatthu",
+  "sn35.243:3.2+sn35.243:3.5^speaker": "the Buddha",
+  "sn35.243:3.6^speaker": "Mahāmoggallāna",
+  "sn35.243:3.9^speaker": "Mahāmoggallāna",
+  "sn35.243:3.10^speaker": "the mendicants",
+  "sn35.243:3.12+sn35.243:3.13^speaker": "Mahāmoggallāna",
+  "sn35.243:3.14^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "sn35.243:3.14^speaker": "Mahāmoggallāna",
+  "sn35.243:3.14^where_here_and_before": [
+    "Kapilavatthu in the Banyan Tree Monastery"
+  ],
+  "sn35.243:3.14^who_around_here_and_before": [
+    "the Saṅgha of mendicants"
+  ],
+  "sn35.243:4.1+sn35.243:7.18^speaker": "Mahāmoggallāna",
+  "sn35.243:4.1+sn35.243:7.18^who_else_mentioned": [
+    "Māra"
+  ],
+  "sn35.243:8.2+sn35.243:8.3^speaker": "the Buddha",
+  "sn35.243:8.2+sn35.243:8.3^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "sn35.243:8.2^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "sn35.243^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "sn35.243^where": "Kapilavatthu in the Banyan Tree Monastery"
+}

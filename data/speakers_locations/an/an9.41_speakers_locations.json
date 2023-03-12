@@ -1,0 +1,37 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an9.41:1.4^speaker": "the Buddha",
+  "an9.41:1.5^speaker": "Ānanda",
+  "an9.41:3.1+an9.41:3.4^speaker": "Tapussa",
+  "an9.41:3.1+an9.41:3.4^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "an9.41:4.1+an9.41:4.3^speaker": "Ānanda",
+  "an9.41:4.1+an9.41:4.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an9.41:5.1^speaker": "Tapussa",
+  "an9.41:7.1+an9.41:16.4^speaker": "the Buddha",
+  "an9.41:7.1+an9.41:16.4^who_else_mentioned": [
+    "Māras",
+    "Brahmās"
+  ],
+  "an9.41:7.1^geographic_locations_here_and_before": [
+    "Uruvelakappa"
+  ],
+  "an9.41:7.1^where_here_and_before": [
+    "the land of the Mallas near the Mallian town named Uruvelakappa"
+  ],
+  "an9.41:7.1^who_around_here_and_before": [
+    "Ānanda",
+    "Tapussa"
+  ],
+  "an9.41:9.2^speaker": "the Buddha",
+  "an9.41:11.2^speaker": "the Buddha",
+  "an9.41:12.2^speaker": "the Buddha",
+  "an9.41:13.2^speaker": "the Buddha",
+  "an9.41^initial_geographic_location": [
+    "Uruvelakappa"
+  ],
+  "an9.41^where": "the land of the Mallas, near the Mallian town named Uruvelakappa"
+}

@@ -1,0 +1,264 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn21:1.1.5^speaker": "Sakka, lord of gods",
+  "dn21:1.1.5^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "dn21:1.1.8+dn21:1.1.9^speaker": "Sakka, lord of gods",
+  "dn21:1.1.8+dn21:1.1.9^where_else_mentioned": [
+    "Magadhans",
+    "the Indasāla cave"
+  ],
+  "dn21:1.1.8+dn21:1.1.9^who_else_mentioned": [
+    "Buddha",
+    "Blessed One"
+  ],
+  "dn21:1.1.10^speaker": "the gods of the Thirty-Three",
+  "dn21:1.2.2+dn21:1.2.3^speaker": "Sakka, lord of gods",
+  "dn21:1.2.2+dn21:1.2.3^where_else_mentioned": [
+    "Magadhans",
+    "the Indasāla cave"
+  ],
+  "dn21:1.2.2+dn21:1.2.3^who_else_mentioned": [
+    "Pañcasikha",
+    "Buddha",
+    "Blessed One"
+  ],
+  "dn21:1.2.4^speaker": "the fairy Pañcasikha",
+  "dn21:1.3.3+dn21:1.3.4^speaker": "people in the villages round about",
+  "dn21:1.3.3+dn21:1.3.4^where_else_mentioned": [
+    "Mount Vediyaka",
+    "Ambasaṇḍā"
+  ],
+  "dn21:1.4.2+dn21:1.4.3^speaker": "Sakka, lord of gods",
+  "dn21:1.4.2+dn21:1.4.3^who_else_mentioned": [
+    "Pañcasikha",
+    "Buddha"
+  ],
+  "dn21:1.4.4^speaker": "the fairy Pañcasikha",
+  "dn21:1.4.5^speaker": "the fairy Pañcasikha",
+  "dn21:1.5.1+dn21:1.5.56^speaker": "the fairy Pañcasikha",
+  "dn21:1.5.1+dn21:1.5.56^who_else_mentioned": [
+    "Suriyavaccasā",
+    "Timbaru",
+    "Sakyan",
+    "Sakka"
+  ],
+  "dn21:1.6.2+dn21:1.6.4^speaker": "the Buddha",
+  "dn21:1.6.2+dn21:1.6.4^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "dn21:1.6.5+dn21:1.7.14^speaker": "the fairy Pañcasikha",
+  "dn21:1.6.5+dn21:1.7.14^where_else_mentioned": [
+    "Uruvelā",
+    "the Nerañjarā River"
+  ],
+  "dn21:1.6.5+dn21:1.7.14^who_else_mentioned": [
+    "Bhaddā Suriyavacchasā",
+    "Timbaru",
+    "Sikhaḍḍī",
+    "Suriyavacchasā",
+    "Buddha"
+  ],
+  "dn21:1.8.2^speaker": "Sakka, lord of gods",
+  "dn21:1.8.2^who_else_mentioned": [
+    "Pañcasikha",
+    "Buddha"
+  ],
+  "dn21:1.8.4+dn21:1.8.5^speaker": "the fairy Pañcasikha",
+  "dn21:1.8.4+dn21:1.8.5^who_else_mentioned": [
+    "Pañcasikha",
+    "Buddha",
+    "Sakka"
+  ],
+  "dn21:1.8.6^speaker": "the fairy Pañcasikha",
+  "dn21:1.8.7^speaker": "the fairy Pañcasikha",
+  "dn21:1.8.7^who_else_mentioned": [
+    "Sakka"
+  ],
+  "dn21:1.8.8^speaker": "the Buddha",
+  "dn21:1.8.8^who_else_mentioned": [
+    "Sakka",
+    "Pañcasikha"
+  ],
+  "dn21:1.8.9^speaker": "the Buddha",
+  "dn21:1.9.3^speaker": "the Buddha",
+  "dn21:1.9.3^who_else_mentioned": [
+    "Kosiya"
+  ],
+  "dn21:1.9.4+dn21:1.10.11^speaker": "Sakka, lord of gods",
+  "dn21:1.9.4+dn21:1.10.11^where_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "dn21:1.9.4+dn21:1.10.11^who_else_mentioned": [
+    "Buddha",
+    "Vessavaṇa",
+    "Bhūjati",
+    "Sakka"
+  ],
+  "dn21:1.10.4^speaker": "Sakka, lord of gods",
+  "dn21:1.10.4^who_else_mentioned": [
+    "Sakka"
+  ],
+  "dn21:1.10.12+dn21:1.10.13^speaker": "the fairy Pañcasikha",
+  "dn21:1.11.1+dn21:1.12.76^speaker": "Sakka, lord of gods",
+  "dn21:1.11.1+dn21:1.12.76^where_else_mentioned": [
+    "Kapilavatthu"
+  ],
+  "dn21:1.11.1+dn21:1.12.76^who_else_mentioned": [
+    "Sakyan",
+    "Gopikā",
+    "Buddha",
+    "Saṅgha",
+    "Gopaka",
+    "Sakka",
+    "Brahmā",
+    "Gotama",
+    "Buddhists",
+    "Indra",
+    "Pajāpati",
+    "Vāsava",
+    "the Sakyan Sage"
+  ],
+  "dn21:1.13.2+dn21:1.13.3^speaker": "the Buddha",
+  "dn21:1.13.2^geographic_locations_here_and_before": [
+    "Ambasaṇḍā",
+    "Rājagaha",
+    "Vediyaka",
+    "Uruvelā"
+  ],
+  "dn21:1.13.2^where_here_and_before": [
+    "the land of the Magadhans",
+    "east of Rājagaha",
+    "Ambasaṇḍā",
+    "Mount Vediyaka",
+    "Indasāla cave",
+    "Uruvelā",
+    "goatherd's banyan tree",
+    "Nerañjarā River"
+  ],
+  "dn21:1.13.2^who_around_here_and_before": [
+    "the gods of the Thirty-Three",
+    "the fairy Pañcasikha"
+  ],
+  "dn21:1.13.2^who_mentioned_here_and_before": [
+    "Suriyavaccasā",
+    "Kosiya"
+  ],
+  "dn21:1.13.5+dn21:1.13.8^speaker": "the Buddha",
+  "dn21:1.13.5+dn21:1.13.8^who_else_mentioned": [
+    "Vāsava"
+  ],
+  "dn21:2.1.2+dn21:2.1.3^speaker": "Sakka",
+  "dn21:2.1.6+dn21:2.1.7^speaker": "the Buddha",
+  "dn21:2.1.10+dn21:2.1.11^speaker": "Sakka",
+  "dn21:2.1.10+dn21:2.1.11^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn21:2.2.2+dn21:2.2.4^speaker": "Sakka",
+  "dn21:2.2.5+dn21:2.2.7^speaker": "the Buddha",
+  "dn21:2.2.8^speaker": "Sakka",
+  "dn21:2.2.11^speaker": "the Buddha",
+  "dn21:2.2.14^speaker": "Sakka",
+  "dn21:2.2.17^speaker": "the Buddha",
+  "dn21:2.2.20^speaker": "Sakka",
+  "dn21:2.2.23^speaker": "the Buddha",
+  "dn21:2.3.1^speaker": "Sakka",
+  "dn21:2.3.3+dn21:2.3.33^speaker": "the Buddha",
+  "dn21:2.3.36+dn21:2.3.37^speaker": "Sakka",
+  "dn21:2.3.36+dn21:2.3.37^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn21:2.4.2^speaker": "Sakka",
+  "dn21:2.4.3+dn21:2.4.31^speaker": "the Buddha",
+  "dn21:2.4.34+dn21:2.4.35^speaker": "Sakka",
+  "dn21:2.4.34+dn21:2.4.35^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn21:2.5.2^speaker": "Sakka",
+  "dn21:2.5.3+dn21:2.5.14^speaker": "the Buddha",
+  "dn21:2.5.16+dn21:2.5.26^speaker": "Sakka",
+  "dn21:2.5.16+dn21:2.5.26^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn21:2.6.2^speaker": "Sakka",
+  "dn21:2.6.3^speaker": "the Buddha",
+  "dn21:2.6.4^speaker": "Sakka",
+  "dn21:2.6.5+dn21:2.6.8^speaker": "the Buddha",
+  "dn21:2.6.9^speaker": "Sakka",
+  "dn21:2.6.10^speaker": "the Buddha",
+  "dn21:2.6.11^speaker": "Sakka",
+  "dn21:2.6.12+dn21:2.6.13^speaker": "the Buddha",
+  "dn21:2.6.16+dn21:2.6.17^speaker": "Sakka",
+  "dn21:2.6.16+dn21:2.6.17^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn21:2.7.1+dn21:2.7.4^speaker": "Sakka",
+  "dn21:2.7.1+dn21:2.7.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn21:2.7.5^speaker": "the Buddha",
+  "dn21:2.7.6^speaker": "Sakka",
+  "dn21:2.7.7^speaker": "the Buddha",
+  "dn21:2.7.8^speaker": "Sakka",
+  "dn21:2.7.8^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "dn21:2.7.9^speaker": "the Buddha",
+  "dn21:2.7.10+dn21:2.7.20^speaker": "Sakka",
+  "dn21:2.7.10+dn21:2.7.20^who_else_mentioned": [
+    "Sakka",
+    "Buddha"
+  ],
+  "dn21:2.7.22^speaker": "Sakka",
+  "dn21:2.7.23^speaker": "Sakka",
+  "dn21:2.7.24^speaker": "the Buddha",
+  "dn21:2.7.25+dn21:2.7.30^speaker": "Sakka",
+  "dn21:2.7.25+dn21:2.7.30^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn21:2.8.1^speaker": "the Buddha",
+  "dn21:2.8.2+dn21:2.9.36^speaker": "Sakka",
+  "dn21:2.8.2+dn21:2.9.36^who_else_mentioned": [
+    "Akaniṭṭhas",
+    "Sakka",
+    "Vāsava",
+    "Buddha",
+    "Destroyer of the dart",
+    "Kinsman",
+    "Brahmā"
+  ],
+  "dn21:2.10.2+dn21:2.10.4^speaker": "Sakka",
+  "dn21:2.10.2+dn21:2.10.4^who_else_mentioned": [
+    "Pañcasikha",
+    "Buddha",
+    "Bhaddā Suriyavaccasā"
+  ],
+  "dn21:2.10.6+dn21:2.10.8^speaker": "Sakka",
+  "dn21:2.10.6+dn21:2.10.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn21:2.10.10^speaker": "Sakka",
+  "dn21:2.10.13^speaker": "the Buddha",
+  "dn21:2.10.13^where_here_and_before": [
+    "wilderness",
+    "in remote lodgings"
+  ],
+  "dn21:2.10.13^who_around_here_and_before": [
+    "Pañcasikha",
+    "Bhaddā Suriyavaccasā"
+  ],
+  "dn21:2.10.13^who_else_mentioned": [
+    "Sakka"
+  ],
+  "dn21:2.10.13^who_mentioned_here_and_before": [
+    "other ascetics",
+    "other brahmins"
+  ],
+  "dn21^initial_geographic_location": [
+    "Ambasaṇḍā"
+  ],
+  "dn21^where": "the land of the Magadhans, east of Rājagaha, Ambasaṇḍā, Mount Vediyaka, Indasāla cave, Uruvelā, goatherd's banyan tree, Nerañjarā River"
+}

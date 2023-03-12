@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn10.3:1.4^speaker": "Shaggy",
+  "sn10.3:1.5+sn10.3:1.6^speaker": "Spiky",
+  "sn10.3:2.4^speaker": "Spiky",
+  "sn10.3:2.5+sn10.3:2.6^speaker": "the Buddha",
+  "sn10.3:2.7+sn10.3:2.8^speaker": "Spiky",
+  "sn10.3:2.7+sn10.3:2.8^where_else_mentioned": [
+    "Ganges"
+  ],
+  "sn10.3:2.9+sn10.3:2.10^speaker": "the Buddha",
+  "sn10.3:2.9+sn10.3:2.10^who_else_mentioned": [
+    "Māras",
+    "Brahmās"
+  ],
+  "sn10.3:3.1+sn10.3:3.4^speaker": "Spiky",
+  "sn10.3:4.1+sn10.3:6.4^speaker": "the Buddha",
+  "sn10.3:4.1^geographic_locations_here_and_before": [
+    "Gayā"
+  ],
+  "sn10.3:4.1^where_here_and_before": [
+    "Gayā on the cut-stone ledge in the haunt of Spiky the native spirit"
+  ],
+  "sn10.3:4.1^who_around_here_and_before": [
+    "Shaggy"
+  ],
+  "sn10.3:4.1^who_mentioned_here_and_before": [
+    "Māras",
+    "Brahmās",
+    "ascetics",
+    "brahmins",
+    "gods",
+    "humans"
+  ],
+  "sn10.3^initial_geographic_location": [
+    "Gayā"
+  ],
+  "sn10.3^where": "Gayā on the cut-stone ledge in the haunt of Spiky the native spirit"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an2.42:1.1+an2.42:2.5^speaker": "the Buddha (assumed)",
+  "an2.42:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.43:1.1+an2.43:2.5^speaker": "the Buddha (assumed)",
+  "an2.43:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.44:1.1+an2.44:2.7^speaker": "the Buddha (assumed)",
+  "an2.44:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.44:1.1^who_mentioned_here_and_before": [
+    "The assembly of the best"
+  ],
+  "an2.45:1.1+an2.45:2.5^speaker": "the Buddha (assumed)",
+  "an2.45:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.46:1.1+an2.46:2.5^speaker": "the Buddha (assumed)",
+  "an2.46:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.47:1.1+an2.47:2.9^speaker": "the Buddha (assumed)",
+  "an2.47:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.48:1.1+an2.48:2.8^speaker": "the Buddha (assumed)",
+  "an2.48:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.49:1.1+an2.49:2.5^speaker": "the Buddha (assumed)",
+  "an2.49:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.50:1.1+an2.50:1.4^speaker": "the Buddha (assumed)",
+  "an2.50:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.51:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ]
+}

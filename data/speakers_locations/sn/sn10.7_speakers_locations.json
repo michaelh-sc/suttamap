@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn10.7:2.1+sn10.7:6.6^speaker": "Punabbasu's Mother",
+  "sn10.7:2.1+sn10.7:6.6^where_else_mentioned": [
+    "Punabbasu"
+  ],
+  "sn10.7:2.1+sn10.7:6.6^who_else_mentioned": [
+    "Uttarā",
+    "Buddha"
+  ],
+  "sn10.7:7.1+sn10.7:8.4^speaker": "Punabbasu",
+  "sn10.7:7.1+sn10.7:8.4^who_else_mentioned": [
+    "Uttarā",
+    "Buddha",
+    "Seer"
+  ],
+  "sn10.7:9.1+sn10.7:10.4^speaker": "Punabbasu's Mother",
+  "sn10.7:9.1+sn10.7:10.4^where_else_mentioned": [
+    "Punabbasu"
+  ],
+  "sn10.7:9.1+sn10.7:10.4^who_else_mentioned": [
+    "Buddha",
+    "Uttarā"
+  ],
+  "sn10.7:9.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "sn10.7:9.1^where_here_and_before": [
+    "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
+  ],
+  "sn10.7:9.1^who_around_here_and_before": [
+    "The Buddha",
+    "the mendicants"
+  ],
+  "sn10.7:9.1^who_mentioned_here_and_before": [
+    "Uttarā"
+  ],
+  "sn10.7^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "sn10.7^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"
+}

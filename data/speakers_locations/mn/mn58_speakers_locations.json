@@ -1,0 +1,74 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn58:3.1+mn58:3.3^speaker": "Nigaṇṭha Nātaputta",
+  "mn58:3.1+mn58:3.3^who_else_mentioned": [
+    "Gotama",
+    "Abhaya"
+  ],
+  "mn58:3.4^speaker": "Prince Abhaya",
+  "mn58:3.5+mn58:3.17^speaker": "Nigaṇṭha Nātaputta",
+  "mn58:3.5+mn58:3.17^who_else_mentioned": [
+    "Gotama",
+    "Devadatta",
+    "Buddha"
+  ],
+  "mn58:3.14^speaker": "Nigaṇṭha Nātaputta",
+  "mn58:3.14^who_else_mentioned": [
+    "Devadatta"
+  ],
+  "mn58:4.1^speaker": "Prince Abhaya",
+  "mn58:4.3+mn58:4.4^speaker": "Prince Abhaya",
+  "mn58:4.3+mn58:4.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn58:4.5^speaker": "Prince Abhaya",
+  "mn58:4.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn58:6.2^speaker": "Prince Abhaya",
+  "mn58:6.3^speaker": "the Buddha",
+  "mn58:6.4^speaker": "Prince Abhaya",
+  "mn58:6.4^who_else_mentioned": [
+    "Jains"
+  ],
+  "mn58:6.5+mn58:6.6^speaker": "Prince Abhaya",
+  "mn58:6.5+mn58:6.6^who_else_mentioned": [
+    "Jains"
+  ],
+  "mn58:7.3+mn58:7.4^speaker": "the Buddha",
+  "mn58:7.5+mn58:7.8^speaker": "Prince Abhaya",
+  "mn58:8.1+mn58:8.8^speaker": "the Buddha",
+  "mn58:8.1+mn58:8.8^who_else_mentioned": [
+    "The Realized One"
+  ],
+  "mn58:9.1+mn58:9.2^speaker": "Prince Abhaya",
+  "mn58:10.1+mn58:10.3^speaker": "the Buddha",
+  "mn58:10.4^speaker": "Prince Abhaya",
+  "mn58:10.5+mn58:10.8^speaker": "the Buddha",
+  "mn58:10.9+mn58:10.11^speaker": "Prince Abhaya",
+  "mn58:11.1+mn58:11.3^speaker": "the Buddha",
+  "mn58:12.2+mn58:12.3^speaker": "Prince Abhaya",
+  "mn58:12.2+mn58:12.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn58:12.2^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn58:12.2^where_here_and_before": [
+    "Rājagaha",
+    "in the Bamboo Grove",
+    "the squirrels' feeding ground"
+  ],
+  "mn58:12.2^who_around_here_and_before": [
+    "the Buddha",
+    "Prince Abhaya",
+    "a little baby boy"
+  ],
+  "mn58:12.2^who_mentioned_here_and_before": [
+    "Devadatta"
+  ],
+  "mn58^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn58^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"
+}

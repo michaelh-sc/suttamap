@@ -1,0 +1,52 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn118:4.1+mn118:4.4^speaker": "The Buddha",
+  "mn118:4.1+mn118:4.4^where_else_mentioned": [
+    "Sāvatthī",
+    "Komudi"
+  ],
+  "mn118:4.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "mn118:4.1^where_here_and_before": [
+    "Sāvatthī in the Eastern Monastery",
+    "the stilt longhouse of Migāra's mother"
+  ],
+  "mn118:4.1^who_around_here_and_before": [
+    "Sāriputta",
+    "Mahāmoggallāna",
+    "Mahākassapa",
+    "Mahākaccāna",
+    "Mahākoṭṭhita",
+    "Mahākappina",
+    "Mahācunda",
+    "Anuruddha",
+    "Revata",
+    "Ānanda",
+    "Other well known senior disciples"
+  ],
+  "mn118:4.1^who_mentioned_here_and_before": [
+    "Junior mendicants"
+  ],
+  "mn118:8.1+mn118:43.1^speaker": "The Buddha",
+  "mn118:8.1+mn118:43.1^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn118:8.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "mn118:8.1^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "mn118:8.1^who_around_here_and_before": [
+    "Saṅgha of monks"
+  ],
+  "mn118:8.1^who_mentioned_here_and_before": [
+    "Senior mendicants",
+    "Junior mendicants"
+  ],
+  "mn118^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "mn118^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"
+}

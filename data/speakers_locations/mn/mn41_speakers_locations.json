@@ -1,0 +1,55 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn41:2.2+mn41:2.8^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn41:2.2+mn41:2.8^where_else_mentioned": [
+    "Kosalans",
+    "Sālā"
+  ],
+  "mn41:2.2+mn41:2.8^who_else_mentioned": [
+    "Gotama—a Sakyan",
+    "Sakyan",
+    "Saṅgha",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn41:4.1+mn41:4.2^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn41:4.1+mn41:4.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn41:5.1+mn41:5.2^speaker": "the Buddha",
+  "mn41:6.1+mn41:6.2^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn41:6.1+mn41:6.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn41:6.3^speaker": "the Buddha",
+  "mn41:6.4^geographic_locations_here_and_before": [
+    "Sālā"
+  ],
+  "mn41:6.4^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn41:6.4^where_here_and_before": [
+    "the land of the Kosalans Sālā village"
+  ],
+  "mn41:6.4^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "mn41:7.1+mn41:43.5^speaker": "the Buddha",
+  "mn41:44.2+mn41:44.5^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn41:44.2+mn41:44.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn41:44.2^geographic_locations_here_and_before": [
+    "Sālā"
+  ],
+  "mn41:44.2^where_here_and_before": [
+    "Sālā"
+  ],
+  "mn41:44.2^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "mn41^initial_geographic_location": [
+    "Sālā"
+  ],
+  "mn41^where": "the land of the Kosalans, Sālā village"
+}

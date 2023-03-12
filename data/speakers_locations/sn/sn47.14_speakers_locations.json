@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn47.14:2.2+sn47.14:3.7^speaker": "the Buddha (assumed)",
+  "sn47.14:2.2+sn47.14:3.7^where_else_mentioned": [
+    "Sāriputta",
+    "Moggallāna",
+    "Saṅgha"
+  ],
+  "sn47.14:2.2+sn47.14:3.7^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "sn47.14:2.2^geographic_locations_here_and_before": [
+    "Ukkacelā"
+  ],
+  "sn47.14:2.2^where_here_and_before": [
+    "the land of the Vajjīs near Ukkacelā on the bank of the Ganges river"
+  ],
+  "sn47.14:2.2^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "sn47.14:2.2^who_mentioned_here_and_before": [
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "sn47.14^initial_geographic_location": [
+    "Ukkacelā"
+  ],
+  "sn47.14^where": "the land of the Vajjīs near Ukkacelā on the bank of the Ganges river"
+}

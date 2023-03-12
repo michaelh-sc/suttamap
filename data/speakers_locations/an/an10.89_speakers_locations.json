@@ -1,0 +1,104 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.89:1.2^speaker": "Kokālika",
+  "an10.89:1.2^who_else_mentioned": [
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "an10.89:1.3+an10.89:1.5^speaker": "the Buddha",
+  "an10.89:1.3+an10.89:1.5^where_else_mentioned": [
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "an10.89:1.3+an10.89:1.5^who_else_mentioned": [
+    "Kokālika"
+  ],
+  "an10.89:2.2^speaker": "Kokālika",
+  "an10.89:2.2^who_else_mentioned": [
+    "Buddha",
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "an10.89:2.3+an10.89:2.5^speaker": "the Buddha",
+  "an10.89:2.3+an10.89:2.5^where_else_mentioned": [
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "an10.89:2.3+an10.89:2.5^who_else_mentioned": [
+    "Kokālika"
+  ],
+  "an10.89:3.2^speaker": "Kokālika",
+  "an10.89:3.2^who_else_mentioned": [
+    "Buddha",
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "an10.89:3.3+an10.89:3.5^speaker": "the Buddha",
+  "an10.89:3.3+an10.89:3.5^where_else_mentioned": [
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "an10.89:3.3+an10.89:3.5^who_else_mentioned": [
+    "Kokālika"
+  ],
+  "an10.89:5.2+an10.89:5.3^speaker": "Tudu the independent brahmā",
+  "an10.89:5.2+an10.89:5.3^where_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an10.89:5.2+an10.89:5.3^who_else_mentioned": [
+    "Kokālika",
+    "Moggallāna"
+  ],
+  "an10.89:5.4^speaker": "Kokālika",
+  "an10.89:5.5^speaker": "Tudu the independent brahmā",
+  "an10.89:5.6+an10.89:5.7^speaker": "Kokālika",
+  "an10.89:5.6+an10.89:5.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an10.89:7.1+an10.89:10.4^speaker": "Tudu the independent brahmā",
+  "an10.89:12.2+an10.89:12.3^speaker": "Brahmā Sahampati",
+  "an10.89:12.2+an10.89:12.3^who_else_mentioned": [
+    "Kokālika",
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "an10.89:14.2^speaker": "the mendicant",
+  "an10.89:14.2^where_else_mentioned": [
+    "the Pink Lotus"
+  ],
+  "an10.89:14.3+an10.89:14.5^speaker": "the Buddha",
+  "an10.89:15.1^speaker": "the mendicant",
+  "an10.89:15.2^speaker": "the Buddha",
+  "an10.89:15.3+an10.89:15.14^speaker": "the Buddha",
+  "an10.89:15.3+an10.89:15.14^where_else_mentioned": [
+    "Kosalan"
+  ],
+  "an10.89:15.3+an10.89:15.14^who_else_mentioned": [
+    "Abbuda",
+    "Nirabbuda",
+    "Ababa",
+    "Aṭaṭa",
+    "Ahaha",
+    "Kokālika",
+    "Moggallāna"
+  ],
+  "an10.89:16.1+an10.89:19.4^speaker": "the Buddha",
+  "an10.89:16.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "an10.89:16.1^where_here_and_before": [
+    "Jeta's Grove"
+  ],
+  "an10.89:16.1^who_around_here_and_before": [
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "an10.89:16.1^who_mentioned_here_and_before": [
+    "Tudu the independent brahmā",
+    "Brahmā Sahampati"
+  ],
+  "an10.89^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "an10.89^where": "Jeta's Grove"
+}

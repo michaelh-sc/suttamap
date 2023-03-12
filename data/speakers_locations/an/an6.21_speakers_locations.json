@@ -1,0 +1,15 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an6.21:2.1+an6.21:2.4^speaker": "the glorious deity",
+  "an6.21:3.9+an6.21:4.2^speaker": "the Buddha",
+  "an6.21:4.3^speaker": "the mendicants",
+  "an6.21:4.5+an6.21:5.1^speaker": "the Buddha",
+  "an6.21:4.5^where_here_and_before": [
+    "the little village of Sāma",
+    "by a lotus pond"
+  ],
+  "an6.21:4.5^who_around_here_and_before": [
+    "the Sakyans"
+  ],
+  "an6.21^where": "the little village of Sāma, by a lotus pond"
+}

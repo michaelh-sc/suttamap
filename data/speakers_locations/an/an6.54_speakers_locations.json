@@ -1,0 +1,86 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an6.54:2.2+an6.54:2.4^speaker": "the local lay followers",
+  "an6.54:2.6+an6.54:2.8^speaker": "the local lay followers",
+  "an6.54:2.6+an6.54:2.8^who_else_mentioned": [
+    "Dhammika"
+  ],
+  "an6.54:3.2+an6.54:3.3^speaker": "the local lay followers",
+  "an6.54:5.2+an6.54:5.3^speaker": "the local lay followers",
+  "an6.54:6.6^speaker": "the local lay followers",
+  "an6.54:6.6^who_else_mentioned": [
+    "Dhammika"
+  ],
+  "an6.54:6.8^speaker": "the local lay followers",
+  "an6.54:6.10+an6.54:6.11^speaker": "Dhammika",
+  "an6.54:6.13^speaker": "Dhammika",
+  "an6.54:6.13^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an6.54:7.3^speaker": "the Buddha",
+  "an6.54:7.3^who_else_mentioned": [
+    "Brahmin Dhammika"
+  ],
+  "an6.54:7.4^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "an6.54:7.4^speaker": "Dhammika",
+  "an6.54:7.4^where_here_and_before": [
+    "Rājagaha",
+    "on the Vulture's Peak Mountain"
+  ],
+  "an6.54:7.4^who_around_here_and_before": [
+    "visiting mendicants"
+  ],
+  "an6.54:7.4^who_mentioned_here_and_before": [
+    "Saṅgha"
+  ],
+  "an6.54:7.5+an6.54:13.2^speaker": "the Buddha",
+  "an6.54:7.5+an6.54:13.2^where_else_mentioned": [
+    "Sakka"
+  ],
+  "an6.54:7.5+an6.54:13.2^who_else_mentioned": [
+    "Brahmin Dhammika",
+    "Koravya"
+  ],
+  "an6.54:13.3^speaker": "Dhammika",
+  "an6.54:13.4+an6.54:13.5^speaker": "the Buddha",
+  "an6.54:13.6^speaker": "Dhammika",
+  "an6.54:13.7+an6.54:19.2^speaker": "the Buddha",
+  "an6.54:13.7+an6.54:19.2^who_else_mentioned": [
+    "Sunetta",
+    "Jotipāla",
+    "Brahmin Dhammika"
+  ],
+  "an6.54:19.3^speaker": "Dhammika",
+  "an6.54:19.4+an6.54:29.4^speaker": "the Buddha",
+  "an6.54:19.4+an6.54:29.4^who_else_mentioned": [
+    "Brahmin Dhammika",
+    "Buddhist",
+    "Sunetta",
+    "Mūgapakkha",
+    "Aranemi",
+    "Hatthipāla",
+    "Kuddālaka",
+    "Jotipāla Govinda",
+    "Brahmā",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "an6.54:19.4^geographic_locations_here_and_before": [
+    "Gijjhakūṭa"
+  ],
+  "an6.54:19.4^where_here_and_before": [
+    "Vulture's Peak",
+    "Rājagaha"
+  ],
+  "an6.54:19.4^who_mentioned_here_and_before": [
+    "Sunetta"
+  ],
+  "an6.54^initial_geographic_location": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "an6.54^where": "Rājagaha, on the Vulture's Peak Mountain"
+}

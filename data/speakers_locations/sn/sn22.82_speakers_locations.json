@@ -1,0 +1,66 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.82:2.2^speaker": "one of the mendicants",
+  "sn22.82:2.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn22.82:2.3^speaker": "the Buddha",
+  "sn22.82:2.4^speaker": "the mendicant",
+  "sn22.82:2.5+sn22.82:2.6^speaker": "the mendicant",
+  "sn22.82:3.1^speaker": "the Buddha",
+  "sn22.82:3.3^speaker": "the mendicant",
+  "sn22.82:4.1^speaker": "the mendicant",
+  "sn22.82:4.2^speaker": "the Buddha",
+  "sn22.82:4.3^speaker": "the mendicant",
+  "sn22.82:4.4^speaker": "the Buddha",
+  "sn22.82:4.5^speaker": "the mendicant",
+  "sn22.82:5.1^speaker": "the mendicant",
+  "sn22.82:5.2^speaker": "the Buddha",
+  "sn22.82:5.3+sn22.82:5.5^speaker": "the mendicant",
+  "sn22.82:5.6^speaker": "the mendicant",
+  "sn22.82:6.1^speaker": "the mendicant",
+  "sn22.82:6.2+sn22.82:6.7^speaker": "the Buddha",
+  "sn22.82:6.8^speaker": "the mendicant",
+  "sn22.82:7.1+sn22.82:7.5^speaker": "the mendicant",
+  "sn22.82:7.6+sn22.82:7.10^speaker": "the Buddha",
+  "sn22.82:7.11^speaker": "the mendicant",
+  "sn22.82:8.1^speaker": "the mendicant",
+  "sn22.82:8.2+sn22.82:8.8^speaker": "the Buddha",
+  "sn22.82:8.9^speaker": "the mendicant",
+  "sn22.82:9.1^speaker": "the mendicant",
+  "sn22.82:9.9^speaker": "the mendicant",
+  "sn22.82:10.1+sn22.82:10.5^speaker": "the mendicant",
+  "sn22.82:10.6+sn22.82:10.14^speaker": "the Buddha",
+  "sn22.82:10.15^speaker": "the mendicant",
+  "sn22.82:11.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn22.82:11.1^speaker": "the mendicant",
+  "sn22.82:11.1^where_here_and_before": [
+    "Sāvatthī in the Eastern Monastery",
+    "the stilt longhouse of Migāra's mother"
+  ],
+  "sn22.82:11.1^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "sn22.82:11.1^who_mentioned_here_and_before": [
+    "the noble ones",
+    "the good persons"
+  ],
+  "sn22.82:11.2+sn22.82:11.7^speaker": "the Buddha",
+  "sn22.82:12.2+sn22.82:12.3^speaker": "the mendicant",
+  "sn22.82:13.1+sn22.82:14.2^speaker": "the Buddha",
+  "sn22.82:14.3^speaker": "the mendicant",
+  "sn22.82:14.4+sn22.82:14.7^speaker": "the Buddha",
+  "sn22.82:14.8^speaker": "the mendicant",
+  "sn22.82:14.9^speaker": "the Buddha",
+  "sn22.82:14.10^speaker": "the mendicant",
+  "sn22.82:14.11+sn22.82:14.12^speaker": "the Buddha",
+  "sn22.82:14.13^speaker": "the mendicant",
+  "sn22.82:14.14+sn22.82:14.16^speaker": "the Buddha",
+  "sn22.82:15.1+sn22.82:15.6^speaker": "the mendicant",
+  "sn22.82^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn22.82^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"
+}

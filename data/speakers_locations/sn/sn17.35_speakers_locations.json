@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn17.35:1.3+sn17.35:5.3^speaker": "the Buddha",
+  "sn17.35:1.3+sn17.35:5.3^who_else_mentioned": [
+    "Devadatta"
+  ],
+  "sn17.35:7.1+sn17.35:7.4^speaker": "the Holy One, the Teacher",
+  "sn17.35:7.1^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "sn17.35:7.1^where_here_and_before": [
+    "Rājagaha",
+    "on the Vulture's Peak Mountain"
+  ],
+  "sn17.35:7.1^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "sn17.35:7.1^who_mentioned_here_and_before": [
+    "Devadatta"
+  ],
+  "sn17.35^initial_geographic_location": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "sn17.35^where": "Rājagaha, on the Vulture's Peak Mountain"
+}

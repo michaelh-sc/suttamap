@@ -1,0 +1,28 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn44.10:1.3^speaker": "Vacchagotta",
+  "sn44.10:1.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn44.10:1.5^speaker": "Vacchagotta",
+  "sn44.10:2.2^speaker": "Ānanda",
+  "sn44.10:2.2^who_else_mentioned": [
+    "Vacchagotta"
+  ],
+  "sn44.10:2.3+sn44.10:2.6^speaker": "the Buddha",
+  "sn44.10:2.3+sn44.10:2.6^who_else_mentioned": [
+    "Vacchagotta"
+  ],
+  "sn44.10:2.7^speaker": "Ānanda",
+  "sn44.10:2.8+sn44.10:2.9^speaker": "the Buddha",
+  "sn44.10:2.8+sn44.10:2.9^who_else_mentioned": [
+    "Vacchagotta"
+  ],
+  "sn44.10:2.8^who_around_here_and_before": [
+    "Vacchagotta"
+  ],
+  "sn44.10:2.8^who_mentioned_here_and_before": [
+    "ascetics who are eternalists",
+    "brahmins who are eternalists"
+  ]
+}

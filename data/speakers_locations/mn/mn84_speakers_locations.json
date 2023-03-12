@@ -1,0 +1,108 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn84:2.2+mn84:2.5^speaker": "King Avantiputta of Madhurā",
+  "mn84:2.2+mn84:2.5^where_else_mentioned": [
+    "Madhurā",
+    "Gunda’s Grove"
+  ],
+  "mn84:4.1+mn84:4.6^speaker": "King Avantiputta of Madhurā",
+  "mn84:4.1+mn84:4.6^who_else_mentioned": [
+    "Kaccāna",
+    "Brahmā"
+  ],
+  "mn84:5.1+mn84:5.10^speaker": "Mahākaccāna",
+  "mn84:5.14^speaker": "King Avantiputta of Madhurā",
+  "mn84:5.14^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn84:5.18+mn84:5.35^speaker": "Mahākaccāna",
+  "mn84:5.39^speaker": "King Avantiputta of Madhurā",
+  "mn84:5.39^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn84:5.43+mn84:5.45^speaker": "Mahākaccāna",
+  "mn84:5.46+mn84:5.47^speaker": "King Avantiputta of Madhurā",
+  "mn84:5.46+mn84:5.47^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn84:5.48+mn84:6.3^speaker": "Mahākaccāna",
+  "mn84:6.4+mn84:6.5^speaker": "Mahākaccāna",
+  "mn84:6.6+mn84:6.12^speaker": "King Avantiputta of Madhurā",
+  "mn84:6.13+mn84:6.14^speaker": "Mahākaccāna",
+  "mn84:6.15+mn84:6.19^speaker": "King Avantiputta of Madhurā",
+  "mn84:6.20+mn84:6.21^speaker": "Mahākaccāna",
+  "mn84:6.20+mn84:6.21^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn84:6.22+mn84:7.3^speaker": "King Avantiputta of Madhurā",
+  "mn84:7.4+mn84:7.5^speaker": "Mahākaccāna",
+  "mn84:7.6+mn84:7.10^speaker": "King Avantiputta of Madhurā",
+  "mn84:7.11+mn84:7.12^speaker": "Mahākaccāna",
+  "mn84:7.13+mn84:7.17^speaker": "King Avantiputta of Madhurā",
+  "mn84:7.18+mn84:7.19^speaker": "Mahākaccāna",
+  "mn84:7.18+mn84:7.19^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn84:7.20+mn84:8.5^speaker": "King Avantiputta of Madhurā",
+  "mn84:8.6+mn84:8.8^speaker": "Mahākaccāna",
+  "mn84:8.9+mn84:8.13^speaker": "King Avantiputta of Madhurā",
+  "mn84:8.14+mn84:8.16^speaker": "Mahākaccāna",
+  "mn84:8.17+mn84:8.19^speaker": "King Avantiputta of Madhurā",
+  "mn84:8.20+mn84:8.21^speaker": "Mahākaccāna",
+  "mn84:8.20+mn84:8.21^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn84:8.22+mn84:9.3^speaker": "King Avantiputta of Madhurā",
+  "mn84:9.4+mn84:9.6^speaker": "Mahākaccāna",
+  "mn84:9.4^geographic_locations_here_and_before": [
+    "Madhurā"
+  ],
+  "mn84:9.4^where_here_and_before": [
+    "Madhurā",
+    "in Gunda's Grove"
+  ],
+  "mn84:9.7+mn84:9.9^speaker": "King Avantiputta of Madhurā",
+  "mn84:9.10+mn84:9.12^speaker": "Mahākaccāna",
+  "mn84:9.13+mn84:9.15^speaker": "King Avantiputta of Madhurā",
+  "mn84:9.16+mn84:9.17^speaker": "Mahākaccāna",
+  "mn84:9.16+mn84:9.17^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn84:9.18+mn84:9.22^speaker": "King Avantiputta of Madhurā",
+  "mn84:9.18+mn84:9.22^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "mn84:10.2+mn84:10.5^speaker": "Mahākaccāna",
+  "mn84:10.2+mn84:10.5^who_else_mentioned": [
+    "Kaccāna",
+    "Saṅgha"
+  ],
+  "mn84:10.6+mn84:10.7^speaker": "Mahākaccāna",
+  "mn84:10.8^speaker": "King Avantiputta of Madhurā",
+  "mn84:10.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn84:10.9^speaker": "Mahākaccāna",
+  "mn84:10.9^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn84:11.1+mn84:11.5^speaker": "King Avantiputta of Madhurā",
+  "mn84:11.1+mn84:11.5^who_else_mentioned": [
+    "Kaccāna",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn84:11.1^geographic_locations_here_and_before": [
+    "Madhurā"
+  ],
+  "mn84:11.1^where_here_and_before": [
+    "Madhurā"
+  ],
+  "mn84:11.1^who_mentioned_here_and_before": [
+    "Brahmā"
+  ],
+  "mn84^initial_geographic_location": [
+    "Madhurā"
+  ],
+  "mn84^where": "Madhurā, in Gunda's Grove"
+}

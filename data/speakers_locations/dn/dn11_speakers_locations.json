@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn11:1.4+dn11:1.6^speaker": "Kevaddha",
+  "dn11:1.4+dn11:1.6^who_else_mentioned": [
+    "Nāḷandā",
+    "Buddha"
+  ],
+  "dn11:1.8+dn11:1.9^speaker": "the Buddha",
+  "dn11:1.8+dn11:1.9^who_else_mentioned": [
+    "Kevaddha"
+  ],
+  "dn11:3.8+dn11:5.5^speaker": "the Buddha",
+  "dn11:3.8+dn11:5.5^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn11:3.8+dn11:5.5^who_else_mentioned": [
+    "Kevaddha",
+    "Gandhārī"
+  ],
+  "dn11:5.6^speaker": "Kevaddha",
+  "dn11:5.7+dn11:7.6^speaker": "the Buddha",
+  "dn11:5.7+dn11:7.6^who_else_mentioned": [
+    "Māṇikā",
+    "Kevaddha"
+  ],
+  "dn11:7.7^speaker": "Kevaddha",
+  "dn11:85.9^speaker": "the Buddha",
+  "dn11:85.9^where_here_and_before": [
+    "Nālandā in Pāvārika's mango grove"
+  ],
+  "dn11:85.9^geographical_locations_here_and_before": [
+    "Nāḷandā"
+  ],
+  "dn11:85.9^who_around_here_and_before": [
+    "Pāvārika"
+  ],
+  "dn11^initial_geographical_location": "Nālandā in Pāvārika's mango grove",
+  "dn11^where": "Nālandā in Pāvārika's mango grove"
+}

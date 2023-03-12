@@ -1,0 +1,256 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn23:2.2^speaker": "Pāyāsi",
+  "dn23:2.4+dn23:2.7^speaker": "brahmins of Setavyā and householders of Setavyā",
+  "dn23:2.4+dn23:2.7^where_else_mentioned": [
+    "Indian Rosewood",
+    "Setavyā"
+  ],
+  "dn23:2.4+dn23:2.7^who_else_mentioned": [
+    "Kassapa the Prince",
+    "Gotama"
+  ],
+  "dn23:3.4^speaker": "Pāyāsi",
+  "dn23:3.5+dn23:3.8^speaker": "Pāyāsi's steward",
+  "dn23:3.5+dn23:3.8^where_else_mentioned": [
+    "Indian Rosewood",
+    "Setavyā"
+  ],
+  "dn23:3.5+dn23:3.8^who_else_mentioned": [
+    "Kassapa the Prince",
+    "Gotama"
+  ],
+  "dn23:3.9+dn23:3.14^speaker": "Pāyāsi",
+  "dn23:3.9+dn23:3.14^who_else_mentioned": [
+    "Pāyāsi",
+    "Kassapa the Prince"
+  ],
+  "dn23:3.15^speaker": "Pāyāsi's steward",
+  "dn23:5.2+dn23:5.3^speaker": "Pāyāsi",
+  "dn23:5.2+dn23:5.3^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:5.4+dn23:5.10^speaker": "Kassapa the Prince",
+  "dn23:5.11^speaker": "Pāyāsi",
+  "dn23:5.11^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:5.12+dn23:5.13^speaker": "Kassapa the Prince",
+  "dn23:6.1+dn23:6.2^speaker": "Pāyāsi",
+  "dn23:6.1+dn23:6.2^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:6.3^speaker": "Kassapa the Prince",
+  "dn23:6.5^speaker": "Pāyāsi",
+  "dn23:6.5^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:6.7^speaker": "Kassapa the Prince",
+  "dn23:6.8+dn23:6.21^speaker": "Pāyāsi",
+  "dn23:6.13^speaker": "Kassapa the Prince",
+  "dn23:7.1+dn23:7.10^speaker": "Kassapa the Prince",
+  "dn23:7.13^speaker": "Pāyāsi",
+  "dn23:7.14+dn23:7.20^speaker": "Kassapa the Prince",
+  "dn23:7.14+dn23:7.20^who_else_mentioned": [
+    "Pāyāsi"
+  ],
+  "dn23:8.1+dn23:8.2^speaker": "Pāyāsi",
+  "dn23:8.1+dn23:8.2^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:8.3^speaker": "Kassapa the Prince",
+  "dn23:8.5^speaker": "Pāyāsi",
+  "dn23:8.5^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:8.7^speaker": "Kassapa the Prince",
+  "dn23:8.8+dn23:8.21^speaker": "Pāyāsi",
+  "dn23:8.13^speaker": "Kassapa the Prince",
+  "dn23:9.1+dn23:9.26^speaker": "Kassapa the Prince",
+  "dn23:9.1^geographic_locations_here_and_before": [
+    "Setabyā"
+  ],
+  "dn23:9.1^where_here_and_before": [
+    "Setavyā",
+    "grove of Indian Rosewood to the north of Setavyā"
+  ],
+  "dn23:9.1^who_around_here_and_before": [
+    "a large Saṅgha of five hundred mendicants",
+    "brahmins of Setavyā",
+    "householders of Setavyā",
+    "Pāyāsi's steward"
+  ],
+  "dn23:9.1^who_mentioned_here_and_before": [
+    "King Pasenadi of Kosala"
+  ],
+  "dn23:9.27+dn23:9.29^speaker": "Pāyāsi",
+  "dn23:9.27+dn23:9.29^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:9.30+dn23:9.35^speaker": "Kassapa the Prince",
+  "dn23:10.1+dn23:10.2^speaker": "Pāyāsi",
+  "dn23:10.1+dn23:10.2^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:10.3^speaker": "Kassapa the Prince",
+  "dn23:10.4^speaker": "Pāyāsi",
+  "dn23:10.5^speaker": "Kassapa the Prince",
+  "dn23:10.6+dn23:10.19^speaker": "Pāyāsi",
+  "dn23:10.11^speaker": "Kassapa the Prince",
+  "dn23:11.1+dn23:11.8^speaker": "Kassapa the Prince",
+  "dn23:11.1+dn23:11.8^where_else_mentioned": [
+    "Pāyāsi"
+  ],
+  "dn23:11.9+dn23:11.13^speaker": "Pāyāsi",
+  "dn23:11.9+dn23:11.13^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:11.16+dn23:11.27^speaker": "Kassapa the Prince",
+  "dn23:11.28+dn23:11.34^speaker": "Pāyāsi",
+  "dn23:11.28+dn23:11.34^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:11.36+dn23:11.47^speaker": "Kassapa the Prince",
+  "dn23:12.1+dn23:12.2^speaker": "Pāyāsi",
+  "dn23:12.1+dn23:12.2^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:12.3^speaker": "Kassapa the Prince",
+  "dn23:12.4^speaker": "Pāyāsi",
+  "dn23:12.5^speaker": "Kassapa the Prince",
+  "dn23:12.6+dn23:12.14^speaker": "Pāyāsi",
+  "dn23:13.1+dn23:13.36^speaker": "Kassapa the Prince",
+  "dn23:14.1+dn23:14.2^speaker": "Pāyāsi",
+  "dn23:14.1+dn23:14.2^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:14.3^speaker": "Kassapa the Prince",
+  "dn23:14.4^speaker": "Pāyāsi",
+  "dn23:14.5^speaker": "Kassapa the Prince",
+  "dn23:14.6+dn23:14.16^speaker": "Pāyāsi",
+  "dn23:15.1+dn23:15.2^speaker": "Kassapa the Prince",
+  "dn23:15.3^speaker": "Pāyāsi",
+  "dn23:15.4^speaker": "Kassapa the Prince",
+  "dn23:15.5^speaker": "Pāyāsi",
+  "dn23:15.6^speaker": "Kassapa the Prince",
+  "dn23:15.7^speaker": "Pāyāsi",
+  "dn23:15.8+dn23:15.11^speaker": "Kassapa the Prince",
+  "dn23:16.1+dn23:16.2^speaker": "Pāyāsi",
+  "dn23:16.1+dn23:16.2^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:16.3^speaker": "Kassapa the Prince",
+  "dn23:16.4^speaker": "Pāyāsi",
+  "dn23:16.5^speaker": "Kassapa the Prince",
+  "dn23:16.6+dn23:16.15^speaker": "Pāyāsi",
+  "dn23:17.1+dn23:17.5^speaker": "Kassapa the Prince",
+  "dn23:17.6+dn23:17.7^speaker": "Pāyāsi",
+  "dn23:17.8+dn23:17.11^speaker": "Kassapa the Prince",
+  "dn23:18.1+dn23:18.2^speaker": "Pāyāsi",
+  "dn23:18.1+dn23:18.2^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:18.3^speaker": "Kassapa",
+  "dn23:18.4^speaker": "Pāyāsi",
+  "dn23:18.5^speaker": "Kassapa",
+  "dn23:18.6+dn23:18.35^speaker": "Pāyāsi",
+  "dn23:19.1+dn23:19.24^speaker": "Kassapa",
+  "dn23:20.1+dn23:20.2^speaker": "Pāyāsi",
+  "dn23:20.1+dn23:20.2^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:20.3^speaker": "Kassapa",
+  "dn23:20.4^speaker": "Pāyāsi",
+  "dn23:20.5^speaker": "Kassapa",
+  "dn23:20.6+dn23:20.17^speaker": "Pāyāsi",
+  "dn23:21.1+dn23:21.54^speaker": "Kassapa",
+  "dn23:22.1+dn23:22.7^speaker": "Pāyāsi",
+  "dn23:22.1+dn23:22.7^where_else_mentioned": [
+    "Kosala"
+  ],
+  "dn23:22.1+dn23:22.7^who_else_mentioned": [
+    "Kassapa",
+    "Pasenadi",
+    "Pāyāsi"
+  ],
+  "dn23:23.1+dn23:23.71^speaker": "Kassapa",
+  "dn23:24.1+dn23:24.6^speaker": "Pāyāsi",
+  "dn23:24.1+dn23:24.6^where_else_mentioned": [
+    "Kosala"
+  ],
+  "dn23:24.1+dn23:24.6^who_else_mentioned": [
+    "Kassapa",
+    "Pasenadi"
+  ],
+  "dn23:25.1+dn23:25.16^speaker": "Kassapa",
+  "dn23:26.1+dn23:26.7^speaker": "Pāyāsi",
+  "dn23:26.1+dn23:26.7^where_else_mentioned": [
+    "Kosala"
+  ],
+  "dn23:26.1+dn23:26.7^who_else_mentioned": [
+    "Kassapa",
+    "Pasenadi"
+  ],
+  "dn23:27.1+dn23:27.20^speaker": "Kassapa",
+  "dn23:28.1+dn23:28.7^speaker": "Pāyāsi",
+  "dn23:28.1+dn23:28.7^where_else_mentioned": [
+    "Kosala"
+  ],
+  "dn23:28.1+dn23:28.7^who_else_mentioned": [
+    "Kassapa",
+    "Pasenadi"
+  ],
+  "dn23:29.1+dn23:29.43^speaker": "Kassapa",
+  "dn23:30.1+dn23:30.7^speaker": "Pāyāsi",
+  "dn23:30.1+dn23:30.7^who_else_mentioned": [
+    "Kassapa",
+    "Gotama",
+    "Saṅgha"
+  ],
+  "dn23:31.1+dn23:31.5^speaker": "Kassapa",
+  "dn23:31.6^speaker": "Pāyāsi",
+  "dn23:31.6^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:31.7+dn23:31.12^speaker": "Kassapa",
+  "dn23:31.13^speaker": "Pāyāsi",
+  "dn23:31.13^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "dn23:31.14^speaker": "Kassapa",
+  "dn23:32.5^speaker": "Uttara",
+  "dn23:32.5^who_else_mentioned": [
+    "Pāyāsi"
+  ],
+  "dn23:32.10^speaker": "Pāyāsi",
+  "dn23:32.10^who_else_mentioned": [
+    "Uttara"
+  ],
+  "dn23:32.12^speaker": "Uttara",
+  "dn23:32.13+dn23:32.15^speaker": "Pāyāsi",
+  "dn23:32.16+dn23:32.17^speaker": "Uttara",
+  "dn23:32.18+dn23:32.19^speaker": "Pāyāsi",
+  "dn23:32.18+dn23:32.19^who_else_mentioned": [
+    "Uttara"
+  ],
+  "dn23:32.20^speaker": "Uttara",
+  "dn23:33.3^speaker": "Gavampati",
+  "dn23:33.4^speaker": "Pāyāsi",
+  "dn23:33.4^where_here_and_before": [
+    "an empty acacia palace"
+  ],
+  "dn23:33.4^who_around_here_and_before": [
+    "Kassapa",
+    "Gavampati"
+  ],
+  "dn23:33.4^who_else_mentioned": [
+    "Pāyāsi"
+  ],
+  "dn23:33.4^who_mentioned_here_and_before": [
+    "Uttara"
+  ],
+  "dn23^initial_geographic_location": [
+    "Setabyā"
+  ],
+  "dn23^where": "Setavyā, grove of Indian Rosewood to the north of Setavyā"
+}

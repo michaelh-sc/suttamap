@@ -1,0 +1,64 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn124:3.1^speaker": "Kassapa",
+  "mn124:3.1^who_else_mentioned": [
+    "Bakkula"
+  ],
+  "mn124:3.2^speaker": "Bakkula",
+  "mn124:3.3^speaker": "Kassapa",
+  "mn124:3.4+mn124:3.7^speaker": "Bakkula",
+  "mn124:3.8^speaker": "Bakkula",
+  "mn124:3.9^speaker": "Bakkula",
+  "mn124:3.10^speaker": "Kassapa",
+  "mn124:3.10^who_else_mentioned": [
+    "Bakkula"
+  ],
+  "mn124:4-5.1+mn124:4-5.2^speaker": "Bakkula",
+  "mn124:4-5.3^speaker": "Kassapa",
+  "mn124:4-5.3^who_else_mentioned": [
+    "Bakkula"
+  ],
+  "mn124:6.1+mn124:7-8.2^speaker": "Bakkula",
+  "mn124:7-8.3^speaker": "Kassapa",
+  "mn124:7-8.3^who_else_mentioned": [
+    "Bakkula"
+  ],
+  "mn124:9.1+mn124:30-36.7^speaker": "Bakkula",
+  "mn124:30-36.8^speaker": "Kassapa",
+  "mn124:30-36.8^who_else_mentioned": [
+    "Bakkula"
+  ],
+  "mn124:37.1^speaker": "Bakkula",
+  "mn124:37.2^speaker": "Kassapa",
+  "mn124:37.2^who_else_mentioned": [
+    "Bakkula"
+  ],
+  "mn124:38.1+mn124:38.2^speaker": "Bakkula",
+  "mn124:38.3+mn124:39.1^speaker": "Kassapa",
+  "mn124:38.3+mn124:39.1^who_else_mentioned": [
+    "Bakkula"
+  ],
+  "mn124:39.4^speaker": "Kassapa",
+  "mn124:40.2^speaker": "Bakkula",
+  "mn124:40.3^speaker": "Kassapa",
+  "mn124:40.3^who_else_mentioned": [
+    "Bakkula"
+  ],
+  "mn124:41.2^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn124:41.2^speaker": "Kassapa",
+  "mn124:41.2^where_here_and_before": [
+    "Bamboo Grove near Rājagaha"
+  ],
+  "mn124:41.2^who_around_here_and_before": [
+    "Saṅgha"
+  ],
+  "mn124:41.2^who_else_mentioned": [
+    "Bakkula"
+  ],
+  "mn124^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn124^where": "Bamboo Grove, near Rājagaha"
+}

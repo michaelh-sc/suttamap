@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.185:2.2^speaker": "wanderers",
+  "an4.185:3.1^speaker": "the Buddha",
+  "an4.185:3.2+an4.185:3.3^speaker": "wanderers",
+  "an4.185:3.2+an4.185:3.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an4.185:4.1+an4.185:7.6^speaker": "the Buddha",
+  "an4.185:4.1^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "an4.185:4.1^where_here_and_before": [
+    "Rājagaha",
+    "on the Vulture's Peak Mountain"
+  ],
+  "an4.185:4.1^who_around_here_and_before": [
+    "Annabhāra",
+    "Varadhara",
+    "Sakuludāyī",
+    "other very well-known wanderers"
+  ],
+  "an4.185^initial_geographic_location": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "an4.185^where": "Rājagaha, on the Vulture's Peak Mountain"
+}

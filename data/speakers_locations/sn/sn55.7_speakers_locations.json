@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn55.7:1.4+sn55.7:1.9^speaker": "brahmins of Bamboo Gate and householders of Bamboo Gate",
+  "sn55.7:1.4+sn55.7:1.9^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Saṅgha",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "sn55.7:2.2+sn55.7:2.4^speaker": "brahmins of Bamboo Gate and householders of Bamboo Gate",
+  "sn55.7:2.2+sn55.7:2.4^where_else_mentioned": [
+    "Kāsi"
+  ],
+  "sn55.7:2.2+sn55.7:2.4^who_else_mentioned": [
+    "Gotama",
+    "Buddha"
+  ],
+  "sn55.7:3.1+sn55.7:3.2^speaker": "the Buddha",
+  "sn55.7:3.3^speaker": "brahmins of Bamboo Gate and householders of Bamboo Gate",
+  "sn55.7:3.3^where_here_and_before": [
+    "the land of the Kosalans",
+    "Bamboo Gate"
+  ],
+  "sn55.7:3.3^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "sn55.7:4.1+sn55.7:11.7^speaker": "the Buddha",
+  "sn55.7:12.2+sn55.7:12.4^speaker": "brahmins of Bamboo Gate and householders of Bamboo Gate",
+  "sn55.7:12.2+sn55.7:12.4^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "sn55.7:12.2^where_here_and_before": [
+    "Bamboo Gate"
+  ],
+  "sn55.7:12.2^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "sn55.7^where": "the land of the Kosalans, Bamboo Gate"
+}

@@ -1,0 +1,62 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.99:1.2^speaker": "Upāli",
+  "an10.99:2.1+an10.99:5.3^speaker": "the Buddha (assumed)",
+  "an10.99:2.1+an10.99:5.3^where_else_mentioned": [
+    "Upāli"
+  ],
+  "an10.99:5.4^speaker": "Upāli",
+  "an10.99:6.1+an10.99:6.4^speaker": "the Buddha (assumed)",
+  "an10.99:6.1+an10.99:6.4^who_else_mentioned": [
+    "Upāli"
+  ],
+  "an10.99:6.5^speaker": "Upāli",
+  "an10.99:7.1+an10.99:7.9^speaker": "the Buddha (assumed)",
+  "an10.99:7.1+an10.99:7.9^who_else_mentioned": [
+    "Upāli"
+  ],
+  "an10.99:7.10^speaker": "Upāli",
+  "an10.99:8.1+an10.99:24.4^speaker": "the Buddha (assumed)",
+  "an10.99:8.1+an10.99:24.4^who_else_mentioned": [
+    "Buddha",
+    "Māras",
+    "Brahmās",
+    "Upāli"
+  ],
+  "an10.99:24.5^speaker": "Upāli",
+  "an10.99:25.1+an10.99:26.3^speaker": "the Buddha (assumed)",
+  "an10.99:25.1+an10.99:26.3^who_else_mentioned": [
+    "Upāli"
+  ],
+  "an10.99:26.4^speaker": "Upāli",
+  "an10.99:27.1+an10.99:28.3^speaker": "the Buddha (assumed)",
+  "an10.99:27.1+an10.99:28.3^who_else_mentioned": [
+    "Upāli"
+  ],
+  "an10.99:28.4^speaker": "Upāli",
+  "an10.99:29.1+an10.99:30.1^speaker": "the Buddha (assumed)",
+  "an10.99:31.1+an10.99:31.3^speaker": "the Buddha (assumed)",
+  "an10.99:31.1+an10.99:31.3^who_else_mentioned": [
+    "Upāli"
+  ],
+  "an10.99:31.4^speaker": "Upāli",
+  "an10.99:32.1+an10.99:33.1^speaker": "the Buddha (assumed)",
+  "an10.99:34.1^speaker": "the Buddha (assumed)",
+  "an10.99:35.1+an10.99:35.3^speaker": "the Buddha (assumed)",
+  "an10.99:35.1+an10.99:35.3^who_else_mentioned": [
+    "Upāli"
+  ],
+  "an10.99:35.4^speaker": "Upāli",
+  "an10.99:36.1+an10.99:37.3^speaker": "the Buddha (assumed)",
+  "an10.99:36.1+an10.99:37.3^who_else_mentioned": [
+    "Upāli"
+  ],
+  "an10.99:37.4^speaker": "Upāli",
+  "an10.99:38.1+an10.99:38.3^speaker": "the Buddha (assumed)",
+  "an10.99:38.1+an10.99:38.3^where_else_mentioned": [
+    "Upāli"
+  ],
+  "an10.99:38.1+an10.99:38.3^who_else_mentioned": [
+    "Saṅgha"
+  ]
+}

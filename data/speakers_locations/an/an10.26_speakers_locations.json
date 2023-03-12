@@ -1,0 +1,24 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.26:1.3+an10.26:3.1^speaker": "Kāḷī of Kurughara",
+  "an10.26:1.3+an10.26:3.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an10.26:4.1+an10.26:6.5^speaker": "Mahākaccāna",
+  "an10.26:4.1+an10.26:6.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an10.26:4.1^geographic_locations_here_and_before": [
+    "Avanti"
+  ],
+  "an10.26:4.1^where_here_and_before": [
+    "The land of the Avantis near Kuraraghara on Steep Mountain"
+  ],
+  "an10.26:4.1^who_mentioned_here_and_before": [
+    "The Buddha"
+  ],
+  "an10.26^initial_geographic_location": [
+    "Avanti"
+  ],
+  "an10.26^where": "The land of the Avantis near Kuraraghara on Steep Mountain"
+}

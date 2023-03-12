@@ -1,0 +1,82 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn77:3.3+mn77:3.4^speaker": "The Buddha",
+  "mn77:3.3+mn77:3.4^where_else_mentioned": [
+    "Rājagaha"
+  ],
+  "mn77:3.3+mn77:3.4^who_else_mentioned": [
+    "Sakuludāyī"
+  ],
+  "mn77:4.6+mn77:4.10^speaker": "Sakuludāyī",
+  "mn77:4.6+mn77:4.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn77:5.3+mn77:5.6^speaker": "Sakuludāyī",
+  "mn77:5.11^speaker": "The Buddha",
+  "mn77:5.11^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn77:6.31^speaker": "Sakuludāyī",
+  "mn77:6.52^speaker": "Sakuludāyī",
+  "mn77:6.61^speaker": "Wanderers",
+  "mn77:6.61^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "mn77:6.64^speaker": "Wanderers",
+  "mn77:6.64^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn77:6.69^speaker": "Wanderers",
+  "mn77:6.69^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn77:6.70^speaker": "Disciples of the ascetic Buddha",
+  "mn77:7.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn77:7.1^speaker": "The Buddha",
+  "mn77:7.1^where_here_and_before": [
+    "Rājagaha",
+    "Bamboo Grove",
+    "the squirrels' feeding ground",
+    "the monastery of the wanderers in the peacocks' feeding ground"
+  ],
+  "mn77:7.1^who_around_here_and_before": [
+    "Wanderers",
+    "Disciples of the ascetic Buddha"
+  ],
+  "mn77:7.1^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn77:7.1^who_mentioned_here_and_before": [
+    "Pūraṇa Kassapa",
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn77:8.1+mn77:8.13^speaker": "Udāyī",
+  "mn77:8.1+mn77:8.13^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn77:9.1+mn77:13.5^speaker": "The Buddha",
+  "mn77:9.1+mn77:13.5^where_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn77:9.1+mn77:13.5^who_else_mentioned": [
+    "Udāyī",
+    "Gotama"
+  ],
+  "mn77:13.6^speaker": "Udāyī",
+  "mn77:13.6^who_around_here_and_before": [
+    "The Buddha"
+  ],
+  "mn77:13.7+mn77:38.1^speaker": "The Buddha",
+  "mn77:13.7+mn77:38.1^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "mn77:13.7^who_around_here_and_before": [
+    "Sakuludāyī"
+  ],
+  "mn77^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn77^where": "Rājagaha, Bamboo Grove, the squirrels' feeding ground, the monastery of the wanderers in the peacocks' feeding ground"
+}

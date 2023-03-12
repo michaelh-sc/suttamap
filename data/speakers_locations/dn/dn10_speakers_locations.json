@@ -1,0 +1,78 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn10:1.2.2+dn10:1.3.1^speaker": "Subha, Todeyya's son",
+  "dn10:1.2.2+dn10:1.3.1^who_else_mentioned": [
+    "Subha",
+    "Todeyya"
+  ],
+  "dn10:1.3.2^speaker": "student",
+  "dn10:1.4.2+dn10:1.4.4^speaker": "Ānanda",
+  "dn10:1.4.5^speaker": "student",
+  "dn10:1.4.13^speaker": "student",
+  "dn10:1.4.13^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "dn10:1.5.3+dn10:1.5.5^speaker": "Subha",
+  "dn10:1.5.3+dn10:1.5.5^who_else_mentioned": [
+    "Ānanda",
+    "Gotama"
+  ],
+  "dn10:1.6.1+dn10:1.6.4^speaker": "Ānanda",
+  "dn10:1.6.1+dn10:1.6.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn10:1.6.6^speaker": "Subha",
+  "dn10:1.6.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn10:1.7.1+dn10:1.30.2^speaker": "Ānanda",
+  "dn10:1.7.1+dn10:1.30.2^who_else_mentioned": [
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "dn10:1.30.3+dn10:2.1.1^speaker": "Subha",
+  "dn10:1.30.3+dn10:2.1.1^who_else_mentioned": [
+    "Ānanda",
+    "Buddha"
+  ],
+  "dn10:2.2.1+dn10:2.19.2^speaker": "Ānanda",
+  "dn10:2.2.1+dn10:2.19.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn10:2.19.3+dn10:2.20.1^speaker": "Subha",
+  "dn10:2.19.3+dn10:2.20.1^who_else_mentioned": [
+    "Ānanda",
+    "Buddha"
+  ],
+  "dn10:2.21.1+dn10:2.37.2^speaker": "Ānanda",
+  "dn10:2.21.1+dn10:2.37.2^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn10:2.21.1+dn10:2.37.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn10:2.37.3+dn10:2.37.10^speaker": "Subha",
+  "dn10:2.37.3+dn10:2.37.10^who_else_mentioned": [
+    "Ānanda",
+    "Gotama",
+    "Saṅgha"
+  ],
+  "dn10:2.37.3^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "dn10:2.37.3^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "dn10:2.37.3^who_around_here_and_before": [
+    "Cetaka"
+  ],
+  "dn10:2.37.3^who_mentioned_here_and_before": [
+    "Buddha"
+  ],
+  "dn10^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "dn10^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

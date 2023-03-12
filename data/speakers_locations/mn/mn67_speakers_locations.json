@@ -1,0 +1,94 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn67:3.2^speaker": "the Buddha",
+  "mn67:4.1+mn67:4.2^speaker": "the Buddha",
+  "mn67:4.1+mn67:4.2^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn67:4.3^speaker": "Ānanda",
+  "mn67:4.4^speaker": "Ānanda",
+  "mn67:4.5^speaker": "the mendicants",
+  "mn67:4.6^speaker": "the Buddha",
+  "mn67:5.1^speaker": "the Buddha",
+  "mn67:5.2^speaker": "the mendicants",
+  "mn67:6.4^speaker": "the Sakyans of Cātumā",
+  "mn67:6.5^speaker": "the mendicants",
+  "mn67:6.5^who_else_mentioned": [
+    "Saṅgha",
+    "Buddha"
+  ],
+  "mn67:6.6^speaker": "the Sakyans of Cātumā",
+  "mn67:6.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn67:6.7^speaker": "the mendicants",
+  "mn67:7.2+mn67:7.13^speaker": "the Sakyans of Cātumā",
+  "mn67:7.2+mn67:7.13^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn67:9.1+mn67:9.11^speaker": "Brahmā Sahampati",
+  "mn67:9.1+mn67:9.11^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn67:11.2+mn67:11.3^speaker": "Mahāmoggallāna",
+  "mn67:11.2+mn67:11.3^where_else_mentioned": [
+    "Cātumā"
+  ],
+  "mn67:11.2+mn67:11.3^who_else_mentioned": [
+    "Buddha",
+    "Sakyans",
+    "Brahmā Sahampati"
+  ],
+  "mn67:12.1^speaker": "the mendicants",
+  "mn67:12.2^speaker": "the Buddha",
+  "mn67:12.2^who_else_mentioned": [
+    "Sāriputta",
+    "Saṅgha"
+  ],
+  "mn67:12.3+mn67:12.5^speaker": "Sāriputta",
+  "mn67:12.3+mn67:12.5^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn67:12.6^speaker": "the Buddha",
+  "mn67:12.6^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn67:13.2^speaker": "the Buddha",
+  "mn67:13.2^who_else_mentioned": [
+    "Moggallāna",
+    "Saṅgha"
+  ],
+  "mn67:13.3+mn67:13.5^speaker": "Mahāmoggallāna",
+  "mn67:13.3+mn67:13.5^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha",
+    "Venerable Sāriputta"
+  ],
+  "mn67:13.6+mn67:13.7^speaker": "the Buddha",
+  "mn67:13.6+mn67:13.7^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "mn67:13.6^where_here_and_before": [
+    "Cātumā in a myrobalan grove"
+  ],
+  "mn67:13.6^who_around_here_and_before": [
+    "Ānanda",
+    "Sāriputta",
+    "Moggallāna",
+    "the Sakyans of Cātumā",
+    "Brahmā Sahampati",
+    "Mahāmoggallāna"
+  ],
+  "mn67:14.2+mn67:20.1^speaker": "the Buddha",
+  "mn67:14.2^who_around_here_and_before": [
+    "Sāriputta",
+    "the mendicants"
+  ],
+  "mn67:14.2^who_mentioned_here_and_before": [
+    "Saṅgha"
+  ],
+  "mn67^where": "Cātumā in a myrobalan grove"
+}

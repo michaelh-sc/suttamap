@@ -1,0 +1,71 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn136:2.4+mn136:2.6^speaker": "Potaliputta",
+  "mn136:2.4+mn136:2.6^who_else_mentioned": [
+    "Samiddhi",
+    "Gotama",
+    "Deeds"
+  ],
+  "mn136:2.7+mn136:2.9^speaker": "Samiddhi",
+  "mn136:2.7+mn136:2.9^who_else_mentioned": [
+    "Potaliputta",
+    "Buddha"
+  ],
+  "mn136:2.10^speaker": "Potaliputta",
+  "mn136:2.10^who_else_mentioned": [
+    "Samiddhi"
+  ],
+  "mn136:2.11^speaker": "Samiddhi",
+  "mn136:2.12+mn136:2.13^speaker": "Potaliputta",
+  "mn136:2.14^speaker": "Samiddhi",
+  "mn136:3.5+mn136:3.7^speaker": "Ānanda",
+  "mn136:3.5+mn136:3.7^who_else_mentioned": [
+    "Samiddhi",
+    "Buddha"
+  ],
+  "mn136:3.8^speaker": "Samiddhi",
+  "mn136:5.2+mn136:5.3^speaker": "the Buddha",
+  "mn136:5.2+mn136:5.3^who_else_mentioned": [
+    "Potaliputta",
+    "Ānanda"
+  ],
+  "mn136:6.2+mn136:6.3^speaker": "Udāyī",
+  "mn136:6.2+mn136:6.3^who_else_mentioned": [
+    "Samiddhi"
+  ],
+  "mn136:6.5+mn136:6.15^speaker": "the Buddha",
+  "mn136:6.5+mn136:6.15^who_else_mentioned": [
+    "Udāyī",
+    "Potaliputta",
+    "Samiddhi"
+  ],
+  "mn136:7.1+mn136:7.2^speaker": "Ānanda",
+  "mn136:7.1+mn136:7.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn136:7.3^speaker": "the Buddha",
+  "mn136:7.3^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn136:7.4^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn136:7.4^speaker": "Ānanda",
+  "mn136:7.4^where_here_and_before": [
+    "Rājagaha",
+    "in the Bamboo Grove",
+    "the squirrels' feeding ground"
+  ],
+  "mn136:7.4^who_around_here_and_before": [
+    "Potaliputta",
+    "Udāyī"
+  ],
+  "mn136:8.1+mn136:21.1^speaker": "the Buddha",
+  "mn136:8.1+mn136:21.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn136^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn136^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"
+}

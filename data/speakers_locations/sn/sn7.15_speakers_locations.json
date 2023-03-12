@@ -1,0 +1,53 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn7.15:1.6+sn7.15:1.9^speaker": "Stuck-Up",
+  "sn7.15:1.6+sn7.15:1.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn7.15:1.13^speaker": "Stuck-Up",
+  "sn7.15:1.13^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn7.15:2.1+sn7.15:2.4^speaker": "the Buddha",
+  "sn7.15:3.2^speaker": "Stuck-Up",
+  "sn7.15:3.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn7.15:3.3^speaker": "Stuck-Up",
+  "sn7.15:3.3^who_else_mentioned": [
+    "Gotama",
+    "Stuck-Up"
+  ],
+  "sn7.15:3.5+sn7.15:3.7^speaker": "the assembly",
+  "sn7.15:3.5+sn7.15:3.7^who_else_mentioned": [
+    "Stuck-Up",
+    "Gotama"
+  ],
+  "sn7.15:3.9+sn7.15:3.10^speaker": "the Buddha",
+  "sn7.15:4.1+sn7.15:4.4^speaker": "Stuck-Up",
+  "sn7.15:5.1+sn7.15:6.4^speaker": "the Buddha",
+  "sn7.15:7.2+sn7.15:7.3^speaker": "Stuck-Up",
+  "sn7.15:7.2+sn7.15:7.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn7.15:7.2^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn7.15:7.2^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn7.15:7.2^who_around_here_and_before": [
+    "the Buddha",
+    "the assembly"
+  ],
+  "sn7.15:7.2^who_mentioned_here_and_before": [
+    "Stuck-Up's mother",
+    "Stuck-Up's father",
+    "Stuck-Up's teacher",
+    "Stuck-Up's oldest brother"
+  ],
+  "sn7.15^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn7.15^where": "Sāvatthī"
+}

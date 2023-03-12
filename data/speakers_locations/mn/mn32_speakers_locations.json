@@ -1,0 +1,155 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn32:2.2^speaker": "Mahāmoggallāna",
+  "mn32:2.2^who_else_mentioned": [
+    "Kassapa",
+    "Sāriputta"
+  ],
+  "mn32:2.3^speaker": "Mahākassapa",
+  "mn32:4.3+mn32:4.6^speaker": "Sāriputta",
+  "mn32:4.3+mn32:4.6^where_else_mentioned": [
+    "Gosiṅga"
+  ],
+  "mn32:4.3+mn32:4.6^who_else_mentioned": [
+    "Ānanda",
+    "Buddha"
+  ],
+  "mn32:4.7+mn32:4.9^speaker": "Ānanda",
+  "mn32:4.7+mn32:4.9^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn32:5.2+mn32:5.3^speaker": "Sāriputta",
+  "mn32:5.2+mn32:5.3^who_else_mentioned": [
+    "Revata",
+    "Ānanda"
+  ],
+  "mn32:5.6+mn32:5.7^speaker": "Revata",
+  "mn32:5.6+mn32:5.7^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn32:6.2+mn32:6.3^speaker": "Sāriputta",
+  "mn32:6.2+mn32:6.3^who_else_mentioned": [
+    "Anuruddha",
+    "Revata"
+  ],
+  "mn32:6.6+mn32:6.9^speaker": "Anuruddha",
+  "mn32:6.6+mn32:6.9^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn32:7.2+mn32:7.3^speaker": "Sāriputta",
+  "mn32:7.2+mn32:7.3^who_else_mentioned": [
+    "Kassapa",
+    "Anuruddha"
+  ],
+  "mn32:7.6+mn32:7.7^speaker": "Mahākassapa",
+  "mn32:7.6+mn32:7.7^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn32:8.2+mn32:8.3^speaker": "Sāriputta",
+  "mn32:8.2+mn32:8.3^who_else_mentioned": [
+    "Moggallāna",
+    "Mahākassapa"
+  ],
+  "mn32:8.6+mn32:8.7^speaker": "Mahāmoggallāna",
+  "mn32:8.6+mn32:8.7^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn32:9.2+mn32:9.5^speaker": "Mahāmoggallāna",
+  "mn32:9.2+mn32:9.5^where_else_mentioned": [
+    "Sāriputta",
+    "Gosiṅga"
+  ],
+  "mn32:9.6+mn32:9.18^speaker": "Sāriputta",
+  "mn32:9.6+mn32:9.18^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "mn32:10.2+mn32:10.4^speaker": "Sāriputta",
+  "mn32:10.2+mn32:10.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn32:10.5^speaker": "Mahākassapa, Anuruddha, Revata",
+  "mn32:11.6+mn32:11.11^speaker": "Sāriputta",
+  "mn32:11.6+mn32:11.11^where_else_mentioned": [
+    "Gosiṅga"
+  ],
+  "mn32:11.6+mn32:11.11^who_else_mentioned": [
+    "Ānanda",
+    "Sāriputta"
+  ],
+  "mn32:11.12+mn32:11.14^speaker": "The Buddha",
+  "mn32:11.12+mn32:11.14^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn32:12.1+mn32:12.8^speaker": "Sāriputta",
+  "mn32:12.1+mn32:12.8^who_else_mentioned": [
+    "Revata"
+  ],
+  "mn32:12.9+mn32:12.11^speaker": "The Buddha",
+  "mn32:12.9+mn32:12.11^who_else_mentioned": [
+    "Revata"
+  ],
+  "mn32:13.1+mn32:13.7^speaker": "Sāriputta",
+  "mn32:13.1+mn32:13.7^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn32:13.8+mn32:13.9^speaker": "The Buddha",
+  "mn32:13.8+mn32:13.9^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn32:13.8^where_here_and_before": [
+    "sal forest park at Gosiṅga"
+  ],
+  "mn32:13.8^who_around_here_and_before": [
+    "The Buddha",
+    "Sāriputta",
+    "Mahāmoggallāna",
+    "Mahākassapa",
+    "Anuruddha",
+    "Revata",
+    "Ānanda"
+  ],
+  "mn32:14.1+mn32:14.7^speaker": "Sāriputta",
+  "mn32:14.1+mn32:14.7^who_else_mentioned": [
+    "Mahākassapa"
+  ],
+  "mn32:14.8+mn32:14.10^speaker": "The Buddha",
+  "mn32:14.8+mn32:14.10^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "mn32:15.1+mn32:15.7^speaker": "Sāriputta",
+  "mn32:15.1+mn32:15.7^who_else_mentioned": [
+    "Mahāmoggallāna"
+  ],
+  "mn32:15.8+mn32:15.9^speaker": "The Buddha",
+  "mn32:15.8+mn32:15.9^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "mn32:16.2+mn32:16.20^speaker": "Moggallāna",
+  "mn32:16.2+mn32:16.20^where_else_mentioned": [
+    "Gosiṅga"
+  ],
+  "mn32:16.2+mn32:16.20^who_else_mentioned": [
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "mn32:16.21+mn32:16.23^speaker": "Sāriputta",
+  "mn32:16.21+mn32:16.23^who_else_mentioned": [
+    "Moggallāna",
+    "Sāriputta"
+  ],
+  "mn32:17.2^speaker": "Sāriputta",
+  "mn32:17.3+mn32:17.7^speaker": "The Buddha",
+  "mn32:17.3+mn32:17.7^where_else_mentioned": [
+    "Gosiṅga"
+  ],
+  "mn32:17.3^where_here_and_before": [
+    "Park"
+  ],
+  "mn32:17.3^who_around_here_and_before": [
+    "Revata",
+    "Anuruddha",
+    "Mahākassapa",
+    "Mahāmoggallāna"
+  ],
+  "mn32^where": "sal forest park at Gosiṅga"
+}

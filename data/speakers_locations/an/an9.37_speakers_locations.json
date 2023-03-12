@@ -1,0 +1,38 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an9.37:1.3^speaker": "Ānanda",
+  "an9.37:1.4^speaker": "the mendicants",
+  "an9.37:2.1+an9.37:2.7^speaker": "Ānanda",
+  "an9.37:2.1+an9.37:2.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an9.37:3.2^speaker": "Udāyī",
+  "an9.37:3.2^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "an9.37:3.3^speaker": "Ānanda",
+  "an9.37:4.1^speaker": "Udāyī",
+  "an9.37:4.2+an9.37:8.5^speaker": "Ānanda",
+  "an9.37:4.2+an9.37:8.5^where_else_mentioned": [
+    "Sāketa",
+    "Añjana Wood"
+  ],
+  "an9.37:4.2+an9.37:8.5^who_else_mentioned": [
+    "Jaṭilagāhikā",
+    "Ānanda",
+    "Buddha"
+  ],
+  "an9.37:4.2^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "an9.37:4.2^where_here_and_before": [
+    "Ghosita's Monastery near Kosambi"
+  ],
+  "an9.37:4.2^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "an9.37^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "an9.37^where": "Ghosita's Monastery, Kosambi"
+}

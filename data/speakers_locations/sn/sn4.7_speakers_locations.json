@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn4.7:2.1+sn4.7:2.4^speaker": "Māra the Wicked",
+  "sn4.7:3.1+sn4.7:3.4^speaker": "The Buddha",
+  "sn4.7:3.1+sn4.7:3.4^who_else_mentioned": [
+    "Buddha",
+    "Māra"
+  ],
+  "sn4.7:3.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn4.7:3.1^where_here_and_before": [
+    "Bamboo Grove near Rājagaha"
+  ],
+  "sn4.7^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn4.7^where": "Bamboo Grove, near Rājagaha"
+}

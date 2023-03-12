@@ -1,0 +1,40 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.57:1.4^speaker": "General Sīha",
+  "an7.57:2.1+an7.57:2.5^speaker": "the Buddha",
+  "an7.57:2.1+an7.57:2.5^who_else_mentioned": [
+    "Sīha"
+  ],
+  "an7.57:3.1+an7.57:3.2^speaker": "General Sīha",
+  "an7.57:4.1^speaker": "the Buddha",
+  "an7.57:4.4^speaker": "General Sīha",
+  "an7.57:5.1^speaker": "the Buddha",
+  "an7.57:5.4^speaker": "General Sīha",
+  "an7.57:6.1^speaker": "the Buddha",
+  "an7.57:6.4^speaker": "General Sīha",
+  "an7.57:7.1^speaker": "the Buddha",
+  "an7.57:7.4^speaker": "General Sīha",
+  "an7.57:8.1^speaker": "the Buddha",
+  "an7.57:8.3+an7.57:8.4^speaker": "General Sīha",
+  "an7.57:9.1^speaker": "the Buddha",
+  "an7.57:9.3+an7.57:10.14^speaker": "General Sīha",
+  "an7.57:9.3+an7.57:10.14^who_else_mentioned": [
+    "Buddha",
+    "Sīha",
+    "Saṅgha"
+  ],
+  "an7.57:10.15+an7.57:10.16^speaker": "the Buddha",
+  "an7.57:10.15+an7.57:10.16^who_else_mentioned": [
+    "Sīha"
+  ],
+  "an7.57:10.15^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "an7.57:10.15^where_here_and_before": [
+    "Great Wood near Vesālī in the hall with the peaked roof"
+  ],
+  "an7.57^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "an7.57^where": "Great Wood, near Vesālī, in the hall with the peaked roof"
+}

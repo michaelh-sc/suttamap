@@ -1,0 +1,28 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an9.14:2.1^speaker": "Sāriputta",
+  "an9.14:2.1^who_else_mentioned": [
+    "Samiddhi"
+  ],
+  "an9.14:2.2^speaker": "Samiddhi",
+  "an9.14:3.1^speaker": "Sāriputta",
+  "an9.14:3.2^speaker": "Samiddhi",
+  "an9.14:4.1^speaker": "Sāriputta",
+  "an9.14:4.2^speaker": "Samiddhi",
+  "an9.14:5.1^speaker": "Sāriputta",
+  "an9.14:5.2^speaker": "Samiddhi",
+  "an9.14:6.1^speaker": "Sāriputta",
+  "an9.14:6.2^speaker": "Samiddhi",
+  "an9.14:7.1^speaker": "Sāriputta",
+  "an9.14:7.2^speaker": "Samiddhi",
+  "an9.14:8.1^speaker": "Sāriputta",
+  "an9.14:8.2^speaker": "Samiddhi",
+  "an9.14:9.1^speaker": "Sāriputta",
+  "an9.14:9.2^speaker": "Samiddhi",
+  "an9.14:10.1^speaker": "Sāriputta",
+  "an9.14:10.2^speaker": "Samiddhi",
+  "an9.14:11.1+an9.14:11.11^speaker": "Sāriputta",
+  "an9.14:11.1+an9.14:11.11^who_else_mentioned": [
+    "Samiddhi"
+  ]
+}

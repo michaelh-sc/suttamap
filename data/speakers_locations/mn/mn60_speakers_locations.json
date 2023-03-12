@@ -1,0 +1,60 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn60:2.2+mn60:2.7^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn60:2.2+mn60:2.7^where_else_mentioned": [
+    "Kosalans",
+    "Sālā"
+  ],
+  "mn60:2.2+mn60:2.7^who_else_mentioned": [
+    "Gotama—a Sakyan",
+    "Sakyan",
+    "Saṅgha",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn60:4.1^speaker": "the Buddha",
+  "mn60:4.2^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn60:4.3+mn60:6.5^speaker": "the Buddha",
+  "mn60:6.6^geographic_locations_here_and_before": [
+    "Sālā"
+  ],
+  "mn60:6.6^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn60:6.6^where_here_and_before": [
+    "the land of the Kosalans Sālā"
+  ],
+  "mn60:6.6^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "mn60:7.1+mn60:14.8^speaker": "the Buddha",
+  "mn60:7.1+mn60:14.8^where_else_mentioned": [
+    "Ganges"
+  ],
+  "mn60:14.9^geographic_locations_here_and_before": [
+    "Sālā"
+  ],
+  "mn60:14.9^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn60:14.9^where_here_and_before": [
+    "Sālā"
+  ],
+  "mn60:14.9^who_mentioned_here_and_before": [
+    "ascetics",
+    "brahmins"
+  ],
+  "mn60:15.1+mn60:22.10^speaker": "the Buddha",
+  "mn60:22.11^geographic_locations_here_and_before": [
+    "Sālā"
+  ],
+  "mn60:22.11^speaker": "brahmins and householders of Sālā",
+  "mn60:22.11^where_here_and_before": [
+    "Sālā"
+  ],
+  "mn60:23.1+mn60:30.5^speaker": "the Buddha",
+  "mn60:30.6^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn60:31.1+mn60:33.5^speaker": "the Buddha",
+  "mn60:33.6^speaker": "brahmins of Sālā and householders of Sālā",
+  "mn60^initial_geographic_location": [
+    "Sālā"
+  ],
+  "mn60^where": "the land of the Kosalans, Sālā"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn8.8:1.5+sn8.8:1.7^speaker": "Vaṅgīsa",
+  "sn8.8:1.5+sn8.8:1.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn8.8:2.2^speaker": "Vaṅgīsa",
+  "sn8.8:2.3^speaker": "the Buddha",
+  "sn8.8:3.1+sn8.8:6.4^speaker": "Vaṅgīsa",
+  "sn8.8:3.1+sn8.8:6.4^where_else_mentioned": [
+    "the Holy One"
+  ],
+  "sn8.8:3.1+sn8.8:6.4^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha",
+    "Vaṅgīsa"
+  ],
+  "sn8.8:7.1^speaker": "the Buddha",
+  "sn8.8:7.1^who_else_mentioned": [
+    "Vaṅgīsa"
+  ],
+  "sn8.8:7.2^speaker": "Vaṅgīsa",
+  "sn8.8:7.3^speaker": "the Buddha",
+  "sn8.8:7.3^who_else_mentioned": [
+    "Vaṅgīsa"
+  ],
+  "sn8.8:7.4^speaker": "Vaṅgīsa",
+  "sn8.8:8.1+sn8.8:11.4^speaker": "Vaṅgīsa",
+  "sn8.8:8.1+sn8.8:11.4^who_else_mentioned": [
+    "Māra",
+    "Buddha"
+  ],
+  "sn8.8:8.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "sn8.8:8.1^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "sn8.8:8.1^who_around_here_and_before": [
+    "a large Saṅgha of 1,250 mendicants"
+  ],
+  "sn8.8:8.1^who_mentioned_here_and_before": [
+    "Māra"
+  ],
+  "sn8.8^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "sn8.8^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

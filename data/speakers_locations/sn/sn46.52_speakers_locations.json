@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn46.52:1.3+sn46.52:1.4^speaker": "the mendicants",
+  "sn46.52:1.3+sn46.52:1.4^who_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "sn46.52:3.1+sn46.52:3.5^speaker": "the wanderers",
+  "sn46.52:3.1+sn46.52:3.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn46.52:4.3^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn46.52:4.3^speaker": "the mendicants",
+  "sn46.52:4.3^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn46.52:4.3^who_around_here_and_before": [
+    "the wanderers"
+  ],
+  "sn46.52:4.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn46.52:4.3^who_mentioned_here_and_before": [
+    "the ascetic Buddha"
+  ],
+  "sn46.52:8.1+sn46.52:16.3^speaker": "the Buddha (assumed)",
+  "sn46.52:8.1+sn46.52:16.3^who_else_mentioned": [
+    "Māras",
+    "Brahmās"
+  ],
+  "sn46.52:8.1^who_around_here_and_before": [
+    "the wanderers who follow other paths"
+  ],
+  "sn46.52:8.1^who_mentioned_here_and_before": [
+    "the seven awakening factors"
+  ],
+  "sn46.52^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn46.52^where": "Sāvatthī"
+}

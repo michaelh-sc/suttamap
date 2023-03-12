@@ -1,0 +1,80 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.126:2.1^speaker": "the Buddha",
+  "an3.126:2.1^where_else_mentioned": [
+    "Kapilavatthu",
+    "Mahānāma"
+  ],
+  "an3.126:2.2^speaker": "Mahānāma",
+  "an3.126:3.2+an3.126:3.4^speaker": "Mahānāma",
+  "an3.126:3.2+an3.126:3.4^where_else_mentioned": [
+    "Kapilavatthu"
+  ],
+  "an3.126:3.2+an3.126:3.4^who_else_mentioned": [
+    "Bharaṇḍu",
+    "Kālāma",
+    "Buddha"
+  ],
+  "an3.126:3.5^speaker": "the Buddha",
+  "an3.126:3.5^where_else_mentioned": [
+    "Mahānāma"
+  ],
+  "an3.126:3.6^speaker": "Mahānāma",
+  "an3.126:3.7+an3.126:3.8^speaker": "Mahānāma",
+  "an3.126:4.4+an3.126:4.6^speaker": "Mahānāma",
+  "an3.126:4.4+an3.126:4.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an3.126:5.2+an3.126:5.10^speaker": "the Buddha",
+  "an3.126:5.2+an3.126:5.10^who_else_mentioned": [
+    "Mahānāma"
+  ],
+  "an3.126:6.2^speaker": "Bharaṇḍu",
+  "an3.126:6.2^who_else_mentioned": [
+    "Mahānāma"
+  ],
+  "an3.126:6.4^speaker": "the Buddha",
+  "an3.126:6.4^who_else_mentioned": [
+    "Mahānāma"
+  ],
+  "an3.126:6.6^speaker": "Bharaṇḍu",
+  "an3.126:6.6^who_else_mentioned": [
+    "Mahānāma"
+  ],
+  "an3.126:6.8^speaker": "the Buddha",
+  "an3.126:6.8^who_else_mentioned": [
+    "Mahānāma"
+  ],
+  "an3.126:6.10^speaker": "Bharaṇḍu",
+  "an3.126:6.10^who_else_mentioned": [
+    "Mahānāma"
+  ],
+  "an3.126:6.12^speaker": "the Buddha",
+  "an3.126:6.12^who_else_mentioned": [
+    "Mahānāma"
+  ],
+  "an3.126:7.2+an3.126:7.3^speaker": "Bharaṇḍu",
+  "an3.126:7.2+an3.126:7.3^where_else_mentioned": [
+    "Kapilavatthu"
+  ],
+  "an3.126:7.2+an3.126:7.3^who_else_mentioned": [
+    "Buddha",
+    "Mahānāma"
+  ],
+  "an3.126:7.2^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "an3.126:7.2^where_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "an3.126:7.2^who_around_here_and_before": [
+    "Mahānāma"
+  ],
+  "an3.126:7.2^who_mentioned_here_and_before": [
+    "Bharaṇḍu"
+  ],
+  "an3.126^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "an3.126^where": "Kapilavatthu"
+}

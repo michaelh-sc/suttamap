@@ -1,0 +1,74 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.192:2.1+an5.192:2.5^speaker": "Doṇa the brahmin",
+  "an5.192:2.1+an5.192:2.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.192:2.6^speaker": "the Buddha",
+  "an5.192:2.6^who_else_mentioned": [
+    "Doṇa"
+  ],
+  "an5.192:2.7+an5.192:2.11^speaker": "Doṇa the brahmin",
+  "an5.192:2.7+an5.192:2.11^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.192:3.1+an5.192:3.4^speaker": "the Buddha",
+  "an5.192:3.1+an5.192:3.4^where_else_mentioned": [
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Bhāradvāja",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu"
+  ],
+  "an5.192:3.1+an5.192:3.4^who_else_mentioned": [
+    "Brahmā",
+    "Doṇa"
+  ],
+  "an5.192:4.1+an5.192:4.2^speaker": "Doṇa the brahmin",
+  "an5.192:4.1+an5.192:4.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.192:4.3^speaker": "the Buddha",
+  "an5.192:4.4^speaker": "Doṇa the brahmin",
+  "an5.192:4.4^who_mentioned_here_and_before": [
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Bhāradvāja",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu"
+  ],
+  "an5.192:5.1+an5.192:15.4^speaker": "the Buddha",
+  "an5.192:5.1+an5.192:15.4^where_else_mentioned": [
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Bhāradvāja",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu"
+  ],
+  "an5.192:5.1+an5.192:15.4^who_else_mentioned": [
+    "Doṇa",
+    "Brahmā"
+  ],
+  "an5.192:16.1+an5.192:16.2^speaker": "Doṇa the brahmin",
+  "an5.192:16.1+an5.192:16.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.192:16.1^who_mentioned_here_and_before": [
+    "Brahmā"
+  ]
+}

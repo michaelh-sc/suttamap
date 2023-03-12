@@ -1,0 +1,71 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.86:1.5+sn22.86:1.6^speaker": "Wanderers who follow other paths",
+  "sn22.86:1.5+sn22.86:1.6^who_else_mentioned": [
+    "Anurādha"
+  ],
+  "sn22.86:2.2+sn22.86:2.3^speaker": "Anurādha",
+  "sn22.86:2.5^speaker": "Wanderers who follow other paths",
+  "sn22.86:2.6^speaker": "Wanderers who follow other paths",
+  "sn22.86:3.2+sn22.86:3.3^speaker": "Anurādha",
+  "sn22.86:3.2+sn22.86:3.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn22.86:7.1+sn22.86:7.2^speaker": "The Buddha",
+  "sn22.86:7.1+sn22.86:7.2^who_else_mentioned": [
+    "Anurādha"
+  ],
+  "sn22.86:7.3^speaker": "Anurādha",
+  "sn22.86:7.4^speaker": "The Buddha",
+  "sn22.86:7.5^speaker": "Anurādha",
+  "sn22.86:7.6+sn22.86:7.7^speaker": "The Buddha",
+  "sn22.86:7.8^speaker": "Anurādha",
+  "sn22.86:7.9+sn22.86:7.12^speaker": "The Buddha",
+  "sn22.86:7.13^speaker": "Anurādha",
+  "sn22.86:7.14+sn22.86:8.2^speaker": "The Buddha",
+  "sn22.86:7.14+sn22.86:8.2^who_else_mentioned": [
+    "Anurādha"
+  ],
+  "sn22.86:8.3^speaker": "Anurādha",
+  "sn22.86:8.4+sn22.86:8.7^speaker": "The Buddha",
+  "sn22.86:8.8^speaker": "Anurādha",
+  "sn22.86:9.1+sn22.86:9.2^speaker": "The Buddha",
+  "sn22.86:9.1+sn22.86:9.2^who_else_mentioned": [
+    "Anurādha"
+  ],
+  "sn22.86:9.3^speaker": "Anurādha",
+  "sn22.86:9.4^speaker": "The Buddha",
+  "sn22.86:9.5^speaker": "Anurādha",
+  "sn22.86:9.6+sn22.86:9.13^speaker": "The Buddha",
+  "sn22.86:9.14^speaker": "Anurādha",
+  "sn22.86:10.1+sn22.86:10.2^speaker": "The Buddha",
+  "sn22.86:10.1+sn22.86:10.2^who_else_mentioned": [
+    "Anurādha"
+  ],
+  "sn22.86:10.3^speaker": "Anurādha",
+  "sn22.86:11.1+sn22.86:11.2^speaker": "The Buddha",
+  "sn22.86:11.1+sn22.86:11.2^who_else_mentioned": [
+    "Anurādha"
+  ],
+  "sn22.86:11.3^speaker": "Anurādha",
+  "sn22.86:12.1+sn22.86:12.3^speaker": "The Buddha",
+  "sn22.86:12.1+sn22.86:12.3^who_else_mentioned": [
+    "Anurādha",
+    "the Realized One"
+  ],
+  "sn22.86:12.4^speaker": "Anurādha",
+  "sn22.86:13.1+sn22.86:13.2^speaker": "The Buddha",
+  "sn22.86:13.1^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "sn22.86:13.1^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "sn22.86:13.1^who_around_here_and_before": [
+    "Wanderers who follow other paths"
+  ],
+  "sn22.86^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "sn22.86^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

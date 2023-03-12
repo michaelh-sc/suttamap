@@ -1,0 +1,121 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.85:1.3^speaker": "Yamaka",
+  "sn22.85:1.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn22.85:3.1+sn22.85:3.2^speaker": "the mendicants",
+  "sn22.85:3.1+sn22.85:3.2^who_else_mentioned": [
+    "Yamaka",
+    "Buddha"
+  ],
+  "sn22.85:3.3^speaker": "Yamaka",
+  "sn22.85:3.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn22.85:4.1^speaker": "the mendicants",
+  "sn22.85:4.1^who_else_mentioned": [
+    "Yamaka",
+    "Buddha"
+  ],
+  "sn22.85:5.4^speaker": "the mendicants",
+  "sn22.85:5.4^where_else_mentioned": [
+    "Yamaka"
+  ],
+  "sn22.85:5.4^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn22.85:6.1+sn22.85:6.2^speaker": "Sāriputta",
+  "sn22.85:6.1+sn22.85:6.2^who_else_mentioned": [
+    "Yamaka",
+    "Buddha"
+  ],
+  "sn22.85:6.3^speaker": "Yamaka",
+  "sn22.85:6.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn22.85:7.1+sn22.85:7.2^speaker": "Sāriputta",
+  "sn22.85:7.1+sn22.85:7.2^who_else_mentioned": [
+    "Yamaka"
+  ],
+  "sn22.85:7.3^speaker": "Yamaka",
+  "sn22.85:7.4+sn22.85:7.7^speaker": "Sāriputta",
+  "sn22.85:7.8^speaker": "Yamaka",
+  "sn22.85:7.9+sn22.85:8.2^speaker": "Sāriputta",
+  "sn22.85:7.9+sn22.85:8.2^who_else_mentioned": [
+    "Yamaka"
+  ],
+  "sn22.85:8.3^speaker": "Yamaka",
+  "sn22.85:8.4+sn22.85:8.8^speaker": "Sāriputta",
+  "sn22.85:8.9^speaker": "Yamaka",
+  "sn22.85:9.1+sn22.85:9.2^speaker": "Sāriputta",
+  "sn22.85:9.1+sn22.85:9.2^who_else_mentioned": [
+    "Yamaka"
+  ],
+  "sn22.85:9.3^speaker": "Yamaka",
+  "sn22.85:9.4^speaker": "Sāriputta",
+  "sn22.85:9.5^speaker": "Yamaka",
+  "sn22.85:9.6+sn22.85:9.12^speaker": "Sāriputta",
+  "sn22.85:9.13^speaker": "Yamaka",
+  "sn22.85:9.14^speaker": "Sāriputta",
+  "sn22.85:9.15^speaker": "Yamaka",
+  "sn22.85:10.1+sn22.85:10.2^speaker": "Sāriputta",
+  "sn22.85:10.1+sn22.85:10.2^who_else_mentioned": [
+    "Yamaka"
+  ],
+  "sn22.85:10.3^speaker": "Yamaka",
+  "sn22.85:11.1+sn22.85:11.2^speaker": "Sāriputta",
+  "sn22.85:11.1+sn22.85:11.2^who_else_mentioned": [
+    "Yamaka"
+  ],
+  "sn22.85:11.3^speaker": "Yamaka",
+  "sn22.85:11.4+sn22.85:11.5^speaker": "Sāriputta",
+  "sn22.85:11.4+sn22.85:11.5^who_else_mentioned": [
+    "Yamaka",
+    "Buddha"
+  ],
+  "sn22.85:12.1+sn22.85:12.2^speaker": "Yamaka",
+  "sn22.85:12.1+sn22.85:12.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn22.85:13.1+sn22.85:13.3^speaker": "Sāriputta",
+  "sn22.85:13.1+sn22.85:13.3^who_else_mentioned": [
+    "Yamaka"
+  ],
+  "sn22.85:13.4+sn22.85:13.16^speaker": "Yamaka",
+  "sn22.85:14.1+sn22.85:15.11^speaker": "Sāriputta",
+  "sn22.85:14.1+sn22.85:15.11^who_else_mentioned": [
+    "Yamaka"
+  ],
+  "sn22.85:15.12^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "sn22.85:15.12^speaker": "Yamaka",
+  "sn22.85:15.12^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery in Sāvatthī"
+  ],
+  "sn22.85:15.12^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "sn22.85:15.12^who_mentioned_here_and_before": [
+    "the Buddha"
+  ],
+  "sn22.85:15.13+sn22.85:28.6^speaker": "Sāriputta",
+  "sn22.85:28.7+sn22.85:28.8^speaker": "Yamaka",
+  "sn22.85:28.7+sn22.85:28.8^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn22.85:28.7^who_around_here_and_before": [
+    "Sāriputta"
+  ],
+  "sn22.85:28.7^who_mentioned_here_and_before": [
+    "uneducated ordinary person",
+    "noble ones",
+    "good persons"
+  ],
+  "sn22.85^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "sn22.85^where": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī"
+}

@@ -1,0 +1,90 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn26:2.3+mn26:2.4^speaker": "several mendicants",
+  "mn26:2.3+mn26:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn26:2.5+mn26:2.6^speaker": "Ānanda",
+  "mn26:2.5+mn26:2.6^where_else_mentioned": [
+    "Rammaka"
+  ],
+  "mn26:2.5+mn26:2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn26:2.7^speaker": "several mendicants",
+  "mn26:3.2^speaker": "the Buddha",
+  "mn26:3.2^who_else_mentioned": [
+    "Ānanda",
+    "Migāra"
+  ],
+  "mn26:3.3^speaker": "Ānanda",
+  "mn26:3.6^speaker": "the Buddha",
+  "mn26:3.6^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn26:3.7^speaker": "Ānanda",
+  "mn26:3.11+mn26:3.14^speaker": "Ānanda",
+  "mn26:3.11+mn26:3.14^where_else_mentioned": [
+    "Rammaka"
+  ],
+  "mn26:4.8^speaker": "the Buddha",
+  "mn26:4.9^speaker": "several mendicants",
+  "mn26:4.9^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn26:4.10+mn26:42.5^speaker": "the Buddha",
+  "mn26:4.10+mn26:42.5^where_else_mentioned": [
+    "Senanigama",
+    "Uruvelā",
+    "Benares",
+    "Isipatana",
+    "Gayā",
+    "Bodhgaya",
+    "Kāsi"
+  ],
+  "mn26:4.10+mn26:42.5^who_else_mentioned": [
+    "Āḷāra Kālāma",
+    "Kālāma",
+    "Uddaka",
+    "Rāma",
+    "Magadhan",
+    "Brahmā Sahampati",
+    "the mind of the Realized One",
+    "Buddha",
+    "Brahmā",
+    "the Blessed One",
+    "the Holy One",
+    "Magadhans",
+    "Victor",
+    "Upaka",
+    "the Infinite Victor",
+    "Gotama",
+    "The Realized One",
+    "Mendicants",
+    "the Wicked One",
+    "Māra"
+  ],
+  "mn26:4.10^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn26:4.10^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery",
+    "the Eastern Monastery",
+    "the stilt longhouse of Migāra's mother",
+    "the brahmin Rammaka's hermitage"
+  ],
+  "mn26:4.10^who_around_here_and_before": [
+    "Ānanda"
+  ],
+  "mn26:4.10^who_mentioned_here_and_before": [
+    "Āḷāra Kālāma",
+    "Rāma"
+  ],
+  "mn26:15.9^speaker": "Āḷāra Kālāma",
+  "mn26:16.9^speaker": "Rāma",
+  "mn26^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn26^where": "Jeta's Grove, Anāthapiṇḍika's monastery, the Eastern Monastery, the stilt longhouse of Migāra's mother, the brahmin Rammaka's hermitage"
+}

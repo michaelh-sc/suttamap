@@ -1,0 +1,5 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn46.21:2.1+sn46.21:2.2^speaker": "the mendicant",
+  "sn46.21:2.3+sn46.21:2.6^speaker": "the Buddha (assumed)"
+}

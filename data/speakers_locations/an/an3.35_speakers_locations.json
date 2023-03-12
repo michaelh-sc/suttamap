@@ -1,0 +1,30 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.35:1.5^speaker": "Hatthaka of Āḷavī",
+  "an3.35:1.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an3.35:1.6+an3.35:1.7^speaker": "the Buddha",
+  "an3.35:2.1+an3.35:2.4^speaker": "the Buddha",
+  "an3.35:2.1+an3.35:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an3.35:3.1+an3.35:3.7^speaker": "the Buddha",
+  "an3.35:3.8+an3.35:3.9^speaker": "Hatthaka of Āḷavī",
+  "an3.35:4.1+an3.35:4.2^speaker": "the Buddha",
+  "an3.35:4.3^speaker": "Hatthaka of Āḷavī",
+  "an3.35:5.1+an3.35:6.3^speaker": "the Buddha",
+  "an3.35:6.4^speaker": "Hatthaka of Āḷavī",
+  "an3.35:7.1+an3.35:9.4^speaker": "the Buddha",
+  "an3.35:7.1^geographic_locations_here_and_before": [
+    "Āḷavī"
+  ],
+  "an3.35:7.1^where_here_and_before": [
+    "Āḷavī",
+    "on a mat of leaves by a cow-path in a grove of Indian Rosewood"
+  ],
+  "an3.35^initial_geographic_location": [
+    "Āḷavī"
+  ],
+  "an3.35^where": "Āḷavī, on a mat of leaves by a cow-path in a grove of Indian Rosewood"
+}

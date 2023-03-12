@@ -1,0 +1,31 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn41.5:2.1+sn41.5:4.1^speaker": "Kāmabhū",
+  "sn41.5:4.2^speaker": "Citta the householder",
+  "sn41.5:4.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn41.5:4.3^speaker": "Kāmabhū",
+  "sn41.5:4.4^speaker": "Citta the householder",
+  "sn41.5:5.1+sn41.5:6.4^speaker": "Citta the householder",
+  "sn41.5:5.1+sn41.5:6.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn41.5:7.2+sn41.5:7.3^speaker": "Kāmabhū",
+  "sn41.5:7.2+sn41.5:7.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn41.5:7.2^geographic_locations_here_and_before": [
+    "Macchikāsaṇḍa"
+  ],
+  "sn41.5:7.2^where_here_and_before": [
+    "Macchikāsaṇḍa in the Wild Mango Grove"
+  ],
+  "sn41.5:7.2^who_around_here_and_before": [
+    "Citta the householder"
+  ],
+  "sn41.5^initial_geographic_location": [
+    "Macchikāsaṇḍa"
+  ],
+  "sn41.5^where": "Macchikāsaṇḍa in the Wild Mango Grove"
+}

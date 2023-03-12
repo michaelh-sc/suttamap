@@ -1,0 +1,69 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn95:3.2+mn95:3.7^speaker": "The brahmins of Opāsāda and householders of Opāsāda",
+  "mn95:3.2+mn95:3.7^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Saṅgha",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn95:5.4^speaker": "Caṅkī",
+  "mn95:6.1+mn95:6.4^speaker": "Steward",
+  "mn95:6.1+mn95:6.4^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha",
+    "Buddha"
+  ],
+  "mn95:6.8^speaker": "Steward",
+  "mn95:7.5^speaker": "Brahmins and householders",
+  "mn95:7.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:7.6^speaker": "Caṅkī",
+  "mn95:12.5^speaker": "Kāpaṭika",
+  "mn95:12.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:13.4^speaker": "Buddha",
+  "mn95:13.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:13.8^speaker": "Buddha",
+  "mn95:13.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:13.13^speaker": "Buddha",
+  "mn95:13.13^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:14.1^speaker": "Bhāradvāja",
+  "mn95:15.1^speaker": "Buddha",
+  "mn95:15.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:23.1^speaker": "Buddha",
+  "mn95:23.1^where_here_and_before": [
+    "Opāsāda",
+    "God's Grove"
+  ],
+  "mn95:23.1^who_around_here_and_before": [
+    "Brahmins",
+    "householders",
+    "Steward"
+  ],
+  "mn95:23.1^who_mentioned_here_and_before": [
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu",
+    "King Pasenadi of Kosala"
+  ],
+  "mn95^where": "north of Opāsāda, God's Grove"
+}

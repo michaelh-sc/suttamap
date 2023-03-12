@@ -1,0 +1,40 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn1.33:2.1+sn1.33:2.5^speaker": "one deity",
+  "sn1.33:4.1+sn1.33:5.4^speaker": "another deity",
+  "sn1.33:7.1+sn1.33:7.7^speaker": "another deity",
+  "sn1.33:9.1+sn1.33:10.4^speaker": "another deity",
+  "sn1.33:9.1+sn1.33:10.4^where_else_mentioned": [
+    "Vetaraṇi River"
+  ],
+  "sn1.33:9.1+sn1.33:10.4^who_else_mentioned": [
+    "Yama"
+  ],
+  "sn1.33:12.1+sn1.33:13.4^speaker": "another deity",
+  "sn1.33:12.1+sn1.33:13.4^who_else_mentioned": [
+    "The Holy One"
+  ],
+  "sn1.33:15.1+sn1.33:16.4^speaker": "another deity",
+  "sn1.33:17.2^speaker": "another deity",
+  "sn1.33:18.1+sn1.33:19.4^speaker": "the Buddha",
+  "sn1.33:18.1^geographic_locations_here_and_before": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "sn1.33:18.1^where_here_and_before": [
+    "Sāvatthī",
+    "Jeta's Grove"
+  ],
+  "sn1.33:18.1^who_around_here_and_before": [
+    "several glorious deities of the Satullapa Group"
+  ],
+  "sn1.33:18.1^who_mentioned_here_and_before": [
+    "the wise",
+    "the virtuous"
+  ],
+  "sn1.33^initial_geographic_location": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "sn1.33^where": "Sāvatthī, Jeta's Grove"
+}

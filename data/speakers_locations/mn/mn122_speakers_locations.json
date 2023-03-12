@@ -1,0 +1,43 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn122:2.6+mn122:2.7^speaker": "The Buddha",
+  "mn122:2.11+mn122:2.12^speaker": "The Buddha",
+  "mn122:2.11+mn122:2.12^where_else_mentioned": [
+    "Kāḷakhemaka"
+  ],
+  "mn122:2.14+mn122:2.15^speaker": "Ānanda",
+  "mn122:3.1+mn122:19.2^speaker": "The Buddha",
+  "mn122:3.1+mn122:19.2^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn122:17.3^speaker": "The Buddha",
+  "mn122:19.3^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "mn122:19.3^speaker": "Ānanda",
+  "mn122:19.3^where_here_and_before": [
+    "Kapilavatthu in the Banyan Tree Monastery"
+  ],
+  "mn122:19.3^who_around_here_and_before": [
+    "Many other mendicants"
+  ],
+  "mn122:19.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn122:19.3^who_mentioned_here_and_before": [
+    "Kāḷakhemaka the Sakyan",
+    "Ghaṭa the Sakyan"
+  ],
+  "mn122:20.1+mn122:27.4^speaker": "The Buddha",
+  "mn122:20.1+mn122:27.4^who_else_mentioned": [
+    "Buddha",
+    "Ānanda"
+  ],
+  "mn122:20.1^who_around_here_and_before": [
+    "Ānanda"
+  ],
+  "mn122^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "mn122^where": "Kapilavatthu in the Banyan Tree Monastery"
+}

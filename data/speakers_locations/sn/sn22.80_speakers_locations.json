@@ -1,0 +1,38 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.80:2.2+sn22.80:2.10^speaker": "The Buddha",
+  "sn22.80:2.2+sn22.80:2.10^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "sn22.80:3.3+sn22.80:3.13^speaker": "Brahmā Sahampati",
+  "sn22.80:3.3+sn22.80:3.13^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "sn22.80:6.1+sn22.80:10.2^speaker": "The Buddha",
+  "sn22.80:10.3^speaker": "Mendicants",
+  "sn22.80:10.4^speaker": "The Buddha",
+  "sn22.80:10.5^speaker": "Mendicants",
+  "sn22.80:10.6+sn22.80:10.7^speaker": "The Buddha",
+  "sn22.80:10.8^speaker": "Mendicants",
+  "sn22.80:10.9+sn22.80:10.12^speaker": "The Buddha",
+  "sn22.80:10.13+sn22.80:10.15^speaker": "The Buddha",
+  "sn22.80:10.13^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "sn22.80:10.13^where_here_and_before": [
+    "Kapilavatthu",
+    "Banyan Tree Monastery",
+    "Great Wood"
+  ],
+  "sn22.80:10.13^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "sn22.80:10.13^who_mentioned_here_and_before": [
+    "Brahmā Sahampati"
+  ],
+  "sn22.80^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "sn22.80^where": "Kapilavatthu, Banyan Tree Monastery, Great Wood"
+}

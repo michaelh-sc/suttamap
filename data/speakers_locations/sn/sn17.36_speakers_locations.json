@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn17.36:1.4^speaker": "Several mendicants",
+  "sn17.36:1.4^who_else_mentioned": [
+    "Prince Ajātasattu",
+    "Devadatta"
+  ],
+  "sn17.36:1.5+sn17.36:2.3^speaker": "The Buddha",
+  "sn17.36:1.5+sn17.36:2.3^who_else_mentioned": [
+    "Devadatta",
+    "Prince Ajātasattu"
+  ],
+  "sn17.36:1.5^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn17.36:1.5^where_here_and_before": [
+    "Bamboo Grove near Rājagaha"
+  ],
+  "sn17.36:1.5^who_around_here_and_before": [
+    "Prince Ajātasattu"
+  ],
+  "sn17.36:1.5^who_mentioned_here_and_before": [
+    "Devadatta"
+  ],
+  "sn17.36^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn17.36^where": "Bamboo Grove, near Rājagaha"
+}

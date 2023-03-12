@@ -1,0 +1,18 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn11.16:2.1+sn11.16:2.4^speaker": "Sakka, lord of gods",
+  "sn11.16:3.1+sn11.16:4.4^speaker": "The Buddha",
+  "sn11.16:3.1+sn11.16:4.4^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "sn11.16:3.1^geographic_locations_here_and_before": [
+    "Gijjhakūṭa"
+  ],
+  "sn11.16:3.1^where_here_and_before": [
+    "Vulture's Peak Mountain near Rājagaha"
+  ],
+  "sn11.16^initial_geographic_location": [
+    "Gijjhakūṭa"
+  ],
+  "sn11.16^where": "Vulture's Peak Mountain, near Rājagaha"
+}

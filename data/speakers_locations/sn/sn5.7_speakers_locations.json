@@ -1,0 +1,35 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn5.7:1.5^speaker": "Māra the Wicked",
+  "sn5.7:1.6^speaker": "Upacālā",
+  "sn5.7:2.1+sn5.7:2.6^speaker": "Māra the Wicked",
+  "sn5.7:2.1+sn5.7:2.6^who_else_mentioned": [
+    "Yama"
+  ],
+  "sn5.7:3.1+sn5.7:5.4^speaker": "Upacālā",
+  "sn5.7:3.1+sn5.7:5.4^who_else_mentioned": [
+    "Yama",
+    "Māra"
+  ],
+  "sn5.7:6.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn5.7:6.1^speaker": "Māra the Wicked",
+  "sn5.7:6.1^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn5.7:6.1^who_around_here_and_before": [
+    "Upacālā"
+  ],
+  "sn5.7:6.1^who_else_mentioned": [
+    "Upacālā"
+  ],
+  "sn5.7:6.1^who_mentioned_here_and_before": [
+    "Gods of the Thirty-Three",
+    "Gods of Yama"
+  ],
+  "sn5.7^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn5.7^where": "Sāvatthī"
+}

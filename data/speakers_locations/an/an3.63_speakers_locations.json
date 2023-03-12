@@ -1,0 +1,59 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.63:1.3+an3.63:1.8^speaker": "brahmins of Venāgapura and householders of Venāgapura",
+  "an3.63:1.3+an3.63:1.8^where_else_mentioned": [
+    "Venāgapura"
+  ],
+  "an3.63:1.3+an3.63:1.8^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "an3.63:3.1+an3.63:3.10^speaker": "Vacchagotta of Venāgapura",
+  "an3.63:3.1+an3.63:3.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an3.63:4.1+an3.63:5.4^speaker": "the Buddha",
+  "an3.63:4.1+an3.63:5.4^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "an3.63:6.1^speaker": "Vacchagotta of Venāgapura",
+  "an3.63:6.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an3.63:6.2+an3.63:6.13^speaker": "the Buddha",
+  "an3.63:7.1+an3.63:8.1^speaker": "Vacchagotta of Venāgapura",
+  "an3.63:7.1+an3.63:8.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an3.63:8.2+an3.63:8.13^speaker": "the Buddha",
+  "an3.63:8.2+an3.63:8.13^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "an3.63:9.1+an3.63:10.1^speaker": "Vacchagotta of Venāgapura",
+  "an3.63:9.1+an3.63:10.1^who_else_mentioned": [
+    "Gotama",
+    "Brahmā"
+  ],
+  "an3.63:10.2+an3.63:10.13^speaker": "the Buddha",
+  "an3.63:11.1+an3.63:12.4^speaker": "Vacchagotta of Venāgapura",
+  "an3.63:11.1+an3.63:12.4^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "an3.63:11.1^geographic_locations_here_and_before": [
+    "Venāgapura"
+  ],
+  "an3.63:11.1^where_here_and_before": [
+    "the land of the Kosalans Venāgapura"
+  ],
+  "an3.63:11.1^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "an3.63^initial_geographic_location": [
+    "Venāgapura"
+  ],
+  "an3.63^where": "the land of the Kosalans, Venāgapura"
+}

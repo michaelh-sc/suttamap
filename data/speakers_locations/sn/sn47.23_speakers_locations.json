@@ -1,0 +1,22 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn47.23:1.4+sn47.23:1.5^speaker": "Bhadda",
+  "sn47.23:1.4+sn47.23:1.5^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn47.23:2.1+sn47.23:2.5^speaker": "Ānanda",
+  "sn47.23:2.1+sn47.23:2.5^who_else_mentioned": [
+    "Bhadda"
+  ],
+  "sn47.23:2.6^speaker": "Bhadda",
+  "sn47.23:2.7+sn47.23:3.7^speaker": "Ānanda",
+  "sn47.23:2.7^where_here_and_before": [
+    "Pāṭaliputta",
+    "in the Chicken Monastery"
+  ],
+  "sn47.23:2.7^who_around_here_and_before": [
+    "Ānanda",
+    "Bhadda"
+  ],
+  "sn47.23^where": "Pāṭaliputta, in the Chicken Monastery"
+}

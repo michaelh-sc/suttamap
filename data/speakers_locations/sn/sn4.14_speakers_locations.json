@@ -1,0 +1,30 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn4.14:2.2+sn4.14:2.3^speaker": "Māra the Wicked",
+  "sn4.14:2.2+sn4.14:2.3^where_else_mentioned": [
+    "Gotama"
+  ],
+  "sn4.14:3.1+sn4.14:3.4^speaker": "Māra the Wicked",
+  "sn4.14:4.1+sn4.14:4.4^speaker": "the Buddha",
+  "sn4.14:4.1+sn4.14:4.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn4.14:5.1^geographic_locations_here_and_before": [
+    "Ekasālā"
+  ],
+  "sn4.14:5.1^speaker": "Māra the Wicked",
+  "sn4.14:5.1^where_here_and_before": [
+    "the land of the Kosalans near the brahmin village of Ekasālā"
+  ],
+  "sn4.14:5.1^who_around_here_and_before": [
+    "a large assembly of laypeople"
+  ],
+  "sn4.14:5.1^who_else_mentioned": [
+    "Buddha",
+    "The Holy One"
+  ],
+  "sn4.14^initial_geographic_location": [
+    "Ekasālā"
+  ],
+  "sn4.14^where": "the land of the Kosalans near the brahmin village of Ekasālā"
+}

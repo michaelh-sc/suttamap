@@ -1,0 +1,46 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn12:2.3+mn12:2.5^speaker": "Sunakkhatta the Licchavi",
+  "mn12:2.3+mn12:2.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn12:4.1+mn12:63.2^speaker": "Sāriputta",
+  "mn12:4.1+mn12:63.2^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "mn12:4.1+mn12:63.2^who_else_mentioned": [
+    "Sāriputta",
+    "Sunakkhatta",
+    "Buddha",
+    "The Realized One",
+    "Gotama",
+    "Māra"
+  ],
+  "mn12:8.3^speaker": "the Buddha",
+  "mn12:8.4^speaker": "the Buddha",
+  "mn12:8.17^speaker": "the Buddha",
+  "mn12:8.18^speaker": "the Buddha",
+  "mn12:64.3+mn12:64.5^speaker": "Nāgasamāla",
+  "mn12:64.6^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "mn12:64.6^speaker": "the Buddha",
+  "mn12:64.6^where_here_and_before": [
+    "Vesālī in a woodland grove behind the town"
+  ],
+  "mn12:64.6^who_around_here_and_before": [
+    "Sāriputta",
+    "Nāgasamāla"
+  ],
+  "mn12:64.6^who_else_mentioned": [
+    "Nāgasamāla",
+    "The Hair-raising"
+  ],
+  "mn12:64.6^who_mentioned_here_and_before": [
+    "Sunakkhatta the Licchavi"
+  ],
+  "mn12^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "mn12^where": "Vesālī in a woodland grove behind the town"
+}

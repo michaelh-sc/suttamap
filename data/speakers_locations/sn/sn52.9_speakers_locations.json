@@ -1,0 +1,26 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn52.9:2.1+sn52.9:2.2^speaker": "Sāriputta",
+  "sn52.9:2.1+sn52.9:2.2^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "sn52.9:2.3+sn52.9:2.10^speaker": "Anuruddha",
+  "sn52.9:3.1+sn52.9:3.2^speaker": "the mendicants",
+  "sn52.9:3.1+sn52.9:3.2^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "sn52.9:3.1^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "sn52.9:3.1^where_here_and_before": [
+    "Ambapālī's Wood",
+    "Vesālī"
+  ],
+  "sn52.9:3.1^who_around_here_and_before": [
+    "Anuruddha"
+  ],
+  "sn52.9^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "sn52.9^where": "Ambapālī's Wood, Vesālī"
+}

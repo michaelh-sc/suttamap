@@ -1,0 +1,136 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn108:3.3+mn108:3.4^speaker": "Ānanda",
+  "mn108:3.3+mn108:3.4^where_else_mentioned": [
+    "Rājagaha"
+  ],
+  "mn108:4.4+mn108:4.7^speaker": "Moggallāna the Guardian",
+  "mn108:4.4+mn108:4.7^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn108:5.1^speaker": "Moggallāna the Guardian",
+  "mn108:5.1^who_else_mentioned": [
+    "Ānanda",
+    "Gotama",
+    "Buddha"
+  ],
+  "mn108:5.2+mn108:5.4^speaker": "Ānanda",
+  "mn108:5.2+mn108:5.4^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "mn108:6.4^speaker": "Vassakāra",
+  "mn108:6.4^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn108:7.1+mn108:7.2^speaker": "Vassakāra",
+  "mn108:7.1+mn108:7.2^who_else_mentioned": [
+    "Ānanda",
+    "Gotama"
+  ],
+  "mn108:7.3^speaker": "Ānanda",
+  "mn108:8.1^speaker": "Vassakāra",
+  "mn108:8.1^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn108:8.3^speaker": "Ānanda",
+  "mn108:9.1^speaker": "Vassakāra",
+  "mn108:9.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn108:9.2+mn108:9.4^speaker": "Ānanda",
+  "mn108:10.1+mn108:10.13^speaker": "Vassakāra",
+  "mn108:10.1+mn108:10.13^who_else_mentioned": [
+    "Ānanda",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn108:10.14+mn108:10.19^speaker": "Ānanda",
+  "mn108:10.14+mn108:10.19^who_else_mentioned": [
+    "The Blessed One",
+    "Buddha"
+  ],
+  "mn108:11.1^speaker": "Vassakāra",
+  "mn108:11.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn108:11.2^speaker": "Ānanda",
+  "mn108:11.3+mn108:12.8^speaker": "Vassakāra",
+  "mn108:11.3+mn108:12.8^who_else_mentioned": [
+    "Ānanda",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn108:13.1+mn108:23.3^speaker": "Ānanda",
+  "mn108:13.1+mn108:23.3^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "mn108:13.1+mn108:23.3^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "mn108:24.2+mn108:24.3^speaker": "Vassakāra",
+  "mn108:24.4+mn108:24.6^speaker": "General Upananda",
+  "mn108:25.2^speaker": "Vassakāra",
+  "mn108:25.3^speaker": "Ānanda",
+  "mn108:25.3^where_else_mentioned": [
+    "the Bamboo Grove"
+  ],
+  "mn108:25.4^speaker": "Vassakāra",
+  "mn108:25.5^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn108:25.5^speaker": "Ānanda",
+  "mn108:25.5^where_here_and_before": [
+    "Rājagaha",
+    "in the Bamboo Grove",
+    "the squirrels' feeding ground"
+  ],
+  "mn108:25.5^who_around_here_and_before": [
+    "Moggallāna the Guardian",
+    "Vassakāra",
+    "General Upananda"
+  ],
+  "mn108:25.5^who_mentioned_here_and_before": [
+    "King Ajātasattu Vedehiputta of Magadha",
+    "King Pajjota",
+    "Buddha"
+  ],
+  "mn108:25.6+mn108:25.12^speaker": "Vassakāra",
+  "mn108:25.6+mn108:25.12^where_else_mentioned": [
+    "Vesālī"
+  ],
+  "mn108:25.6+mn108:25.12^who_else_mentioned": [
+    "Ānanda",
+    "Gotama"
+  ],
+  "mn108:26.1+mn108:27.6^speaker": "Ānanda",
+  "mn108:26.1+mn108:27.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn108:28.1+mn108:28.3^speaker": "Vassakāra",
+  "mn108:28.1+mn108:28.3^who_else_mentioned": [
+    "Ānanda",
+    "Gotama"
+  ],
+  "mn108:28.4^speaker": "Ānanda",
+  "mn108:29.2^speaker": "Moggallāna",
+  "mn108:29.2^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn108:29.3+mn108:29.6^speaker": "Ānanda",
+  "mn108:29.3+mn108:29.6^who_else_mentioned": [
+    "Gotama",
+    "Buddha",
+    "the Blessed One"
+  ],
+  "mn108:29.3^where_here_and_before": [
+    "Bamboo Grove"
+  ],
+  "mn108:29.3^who_around_here_and_before": [
+    "Moggallāna"
+  ],
+  "mn108^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn108^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"
+}

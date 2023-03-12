@@ -1,0 +1,18 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn2.19:2.1+sn2.19:2.4^speaker": "the god Uttara",
+  "sn2.19:3.1+sn2.19:3.4^speaker": "the god Uttara",
+  "sn2.19:3.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn2.19:3.1^where_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn2.19:3.1^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "sn2.19^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn2.19^where": "Rājagaha"
+}

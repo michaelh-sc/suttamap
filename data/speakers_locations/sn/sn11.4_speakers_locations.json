@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn11.4:1.2+sn11.4:13.2^speaker": "the gods and the demons",
+  "sn11.4:1.2+sn11.4:13.2^who_else_mentioned": [
+    "Vepacitti",
+    "Sakka",
+    "Sudhamma",
+    "Mātali",
+    "Maghavā",
+    "Vāsava"
+  ],
+  "sn11.4:6.4^speaker": "the demons",
+  "sn11.4:7.2^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn11.4:7.2^speaker": "the Buddha",
+  "sn11.4:7.2^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn11.4:7.2^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "sn11.4^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn11.4^where": "Sāvatthī"
+}

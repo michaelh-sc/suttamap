@@ -1,0 +1,45 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn51.15:1.5^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:1.5^who_else_mentioned": [
+    "Ānanda",
+    "Gotama"
+  ],
+  "sn51.15:1.6^speaker": "Ānanda",
+  "sn51.15:1.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn51.15:2.1^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:2.2^speaker": "Ānanda",
+  "sn51.15:3.1^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:3.2+sn51.15:3.6^speaker": "Ānanda",
+  "sn51.15:4.1+sn51.15:4.2^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:4.1+sn51.15:4.2^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn51.15:4.3+sn51.15:4.6^speaker": "Ānanda",
+  "sn51.15:4.7^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:4.8+sn51.15:4.9^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:4.10^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:4.11+sn51.15:4.12^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:4.13^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:4.14+sn51.15:4.15^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:4.16^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:5.1+sn51.15:5.6^speaker": "Ānanda",
+  "sn51.15:6.1+sn51.15:6.5^speaker": "Uṇṇābha the brahmin",
+  "sn51.15:6.1+sn51.15:6.5^who_else_mentioned": [
+    "Ānanda",
+    "Gotama",
+    "Saṅgha"
+  ],
+  "sn51.15:6.1^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "sn51.15:6.1^where_here_and_before": [
+    "Ghosita's Monastery near Kosambi"
+  ],
+  "sn51.15^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "sn51.15^where": "Ghosita's Monastery, Kosambi"
+}

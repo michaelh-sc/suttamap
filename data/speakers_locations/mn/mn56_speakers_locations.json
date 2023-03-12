@@ -1,0 +1,443 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn56:2.4^speaker": "the Buddha",
+  "mn56:2.4^who_else_mentioned": [
+    "Tapassī"
+  ],
+  "mn56:3.3^speaker": "Dīgha Tapassī",
+  "mn56:3.3^who_else_mentioned": [
+    "Tapassī",
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:3.4+mn56:3.5^speaker": "Dīgha Tapassī",
+  "mn56:3.4+mn56:3.5^who_else_mentioned": [
+    "Gotama",
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:3.6^speaker": "Dīgha Tapassī",
+  "mn56:3.6^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:3.7+mn56:3.8^speaker": "Dīgha Tapassī",
+  "mn56:3.7+mn56:3.8^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:3.9^speaker": "the Buddha",
+  "mn56:3.10^speaker": "Dīgha Tapassī",
+  "mn56:3.11^speaker": "the Buddha",
+  "mn56:3.11^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:3.12^speaker": "Dīgha Tapassī",
+  "mn56:3.12^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:3.13^speaker": "the Buddha",
+  "mn56:3.13^who_else_mentioned": [
+    "Tapassī"
+  ],
+  "mn56:3.14^speaker": "Dīgha Tapassī",
+  "mn56:3.14^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:3.15^speaker": "the Buddha",
+  "mn56:3.15^who_else_mentioned": [
+    "Tapassī"
+  ],
+  "mn56:3.16^speaker": "Dīgha Tapassī",
+  "mn56:3.16^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:3.17^speaker": "the Buddha",
+  "mn56:3.17^who_else_mentioned": [
+    "Tapassī"
+  ],
+  "mn56:3.18^speaker": "Dīgha Tapassī",
+  "mn56:3.18^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:4.2^speaker": "Dīgha Tapassī",
+  "mn56:4.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:4.3+mn56:4.4^speaker": "the Buddha",
+  "mn56:4.3+mn56:4.4^who_else_mentioned": [
+    "Tapassī"
+  ],
+  "mn56:4.5^speaker": "Dīgha Tapassī",
+  "mn56:4.6+mn56:4.7^speaker": "the Buddha",
+  "mn56:4.8^speaker": "Dīgha Tapassī",
+  "mn56:4.9^speaker": "the Buddha",
+  "mn56:4.10^speaker": "Dīgha Tapassī",
+  "mn56:4.11^speaker": "the Buddha",
+  "mn56:4.12^speaker": "Dīgha Tapassī",
+  "mn56:4.12^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:4.13^speaker": "the Buddha",
+  "mn56:4.13^who_else_mentioned": [
+    "Tapassī"
+  ],
+  "mn56:4.14^speaker": "Dīgha Tapassī",
+  "mn56:4.14^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:4.15^speaker": "the Buddha",
+  "mn56:4.15^who_else_mentioned": [
+    "Tapassī"
+  ],
+  "mn56:4.16^speaker": "Dīgha Tapassī",
+  "mn56:4.16^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:4.17^speaker": "the Buddha",
+  "mn56:4.17^who_else_mentioned": [
+    "Tapassī"
+  ],
+  "mn56:5.4^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:5.4^who_else_mentioned": [
+    "Tapassī"
+  ],
+  "mn56:5.5^speaker": "Dīgha Tapassī",
+  "mn56:5.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:5.6^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:5.7^speaker": "Dīgha Tapassī",
+  "mn56:5.8^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:5.8^where_here_and_before": [
+    "Nālandā in Pāvārika's mango grove"
+  ],
+  "mn56:5.8^geographical_locations_here_and_before": [
+    "Nāḷandā"
+  ],
+  "mn56:5.8^who_around_here_and_before": [
+    "a large assembly of Jain ascetics",
+    "a large assembly of laypeople of Bālaka headed by Upāli"
+  ],
+  "mn56:5.8^who_mentioned_here_and_before": [
+    "Pāvārika"
+  ],
+  "mn56:6.2+mn56:6.5^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:6.2+mn56:6.5^who_else_mentioned": [
+    "Tapassī",
+    "Dīgha Tapassī",
+    "Gotama"
+  ],
+  "mn56:7.2+mn56:7.11^speaker": "the householder Upāli",
+  "mn56:7.2+mn56:7.11^who_else_mentioned": [
+    "Dīgha Tapassī",
+    "Tapassī",
+    "Gotama"
+  ],
+  "mn56:7.12+mn56:7.13^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:7.12+mn56:7.13^who_else_mentioned": [
+    "Gotama",
+    "Dīgha Tapassī"
+  ],
+  "mn56:8.2+mn56:8.3^speaker": "Dīgha Tapassī",
+  "mn56:8.2+mn56:8.3^who_else_mentioned": [
+    "Upāli",
+    "Gotama"
+  ],
+  "mn56:8.4+mn56:8.7^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:8.4+mn56:8.7^where_else_mentioned": [
+    "Upāli"
+  ],
+  "mn56:8.4+mn56:8.7^who_else_mentioned": [
+    "Tapassī",
+    "Gotama",
+    "Dīgha Tapassī"
+  ],
+  "mn56:9.3+mn56:9.4^speaker": "Dīgha Tapassī",
+  "mn56:9.3+mn56:9.4^who_else_mentioned": [
+    "Upāli",
+    "Gotama"
+  ],
+  "mn56:9.5+mn56:9.8^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:9.5+mn56:9.8^where_else_mentioned": [
+    "Upāli"
+  ],
+  "mn56:9.5+mn56:9.8^who_else_mentioned": [
+    "Tapassī",
+    "Gotama",
+    "Dīgha Tapassī"
+  ],
+  "mn56:9.9^speaker": "the householder Upāli",
+  "mn56:9.10^speaker": "the householder Upāli",
+  "mn56:9.10^who_else_mentioned": [
+    "Dīgha Tapassī"
+  ],
+  "mn56:9.11^speaker": "the Buddha",
+  "mn56:9.12^speaker": "the householder Upāli",
+  "mn56:9.13^speaker": "the Buddha",
+  "mn56:9.14^speaker": "the householder Upāli",
+  "mn56:10.2+mn56:10.5^speaker": "the householder Upāli",
+  "mn56:10.2+mn56:10.5^who_else_mentioned": [
+    "Tapassī",
+    "Gotama"
+  ],
+  "mn56:10.6^speaker": "the Buddha",
+  "mn56:10.7+mn56:10.8^speaker": "the householder Upāli",
+  "mn56:11.1+mn56:11.4^speaker": "the Buddha",
+  "mn56:11.1+mn56:11.4^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:11.5+mn56:11.7^speaker": "the householder Upāli",
+  "mn56:11.8+mn56:11.10^speaker": "the Buddha",
+  "mn56:11.13^speaker": "the householder Upāli",
+  "mn56:11.13^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn56:12.1+mn56:12.4^speaker": "the Buddha",
+  "mn56:12.1+mn56:12.4^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:12.5^speaker": "the householder Upāli",
+  "mn56:12.5^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:12.6^speaker": "the Buddha",
+  "mn56:12.7^speaker": "the householder Upāli",
+  "mn56:12.8^speaker": "the householder Upāli",
+  "mn56:12.8^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:12.9^speaker": "the householder Upāli",
+  "mn56:12.10+mn56:12.12^speaker": "the Buddha",
+  "mn56:12.15^speaker": "the householder Upāli",
+  "mn56:12.15^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn56:13.1+mn56:13.2^speaker": "the Buddha",
+  "mn56:13.1+mn56:13.2^where_else_mentioned": [
+    "Nāḷandā"
+  ],
+  "mn56:13.3^speaker": "the householder Upāli",
+  "mn56:13.4+mn56:13.9^speaker": "the Buddha",
+  "mn56:13.4+mn56:13.9^where_else_mentioned": [
+    "Nāḷandā"
+  ],
+  "mn56:13.10+mn56:13.11^speaker": "the householder Upāli",
+  "mn56:13.12+mn56:13.17^speaker": "the Buddha",
+  "mn56:13.18+mn56:13.19^speaker": "the householder Upāli",
+  "mn56:13.18^geographic_locations_here_and_before": [
+    "Nāḷandā"
+  ],
+  "mn56:13.18^where_here_and_before": [
+    "Nāḷandā"
+  ],
+  "mn56:13.18^who_around_here_and_before": [
+    "Dīgha Tapassī",
+    "the householder Upāli"
+  ],
+  "mn56:13.18^who_mentioned_here_and_before": [
+    "gods called mind-bound"
+  ],
+  "mn56:13.20+mn56:13.22^speaker": "the Buddha",
+  "mn56:13.25^speaker": "the householder Upāli",
+  "mn56:13.25^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn56:13.26+mn56:13.27^speaker": "the Buddha",
+  "mn56:13.26+mn56:13.27^where_else_mentioned": [
+    "Daṇḍaka",
+    "Kāliṅga",
+    "Mejjha",
+    "Mātaṅga"
+  ],
+  "mn56:13.28^speaker": "the householder Upāli",
+  "mn56:14.1^speaker": "the Buddha",
+  "mn56:14.2^speaker": "the householder Upāli",
+  "mn56:14.2^where_else_mentioned": [
+    "Daṇḍaka",
+    "Kāliṅga",
+    "Mātaṅga"
+  ],
+  "mn56:14.2^who_else_mentioned": [
+    "Mejjha"
+  ],
+  "mn56:14.3+mn56:14.5^speaker": "the Buddha",
+  "mn56:15.1+mn56:15.6^speaker": "the householder Upāli",
+  "mn56:15.1+mn56:15.6^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn56:16.1^speaker": "the Buddha",
+  "mn56:16.2+mn56:16.8^speaker": "the householder Upāli",
+  "mn56:16.2+mn56:16.8^who_else_mentioned": [
+    "Buddha",
+    "Upāli",
+    "Saṅgha"
+  ],
+  "mn56:17.1^speaker": "the Buddha",
+  "mn56:17.2+mn56:17.11^speaker": "the householder Upāli",
+  "mn56:17.2+mn56:17.11^who_else_mentioned": [
+    "Buddha",
+    "Jain",
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn56:18.7^speaker": "the householder Upāli",
+  "mn56:18.9^speaker": "the householder Upāli",
+  "mn56:18.10^speaker": "the Buddha",
+  "mn56:19.2+mn56:19.7^speaker": "the householder Upāli",
+  "mn56:19.2+mn56:19.7^where_else_mentioned": [
+    "Upāli"
+  ],
+  "mn56:19.2+mn56:19.7^who_else_mentioned": [
+    "Jain",
+    "Buddha",
+    "Gotama"
+  ],
+  "mn56:19.8^speaker": "the gatekeeper",
+  "mn56:20.4^speaker": "Dīgha Tapassī",
+  "mn56:20.4^who_else_mentioned": [
+    "Upāli",
+    "Gotama"
+  ],
+  "mn56:20.5+mn56:20.6^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:20.5+mn56:20.6^where_else_mentioned": [
+    "Upāli"
+  ],
+  "mn56:20.5+mn56:20.6^who_else_mentioned": [
+    "Tapassī",
+    "Gotama"
+  ],
+  "mn56:20.9^speaker": "Dīgha Tapassī",
+  "mn56:20.9^who_else_mentioned": [
+    "Upāli",
+    "Gotama"
+  ],
+  "mn56:20.10+mn56:20.11^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:20.10+mn56:20.11^where_else_mentioned": [
+    "Upāli"
+  ],
+  "mn56:20.10+mn56:20.11^who_else_mentioned": [
+    "Tapassī",
+    "Gotama"
+  ],
+  "mn56:20.12^speaker": "Dīgha Tapassī",
+  "mn56:20.12^who_else_mentioned": [
+    "Upāli",
+    "Gotama"
+  ],
+  "mn56:20.13^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:20.13^where_here_and_before": [
+    "Upāli's home"
+  ],
+  "mn56:20.13^who_around_here_and_before": [
+    "the gatekeeper"
+  ],
+  "mn56:20.13^who_else_mentioned": [
+    "Tapassī",
+    "Upāli",
+    "Gotama"
+  ],
+  "mn56:20.13^who_mentioned_here_and_before": [
+    "Jain monks",
+    "Jain nuns"
+  ],
+  "mn56:21.4+mn56:21.7^speaker": "Gatekeeper",
+  "mn56:21.4+mn56:21.7^where_else_mentioned": [
+    "Upāli"
+  ],
+  "mn56:21.4+mn56:21.7^who_else_mentioned": [
+    "Gotama",
+    "Jain",
+    "Buddha"
+  ],
+  "mn56:21.8^speaker": "Dīgha Tapassī",
+  "mn56:21.9+mn56:21.12^speaker": "Dīgha Tapassī",
+  "mn56:21.9+mn56:21.12^who_else_mentioned": [
+    "Upāli",
+    "Gotama"
+  ],
+  "mn56:21.13+mn56:21.14^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:21.13+mn56:21.14^where_else_mentioned": [
+    "Upāli"
+  ],
+  "mn56:21.13+mn56:21.14^who_else_mentioned": [
+    "Tapassī",
+    "Gotama"
+  ],
+  "mn56:21.20+mn56:21.22^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:21.20+mn56:21.22^who_else_mentioned": [
+    "Tapassī",
+    "Upāli",
+    "Gotama"
+  ],
+  "mn56:22.8+mn56:22.10^speaker": "Upāli",
+  "mn56:22.8+mn56:22.10^where_else_mentioned": [
+    "Upāli"
+  ],
+  "mn56:22.8+mn56:22.10^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta",
+    "Jain"
+  ],
+  "mn56:22.11^speaker": "Gatekeeper",
+  "mn56:22.14^speaker": "Upāli",
+  "mn56:22.15^speaker": "Gatekeeper",
+  "mn56:22.16+mn56:22.17^speaker": "Upāli",
+  "mn56:23.2+mn56:23.4^speaker": "Upāli",
+  "mn56:23.2+mn56:23.4^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta",
+    "Upāli"
+  ],
+  "mn56:23.5^speaker": "Gatekeeper",
+  "mn56:24.4+mn56:24.5^speaker": "Upāli",
+  "mn56:25.2+mn56:25.6^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:25.2+mn56:25.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:26.1+mn56:27.25^speaker": "Upāli",
+  "mn56:26.1+mn56:27.25^who_else_mentioned": [
+    "Māras",
+    "Brahmās",
+    "Rattapāṇi",
+    "Jains",
+    "Buddha"
+  ],
+  "mn56:27.15^speaker": "Upāli",
+  "mn56:27.15^who_else_mentioned": [
+    "Rattapāṇi"
+  ],
+  "mn56:28.1+mn56:28.3^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:28.1+mn56:28.3^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn56:28.1^where_here_and_before": [
+    "Upāli's home"
+  ],
+  "mn56:28.1^who_around_here_and_before": [
+    "Jain ascetics",
+    "Gatekeeper"
+  ],
+  "mn56:28.1^who_mentioned_here_and_before": [
+    "Dīgha Tapassī",
+    "Buddha",
+    "Rattapāṇi"
+  ],
+  "mn56:29.2+mn56:29.62^speaker": "Upāli",
+  "mn56:29.2+mn56:29.62^who_else_mentioned": [
+    "Buddha",
+    "the Holy One"
+  ],
+  "mn56:30.1^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:30.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn56:30.2+mn56:30.4^speaker": "Upāli",
+  "mn56:30.2+mn56:30.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn56:30.2^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "mn56:30.2^who_mentioned_here_and_before": [
+    "a garland-maker or their apprentice"
+  ],
+  "mn56^initial_geographical_location": "Nāḷandā",
+  "mn56^where": "Nālandā in Pāvārika's mango grove"
+
+}

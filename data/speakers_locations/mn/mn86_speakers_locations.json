@@ -1,0 +1,120 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn86:3.5+mn86:3.10^speaker": "cowherds, shepherds, farmers, travelers",
+  "mn86:3.5+mn86:3.10^who_else_mentioned": [
+    "Aṅgulimāla"
+  ],
+  "mn86:4.4+mn86:4.8^speaker": "Aṅgulimāla",
+  "mn86:5.4+mn86:5.6^speaker": "Aṅgulimāla",
+  "mn86:5.8^speaker": "the Buddha",
+  "mn86:5.9^speaker": "Aṅgulimāla",
+  "mn86:5.11+mn86:5.14^speaker": "Aṅgulimāla",
+  "mn86:5.11+mn86:5.14^who_else_mentioned": [
+    "Sakyan",
+    "Gotama"
+  ],
+  "mn86:6.2+mn86:6.5^speaker": "Aṅgulimāla",
+  "mn86:6.6+mn86:6.9^speaker": "the Buddha",
+  "mn86:6.10+mn86:6.13^speaker": "Aṅgulimāla",
+  "mn86:6.20^speaker": "the Buddha",
+  "mn86:8.2+mn86:8.5^speaker": "crowd",
+  "mn86:8.2+mn86:8.5^who_else_mentioned": [
+    "Aṅgulimāla"
+  ],
+  "mn86:9.4^speaker": "the Buddha",
+  "mn86:9.4^where_else_mentioned": [
+    "Magadha"
+  ],
+  "mn86:9.4^who_else_mentioned": [
+    "Seniya Bimbisāra",
+    "Licchavis",
+    "Vesālī"
+  ],
+  "mn86:10.1+mn86:10.5^speaker": "King Pasenadi",
+  "mn86:10.1+mn86:10.5^who_else_mentioned": [
+    "Aṅgulimāla"
+  ],
+  "mn86:11.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn86:11.1^speaker": "the Buddha",
+  "mn86:11.1^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery",
+    "Sāvatthī"
+  ],
+  "mn86:11.1^who_around_here_and_before": [
+    "King Pasenadi",
+    "Aṅgulimāla"
+  ],
+  "mn86:11.1^who_else_mentioned": [
+    "Aṅgulimāla"
+  ],
+  "mn86:11.1^who_mentioned_here_and_before": [
+    "King Seniya Bimbisāra of Magadha",
+    "Licchavis of Vesālī"
+  ],
+  "mn86:11.2+mn86:11.3^speaker": "King Pasenadi",
+  "mn86:12.3^speaker": "the Buddha",
+  "mn86:12.6^speaker": "the Buddha",
+  "mn86:12.9^speaker": "King Pasenadi",
+  "mn86:12.10^speaker": "Aṅgulimāla",
+  "mn86:12.11^speaker": "King Pasenadi",
+  "mn86:12.12^speaker": "Aṅgulimāla",
+  "mn86:12.12^who_else_mentioned": [
+    "Gagga",
+    "Mantāṇī"
+  ],
+  "mn86:12.13+mn86:12.14^speaker": "King Pasenadi",
+  "mn86:12.13+mn86:12.14^who_else_mentioned": [
+    "Gagga"
+  ],
+  "mn86:13.3^speaker": "Aṅgulimāla",
+  "mn86:13.5+mn86:13.9^speaker": "King Pasenadi",
+  "mn86:13.5+mn86:13.9^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn86:13.10^speaker": "the Buddha",
+  "mn86:14.4+mn86:14.5^speaker": "Aṅgulimāla",
+  "mn86:15.1+mn86:15.2^speaker": "the Buddha",
+  "mn86:15.1+mn86:15.2^who_else_mentioned": [
+    "Aṅgulimāla"
+  ],
+  "mn86:15.3+mn86:15.4^speaker": "Aṅgulimāla",
+  "mn86:15.5+mn86:15.6^speaker": "the Buddha",
+  "mn86:15.5+mn86:15.6^who_else_mentioned": [
+    "Aṅgulimāla"
+  ],
+  "mn86:15.7^speaker": "Aṅgulimāla",
+  "mn86:15.8^speaker": "Aṅgulimāla",
+  "mn86:16.2^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "mn86:16.2^speaker": "Aṅgulimāla",
+  "mn86:16.2^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "mn86:16.2^who_around_here_and_before": [
+    "King Pasenadi",
+    "Aṅgulimāla"
+  ],
+  "mn86:16.2^who_mentioned_here_and_before": [
+    "Gagga",
+    "Mantāṇī"
+  ],
+  "mn86:17.6+mn86:17.7^speaker": "The Buddha",
+  "mn86:18.3+mn86:18.66^speaker": "Aṅgulimāla",
+  "mn86:18.3+mn86:18.66^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn86:18.3^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "mn86:18.3^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "mn86^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn86^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"
+}

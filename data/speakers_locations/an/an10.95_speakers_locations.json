@@ -1,0 +1,46 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.95:1.3^speaker": "Uttiya",
+  "an10.95:1.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an10.95:1.4^speaker": "the Buddha",
+  "an10.95:1.4^who_else_mentioned": [
+    "Uttiya"
+  ],
+  "an10.95:2.1^speaker": "Uttiya",
+  "an10.95:2.2^speaker": "the Buddha",
+  "an10.95:2.2^who_else_mentioned": [
+    "Uttiya"
+  ],
+  "an10.95:3.1+an10.95:3.8^speaker": "Uttiya",
+  "an10.95:3.9^speaker": "the Buddha",
+  "an10.95:3.9^who_else_mentioned": [
+    "Uttiya"
+  ],
+  "an10.95:4.1+an10.95:6.11^speaker": "Uttiya",
+  "an10.95:4.1+an10.95:6.11^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an10.95:7.1^speaker": "the Buddha",
+  "an10.95:7.1^who_else_mentioned": [
+    "Uttiya"
+  ],
+  "an10.95:8.1^speaker": "Uttiya",
+  "an10.95:8.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an10.95:9.2+an10.95:9.4^speaker": "Ānanda",
+  "an10.95:9.2+an10.95:9.4^who_else_mentioned": [
+    "Uttiya",
+    "Gotama"
+  ],
+  "an10.95:10.2+an10.95:11.5^speaker": "Ānanda",
+  "an10.95:10.2+an10.95:11.5^who_else_mentioned": [
+    "Uttiya",
+    "Buddha"
+  ],
+  "an10.95:10.2^who_around_here_and_before": [
+    "Ānanda"
+  ]
+}

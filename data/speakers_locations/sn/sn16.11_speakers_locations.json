@@ -1,0 +1,65 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn16.11:2.3^speaker": "Mahākassapa",
+  "sn16.11:2.3^who_else_mentioned": [
+    "Ānanda",
+    "Buddha"
+  ],
+  "sn16.11:3.1+sn16.11:3.3^speaker": "Ānanda",
+  "sn16.11:3.1+sn16.11:3.3^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "sn16.11:4.1+sn16.11:4.5^speaker": "Mahākassapa",
+  "sn16.11:4.1+sn16.11:4.5^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn16.11:5.1+sn16.11:5.2^speaker": "Ānanda",
+  "sn16.11:5.1+sn16.11:5.2^who_else_mentioned": [
+    "Mahākassapa"
+  ],
+  "sn16.11:5.3+sn16.11:5.6^speaker": "Mahākassapa",
+  "sn16.11:5.3+sn16.11:5.6^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn16.11:7.2^speaker": "Thullanandā",
+  "sn16.11:7.2^who_else_mentioned": [
+    "Mahākassapa",
+    "Ānanda",
+    "Videhan"
+  ],
+  "sn16.11:8.2+sn16.11:17.2^speaker": "Mahākassapa",
+  "sn16.11:8.2+sn16.11:17.2^where_else_mentioned": [
+    "Rājagaha",
+    "Nālanda"
+  ],
+  "sn16.11:8.2+sn16.11:17.2^who_else_mentioned": [
+    "Ānanda",
+    "Thullanandā",
+    "the Blessed One",
+    "Buddha",
+    "a Holy One",
+    "Kassapa"
+  ],
+  "sn16.11:10.2^speaker": "Mahākassapa",
+  "sn16.11:11.2^speaker": "Ānanda",
+  "sn16.11:12.2^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn16.11:12.2^speaker": "Ānanda",
+  "sn16.11:12.2^where_here_and_before": [
+    "Rājagaha",
+    "in the Bamboo Grove",
+    "the squirrels' feeding ground"
+  ],
+  "sn16.11:12.2^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "sn16.11:12.2^who_mentioned_here_and_before": [
+    "Thullanandā"
+  ],
+  "sn16.11^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn16.11^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"
+}

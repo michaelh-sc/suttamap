@@ -1,0 +1,50 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an6.55:1.5+an6.55:1.7^speaker": "Soṇa",
+  "an6.55:1.5+an6.55:1.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an6.55:3.1+an6.55:3.4^speaker": "the Buddha",
+  "an6.55:3.1+an6.55:3.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an6.55:3.5^speaker": "Soṇa",
+  "an6.55:4.1+an6.55:4.2^speaker": "the Buddha",
+  "an6.55:4.1+an6.55:4.2^who_else_mentioned": [
+    "Soṇa"
+  ],
+  "an6.55:4.3^speaker": "Soṇa",
+  "an6.55:4.4^speaker": "the Buddha",
+  "an6.55:4.5^speaker": "Soṇa",
+  "an6.55:5.1^speaker": "the Buddha",
+  "an6.55:5.2^speaker": "Soṇa",
+  "an6.55:6.1^speaker": "the Buddha",
+  "an6.55:6.2^speaker": "Soṇa",
+  "an6.55:7.1+an6.55:7.2^speaker": "the Buddha",
+  "an6.55:7.1+an6.55:7.2^who_else_mentioned": [
+    "Soṇa"
+  ],
+  "an6.55:7.3^speaker": "Soṇa",
+  "an6.55:8.3^speaker": "Soṇa",
+  "an6.55:9.2^speaker": "Soṇa",
+  "an6.55:9.2^where_here_and_before": [
+    "Rājagaha",
+    "on the Vulture's Peak Mountain",
+    "the Cool Grove"
+  ],
+  "an6.55:9.2^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "an6.55:9.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an6.55:10.1+an6.55:22.4^speaker": "Soṇa",
+  "an6.55:10.1^who_around_here_and_before": [
+    "The Buddha"
+  ],
+  "an6.55^initial_geographic_location": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "an6.55^where": "Rājagaha, on the Vulture's Peak Mountain and the Cool Grove"
+}

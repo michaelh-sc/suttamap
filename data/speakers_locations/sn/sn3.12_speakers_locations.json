@@ -1,0 +1,36 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn3.12:1.3^speaker": "five kings headed by Pasenadi",
+  "sn3.12:1.5^speaker": "Some of them",
+  "sn3.12:1.7^speaker": "Others",
+  "sn3.12:1.9^speaker": "Others",
+  "sn3.12:1.11^speaker": "Others",
+  "sn3.12:1.13^speaker": "Others",
+  "sn3.12:2.2+sn3.12:2.3^speaker": "King Pasenadi",
+  "sn3.12:2.2+sn3.12:2.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn3.12:2.4^speaker": "those kings",
+  "sn3.12:3.14^speaker": "King Pasenadi",
+  "sn3.12:4.1+sn3.12:8.4^speaker": "the Buddha",
+  "sn3.12:9.3^speaker": "the lay follower Candanaṅgalika",
+  "sn3.12:9.4^speaker": "the Buddha",
+  "sn3.12:11.1+sn3.12:11.4^speaker": "the lay follower Candanaṅgalika",
+  "sn3.12:11.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn3.12:11.1^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn3.12:11.1^who_around_here_and_before": [
+    "five kings",
+    "the Buddha"
+  ],
+  "sn3.12:11.1^who_mentioned_here_and_before": [
+    "the lay follower Candanaṅgalika"
+  ],
+  "sn3.12^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn3.12^where": "Sāvatthī"
+}

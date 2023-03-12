@@ -1,0 +1,179 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn91:3.2+mn91:3.7^speaker": "Brahmāyu",
+  "mn91:3.2+mn91:3.7^where_else_mentioned": [
+    "Videhans"
+  ],
+  "mn91:3.2+mn91:3.7^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Saṅgha",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn91:4.7+mn91:4.9^speaker": "Brahmāyu",
+  "mn91:4.7+mn91:4.9^who_else_mentioned": [
+    "Uttara",
+    "Gotama"
+  ],
+  "mn91:5.1^speaker": "Uttara",
+  "mn91:5.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn91:5.3+mn91:5.11^speaker": "Brahmāyu",
+  "mn91:5.3+mn91:5.11^who_else_mentioned": [
+    "Uttara",
+    "Buddha"
+  ],
+  "mn91:6.1^speaker": "Uttara",
+  "mn91:6.9+mn91:6.11^speaker": "the Buddha",
+  "mn91:6.9+mn91:6.11^who_else_mentioned": [
+    "Uttara"
+  ],
+  "mn91:8.2+mn91:8.3^speaker": "Uttara",
+  "mn91:8.2+mn91:8.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn91:8.7^geographic_locations_here_and_before": [
+    "Videha"
+  ],
+  "mn91:8.7^speaker": "Brahmāyu",
+  "mn91:8.7^where_here_and_before": [
+    "the land of the Videhans"
+  ],
+  "mn91:8.7^who_around_here_and_before": [
+    "the Buddha",
+    "a large Saṅgha of five hundred mendicants"
+  ],
+  "mn91:8.7^who_else_mentioned": [
+    "Uttara",
+    "Gotama"
+  ],
+  "mn91:8.7^who_mentioned_here_and_before": [
+    "Uttara"
+  ],
+  "mn91:8.9+mn91:22.2^speaker": "Uttara",
+  "mn91:8.9+mn91:22.2^who_else_mentioned": [
+    "Gotama",
+    "Brahmā’s",
+    "Brahmā"
+  ],
+  "mn91:23.2+mn91:23.5^speaker": "Brahmāyu",
+  "mn91:23.2+mn91:23.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn91:24.4+mn91:24.9^speaker": "brahmins of Mithilā, householders of Mithilā",
+  "mn91:24.4+mn91:24.9^where_else_mentioned": [
+    "Mithilā",
+    "the Makhādeva Mango Grove"
+  ],
+  "mn91:24.4+mn91:24.9^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn91:26.4^speaker": "Brahmāyu",
+  "mn91:26.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn91:26.6+mn91:26.16^speaker": "student",
+  "mn91:26.6+mn91:26.16^where_else_mentioned": [
+    "Mithilā"
+  ],
+  "mn91:26.6+mn91:26.16^who_else_mentioned": [
+    "Gotama",
+    "Brahmāyu"
+  ],
+  "mn91:26.17^speaker": "student",
+  "mn91:26.29^speaker": "Buddha",
+  "mn91:26.29^who_else_mentioned": [
+    "Brahmāyu"
+  ],
+  "mn91:27.2+mn91:27.3^speaker": "student",
+  "mn91:27.2+mn91:27.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn91:28.5+mn91:28.7^speaker": "Brahmāyu",
+  "mn91:28.5+mn91:28.7^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn91:29.8+mn91:29.23^speaker": "Brahmāyu",
+  "mn91:29.8+mn91:29.23^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn91:30.2+mn91:30.4^speaker": "Buddha",
+  "mn91:30.2+mn91:30.4^who_else_mentioned": [
+    "Brahmāyu"
+  ],
+  "mn91:31.1+mn91:31.12^speaker": "Buddha",
+  "mn91:31.1+mn91:31.12^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn91:32.2+mn91:32.4^speaker": "Brahmāyu",
+  "mn91:32.6+mn91:32.8^speaker": "Brahmāyu",
+  "mn91:32.6+mn91:32.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn91:32.10+mn91:32.17^speaker": "Brahmāyu",
+  "mn91:33.2+mn91:33.11^speaker": "Buddha",
+  "mn91:34.2+mn91:34.3^speaker": "Brahmāyu",
+  "mn91:34.2+mn91:34.3^who_else_mentioned": [
+    "I am the brahmin Brahmāyu",
+    "Gotama"
+  ],
+  "mn91:34.2^geographic_locations_here_and_before": [
+    "Mithilā"
+  ],
+  "mn91:34.2^where_here_and_before": [
+    "Makhādeva Mango Grove",
+    "Mithilā"
+  ],
+  "mn91:34.2^who_around_here_and_before": [
+    "studentof Mithilā",
+    "brahmins of Mithilā",
+    "householders of Mithilā"
+  ],
+  "mn91:34.2^who_mentioned_here_and_before": [
+    "Sakyan"
+  ],
+  "mn91:35.2+mn91:35.3^speaker": "the assembly",
+  "mn91:35.2+mn91:35.3^who_else_mentioned": [
+    "Brahmāyu",
+    "Buddha"
+  ],
+  "mn91:35.5^speaker": "the Buddha",
+  "mn91:36.8^speaker": "Brahmāyu",
+  "mn91:37.1+mn91:37.5^speaker": "Brahmāyu",
+  "mn91:37.1+mn91:37.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn91:38.2^speaker": "Brahmāyu",
+  "mn91:38.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn91:39.4+mn91:39.5^speaker": "the mendicants",
+  "mn91:39.4+mn91:39.5^who_else_mentioned": [
+    "Brahmāyu"
+  ],
+  "mn91:39.6+mn91:39.7^speaker": "the Buddha",
+  "mn91:39.6+mn91:39.7^who_else_mentioned": [
+    "Brahmāyu"
+  ],
+  "mn91:39.6^where_here_and_before": [
+    "the home of the brahmin Brahmāyu"
+  ],
+  "mn91:39.6^who_around_here_and_before": [
+    "Saṅgha of mendicants"
+  ],
+  "mn91:39.6^who_mentioned_here_and_before": [
+    "Dhamma"
+  ],
+  "mn91^initial_geographic_location": [
+    "Videha"
+  ],
+  "mn91^where": "the land of the Videhans"
+}

@@ -1,0 +1,44 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn6.14:1.4^speaker": "The Buddha",
+  "sn6.14:1.5^speaker": "The mendicants",
+  "sn6.14:2.1+sn6.14:11.3^speaker": "The Buddha",
+  "sn6.14:2.1+sn6.14:11.3^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "sn6.14:2.1+sn6.14:11.3^who_else_mentioned": [
+    "Aruṇavā",
+    "Aruṇavatī",
+    "Sikhī the Blessed One",
+    "Buddha",
+    "Sikhī",
+    "Abhibhū",
+    "Sambhava",
+    "the Buddha Sikhī",
+    "Brahmin",
+    "Saṅgha",
+    "Rouse",
+    "Mendicants"
+  ],
+  "sn6.14:5.3^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn6.14:5.3^speaker": "The Buddha",
+  "sn6.14:5.3^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "sn6.14:5.3^where_here_and_before": [
+    "Near Sāvatthī"
+  ],
+  "sn6.14:5.3^who_around_here_and_before": [
+    "The mendicants"
+  ],
+  "sn6.14:5.3^who_mentioned_here_and_before": [
+    "King Aruṇavā",
+    "Mendicant Abhibhū"
+  ],
+  "sn6.14^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn6.14^where": "Near Sāvatthī"
+}

@@ -1,0 +1,174 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn2:1.5+dn2:1.6^speaker": "King Ajātasattu Vedehiputta of Magadha",
+  "dn2:2.2+dn2:2.4^speaker": "one of the king's ministers",
+  "dn2:2.2+dn2:2.4^who_else_mentioned": [
+    "Pūraṇa Kassapa"
+  ],
+  "dn2:3.2+dn2:3.4^speaker": "another of the king's ministers",
+  "dn2:3.2+dn2:3.4^who_else_mentioned": [
+    "Makkhali Gosāla"
+  ],
+  "dn2:4.2+dn2:4.4^speaker": "another of the king's ministers",
+  "dn2:4.2+dn2:4.4^who_else_mentioned": [
+    "Ajita Kesakambala"
+  ],
+  "dn2:5.2+dn2:5.4^speaker": "another of the king's ministers",
+  "dn2:5.2+dn2:5.4^who_else_mentioned": [
+    "Pakudha Kaccāyana"
+  ],
+  "dn2:6.2+dn2:6.4^speaker": "another of the king's ministers",
+  "dn2:6.2+dn2:6.4^who_else_mentioned": [
+    "Sañjaya Belaṭṭhiputta"
+  ],
+  "dn2:7.2+dn2:7.4^speaker": "another of the king's ministers",
+  "dn2:7.2+dn2:7.4^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "dn2:8.3^speaker": "King Ajātasattu",
+  "dn2:8.3^who_else_mentioned": [
+    "Jīvaka"
+  ],
+  "dn2:8.4+dn2:8.8^speaker": "Jīvaka Komārabhacca",
+  "dn2:8.4+dn2:8.8^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "dn2:8.9^speaker": "King Ajātasattu",
+  "dn2:8.9^who_else_mentioned": [
+    "Jīvaka"
+  ],
+  "dn2:9.1^speaker": "Jīvaka Komārabhacca",
+  "dn2:9.2+dn2:9.3^speaker": "Jīvaka Komārabhacca",
+  "dn2:10.4+dn2:10.7^speaker": "King Ajātasattu",
+  "dn2:10.4+dn2:10.7^who_else_mentioned": [
+    "Jīvaka",
+    "Saṅgha"
+  ],
+  "dn2:10.8+dn2:10.12^speaker": "Jīvaka Komārabhacca",
+  "dn2:11.2^speaker": "King Ajātasattu",
+  "dn2:11.2^who_else_mentioned": [
+    "Jīvaka",
+    "Buddha"
+  ],
+  "dn2:11.3+dn2:11.4^speaker": "Jīvaka Komārabhacca",
+  "dn2:11.3+dn2:11.4^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "dn2:12.3^speaker": "King Ajātasattu",
+  "dn2:12.3^who_else_mentioned": [
+    "Prince Udāyibhadda",
+    "Saṅgha"
+  ],
+  "dn2:12.4^speaker": "the Buddha",
+  "dn2:12.5+dn2:12.6^speaker": "King Ajātasattu",
+  "dn2:12.5+dn2:12.6^who_else_mentioned": [
+    "Prince Udāyibhadda",
+    "Saṅgha"
+  ],
+  "dn2:13.3^speaker": "King Ajātasattu",
+  "dn2:13.5^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "dn2:13.5^speaker": "the Buddha",
+  "dn2:13.5^where_here_and_before": [
+    "Rājagaha in the Mango Grove of Jīvaka Komārabhacca"
+  ],
+  "dn2:13.5^who_around_here_and_before": [
+    "a large Saṅgha of 1,250 mendicants",
+    "King's ministers",
+    "women mounted on each of the five hundred female elephants",
+    "attendants carrying torches"
+  ],
+  "dn2:13.5^who_mentioned_here_and_before": [
+    "Pūraṇa Kassapa",
+    "Makkhali Gosāla",
+    "Ajita Kesakambala",
+    "Pakudha Kaccāyana",
+    "Sañjaya Belaṭṭhiputta",
+    "Nigaṇṭha Nātaputta",
+    "Prince Udāyibhadda"
+  ],
+  "dn2:14.1+dn2:14.5^speaker": "King Ajātasattu",
+  "dn2:15.1^speaker": "the Buddha",
+  "dn2:15.2^speaker": "King Ajātasattu",
+  "dn2:15.3^speaker": "the Buddha",
+  "dn2:15.4^speaker": "King Ajātasattu",
+  "dn2:15.4^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "dn2:15.5^speaker": "the Buddha",
+  "dn2:16.1+dn2:34.6^speaker": "King Ajātasattu",
+  "dn2:16.1+dn2:34.6^where_else_mentioned": [
+    "Ganges"
+  ],
+  "dn2:16.1+dn2:34.6^who_else_mentioned": [
+    "Pūraṇa Kassapa",
+    "Makkhali Gosāla",
+    "Ājīvaka",
+    "Ajita Kesakambala",
+    "Pakudha Kaccāyana",
+    "Nigaṇṭha Nātaputta",
+    "Jain",
+    "Nigaṇṭha Nāṭaputta",
+    "Sañjaya Belaṭṭhiputta"
+  ],
+  "dn2:20.8^speaker": "King Ajātasattu",
+  "dn2:34.7+dn2:35.17^speaker": "the Buddha",
+  "dn2:34.7+dn2:35.17^who_else_mentioned": [
+    "Ajātasattu"
+  ],
+  "dn2:36.1+dn2:36.2^speaker": "King Ajātasattu",
+  "dn2:36.3+dn2:36.4^speaker": "the Buddha",
+  "dn2:36.5^speaker": "King Ajātasattu",
+  "dn2:36.6^speaker": "the Buddha",
+  "dn2:37.1^speaker": "King Ajātasattu",
+  "dn2:37.2+dn2:37.20^speaker": "the Buddha",
+  "dn2:37.2+dn2:37.20^who_else_mentioned": [
+    "Ajātasattu"
+  ],
+  "dn2:38.1+dn2:38.2^speaker": "King Ajātasattu",
+  "dn2:38.3+dn2:38.4^speaker": "the Buddha",
+  "dn2:38.5^speaker": "King Ajātasattu",
+  "dn2:38.6^speaker": "the Buddha",
+  "dn2:39.1^speaker": "King Ajātasattu",
+  "dn2:39.2+dn2:39.3^speaker": "the Buddha",
+  "dn2:39.4^speaker": "King Ajātasattu",
+  "dn2:39.4^who_around_here_and_before": [
+    "Saṅgha of mendicants"
+  ],
+  "dn2:39.4^who_mentioned_here_and_before": [
+    "Pūraṇa Kassapa",
+    "Prince Udāyibhadda"
+  ],
+  "dn2:40.1+dn2:98.9^speaker": "the Buddha",
+  "dn2:40.1+dn2:98.9^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn2:40.1+dn2:98.9^who_else_mentioned": [
+    "Buddha",
+    "Māras",
+    "Brahmās",
+    "Siri"
+  ],
+  "dn2:99.2+dn2:99.7^speaker": "King Ajātasattu",
+  "dn2:99.2+dn2:99.7^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "dn2:100.1+dn2:100.3^speaker": "the Buddha",
+  "dn2:101.2^speaker": "King Ajātasattu",
+  "dn2:101.3^speaker": "the Buddha",
+  "dn2:102.2+dn2:102.4^speaker": "the Buddha",
+  "dn2:102.2^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "dn2:102.2^who_mentioned_here_and_before": [
+    "King Ajātasattu's father"
+  ],
+  "dn2^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "dn2^where": "Rājagaha in the Mango Grove of Jīvaka Komārabhacca"
+}

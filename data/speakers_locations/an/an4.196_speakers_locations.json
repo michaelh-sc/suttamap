@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.196:2.1+an4.196:2.3^speaker": "Sāḷha and Abhaya the Licchavis",
+  "an4.196:2.1+an4.196:2.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an4.196:3.1+an4.196:5.2^speaker": "the Buddha",
+  "an4.196:3.1+an4.196:5.2^who_else_mentioned": [
+    "Sāḷha"
+  ],
+  "an4.196:5.3+an4.196:5.6^speaker": "Sāḷha",
+  "an4.196:6.1+an4.196:9.2^speaker": "the Buddha",
+  "an4.196:6.1+an4.196:9.2^who_else_mentioned": [
+    "Sāḷha"
+  ],
+  "an4.196:9.3+an4.196:9.7^speaker": "Sāḷha",
+  "an4.196:10.1+an4.196:13.3^speaker": "the Buddha",
+  "an4.196:10.1+an4.196:13.3^who_else_mentioned": [
+    "Sāḷha"
+  ],
+  "an4.196:10.1^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "an4.196:10.1^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "an4.196:10.1^who_around_here_and_before": [
+    "Sāḷha the Licchavi",
+    "Abhaya the Licchavi"
+  ],
+  "an4.196:10.1^who_mentioned_here_and_before": [
+    "ascetics",
+    "brahmins"
+  ],
+  "an4.196^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "an4.196^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.81:2.3+sn22.81:2.4^speaker": "Ānanda",
+  "sn22.81:2.3+sn22.81:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn22.81:3.5+sn22.81:3.6^speaker": "the mendicants",
+  "sn22.81:3.5+sn22.81:3.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn22.81:4.4^geographic_locations_here_and_before": [
+    "Kosambī",
+    "Pālileyya"
+  ],
+  "sn22.81:4.4^speaker": "one of the monks",
+  "sn22.81:4.4^where_here_and_before": [
+    "Kosambi",
+    "Pārileyya"
+  ],
+  "sn22.81:4.4^who_around_here_and_before": [
+    "the Buddha",
+    "Saṅgha"
+  ],
+  "sn22.81:4.4^who_mentioned_here_and_before": [
+    "Ghosita"
+  ],
+  "sn22.81:4.6+sn22.81:12.19^speaker": "the Buddha",
+  "sn22.81:4.6^geographic_locations_here_and_before": [
+    "Pālileyya"
+  ],
+  "sn22.81:4.6^where_here_and_before": [
+    "Pārileyya"
+  ],
+  "sn22.81:4.6^who_around_here_and_before": [
+    "Ānanda",
+    "the mendicants"
+  ],
+  "sn22.81^initial_geographic_location": [
+    "Kosambī",
+    "Pālileyya"
+  ],
+  "sn22.81^where": "Kosambi, Pārileyya"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn83:2.3+mn83:2.4^speaker": "Ānanda",
+  "mn83:2.3+mn83:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn83:2.6+mn83:2.7^speaker": "Ānanda",
+  "mn83:2.6+mn83:2.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn83:3.1+mn83:21.17^speaker": "the Buddha",
+  "mn83:3.1+mn83:21.17^where_else_mentioned": [
+    "Mithilā",
+    "Videha",
+    "Mithila"
+  ],
+  "mn83:3.1+mn83:21.17^who_else_mentioned": [
+    "Ānanda",
+    "Makhādeva",
+    "King Makhādeva",
+    "Brahmā",
+    "Nimi",
+    "Sakka",
+    "King Nimi",
+    "Mātali",
+    "Kaḷārajanaka"
+  ],
+  "mn83:4.20^geographic_locations_here_and_before": [
+    "Mithilā"
+  ],
+  "mn83:4.20^speaker": "Makhādeva",
+  "mn83:4.20^where_here_and_before": [
+    "Mithilā in the Makhādeva Mango Grove"
+  ],
+  "mn83:4.20^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "mn83:4.20^who_mentioned_here_and_before": [
+    "Sakka",
+    "lord of gods"
+  ],
+  "mn83^initial_geographic_location": [
+    "Mithilā"
+  ],
+  "mn83^where": "Mithilā in the Makhādeva Mango Grove"
+}

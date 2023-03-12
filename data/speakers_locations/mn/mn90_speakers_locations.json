@@ -1,0 +1,88 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn90:2.3+mn90:2.6^speaker": "King Pasenadi of Kosala",
+  "mn90:2.3+mn90:2.6^who_else_mentioned": [
+    "Buddha",
+    "Pasenadi",
+    "Kosala"
+  ],
+  "mn90:2.7^speaker": "man",
+  "mn90:3.4^speaker": "sisters Somā and Sakulā",
+  "mn90:4.2^speaker": "King Pasenadi of Kosala",
+  "mn90:4.2^who_else_mentioned": [
+    "Somā",
+    "Sakulā"
+  ],
+  "mn90:4.3^speaker": "the Buddha",
+  "mn90:4.9^speaker": "the Buddha",
+  "mn90:4.9^who_else_mentioned": [
+    "Somā",
+    "Sakulā"
+  ],
+  "mn90:5.2+mn90:5.4^speaker": "King Pasenadi of Kosala",
+  "mn90:5.2+mn90:5.4^who_else_mentioned": [
+    "Gotama",
+    "Buddha"
+  ],
+  "mn90:5.5^speaker": "the Buddha",
+  "mn90:6.2^speaker": "General Viḍūḍabha",
+  "mn90:6.3^speaker": "Sañjaya",
+  "mn90:6.3^where_else_mentioned": [
+    "Sañjaya"
+  ],
+  "mn90:6.3^who_else_mentioned": [
+    "Ākāsa"
+  ],
+  "mn90:7.2+mn90:7.3^speaker": "man",
+  "mn90:7.2+mn90:7.3^who_else_mentioned": [
+    "Sañjaya",
+    "Pasenadi"
+  ],
+  "mn90:7.4^speaker": "man",
+  "mn90:8.2+mn90:8.3^speaker": "King Pasenadi of Kosala",
+  "mn90:8.2+mn90:8.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn90:8.4+mn90:8.5^speaker": "the Buddha",
+  "mn90:8.6+mn90:9.3^speaker": "King Pasenadi of Kosala",
+  "mn90:8.6+mn90:9.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn90:9.6+mn90:9.8^speaker": "the Buddha",
+  "mn90:10.1+mn90:10.2^speaker": "King Pasenadi of Kosala",
+  "mn90:10.6+mn90:10.18^speaker": "the Buddha",
+  "mn90:10.6+mn90:10.18^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn90:11.1+mn90:11.4^speaker": "King Pasenadi of Kosala",
+  "mn90:11.5+mn90:11.8^speaker": "the Buddha",
+  "mn90:11.9^speaker": "King Pasenadi of Kosala",
+  "mn90:11.10^speaker": "King Pasenadi of Kosala",
+  "mn90:11.11^speaker": "the Buddha",
+  "mn90:11.12^speaker": "the Buddha",
+  "mn90:12.1+mn90:12.5^speaker": "King Pasenadi of Kosala",
+  "mn90:12.1+mn90:12.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn90:12.6+mn90:12.12^speaker": "the Buddha",
+  "mn90:12.13^geographic_locations_here_and_before": [
+    "Isipatana",
+    "Kaṇṇakatthala"
+  ],
+  "mn90:12.13^speaker": "King Pasenadi of Kosala",
+  "mn90:12.13^where_here_and_before": [
+    "Ujuñña",
+    "deer park at Kaṇṇakatthala"
+  ],
+  "mn90:12.13^who_around_here_and_before": [
+    "Somā (Sakulā's sister)",
+    "Sakulā (Somā's sister)",
+    "General Viḍūḍabha",
+    "Sañjaya"
+  ],
+  "mn90^initial_geographic_location": [
+    "Isipatana",
+    "Kaṇṇakatthala"
+  ],
+  "mn90^where": "Ujuñña, deer park at Kaṇṇakatthala"
+}

@@ -1,0 +1,184 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn93:2.3+mn93:2.4^speaker": "the brahmins",
+  "mn93:2.3+mn93:2.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:3.4^speaker": "the brahmins",
+  "mn93:3.4^where_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:3.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:4.2+mn93:4.3^speaker": "the brahmins",
+  "mn93:4.2+mn93:4.3^who_else_mentioned": [
+    "Gotama",
+    "Assalāyana"
+  ],
+  "mn93:4.5+mn93:4.7^speaker": "Assalāyana",
+  "mn93:4.5+mn93:4.7^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:4.9+mn93:4.11^speaker": "the brahmins",
+  "mn93:4.9+mn93:4.11^who_else_mentioned": [
+    "Gotama",
+    "Assalāyana"
+  ],
+  "mn93:4.17+mn93:4.20^speaker": "the brahmins",
+  "mn93:4.17+mn93:4.20^who_else_mentioned": [
+    "Gotama",
+    "Assalāyana"
+  ],
+  "mn93:4.22+mn93:4.26^speaker": "Assalāyana",
+  "mn93:4.22+mn93:4.26^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:5.3+mn93:5.8^speaker": "Assalāyana",
+  "mn93:5.3+mn93:5.8^who_else_mentioned": [
+    "Gotama",
+    "Brahmā"
+  ],
+  "mn93:5.9+mn93:5.14^speaker": "the Buddha",
+  "mn93:5.9+mn93:5.14^who_else_mentioned": [
+    "Assalāyana",
+    "Brahmā"
+  ],
+  "mn93:6.1^speaker": "Assalāyana",
+  "mn93:6.4+mn93:6.5^speaker": "the Buddha",
+  "mn93:6.4+mn93:6.5^where_else_mentioned": [
+    "Greece",
+    "Persia"
+  ],
+  "mn93:6.4+mn93:6.5^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:6.6^speaker": "Assalāyana",
+  "mn93:6.7^speaker": "the Buddha",
+  "mn93:7.1^speaker": "Assalāyana",
+  "mn93:7.4+mn93:7.7^speaker": "the Buddha",
+  "mn93:7.4+mn93:7.7^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:7.8+mn93:7.13^speaker": "Assalāyana",
+  "mn93:7.8+mn93:7.13^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:7.14^speaker": "the Buddha",
+  "mn93:8.1^speaker": "Assalāyana",
+  "mn93:8.4+mn93:8.5^speaker": "the Buddha",
+  "mn93:8.4+mn93:8.5^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:8.6+mn93:8.11^speaker": "Assalāyana",
+  "mn93:8.6+mn93:8.11^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:8.6^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn93:8.6^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery in Sāvatthī"
+  ],
+  "mn93:8.6^who_around_here_and_before": [
+    "the brahmins"
+  ],
+  "mn93:8.6^who_mentioned_here_and_before": [
+    "Brahmā"
+  ],
+  "mn93:9.1^speaker": "Assalāyana",
+  "mn93:9.4+mn93:9.5^speaker": "the Buddha",
+  "mn93:9.4+mn93:9.5^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:9.6+mn93:9.11^speaker": "Assalāyana",
+  "mn93:9.6+mn93:9.11^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:9.12+mn93:9.14^speaker": "the Buddha",
+  "mn93:9.12+mn93:9.14^who_else_mentioned": [
+    "Assalāyana",
+    "Gotama",
+    "Buddha",
+    "Brahmā",
+    "Devala the Dark",
+    "Devala"
+  ],
+  "mn93:10.1^speaker": "Assalāyana",
+  "mn93:10.4+mn93:10.5^speaker": "the Buddha",
+  "mn93:10.4+mn93:10.5^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:10.6+mn93:10.10^speaker": "Assalāyana",
+  "mn93:10.6+mn93:10.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:10.11^speaker": "Assalāyana",
+  "mn93:11.1^speaker": "the Buddha",
+  "mn93:11.4+mn93:11.10^speaker": "the Buddha",
+  "mn93:11.4+mn93:11.10^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:11.11+mn93:11.14^speaker": "Assalāyana",
+  "mn93:11.11+mn93:11.14^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:11.15^speaker": "the Buddha",
+  "mn93:12.1^speaker": "Assalāyana",
+  "mn93:12.4+mn93:12.6^speaker": "the Buddha",
+  "mn93:12.4+mn93:12.6^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:12.7^speaker": "Assalāyana",
+  "mn93:13.1+mn93:13.3^speaker": "the Buddha",
+  "mn93:13.1+mn93:13.3^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:13.4^speaker": "Assalāyana",
+  "mn93:14.1+mn93:14.3^speaker": "the Buddha",
+  "mn93:14.1+mn93:14.3^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:14.4+mn93:14.6^speaker": "Assalāyana",
+  "mn93:15.1+mn93:15.3^speaker": "the Buddha",
+  "mn93:15.1+mn93:15.3^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:15.4+mn93:15.5^speaker": "Assalāyana",
+  "mn93:16.1+mn93:16.3^speaker": "the Buddha",
+  "mn93:16.1+mn93:16.3^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:16.4+mn93:16.5^speaker": "Assalāyana",
+  "mn93:17.1+mn93:17.4^speaker": "the Buddha",
+  "mn93:17.1+mn93:17.4^who_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:18.2+mn93:18.71^speaker": "the Buddha",
+  "mn93:18.2+mn93:18.71^where_else_mentioned": [
+    "Assalāyana"
+  ],
+  "mn93:18.2+mn93:18.71^who_else_mentioned": [
+    "Brahmā",
+    "Devala the Dark",
+    "Devala"
+  ],
+  "mn93:19.2+mn93:19.3^speaker": "Assalāyana",
+  "mn93:19.2+mn93:19.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn93:19.2^where_here_and_before": [
+    "wilderness region"
+  ],
+  "mn93:19.2^who_around_here_and_before": [
+    "Assalāyana"
+  ],
+  "mn93:19.2^who_mentioned_here_and_before": [
+    "seven brahmin hermits"
+  ],
+  "mn93^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn93^where": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī"
+}

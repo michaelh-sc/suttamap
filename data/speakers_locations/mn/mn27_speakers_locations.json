@@ -1,0 +1,75 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn27:2.4^speaker": "the brahmin Jāṇussoṇi",
+  "mn27:2.4^who_else_mentioned": [
+    "Vacchāyana"
+  ],
+  "mn27:2.5^speaker": "the wanderer Pilotika",
+  "mn27:2.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn27:2.6^speaker": "the brahmin Jāṇussoṇi",
+  "mn27:2.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn27:2.7+mn27:2.8^speaker": "the wanderer Pilotika",
+  "mn27:2.7+mn27:2.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn27:2.9^speaker": "the brahmin Jāṇussoṇi",
+  "mn27:2.9^who_else_mentioned": [
+    "Vacchāyana",
+    "Gotama"
+  ],
+  "mn27:2.10+mn27:2.11^speaker": "the wanderer Pilotika",
+  "mn27:2.10+mn27:2.11^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn27:2.12^speaker": "the brahmin Jāṇussoṇi",
+  "mn27:2.12^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn27:3.1+mn27:7.21^speaker": "the wanderer Pilotika",
+  "mn27:3.1+mn27:7.21^who_else_mentioned": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn27:8.2+mn27:8.5^speaker": "the brahmin Jāṇussoṇi",
+  "mn27:8.2+mn27:8.5^who_else_mentioned": [
+    "Buddha",
+    "Gotama"
+  ],
+  "mn27:9.5+mn27:9.7^speaker": "the Buddha",
+  "mn27:9.8^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn27:9.8^speaker": "Jāṇussoṇi",
+  "mn27:9.8^where_here_and_before": [
+    "Jeta's Grove",
+    "Sāvatthī"
+  ],
+  "mn27:9.8^who_around_here_and_before": [
+    "Anāthapiṇḍika's monastery"
+  ],
+  "mn27:9.8^who_mentioned_here_and_before": [
+    "the ascetic Buddha"
+  ],
+  "mn27:10.1+mn27:26.7^speaker": "the Buddha",
+  "mn27:10.1+mn27:26.7^who_else_mentioned": [
+    "Buddha",
+    "Māras",
+    "Brahmās",
+    "Saṅgha",
+    "The Blessed One"
+  ],
+  "mn27:27.2+mn27:27.5^speaker": "Jāṇussoṇi",
+  "mn27:27.2+mn27:27.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn27^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn27^where": "Jeta's Grove, Sāvatthī"
+}

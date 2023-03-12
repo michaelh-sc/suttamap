@@ -1,0 +1,44 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.133:1.6+sn35.133:1.7^speaker": "the student",
+  "sn35.133:1.6+sn35.133:1.7^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "sn35.133:2.1^speaker": "the brahmin lady of the Verahaccāni clan",
+  "sn35.133:2.2^speaker": "the student",
+  "sn35.133:2.3^speaker": "the student",
+  "sn35.133:2.3^who_else_mentioned": [
+    "Udāyī",
+    "Verahaccāni"
+  ],
+  "sn35.133:2.8^speaker": "the brahmin lady of the Verahaccāni clan",
+  "sn35.133:2.9^speaker": "Udāyī",
+  "sn35.133:4.1+sn35.133:4.2^speaker": "the brahmin lady of the Verahaccāni clan",
+  "sn35.133:4.1+sn35.133:4.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "sn35.133:4.3+sn35.133:4.5^speaker": "the student",
+  "sn35.133:4.6^speaker": "the brahmin lady of the Verahaccāni clan",
+  "sn35.133:4.7^speaker": "the student",
+  "sn35.133:5.4^speaker": "the brahmin lady of the Verahaccāni clan",
+  "sn35.133:6.1+sn35.133:6.3^speaker": "Udāyī",
+  "sn35.133:7.2+sn35.133:7.5^speaker": "the brahmin lady of the Verahaccāni clan",
+  "sn35.133:7.2+sn35.133:7.5^who_else_mentioned": [
+    "Udāyī",
+    "Saṅgha"
+  ],
+  "sn35.133:7.2^geographic_locations_here_and_before": [
+    "Kāmaṇḍā"
+  ],
+  "sn35.133:7.2^where_here_and_before": [
+    "Kāmaṇḍā in the brahmin Todeyya's mango grove"
+  ],
+  "sn35.133:7.2^who_around_here_and_before": [
+    "Udāyī",
+    "the student"
+  ],
+  "sn35.133^initial_geographic_location": [
+    "Kāmaṇḍā"
+  ],
+  "sn35.133^where": "Kāmaṇḍā in the brahmin Todeyya's mango grove"
+}

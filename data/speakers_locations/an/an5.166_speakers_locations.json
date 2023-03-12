@@ -1,0 +1,65 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.166:1.2+an5.166:1.5^speaker": "Sāriputta",
+  "an5.166:2.2^speaker": "Udāyī",
+  "an5.166:2.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an5.166:4.2^speaker": "Udāyī",
+  "an5.166:4.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an5.166:5.2+an5.166:5.3^speaker": "Sāriputta",
+  "an5.166:5.2+an5.166:5.3^who_else_mentioned": [
+    "Udāyī",
+    "Buddha"
+  ],
+  "an5.166:5.6+an5.166:5.9^speaker": "Sāriputta",
+  "an5.166:6.2^speaker": "Udāyī",
+  "an5.166:6.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an5.166:8.2^speaker": "Udāyī",
+  "an5.166:8.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an5.166:9.2+an5.166:9.3^speaker": "Sāriputta",
+  "an5.166:9.2+an5.166:9.3^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "an5.166:10.2^speaker": "the Buddha",
+  "an5.166:10.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "an5.166:10.3^speaker": "Udāyī",
+  "an5.166:10.4+an5.166:10.5^speaker": "the Buddha",
+  "an5.166:10.4+an5.166:10.5^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "an5.166:11.2+an5.166:11.3^speaker": "the Buddha",
+  "an5.166:12.2+an5.166:12.5^speaker": "the Buddha",
+  "an5.166:13.2+an5.166:13.5^speaker": "Ānanda",
+  "an5.166:13.2+an5.166:13.5^who_else_mentioned": [
+    "Upavāṇa",
+    "Buddha"
+  ],
+  "an5.166:14.1^speaker": "the Buddha",
+  "an5.166:14.1^who_else_mentioned": [
+    "Upavāṇa"
+  ],
+  "an5.166:14.2+an5.166:14.9^speaker": "Upavāṇa",
+  "an5.166:15.1+an5.166:15.4^speaker": "the Buddha",
+  "an5.166:15.1+an5.166:15.4^who_else_mentioned": [
+    "Upavāṇa"
+  ],
+  "an5.166:15.1^where_here_and_before": [
+    "Assembly Hall"
+  ],
+  "an5.166:15.1^who_around_here_and_before": [
+    "Sāriputta",
+    "Udāyī",
+    "Ānanda",
+    "Upavāṇa"
+  ],
+  "an5.166^where": "Assembly Hall"
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn46.6:1.4+sn46.6:1.8^speaker": "the wanderer Kuṇḍaliya",
+  "sn46.6:1.4+sn46.6:1.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn46.6:1.9^speaker": "the Buddha",
+  "sn46.6:1.9^where_else_mentioned": [
+    "Kuṇḍaliya"
+  ],
+  "sn46.6:2.1^speaker": "the wanderer Kuṇḍaliya",
+  "sn46.6:2.2^speaker": "the Buddha",
+  "sn46.6:2.3^speaker": "the wanderer Kuṇḍaliya",
+  "sn46.6:2.4^speaker": "the Buddha",
+  "sn46.6:2.5^speaker": "the wanderer Kuṇḍaliya",
+  "sn46.6:2.6^speaker": "the Buddha",
+  "sn46.6:2.7^speaker": "the wanderer Kuṇḍaliya",
+  "sn46.6:2.8+sn46.6:8.4^speaker": "the Buddha",
+  "sn46.6:2.8+sn46.6:8.4^who_else_mentioned": [
+    "Kuṇḍaliya"
+  ],
+  "sn46.6:9.2+sn46.6:9.5^speaker": "the wanderer Kuṇḍaliya",
+  "sn46.6:9.2+sn46.6:9.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "sn46.6:9.2^geographic_locations_here_and_before": [
+    "Sāketa"
+  ],
+  "sn46.6:9.2^where_here_and_before": [
+    "Sāketa in the deer part at the Añjana Wood"
+  ],
+  "sn46.6^initial_geographic_location": [
+    "Sāketa"
+  ],
+  "sn46.6^where": "Sāketa in the deer part at the Añjana Wood"
+}

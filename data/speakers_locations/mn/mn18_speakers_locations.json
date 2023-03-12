@@ -1,0 +1,83 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn18:3.4^speaker": "Daṇḍapāṇi the Sakyan",
+  "mn18:4.1+mn18:4.2^speaker": "the Buddha",
+  "mn18:4.1+mn18:4.2^who_else_mentioned": [
+    "Māras",
+    "Brahmās"
+  ],
+  "mn18:7.1+mn18:7.2^speaker": "one of the mendicants",
+  "mn18:7.1+mn18:7.2^who_else_mentioned": [
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn18:8.1+mn18:8.4^speaker": "the Buddha",
+  "mn18:10.2+mn18:10.7^speaker": "the mendicants",
+  "mn18:10.2+mn18:10.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn18:10.9+mn18:10.11^speaker": "the mendicants",
+  "mn18:10.9+mn18:10.11^who_else_mentioned": [
+    "Mahākaccāna",
+    "Buddha"
+  ],
+  "mn18:11.18^speaker": "the mendicants",
+  "mn18:11.18^who_else_mentioned": [
+    "Mahākaccāna"
+  ],
+  "mn18:12.1+mn18:12.5^speaker": "Mahākaccāna",
+  "mn18:12.1+mn18:12.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn18:13.1+mn18:13.6^speaker": "the mendicants",
+  "mn18:13.1+mn18:13.6^who_else_mentioned": [
+    "Buddha",
+    "Mahākaccāna"
+  ],
+  "mn18:14.1^speaker": "the mendicants",
+  "mn18:14.2^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "mn18:14.2^speaker": "Mahākaccāna",
+  "mn18:14.2^where_here_and_before": [
+    "Kapilavatthu in the Banyan Tree Monastery",
+    "Great Wood"
+  ],
+  "mn18:14.2^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "mn18:14.2^who_mentioned_here_and_before": [
+    "Māras",
+    "Brahmās"
+  ],
+  "mn18:15.1+mn18:19.5^speaker": "Mahākaccāna",
+  "mn18:15.1+mn18:19.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn18:20.1^speaker": "the mendicants",
+  "mn18:20.17^speaker": "the mendicants",
+  "mn18:20.17^who_else_mentioned": [
+    "Mahākaccāna"
+  ],
+  "mn18:21.1+mn18:21.3^speaker": "the Buddha",
+  "mn18:21.1+mn18:21.3^who_else_mentioned": [
+    "Mahākaccāna"
+  ],
+  "mn18:22.2+mn18:22.4^speaker": "Ānanda",
+  "mn18:22.5^speaker": "the Buddha",
+  "mn18:22.5^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "mn18:22.5^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn18:22.5^who_mentioned_here_and_before": [
+    "Mahākaccāna",
+    "Ānanda"
+  ],
+  "mn18^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "mn18^where": "Kapilavatthu in the Banyan Tree Monastery, Great Wood"
+}

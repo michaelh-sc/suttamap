@@ -1,0 +1,59 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn78:2.3+mn78:2.7^speaker": "Pañcakaṅga",
+  "mn78:2.3+mn78:2.7^where_else_mentioned": [
+    "Mallikā"
+  ],
+  "mn78:2.3+mn78:2.7^who_else_mentioned": [
+    "Buddha",
+    "Uggāhamāna"
+  ],
+  "mn78:3.5+mn78:3.9^speaker": "Uggāhamāna",
+  "mn78:3.5+mn78:3.9^where_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "mn78:3.5+mn78:3.9^who_else_mentioned": [
+    "Pañcakaṅga",
+    "Gotama"
+  ],
+  "mn78:5.1+mn78:5.4^speaker": "Uggāhamāna",
+  "mn78:6.3^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn78:6.3^speaker": "Pañcakaṅga",
+  "mn78:6.3^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery",
+    "Mallikā's single-halled monastery"
+  ],
+  "mn78:6.3^who_around_here_and_before": [
+    "Wanderers",
+    "Mallikā"
+  ],
+  "mn78:6.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn78:6.3^who_mentioned_here_and_before": [
+    "Kings",
+    "Bandits",
+    "Ministers",
+    "Armies",
+    "Family",
+    "Women",
+    "Heroes"
+  ],
+  "mn78:8.2+mn78:14.3^speaker": "the Buddha",
+  "mn78:8.2+mn78:14.3^who_else_mentioned": [
+    "Uggāhamāna"
+  ],
+  "mn78:8.2^who_around_here_and_before": [
+    "Uggāhamāna"
+  ],
+  "mn78:8.2^who_mentioned_here_and_before": [
+    "a little baby boy"
+  ],
+  "mn78^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn78^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Mallikā's single-halled monastery"
+}

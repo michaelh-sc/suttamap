@@ -1,0 +1,66 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn54:3.3^speaker": "The Buddha",
+  "mn54:3.4^speaker": "Potaliya the householder",
+  "mn54:3.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn54:3.7^speaker": "The Buddha",
+  "mn54:3.8^speaker": "Potaliya the householder",
+  "mn54:3.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn54:3.9^speaker": "Potaliya the householder",
+  "mn54:3.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn54:3.10^speaker": "The Buddha",
+  "mn54:3.11^speaker": "Potaliya the householder",
+  "mn54:3.11^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn54:3.12^speaker": "The Buddha",
+  "mn54:3.13+mn54:3.14^speaker": "Potaliya the householder",
+  "mn54:3.13+mn54:3.14^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn54:3.15^speaker": "The Buddha",
+  "mn54:3.16+mn54:3.17^speaker": "Potaliya the householder",
+  "mn54:3.18^speaker": "The Buddha",
+  "mn54:3.19^speaker": "Potaliya the householder",
+  "mn54:4.2+mn54:4.12^speaker": "The Buddha",
+  "mn54:5.1^speaker": "Potaliya the householder",
+  "mn54:5.2^speaker": "The Buddha",
+  "mn54:5.3^geographic_locations_here_and_before": [
+    "Āpaṇa"
+  ],
+  "mn54:5.3^speaker": "Potaliya the householder",
+  "mn54:5.3^where_here_and_before": [
+    "The land of the Northern Āpaṇas near the town of theirs named Āpaṇa"
+  ],
+  "mn54:5.3^who_mentioned_here_and_before": [
+    "Potaliya's children"
+  ],
+  "mn54:15.5+mn54:15.8^speaker": "The Buddha",
+  "mn54:15.9+mn54:16.4^speaker": "Potaliya the householder",
+  "mn54:15.9+mn54:16.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn54:17.4^speaker": "Potaliya the householder",
+  "mn54:18.6+mn54:18.8^speaker": "Potaliya the householder",
+  "mn54:20.7+mn54:20.9^speaker": "Potaliya the householder",
+  "mn54:21.19^speaker": "Potaliya the householder",
+  "mn54:21.20+mn54:25.3^speaker": "The Buddha",
+  "mn54:21.20+mn54:25.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn54:25.4+mn54:26.4^speaker": "Potaliya the householder",
+  "mn54:25.4+mn54:26.4^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn54^initial_geographic_location": [
+    "Āpaṇa"
+  ],
+  "mn54^where": "The land of the Northern Āpaṇas, near the town of theirs named Āpaṇa."
+}

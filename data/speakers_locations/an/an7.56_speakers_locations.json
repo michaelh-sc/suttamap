@@ -1,0 +1,56 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.56:1.4^speaker": "a glorious deity",
+  "an7.56:1.6^speaker": "another deity",
+  "an7.56:3.3^speaker": "Mahāmoggallāna",
+  "an7.56:4.4+an7.56:4.7^speaker": "Tissa the Brahmā",
+  "an7.56:4.4+an7.56:4.7^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "an7.56:4.11^speaker": "Mahāmoggallāna",
+  "an7.56:4.13^speaker": "Tissa the Brahmā",
+  "an7.56:4.13^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "an7.56:5.1^speaker": "Mahāmoggallāna",
+  "an7.56:5.3+an7.56:10.8^speaker": "Tissa the Brahmā",
+  "an7.56:5.3+an7.56:10.8^who_else_mentioned": [
+    "Moggallāna",
+    "Brahmā"
+  ],
+  "an7.56:12.1^speaker": "the Buddha",
+  "an7.56:12.1^who_else_mentioned": [
+    "Moggallāna",
+    "Tissa",
+    "Brahmā"
+  ],
+  "an7.56:12.2+an7.56:12.3^speaker": "Mahāmoggallāna",
+  "an7.56:12.2+an7.56:12.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an7.56:12.4^speaker": "the Buddha",
+  "an7.56:12.4^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "an7.56:12.5^speaker": "Mahāmoggallāna",
+  "an7.56:13.1+an7.56:13.6^speaker": "the Buddha",
+  "an7.56:13.1+an7.56:13.6^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "an7.56:13.1^geographic_locations_here_and_before": [
+    "Gijjhakūṭa"
+  ],
+  "an7.56:13.1^where_here_and_before": [
+    "Vulture's Peak Mountain near Rājagaha"
+  ],
+  "an7.56:13.1^who_around_here_and_before": [
+    "Mahāmoggallāna"
+  ],
+  "an7.56:13.1^who_mentioned_here_and_before": [
+    "Tissa the Brahmā"
+  ],
+  "an7.56^initial_geographic_location": [
+    "Gijjhakūṭa"
+  ],
+  "an7.56^where": "Vulture's Peak Mountain, near Rājagaha"
+}

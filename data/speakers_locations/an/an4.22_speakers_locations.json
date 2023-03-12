@@ -1,0 +1,30 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.22:1.1+an4.22:8.4^speaker": "the Buddha (assumed)",
+  "an4.22:1.1+an4.22:8.4^where_else_mentioned": [
+    "Uruvelā",
+    "the Nerañjarā River"
+  ],
+  "an4.22:1.1+an4.22:8.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an4.22:1.5^geographic_locations_here_and_before": [
+    "Uruvelā"
+  ],
+  "an4.22:1.5^speaker": "the Buddha (assumed)",
+  "an4.22:1.5^where_here_and_before": [
+    "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River"
+  ],
+  "an4.22:1.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an4.22:1.5^who_mentioned_here_and_before": [
+    "old brahmins",
+    "elderly brahmins",
+    "senior brahmins"
+  ],
+  "an4.22^initial_geographic_location": [
+    "Uruvelā"
+  ],
+  "an4.22^where": "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River"
+}

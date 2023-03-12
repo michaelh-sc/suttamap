@@ -1,0 +1,26 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn7.16:1.4+sn7.16:1.5^speaker": "Contraphile",
+  "sn7.16:1.4+sn7.16:1.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn7.16:1.8^speaker": "Contraphile",
+  "sn7.16:2.1+sn7.16:3.4^speaker": "the Buddha",
+  "sn7.16:4.2+sn7.16:4.3^speaker": "Contraphile",
+  "sn7.16:4.2+sn7.16:4.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn7.16:4.2^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn7.16:4.2^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn7.16:4.2^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "sn7.16^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn7.16^where": "Sāvatthī"
+}

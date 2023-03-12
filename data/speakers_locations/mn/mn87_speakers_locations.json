@@ -1,0 +1,107 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn87:2.4^speaker": "a certain householder",
+  "mn87:3.2^speaker": "the Buddha",
+  "mn87:3.3+mn87:3.7^speaker": "the householder",
+  "mn87:3.8+mn87:3.9^speaker": "the Buddha",
+  "mn87:3.10+mn87:3.12^speaker": "the householder",
+  "mn87:4.17+mn87:4.18^speaker": "the gamblers",
+  "mn87:4.19^speaker": "the householder",
+  "mn87:5.3+mn87:5.4^speaker": "King Pasenadi",
+  "mn87:5.3+mn87:5.4^who_else_mentioned": [
+    "Mallika",
+    "Gotama"
+  ],
+  "mn87:5.5^speaker": "Queen Mallikā",
+  "mn87:5.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn87:5.6+mn87:5.12^speaker": "King Pasenadi",
+  "mn87:5.6+mn87:5.12^who_else_mentioned": [
+    "Gotama",
+    "Mallikā",
+    "Buddha"
+  ],
+  "mn87:6.2+mn87:6.8^speaker": "Queen Mallikā",
+  "mn87:6.2+mn87:6.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn87:6.6^speaker": "Queen Mallikā",
+  "mn87:6.9^speaker": "brahmin Nāḷijaṅgha",
+  "mn87:6.11+mn87:6.14^speaker": "brahmin Nāḷijaṅgha",
+  "mn87:6.11+mn87:6.14^who_else_mentioned": [
+    "Gotama",
+    "Queen Mallikā",
+    "Buddha"
+  ],
+  "mn87:7.1+mn87:22.9^speaker": "the Buddha",
+  "mn87:7.1+mn87:22.9^who_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "mn87:24.1+mn87:24.2^speaker": "Queen Mallikā",
+  "mn87:24.1+mn87:24.2^who_else_mentioned": [
+    "Vajirī"
+  ],
+  "mn87:24.3^speaker": "King Pasenadi",
+  "mn87:24.3^who_else_mentioned": [
+    "Mallikā"
+  ],
+  "mn87:24.4+mn87:24.5^speaker": "Queen Mallikā",
+  "mn87:24.6^speaker": "King Pasenadi",
+  "mn87:24.7+mn87:27.1^speaker": "Queen Mallikā",
+  "mn87:24.7+mn87:27.1^who_else_mentioned": [
+    "Buddha",
+    "Lady Vāsabhā",
+    "Viḍūḍabha"
+  ],
+  "mn87:27.2^speaker": "King Pasenadi",
+  "mn87:27.2^who_else_mentioned": [
+    "Mallikā"
+  ],
+  "mn87:27.3+mn87:27.4^speaker": "Queen Mallikā",
+  "mn87:27.5^speaker": "King Pasenadi",
+  "mn87:27.6+mn87:28.2^speaker": "Queen Mallikā",
+  "mn87:27.6+mn87:28.2^who_else_mentioned": [
+    "Buddha",
+    "Kāsi",
+    "Kosala"
+  ],
+  "mn87:28.3+mn87:28.4^speaker": "King Pasenadi",
+  "mn87:28.3+mn87:28.4^who_else_mentioned": [
+    "Mallikā",
+    "Kāsi"
+  ],
+  "mn87:28.5+mn87:28.6^speaker": "Queen Mallikā",
+  "mn87:28.5^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn87:28.5^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "mn87:28.5^who_around_here_and_before": [
+    "Anāthapiṇḍika",
+    "Princess Vajirī"
+  ],
+  "mn87:28.7^speaker": "King Pasenadi",
+  "mn87:28.8+mn87:28.9^speaker": "Queen Mallikā",
+  "mn87:28.8+mn87:28.9^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn87:29.1+mn87:29.3^speaker": "King Pasenadi",
+  "mn87:29.1+mn87:29.3^who_else_mentioned": [
+    "Mallikā",
+    "Buddha"
+  ],
+  "mn87:29.5+mn87:29.7^speaker": "King Pasenadi",
+  "mn87:29.5+mn87:29.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn87:29.5^who_around_here_and_before": [
+    "The Buddha"
+  ],
+  "mn87^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn87^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

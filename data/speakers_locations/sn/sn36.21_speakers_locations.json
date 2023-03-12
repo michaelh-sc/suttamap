@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn36.21:1.4+sn36.21:1.6^speaker": "the wanderer Moḷiyasīvaka",
+  "sn36.21:1.4+sn36.21:1.6^who_else_mentioned": [
+    "Gotama",
+    "Master Gotama"
+  ],
+  "sn36.21:2.1+sn36.21:3.15^speaker": "the Buddha",
+  "sn36.21:4.2+sn36.21:4.3^speaker": "the wanderer Moḷiyasīvaka",
+  "sn36.21:4.2+sn36.21:4.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn36.21:5.1+sn36.21:5.4^speaker": "the Buddha",
+  "sn36.21:5.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn36.21:5.1^where_here_and_before": [
+    "Bamboo Grove near Rājagaha"
+  ],
+  "sn36.21:5.1^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "sn36.21^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn36.21^where": "Bamboo Grove, near Rājagaha"
+}

@@ -1,0 +1,28 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.32:2.1+an5.32:2.7^speaker": "Princess Cundī",
+  "an5.32:2.1+an5.32:2.7^who_else_mentioned": [
+    "Prince Cunda",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "an5.32:3.1+an5.32:11.4^speaker": "the Buddha",
+  "an5.32:3.1+an5.32:11.4^who_else_mentioned": [
+    "Cundī",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "an5.32:3.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "an5.32:3.1^where_here_and_before": [
+    "Bamboo Grove near Rājagaha"
+  ],
+  "an5.32:3.1^who_around_here_and_before": [
+    "Prince Cunda"
+  ],
+  "an5.32^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "an5.32^where": "Bamboo Grove, near Rājagaha"
+}

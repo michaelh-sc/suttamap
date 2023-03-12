@@ -1,0 +1,363 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn13:4.2^speaker": "Vāseṭṭha",
+  "dn13:4.2^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn13:4.2^who_else_mentioned": [
+    "Pokkharasāti"
+  ],
+  "dn13:5.2^speaker": "Bhāradvāja",
+  "dn13:5.2^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn13:5.2^who_else_mentioned": [
+    "Tārukkha"
+  ],
+  "dn13:7.2+dn13:7.6^speaker": "Vāseṭṭha",
+  "dn13:7.2+dn13:7.6^where_else_mentioned": [
+    "Gotama",
+    "Aciravatī",
+    "Manasākaṭa"
+  ],
+  "dn13:7.2+dn13:7.6^who_else_mentioned": [
+    "Bhāradvāja",
+    "Sakyan",
+    "Buddha"
+  ],
+  "dn13:7.7^speaker": "Bhāradvāja",
+  "dn13:8.8^speaker": "Vāseṭṭha",
+  "dn13:9.1+dn13:9.5^speaker": "the Buddha",
+  "dn13:9.1+dn13:9.5^who_else_mentioned": [
+    "Vāseṭṭha",
+    "Pokkharasāti",
+    "Bhāradvāja",
+    "Tārukkha"
+  ],
+  "dn13:10.1+dn13:10.4^speaker": "Vāseṭṭha",
+  "dn13:10.1+dn13:10.4^who_else_mentioned": [
+    "Gotama",
+    "Addhariya",
+    "Tittiriya",
+    "Chandoka",
+    "Bavhadija"
+  ],
+  "dn13:11.1^speaker": "the Buddha",
+  "dn13:11.1^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:11.2^speaker": "Vāseṭṭha",
+  "dn13:11.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:11.3^speaker": "the Buddha",
+  "dn13:11.3^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:11.4^speaker": "Vāseṭṭha",
+  "dn13:11.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:11.5^speaker": "the Buddha",
+  "dn13:11.5^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:11.6^speaker": "Vāseṭṭha",
+  "dn13:11.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:12.1^speaker": "the Buddha",
+  "dn13:12.1^who_else_mentioned": [
+    "Vedas",
+    "Vāseṭṭha",
+    "Brahmā"
+  ],
+  "dn13:12.2^speaker": "Vāseṭṭha",
+  "dn13:12.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:12.3^speaker": "the Buddha",
+  "dn13:12.3^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn13:12.4^speaker": "Vāseṭṭha",
+  "dn13:12.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:12.5^speaker": "the Buddha",
+  "dn13:12.5^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn13:12.6^speaker": "Vāseṭṭha",
+  "dn13:12.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:12.7^speaker": "the Buddha",
+  "dn13:12.7^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn13:12.8^speaker": "Vāseṭṭha",
+  "dn13:12.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:13.1+dn13:13.3^speaker": "the Buddha",
+  "dn13:13.1+dn13:13.3^who_else_mentioned": [
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Bhāradvāja",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu",
+    "Brahmā"
+  ],
+  "dn13:13.4^speaker": "Vāseṭṭha",
+  "dn13:13.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:14.1+dn13:14.11^speaker": "the Buddha",
+  "dn13:14.1+dn13:14.11^who_else_mentioned": [
+    "Brahmā",
+    "Vāseṭṭha"
+  ],
+  "dn13:14.12^geographic_locations_here_and_before": [
+    "Manasākaṭa",
+    "Aciravatī"
+  ],
+  "dn13:14.12^speaker": "Vāseṭṭha",
+  "dn13:14.12^where_here_and_before": [
+    "Manasākaṭa",
+    "a village of the Kosalan brahmins",
+    "on a bank of the river Aciravatī to the north of Manasākaṭa"
+  ],
+  "dn13:14.12^who_around_here_and_before": [
+    "a large Saṅgha of five hundred mendicants"
+  ],
+  "dn13:14.12^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:14.12^who_mentioned_here_and_before": [
+    "Caṅkī",
+    "Tārukkha",
+    "Pokkharasāti",
+    "Jāṇussoṇi",
+    "Todeyya",
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Bhāradvāja",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu"
+  ],
+  "dn13:15.1+dn13:16.2^speaker": "the Buddha",
+  "dn13:15.1+dn13:16.2^where_else_mentioned": [
+    "Vedas"
+  ],
+  "dn13:15.1+dn13:16.2^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:16.3^speaker": "Vāseṭṭha",
+  "dn13:16.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:17.1+dn13:17.3^speaker": "the Buddha",
+  "dn13:17.1+dn13:17.3^who_else_mentioned": [
+    "Vāseṭṭha",
+    "Vedas"
+  ],
+  "dn13:17.4^speaker": "Vāseṭṭha",
+  "dn13:17.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:18.1+dn13:18.12^speaker": "the Buddha",
+  "dn13:18.1+dn13:18.12^who_else_mentioned": [
+    "Vedas",
+    "Brahmā",
+    "Vāseṭṭha"
+  ],
+  "dn13:18.13^speaker": "Vāseṭṭha",
+  "dn13:18.13^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:18.14+dn13:19.14^speaker": "the Buddha",
+  "dn13:18.14+dn13:19.14^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:19.15^speaker": "Vāseṭṭha",
+  "dn13:20.1+dn13:20.7^speaker": "the Buddha",
+  "dn13:20.8^speaker": "Vāseṭṭha",
+  "dn13:20.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:20.9+dn13:22.5^speaker": "the Buddha",
+  "dn13:20.9+dn13:22.5^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:22.6^speaker": "Vāseṭṭha",
+  "dn13:22.6^who_mentioned_here_and_before": [
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Bhāradvāja",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu",
+    "Brahmā"
+  ],
+  "dn13:22.7+dn13:22.12^speaker": "the Buddha",
+  "dn13:22.13^speaker": "Vāseṭṭha",
+  "dn13:22.13^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:23.1+dn13:24.6^speaker": "the Buddha",
+  "dn13:23.1+dn13:24.6^where_else_mentioned": [
+    "the Aciravatī river"
+  ],
+  "dn13:23.1+dn13:24.6^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:24.7^speaker": "Vāseṭṭha",
+  "dn13:24.7^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:25.1+dn13:26.5^speaker": "the Buddha",
+  "dn13:25.1+dn13:26.5^who_else_mentioned": [
+    "Vāseṭṭha",
+    "Indra",
+    "Soma",
+    "Pajāpati",
+    "Brahmā",
+    "Mahiddhi",
+    "Yama"
+  ],
+  "dn13:26.6^speaker": "Vāseṭṭha",
+  "dn13:26.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:27.1+dn13:29.5^speaker": "the Buddha",
+  "dn13:27.1+dn13:29.5^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:29.6^speaker": "Vāseṭṭha",
+  "dn13:29.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:30.1+dn13:31.2^speaker": "the Buddha",
+  "dn13:30.1+dn13:31.2^who_else_mentioned": [
+    "Vāseṭṭha",
+    "Brahmā"
+  ],
+  "dn13:31.3^speaker": "Vāseṭṭha",
+  "dn13:31.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:31.4^speaker": "the Buddha",
+  "dn13:31.5^speaker": "Vāseṭṭha",
+  "dn13:31.6^speaker": "the Buddha",
+  "dn13:31.7^speaker": "Vāseṭṭha",
+  "dn13:31.8^speaker": "the Buddha",
+  "dn13:31.9^speaker": "Vāseṭṭha",
+  "dn13:31.10^speaker": "the Buddha",
+  "dn13:31.11^speaker": "Vāseṭṭha",
+  "dn13:32.1+dn13:32.2^speaker": "the Buddha",
+  "dn13:32.1+dn13:32.2^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:32.3^speaker": "Vāseṭṭha",
+  "dn13:32.4^speaker": "the Buddha",
+  "dn13:32.5^speaker": "Vāseṭṭha",
+  "dn13:32.6^speaker": "the Buddha",
+  "dn13:32.7^speaker": "Vāseṭṭha",
+  "dn13:32.8^speaker": "the Buddha",
+  "dn13:32.9^speaker": "Vāseṭṭha",
+  "dn13:32.10^speaker": "the Buddha",
+  "dn13:32.11^speaker": "Vāseṭṭha",
+  "dn13:33.1+dn13:33.2^speaker": "the Buddha",
+  "dn13:33.1+dn13:33.2^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn13:33.3^speaker": "Vāseṭṭha",
+  "dn13:33.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:34.1+dn13:35.4^speaker": "the Buddha",
+  "dn13:34.1+dn13:35.4^who_else_mentioned": [
+    "Vāseṭṭha",
+    "Brahmā"
+  ],
+  "dn13:35.5^speaker": "Vāseṭṭha",
+  "dn13:35.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:36.1+dn13:36.3^speaker": "the Buddha",
+  "dn13:36.1+dn13:36.3^who_else_mentioned": [
+    "Vāseṭṭha",
+    "Vedas"
+  ],
+  "dn13:37.2^speaker": "Vāseṭṭha",
+  "dn13:37.2^who_else_mentioned": [
+    "Gotama",
+    "Brahmā"
+  ],
+  "dn13:37.3+dn13:37.4^speaker": "the Buddha",
+  "dn13:37.3+dn13:37.4^where_else_mentioned": [
+    "Manasākaṭa"
+  ],
+  "dn13:37.3+dn13:37.4^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:37.5^speaker": "Vāseṭṭha",
+  "dn13:37.6+dn13:37.9^speaker": "the Buddha",
+  "dn13:37.6+dn13:37.9^where_else_mentioned": [
+    "Manasākaṭa"
+  ],
+  "dn13:37.6+dn13:37.9^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:37.10+dn13:37.12^speaker": "Vāseṭṭha",
+  "dn13:37.10+dn13:37.12^where_else_mentioned": [
+    "Manasākaṭa"
+  ],
+  "dn13:37.10+dn13:37.12^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:38.1+dn13:38.2^speaker": "the Buddha",
+  "dn13:38.1+dn13:38.2^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn13:39.2+dn13:39.3^speaker": "Vāseṭṭha",
+  "dn13:39.2+dn13:39.3^who_else_mentioned": [
+    "Gotama",
+    "Brahmā"
+  ],
+  "dn13:39.4^speaker": "the Buddha",
+  "dn13:39.4^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:39.5^geographic_locations_here_and_before": [
+    "Manasākaṭa"
+  ],
+  "dn13:39.5^speaker": "Vāseṭṭha",
+  "dn13:39.5^where_here_and_before": [
+    "Manasākaṭa"
+  ],
+  "dn13:39.5^who_mentioned_here_and_before": [
+    "Brahmā"
+  ],
+  "dn13:40+-dn13:75.4^speaker": "the Buddha",
+  "dn13^initial_geographic_location": [
+    "Manasākaṭa",
+    "Aciravatī"
+  ],
+  "dn13^where": "Manasākaṭa, a village of the Kosalan brahmins, on a bank of the river Aciravatī to the north of Manasākaṭa"
+}

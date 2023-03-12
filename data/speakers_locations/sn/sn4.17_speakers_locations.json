@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn4.17:2.2+sn4.17:2.4^speaker": "Māra the Wicked",
+  "sn4.17:2.2+sn4.17:2.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn4.17:2.6^speaker": "one of the mendicants",
+  "sn4.17:2.8+sn4.17:2.9^speaker": "the Buddha",
+  "sn4.17:2.8+sn4.17:2.9^who_else_mentioned": [
+    "Māra"
+  ],
+  "sn4.17:3.1+sn4.17:4.4^speaker": "the Buddha",
+  "sn4.17:3.1+sn4.17:4.4^who_else_mentioned": [
+    "Buddha",
+    "Māra"
+  ],
+  "sn4.17:3.1^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "sn4.17:3.1^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "sn4.17:3.1^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "sn4.17:3.1^who_mentioned_here_and_before": [
+    "Māra the Wicked"
+  ],
+  "sn4.17^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "sn4.17^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

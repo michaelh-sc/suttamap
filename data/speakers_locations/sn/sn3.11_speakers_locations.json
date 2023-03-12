@@ -1,0 +1,34 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn3.11:2.3+sn3.11:2.4^speaker": "King Pasenadi",
+  "sn3.11:2.3+sn3.11:2.4^who_else_mentioned": [
+    "I am Pasenadi"
+  ],
+  "sn3.11:3.2^speaker": "King Pasenadi",
+  "sn3.11:4.1+sn3.11:5.4^speaker": "the Buddha",
+  "sn3.11:6.1+sn3.11:7.3^speaker": "King Pasenadi",
+  "sn3.11:6.1+sn3.11:7.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn3.11:9.1+sn3.11:10.4^speaker": "the Buddha",
+  "sn3.11:9.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn3.11:9.1^where_here_and_before": [
+    "Sāvatthī in the Eastern Monastery"
+  ],
+  "sn3.11:9.1^who_around_here_and_before": [
+    "seven matted-hair ascetics",
+    "seven Jain ascetics",
+    "seven naked ascetics",
+    "seven one-cloth ascetics",
+    "seven wanderers"
+  ],
+  "sn3.11:9.1^who_mentioned_here_and_before": [
+    "Migāra's mother"
+  ],
+  "sn3.11^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn3.11^where": "Sāvatthī in the Eastern Monastery"
+}

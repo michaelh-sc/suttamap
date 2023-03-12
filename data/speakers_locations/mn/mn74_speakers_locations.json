@@ -1,0 +1,56 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn74:2.3+mn74:2.4^speaker": "Dīghanakha",
+  "mn74:2.3+mn74:2.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn74:2.5+mn74:2.6^speaker": "the Buddha",
+  "mn74:2.5+mn74:2.6^who_else_mentioned": [
+    "Aggivessana"
+  ],
+  "mn74:2.7^speaker": "Dīghanakha",
+  "mn74:2.7^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn74:3.1+mn74:4.10^speaker": "the Buddha",
+  "mn74:3.1+mn74:4.10^who_else_mentioned": [
+    "Aggivessana"
+  ],
+  "mn74:5.2^speaker": "Dīghanakha",
+  "mn74:5.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn74:5.3+mn74:13.1^speaker": "the Buddha",
+  "mn74:5.3+mn74:13.1^where_else_mentioned": [
+    "Aggivessana"
+  ],
+  "mn74:6.7^speaker": "Dīghanakha",
+  "mn74:7.7^speaker": "Dīghanakha",
+  "mn74:8.7^speaker": "the Buddha",
+  "mn74:14.3^speaker": "Sāriputta",
+  "mn74:14.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn74:15.2^speaker": "Dīghanakha",
+  "mn74:16.1+mn74:16.4^speaker": "Dīghanakha",
+  "mn74:16.1+mn74:16.4^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn74:16.1^geographic_locations_here_and_before": [
+    "Gijjhakūṭa"
+  ],
+  "mn74:16.1^where_here_and_before": [
+    "Vulture's Peak Mountain in the Boar's Cave near Rājagaha"
+  ],
+  "mn74:16.1^who_around_here_and_before": [
+    "Sāriputta"
+  ],
+  "mn74:16.1^who_mentioned_here_and_before": [
+    "Aggivessana"
+  ],
+  "mn74^initial_geographic_location": [
+    "Gijjhakūṭa"
+  ],
+  "mn74^where": "Vulture's Peak Mountain in the Boar's Cave near Rājagaha"
+}

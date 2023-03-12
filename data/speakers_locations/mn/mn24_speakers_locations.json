@@ -1,0 +1,150 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn24:2.2+mn24:2.3^speaker": "the Buddha",
+  "mn24:2.4^speaker": "the mendicants",
+  "mn24:2.4^who_else_mentioned": [
+    "Puṇṇa Mantāṇiputta"
+  ],
+  "mn24:3.3+mn24:3.5^speaker": "Sāriputta",
+  "mn24:3.3+mn24:3.5^who_else_mentioned": [
+    "Puṇṇa Mantāṇiputta",
+    "Puṇṇa"
+  ],
+  "mn24:6.2^speaker": "a certain mendicant",
+  "mn24:6.2^where_else_mentioned": [
+    "the Dark Forest"
+  ],
+  "mn24:6.2^who_else_mentioned": [
+    "Sāriputta",
+    "Puṇṇa",
+    "Buddha"
+  ],
+  "mn24:9.1^speaker": "Sāriputta",
+  "mn24:9.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:9.2^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:9.3^speaker": "Sāriputta",
+  "mn24:9.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:9.4^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:9.5^speaker": "Sāriputta",
+  "mn24:9.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:9.6^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:9.7^speaker": "Sāriputta",
+  "mn24:9.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:9.8^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:9.9^speaker": "Sāriputta",
+  "mn24:9.9^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:9.10^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:9.11^speaker": "Sāriputta",
+  "mn24:9.11^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:9.12^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:9.13^speaker": "Sāriputta",
+  "mn24:9.13^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:9.14^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:9.15^speaker": "Sāriputta",
+  "mn24:9.15^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:9.16^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:10.1+mn24:10.8^speaker": "Sāriputta",
+  "mn24:10.1+mn24:10.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:10.9^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:10.9^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:11.1^speaker": "Sāriputta",
+  "mn24:11.2^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:11.13^speaker": "Sāriputta",
+  "mn24:11.14^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:11.15^speaker": "Sāriputta",
+  "mn24:11.16^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:12.1+mn24:12.9^speaker": "Sāriputta",
+  "mn24:13.1+mn24:14.14^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:13.1+mn24:14.14^where_else_mentioned": [
+    "Sāvatthī",
+    "Kosala",
+    "Sāketa"
+  ],
+  "mn24:13.1+mn24:14.14^who_else_mentioned": [
+    "Buddha",
+    "Pasenadi"
+  ],
+  "mn24:13.1^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "mn24:13.1^where_here_and_before": [
+    "Rājagaha",
+    "Bamboo Grove",
+    "Sāvatthī",
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery",
+    "Dark Forest"
+  ],
+  "mn24:13.1^who_around_here_and_before": [
+    "the Buddha",
+    "the mendicants",
+    "Puṇṇa Mantāṇiputta"
+  ],
+  "mn24:13.1^who_mentioned_here_and_before": [
+    "King Pasenadi"
+  ],
+  "mn24:14.15+mn24:14.26^speaker": "Sāriputta",
+  "mn24:14.15+mn24:14.26^where_else_mentioned": [
+    "Sāvatthī",
+    "Sāketa"
+  ],
+  "mn24:14.15+mn24:14.26^who_else_mentioned": [
+    "Pasenadi"
+  ],
+  "mn24:15.1+mn24:15.2^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:15.1+mn24:15.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn24:16.2^speaker": "Sāriputta",
+  "mn24:16.3+mn24:16.4^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:16.3+mn24:16.4^who_else_mentioned": [
+    "Puṇṇa",
+    "Mantāṇiputta"
+  ],
+  "mn24:16.5+mn24:16.9^speaker": "Sāriputta",
+  "mn24:16.5+mn24:16.9^who_else_mentioned": [
+    "Puṇṇa Mantāṇiputta"
+  ],
+  "mn24:17.2^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:17.3+mn24:17.4^speaker": "Sāriputta",
+  "mn24:17.3+mn24:17.4^who_else_mentioned": [
+    "Upatissa",
+    "Sāriputta"
+  ],
+  "mn24:17.5+mn24:17.12^speaker": "Puṇṇa Mantāṇiputta",
+  "mn24:17.5+mn24:17.12^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn24:17.5^who_mentioned_here_and_before": [
+    "King Pasenadi",
+    "the Buddha"
+  ],
+  "mn24^initial_geographic_location": [
+    "Rājagaha",
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "mn24^where": "Rājagaha, Bamboo Grove, Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery, Dark Forest"
+}

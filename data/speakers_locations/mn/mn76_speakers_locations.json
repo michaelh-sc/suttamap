@@ -1,0 +1,134 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn76:3.2^speaker": "Ānanda",
+  "mn76:3.3^speaker": "the mendicants",
+  "mn76:4.5+mn76:4.9^speaker": "Sandaka",
+  "mn76:4.5+mn76:4.9^where_else_mentioned": [
+    "Kosambī"
+  ],
+  "mn76:4.5+mn76:4.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn76:5.3+mn76:5.5^speaker": "Sandaka",
+  "mn76:5.3+mn76:5.5^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn76:5.9^speaker": "Ānanda",
+  "mn76:5.9^who_else_mentioned": [
+    "Sandaka"
+  ],
+  "mn76:5.10+mn76:5.12^speaker": "Sandaka",
+  "mn76:5.10+mn76:5.12^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn76:5.13^speaker": "Ānanda",
+  "mn76:5.13^who_else_mentioned": [
+    "Sandaka"
+  ],
+  "mn76:5.14^speaker": "Sandaka",
+  "mn76:6.1^speaker": "Ānanda",
+  "mn76:6.1^who_else_mentioned": [
+    "Sandaka",
+    "the Blessed One",
+    "Buddha"
+  ],
+  "mn76:6.2^speaker": "Sandaka",
+  "mn76:6.2^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn76:7.1+mn76:19.1^speaker": "Sandaka",
+  "mn76:7.1+mn76:19.1^where_else_mentioned": [
+    "Kāsi",
+    "Ganges"
+  ],
+  "mn76:7.1+mn76:19.1^who_else_mentioned": [
+    "Sandaka",
+    "Ājīvaka",
+    "the Blessed One",
+    "Buddha"
+  ],
+  "mn76:16.12^speaker": "Ānanda",
+  "mn76:20.1+mn76:20.3^speaker": "Sandaka",
+  "mn76:20.1+mn76:20.3^who_else_mentioned": [
+    "Ānanda",
+    "Buddha"
+  ],
+  "mn76:21.1+mn76:33.1^speaker": "Sandaka",
+  "mn76:21.1+mn76:33.1^who_else_mentioned": [
+    "Sandaka",
+    "the Blessed One",
+    "Buddha"
+  ],
+  "mn76:31.4^speaker": "Ānanda",
+  "mn76:34.1+mn76:34.3^speaker": "Sandaka",
+  "mn76:34.1+mn76:34.3^who_else_mentioned": [
+    "Ānanda",
+    "Buddha"
+  ],
+  "mn76:35-42.1+mn76:50.4^speaker": "Ānanda",
+  "mn76:35-42.1+mn76:50.4^who_else_mentioned": [
+    "Sandaka",
+    "Buddha"
+  ],
+  "mn76:35-42.1^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "mn76:35-42.1^where_here_and_before": [
+    "Kosambi",
+    "in Ghosita's Monastery",
+    "at the cave of the wavy leaf fig tree",
+    "Devakata Pool"
+  ],
+  "mn76:35-42.1^who_around_here_and_before": [
+    "a large assembly of around five hundred wanderers"
+  ],
+  "mn76:35-42.1^who_mentioned_here_and_before": [
+    "the Buddha"
+  ],
+  "mn76:51.1^speaker": "Sandaka",
+  "mn76:51.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn76:51.2+mn76:51.4^speaker": "Ānanda",
+  "mn76:51.2+mn76:51.4^who_else_mentioned": [
+    "Sandaka"
+  ],
+  "mn76:52.1^speaker": "Sandaka",
+  "mn76:52.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn76:52.3+mn76:52.7^speaker": "Ānanda",
+  "mn76:52.3+mn76:52.7^who_else_mentioned": [
+    "Sandaka"
+  ],
+  "mn76:52.9+mn76:52.11^speaker": "Sandaka",
+  "mn76:52.13+mn76:52.15^speaker": "Ānanda",
+  "mn76:53.1^speaker": "Sandaka",
+  "mn76:53.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn76:53.2^speaker": "Ānanda",
+  "mn76:53.2^who_else_mentioned": [
+    "Sandaka"
+  ],
+  "mn76:53.3+mn76:53.6^speaker": "Sandaka",
+  "mn76:53.3+mn76:53.6^who_else_mentioned": [
+    "Ānanda",
+    "Nanda Vaccha",
+    "Kisa Saṅkicca",
+    "Makkhali Gosāla"
+  ],
+  "mn76:54.2+mn76:54.3^speaker": "Sandaka",
+  "mn76:54.2^who_around_here_and_before": [
+    "Ānanda"
+  ],
+  "mn76:54.2^who_mentioned_here_and_before": [
+    "Nanda Vaccha",
+    "Kisa Saṅkicca",
+    "Makkhali Gosāla"
+  ],
+  "mn76^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "mn76^where": "Kosambi, in Ghosita's Monastery, at the cave of the wavy leaf fig tree, Devakata Pool"
+}

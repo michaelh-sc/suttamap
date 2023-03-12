@@ -1,0 +1,130 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn6:1.5+dn6:1.10^speaker": "brahmin emissaries",
+  "dn6:1.5+dn6:1.10^where_else_mentioned": [
+    "Vesālī"
+  ],
+  "dn6:1.5+dn6:1.10^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "dn6:2.4+dn6:2.5^speaker": "brahmin emissaries",
+  "dn6:2.4+dn6:2.5^who_else_mentioned": [
+    "Nāgita",
+    "Gotama"
+  ],
+  "dn6:2.6^speaker": "Nāgita",
+  "dn6:2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn6:2.8^speaker": "brahmin emissaries",
+  "dn6:2.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn6:3.2+dn6:3.3^speaker": "Oṭṭhaddha the Licchavi",
+  "dn6:3.2+dn6:3.3^who_else_mentioned": [
+    "Nāgita",
+    "the Blessed One",
+    "Buddha"
+  ],
+  "dn6:3.4^speaker": "Nāgita",
+  "dn6:3.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn6:3.6^speaker": "Oṭṭhaddha the Licchavi",
+  "dn6:3.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn6:4.2^speaker": "novice Sīha",
+  "dn6:4.2^where_else_mentioned": [
+    "Kosala",
+    "Magadha",
+    "Oṭṭhaddha"
+  ],
+  "dn6:4.2^who_else_mentioned": [
+    "Kassapa",
+    "Licchavi",
+    "Licchavis",
+    "Buddha"
+  ],
+  "dn6:4.3^speaker": "Nāgita",
+  "dn6:4.3^who_else_mentioned": [
+    "Sīha",
+    "Buddha"
+  ],
+  "dn6:4.4^speaker": "novice Sīha",
+  "dn6:4.6^speaker": "novice Sīha",
+  "dn6:4.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn6:4.7^speaker": "the Buddha",
+  "dn6:4.7^who_else_mentioned": [
+    "Sīha"
+  ],
+  "dn6:4.8^speaker": "novice Sīha",
+  "dn6:5.3+dn6:5.5^speaker": "Oṭṭhaddha the Licchavi",
+  "dn6:5.3+dn6:5.5^who_else_mentioned": [
+    "Sunakkhatta",
+    "Licchavi",
+    "Mahāli",
+    "Buddha"
+  ],
+  "dn6:5.7^speaker": "the Buddha",
+  "dn6:5.7^who_else_mentioned": [
+    "Sunakkhatta"
+  ],
+  "dn6:6.1^speaker": "Oṭṭhaddha the Licchavi",
+  "dn6:6.1^who_else_mentioned": [
+    "Sunakkhatta"
+  ],
+  "dn6:6.2+dn6:11.9^speaker": "the Buddha",
+  "dn6:6.2+dn6:11.9^who_else_mentioned": [
+    "Mahāli",
+    "Sunakkhatta"
+  ],
+  "dn6:12.1^speaker": "Oṭṭhaddha the Licchavi",
+  "dn6:12.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn6:12.2+dn6:12.3^speaker": "the Buddha",
+  "dn6:12.2+dn6:12.3^who_else_mentioned": [
+    "Mahāli"
+  ],
+  "dn6:13.1^speaker": "Oṭṭhaddha the Licchavi",
+  "dn6:13.2+dn6:13.10^speaker": "the Buddha",
+  "dn6:13.2+dn6:13.10^who_else_mentioned": [
+    "Mahāli"
+  ],
+  "dn6:14.1^speaker": "Oṭṭhaddha the Licchavi",
+  "dn6:14.2^speaker": "the Buddha",
+  "dn6:14.2^who_else_mentioned": [
+    "Mahāli"
+  ],
+  "dn6:14.3^speaker": "Oṭṭhaddha the Licchavi",
+  "dn6:16.9^speaker": "the Buddha",
+  "dn6:16.14^speaker": "the Buddha",
+  "dn6:17.5^speaker": "the Buddha",
+  "dn6:17.10^speaker": "the Buddha",
+  "dn6:18.3^speaker": "the Buddha",
+  "dn6:18.9^speaker": "the Buddha",
+  "dn6:19.1^speaker": "the Buddha",
+  "dn6:19.3^speaker": "the Buddha",
+  "dn6:19.8^speaker": "the Buddha",
+  "dn6:19.8^where_here_and_before": [
+    "Ves"
+  ],
+  "dn6:19.8^who_around_here_and_before": [
+    "Nāgita",
+    "novice Sīha",
+    "brahmin emissaries",
+    "Oṭṭhaddha the Licchavi",
+    "a large assembly of Licchavis"
+  ],
+  "dn6:19.8^who_mentioned_here_and_before": [
+    "Sunakkhatta the Licchavi"
+  ],
+  "dn6^where": "Ves"
+}

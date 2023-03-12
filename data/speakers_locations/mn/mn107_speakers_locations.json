@@ -1,0 +1,50 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn107:2.1+mn107:2.12^speaker": "Moggallāna the Accountant",
+  "mn107:2.1+mn107:2.12^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn107:3.1+mn107:11.2^speaker": "the Buddha",
+  "mn107:12.2^speaker": "Moggallāna the Accountant",
+  "mn107:12.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn107:12.3^speaker": "the Buddha",
+  "mn107:13.1+mn107:13.2^speaker": "Moggallāna the Accountant",
+  "mn107:13.1+mn107:13.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn107:14.1+mn107:14.3^speaker": "the Buddha",
+  "mn107:14.1+mn107:14.3^where_else_mentioned": [
+    "Rājagaha"
+  ],
+  "mn107:14.4^speaker": "Moggallāna the Accountant",
+  "mn107:14.5+mn107:14.26^speaker": "the Buddha",
+  "mn107:14.5+mn107:14.26^where_else_mentioned": [
+    "Rājagaha"
+  ],
+  "mn107:14.27+mn107:14.28^speaker": "Moggallāna the Accountant",
+  "mn107:14.27+mn107:14.28^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn107:14.29+mn107:14.32^speaker": "the Buddha",
+  "mn107:14.29+mn107:14.32^who_else_mentioned": [
+    "The Realized One"
+  ],
+  "mn107:15.2+mn107:17.4^speaker": "Moggallāna the Accountant",
+  "mn107:15.2+mn107:17.4^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn107:15.2^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "mn107:15.2^where_here_and_before": [
+    "Sāvatthī in the Eastern Monastery",
+    "the stilt longhouse of Migāra's mother"
+  ],
+  "mn107^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "mn107^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"
+}

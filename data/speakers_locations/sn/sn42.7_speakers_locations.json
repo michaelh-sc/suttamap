@@ -1,0 +1,26 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn42.7:1.3^speaker": "Asibandhaka's son the chief",
+  "sn42.7:1.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn42.7:1.4^speaker": "the Buddha",
+  "sn42.7:1.5^speaker": "Asibandhaka's son the chief",
+  "sn42.7:1.6+sn42.7:1.8^speaker": "the Buddha",
+  "sn42.7:1.9+sn42.7:1.11^speaker": "Asibandhaka's son the chief",
+  "sn42.7:2.1+sn42.7:3.2^speaker": "the Buddha",
+  "sn42.7:3.3+sn42.7:3.5^speaker": "Asibandhaka's son the chief",
+  "sn42.7:4.1+sn42.7:4.12^speaker": "the Buddha",
+  "sn42.7:5.2+sn42.7:5.3^speaker": "Asibandhaka's son the chief",
+  "sn42.7:5.2+sn42.7:5.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn42.7:5.2^where_here_and_before": [
+    "Nālandā in Pāvārika's mango grove"
+  ],
+  "sn42.7:5.2^geographical_locations_here_and_before": [
+    "Nāḷandā"
+  ],
+  "sn42.7^initial_geographical_location": "Nāḷandā",
+  "sn42.7^where": "Nālandā in Pāvārika's mango grove"
+}

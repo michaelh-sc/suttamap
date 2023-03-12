@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.174:2.1^speaker": "Ānanda",
+  "an4.174:3.1^speaker": "Mahākoṭṭhita",
+  "an4.174:4.1^speaker": "Ānanda",
+  "an4.174:5.1^speaker": "Mahākoṭṭhita",
+  "an4.174:6.1^speaker": "Ānanda",
+  "an4.174:7.1^speaker": "Mahākoṭṭhita",
+  "an4.174:8.1^speaker": "Ānanda",
+  "an4.174:9.1^speaker": "Mahākoṭṭhita",
+  "an4.174:10.1+an4.174:10.9^speaker": "Ānanda",
+  "an4.174:11.1+an4.174:11.7^speaker": "Mahākoṭṭhita"
+}

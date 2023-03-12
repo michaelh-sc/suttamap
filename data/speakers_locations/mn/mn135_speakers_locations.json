@@ -1,0 +1,30 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn135:3.1+mn135:3.9^speaker": "Subha, Todeyya's son",
+  "mn135:3.1+mn135:3.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn135:4.1+mn135:4.3^speaker": "the Buddha",
+  "mn135:4.4+mn135:4.5^speaker": "Subha, Todeyya's son",
+  "mn135:4.4+mn135:4.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn135:4.6^speaker": "the Buddha",
+  "mn135:4.7^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn135:4.7^speaker": "Subha, Todeyya's son",
+  "mn135:4.7^where_here_and_before": [
+    "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
+  ],
+  "mn135:5.1+mn135:20.3^speaker": "the Buddha",
+  "mn135:21.2+mn135:21.5^speaker": "Subha, Todeyya's son",
+  "mn135:21.2+mn135:21.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn135^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn135^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"
+}

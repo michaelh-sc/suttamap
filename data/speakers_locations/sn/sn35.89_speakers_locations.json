@@ -1,0 +1,24 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.89:1.2^speaker": "Bāhiya",
+  "sn35.89:1.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn35.89:2.1+sn35.89:2.2^speaker": "the Buddha",
+  "sn35.89:2.1+sn35.89:2.2^who_else_mentioned": [
+    "Bāhiya"
+  ],
+  "sn35.89:3.1^speaker": "Bāhiya",
+  "sn35.89:4.1^speaker": "the Buddha",
+  "sn35.89:5.1^speaker": "Bāhiya",
+  "sn35.89:6.1+sn35.89:6.2^speaker": "the Buddha",
+  "sn35.89:7.1^speaker": "Bāhiya",
+  "sn35.89:8.1+sn35.89:9.4^speaker": "the Buddha",
+  "sn35.89:10.1^speaker": "Bāhiya",
+  "sn35.89:11.1^speaker": "the Buddha",
+  "sn35.89:12.1^speaker": "Bāhiya",
+  "sn35.89:13.1+sn35.89:13.2^speaker": "the Buddha",
+  "sn35.89:14.1^speaker": "Bāhiya",
+  "sn35.89:15.1+sn35.89:15.4^speaker": "the Buddha",
+  "sn35.89:16.3^speaker": "Bāhiya"
+}

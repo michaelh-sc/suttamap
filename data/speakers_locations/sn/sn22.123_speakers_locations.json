@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.123:2.1^speaker": "Mahākoṭṭhita",
+  "sn22.123:2.1^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn22.123:2.2+sn22.123:2.6^speaker": "Sāriputta",
+  "sn22.123:3.1^speaker": "Mahākoṭṭhita",
+  "sn22.123:3.1^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn22.123:3.2+sn22.123:3.3^speaker": "Sāriputta",
+  "sn22.123:3.4^speaker": "Sāriputta",
+  "sn22.123:3.5^speaker": "Sāriputta",
+  "sn22.123:4.1^speaker": "Mahākoṭṭhita",
+  "sn22.123:4.1^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn22.123:4.2+sn22.123:4.4^speaker": "Sāriputta",
+  "sn22.123:4.2+sn22.123:4.4^who_else_mentioned": [
+    "Koṭṭhita"
+  ],
+  "sn22.123:4.2^geographic_locations_here_and_before": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "sn22.123:4.2^where_here_and_before": [
+    "Benares",
+    "in the deer park at Isipatana"
+  ],
+  "sn22.123:4.2^who_around_here_and_before": [
+    "Mahākoṭṭhita"
+  ],
+  "sn22.123^initial_geographic_location": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "sn22.123^where": "Benares, in the deer park at Isipatana"
+}

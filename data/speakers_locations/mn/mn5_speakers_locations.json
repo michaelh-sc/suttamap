@@ -1,0 +1,67 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn5:1.4^speaker": "Sāriputta",
+  "mn5:1.5^speaker": "the mendicants",
+  "mn5:2.1+mn5:2.10^speaker": "Sāriputta",
+  "mn5:3.2+mn5:3.3^speaker": "Mahāmoggallāna",
+  "mn5:3.2+mn5:3.3^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn5:4.1+mn5:4.5^speaker": "Sāriputta",
+  "mn5:4.6^speaker": "the mendicants",
+  "mn5:4.7+mn5:5.5^speaker": "Sāriputta",
+  "mn5:5.6^speaker": "the mendicants",
+  "mn5:5.7+mn5:6.5^speaker": "Sāriputta",
+  "mn5:6.6^speaker": "the mendicants",
+  "mn5:6.7+mn5:7.5^speaker": "Sāriputta",
+  "mn5:7.6^speaker": "the mendicants",
+  "mn5:7.7+mn5:8.2^speaker": "Sāriputta",
+  "mn5:9.1+mn5:9.2^speaker": "the mendicants",
+  "mn5:9.3+mn5:30.13^speaker": "Sāriputta",
+  "mn5:9.3+mn5:30.13^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn5:31.2^speaker": "Mahāmoggallāna",
+  "mn5:31.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn5:31.3^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn5:31.3^speaker": "Sāriputta",
+  "mn5:31.3^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "mn5:31.3^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "mn5:31.3^who_mentioned_here_and_before": [
+    "Anāthapiṇḍika"
+  ],
+  "mn5:31.4+mn5:33.3^speaker": "Mahāmoggallāna",
+  "mn5:31.4+mn5:33.3^where_else_mentioned": [
+    "Rājagaha",
+    "Mountainfold"
+  ],
+  "mn5:31.4+mn5:33.3^who_else_mentioned": [
+    "Samīti",
+    "Paṇḍuputta",
+    "Sāriputta"
+  ],
+  "mn5:31.4^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn5:31.4^where_here_and_before": [
+    "Rājagaha",
+    "the Mountainfold"
+  ],
+  "mn5:31.4^who_around_here_and_before": [
+    "Sāriputta",
+    "Mahāmoggallāna"
+  ],
+  "mn5^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn5^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

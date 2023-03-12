@@ -1,0 +1,136 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn44:2.1+mn44:2.2^speaker": "Visākha",
+  "mn44:2.1+mn44:2.2^who_else_mentioned": [
+    "Ma’am",
+    "Buddha"
+  ],
+  "mn44:2.3+mn44:2.5^speaker": "Dhammadinnā",
+  "mn44:2.3+mn44:2.5^who_else_mentioned": [
+    "Visākha",
+    "Buddha"
+  ],
+  "mn44:2.6^speaker": "Visākha",
+  "mn44:3.1+mn44:3.2^speaker": "Visākha",
+  "mn44:3.1+mn44:3.2^who_else_mentioned": [
+    "Ma’am",
+    "Buddha"
+  ],
+  "mn44:3.3+mn44:3.5^speaker": "Dhammadinnā",
+  "mn44:3.3+mn44:3.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn44:4.1+mn44:4.2^speaker": "Visākha",
+  "mn44:4.1+mn44:4.2^who_else_mentioned": [
+    "Ma’am",
+    "Buddha"
+  ],
+  "mn44:4.3+mn44:4.4^speaker": "Dhammadinnā",
+  "mn44:4.3+mn44:4.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn44:5.1+mn44:5.2^speaker": "Visākha",
+  "mn44:5.1+mn44:5.2^who_else_mentioned": [
+    "Ma’am",
+    "Buddha"
+  ],
+  "mn44:5.3+mn44:5.4^speaker": "Dhammadinnā",
+  "mn44:5.3+mn44:5.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn44:6.1^speaker": "Visākha",
+  "mn44:6.2+mn44:6.3^speaker": "Dhammadinnā",
+  "mn44:7.1^speaker": "Visākha",
+  "mn44:7.2+mn44:7.8^speaker": "Dhammadinnā",
+  "mn44:8.1^speaker": "Visākha",
+  "mn44:8.2+mn44:8.8^speaker": "Dhammadinnā",
+  "mn44:9.1^speaker": "Visākha",
+  "mn44:9.2+mn44:9.3^speaker": "Dhammadinnā",
+  "mn44:10.1^speaker": "Visākha",
+  "mn44:10.2^speaker": "Dhammadinnā",
+  "mn44:11.1^speaker": "Visākha",
+  "mn44:11.2+mn44:11.5^speaker": "Dhammadinnā",
+  "mn44:12.1^speaker": "Visākha",
+  "mn44:12.2+mn44:12.5^speaker": "Dhammadinnā",
+  "mn44:13.1^speaker": "Visākha",
+  "mn44:13.2+mn44:13.3^speaker": "Dhammadinnā",
+  "mn44:14.1^speaker": "Visākha",
+  "mn44:14.2^speaker": "Dhammadinnā",
+  "mn44:15.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn44:15.1^speaker": "Visākha",
+  "mn44:15.1^where_here_and_before": [
+    "Rājagaha",
+    "Bamboo Grove",
+    "squirrels' feeding ground"
+  ],
+  "mn44:15.1^who_mentioned_here_and_before": [
+    "The Buddha",
+    "noble ones",
+    "good persons"
+  ],
+  "mn44:15.2+mn44:15.4^speaker": "Dhammadinnā",
+  "mn44:16.1^speaker": "Visākha",
+  "mn44:16.2+mn44:16.4^speaker": "Dhammadinnā",
+  "mn44:17.1^speaker": "Visākha",
+  "mn44:17.2^speaker": "Dhammadinnā",
+  "mn44:18.1^speaker": "Visākha",
+  "mn44:18.2+mn44:18.4^speaker": "Dhammadinnā",
+  "mn44:19.1^speaker": "Visākha",
+  "mn44:19.2^speaker": "Dhammadinnā",
+  "mn44:20.1^speaker": "Visākha",
+  "mn44:20.2^speaker": "Dhammadinnā",
+  "mn44:21.1^speaker": "Visākha",
+  "mn44:21.2^speaker": "Dhammadinnā",
+  "mn44:22.1^speaker": "Visākha",
+  "mn44:22.2+mn44:22.3^speaker": "Dhammadinnā",
+  "mn44:23.1^speaker": "Visākha",
+  "mn44:23.2+mn44:23.7^speaker": "Dhammadinnā",
+  "mn44:24.1^speaker": "Visākha",
+  "mn44:24.2+mn44:24.4^speaker": "Dhammadinnā",
+  "mn44:25.1^speaker": "Visākha",
+  "mn44:25.2^speaker": "Dhammadinnā",
+  "mn44:26.1^speaker": "Visākha",
+  "mn44:26.2^speaker": "Dhammadinnā",
+  "mn44:27.1^speaker": "Visākha",
+  "mn44:27.2^speaker": "Dhammadinnā",
+  "mn44:28.1^speaker": "Visākha",
+  "mn44:28.2+mn44:28.10^speaker": "Dhammadinnā",
+  "mn44:29.1^speaker": "Visākha",
+  "mn44:29.2^speaker": "Dhammadinnā",
+  "mn44:29.3^speaker": "Visākha",
+  "mn44:29.4^speaker": "Dhammadinnā",
+  "mn44:29.5^speaker": "Visākha",
+  "mn44:29.6^speaker": "Dhammadinnā",
+  "mn44:29.7^speaker": "Visākha",
+  "mn44:29.8^speaker": "Dhammadinnā",
+  "mn44:29.9^speaker": "Visākha",
+  "mn44:29.10^speaker": "Dhammadinnā",
+  "mn44:29.11^speaker": "Visākha",
+  "mn44:29.12^speaker": "Dhammadinnā",
+  "mn44:29.13^speaker": "Visākha",
+  "mn44:29.14+mn44:29.16^speaker": "Dhammadinnā",
+  "mn44:29.14+mn44:29.16^who_else_mentioned": [
+    "Visākha",
+    "Buddha"
+  ],
+  "mn44:29.14^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "mn44:30.4+mn44:30.6^speaker": "the Buddha",
+  "mn44:30.4+mn44:30.6^who_else_mentioned": [
+    "Dhammadinnā",
+    "Visākha"
+  ],
+  "mn44:30.4^who_around_here_and_before": [
+    "the layman Visākha"
+  ],
+  "mn44:30.4^who_mentioned_here_and_before": [
+    "the nun Dhammadinnā"
+  ],
+  "mn44^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn44^where": "Rājagaha, Bamboo Grove, squirrels' feeding ground"
+}

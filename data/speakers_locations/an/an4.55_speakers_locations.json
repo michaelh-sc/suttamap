@@ -1,0 +1,26 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.55:2.1+an4.55:2.2^speaker": "the householder Nakula's father",
+  "an4.55:2.1+an4.55:2.2^who_else_mentioned": [
+    "Nakula"
+  ],
+  "an4.55:2.4+an4.55:2.5^speaker": "the housewife Nakula's mother",
+  "an4.55:2.4+an4.55:2.5^who_else_mentioned": [
+    "Nakula"
+  ],
+  "an4.55:3.1+an4.55:6.4^speaker": "the Buddha",
+  "an4.55:3.1^geographic_locations_here_and_before": [
+    "Susumāragiri"
+  ],
+  "an4.55:3.1^where_here_and_before": [
+    "the land of the Bhaggas on Crocodile Hill in the deer park at Bhesakaḷā's Wood"
+  ],
+  "an4.55:3.1^who_around_here_and_before": [
+    "the housewife Nakula's mother",
+    "the householder Nakula's father"
+  ],
+  "an4.55^initial_geographic_location": [
+    "Susumāragiri"
+  ],
+  "an4.55^where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood"
+}

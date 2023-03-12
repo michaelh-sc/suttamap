@@ -1,0 +1,47 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.127:1.4^speaker": "King Udena",
+  "sn35.127:1.4^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "sn35.127:1.5+sn35.127:1.7^speaker": "Piṇḍola Bhāradvāja",
+  "sn35.127:1.5+sn35.127:1.7^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "sn35.127:2.1+sn35.127:2.3^speaker": "King Udena",
+  "sn35.127:2.1+sn35.127:2.3^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "sn35.127:3.1+sn35.127:3.4^speaker": "Piṇḍola Bhāradvāja",
+  "sn35.127:3.1+sn35.127:3.4^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "sn35.127:3.5+sn35.127:3.8^speaker": "King Udena",
+  "sn35.127:4.1+sn35.127:4.11^speaker": "Piṇḍola Bhāradvāja",
+  "sn35.127:4.1+sn35.127:4.11^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "sn35.127:5.1+sn35.127:5.9^speaker": "King Udena",
+  "sn35.127:5.1+sn35.127:5.9^who_else_mentioned": [
+    "Bhāradvāja",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "sn35.127:5.1^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "sn35.127:5.1^where_here_and_before": [
+    "Kosambi",
+    "in Ghosita's Monastery"
+  ],
+  "sn35.127:5.1^who_around_here_and_before": [
+    "Piṇḍola Bhāradvāja"
+  ],
+  "sn35.127^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "sn35.127^where": "Kosambi, in Ghosita's Monastery"
+}

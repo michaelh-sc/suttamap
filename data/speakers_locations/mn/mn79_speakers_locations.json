@@ -1,0 +1,207 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn79:2.3+mn79:2.4^speaker": "the Buddha",
+  "mn79:2.3+mn79:2.4^where_else_mentioned": [
+    "Rājagaha"
+  ],
+  "mn79:2.3+mn79:2.4^who_else_mentioned": [
+    "Sakuludāyī"
+  ],
+  "mn79:3.5+mn79:3.8^speaker": "Sakuludāyī",
+  "mn79:3.5+mn79:3.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn79:4.3+mn79:4.6^speaker": "Sakuludāyī",
+  "mn79:4.11^speaker": "the Buddha",
+  "mn79:4.11^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:5.1+mn79:5.7^speaker": "Sakuludāyī",
+  "mn79:5.1+mn79:5.7^who_else_mentioned": [
+    "Udāyī",
+    "Buddha"
+  ],
+  "mn79:6.1^speaker": "the Buddha",
+  "mn79:6.1^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:6.2+mn79:6.5^speaker": "Sakuludāyī",
+  "mn79:6.2+mn79:6.5^who_else_mentioned": [
+    "Gotama",
+    "Buddha",
+    "the Blessed One",
+    "the Holy One"
+  ],
+  "mn79:6.6^speaker": "the Buddha",
+  "mn79:6.6^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:6.7^speaker": "Sakuludāyī",
+  "mn79:6.7^who_else_mentioned": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "mn79:7.1+mn79:7.8^speaker": "the Buddha",
+  "mn79:7.1+mn79:7.8^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:8.1+mn79:8.10^speaker": "Sakuludāyī",
+  "mn79:8.1+mn79:8.10^who_else_mentioned": [
+    "Buddha",
+    "Udāyī"
+  ],
+  "mn79:9.1^speaker": "the Buddha",
+  "mn79:9.1^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:9.2+mn79:9.3^speaker": "Sakuludāyī",
+  "mn79:9.4^speaker": "the Buddha",
+  "mn79:9.6^speaker": "Sakuludāyī",
+  "mn79:9.7^speaker": "the Buddha",
+  "mn79:9.8^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn79:9.8^speaker": "Sakuludāyī",
+  "mn79:9.8^where_here_and_before": [
+    "Rājagaha",
+    "in the Bamboo Grove",
+    "the squirrels' feeding ground"
+  ],
+  "mn79:9.8^who_around_here_and_before": [
+    "a large assembly of wanderers"
+  ],
+  "mn79:9.8^who_mentioned_here_and_before": [
+    "Nigaṭṭha Nātaputta"
+  ],
+  "mn79:10.1+mn79:10.15^speaker": "the Buddha",
+  "mn79:10.1+mn79:10.15^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:10.16^speaker": "Sakuludāyī",
+  "mn79:10.17^speaker": "the Buddha",
+  "mn79:11.1^speaker": "Sakuludāyī",
+  "mn79:12.1+mn79:12.2^speaker": "the Buddha",
+  "mn79:12.1+mn79:12.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:12.3^speaker": "Sakuludāyī",
+  "mn79:13.1+mn79:13.2^speaker": "the Buddha",
+  "mn79:13.1+mn79:13.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:13.3^speaker": "Sakuludāyī",
+  "mn79:14.1+mn79:14.2^speaker": "the Buddha",
+  "mn79:14.1+mn79:14.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:14.3^speaker": "Sakuludāyī",
+  "mn79:15.1+mn79:15.2^speaker": "the Buddha",
+  "mn79:15.1+mn79:15.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:15.3^speaker": "Sakuludāyī",
+  "mn79:16.1+mn79:16.2^speaker": "the Buddha",
+  "mn79:16.1+mn79:16.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:16.3^speaker": "Sakuludāyī",
+  "mn79:17.1+mn79:17.2^speaker": "the Buddha",
+  "mn79:17.1+mn79:17.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:17.3^speaker": "Sakuludāyī",
+  "mn79:18.1+mn79:18.4^speaker": "the Buddha",
+  "mn79:18.1+mn79:18.4^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:19.1^speaker": "Sakuludāyī",
+  "mn79:19.1^who_else_mentioned": [
+    "The Blessed One"
+  ],
+  "mn79:19.2^speaker": "the Buddha",
+  "mn79:19.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:19.4+mn79:19.6^speaker": "Sakuludāyī",
+  "mn79:20.1^speaker": "the Buddha",
+  "mn79:20.1^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:20.2+mn79:20.3^speaker": "Sakuludāyī",
+  "mn79:21.1^speaker": "the Buddha",
+  "mn79:21.2+mn79:21.3^speaker": "Sakuludāyī",
+  "mn79:22.1+mn79:22.2^speaker": "the Buddha",
+  "mn79:22.1+mn79:22.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:22.3^speaker": "Sakuludāyī",
+  "mn79:22.4+mn79:22.9^speaker": "the Buddha",
+  "mn79:22.4+mn79:22.9^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:22.10^speaker": "Sakuludāyī",
+  "mn79:22.11+mn79:22.12^speaker": "the Buddha",
+  "mn79:22.11+mn79:22.12^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:22.13^speaker": "Sakuludāyī",
+  "mn79:22.14+mn79:22.15^speaker": "the Buddha",
+  "mn79:22.14+mn79:22.15^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:23.1^speaker": "Sakuludāyī",
+  "mn79:23.1^who_else_mentioned": [
+    "The Blessed One"
+  ],
+  "mn79:23.2^speaker": "the Buddha",
+  "mn79:23.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:23.4+mn79:23.7^speaker": "Sakuludāyī",
+  "mn79:24.1^speaker": "the Buddha",
+  "mn79:24.1^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:24.2^speaker": "Sakuludāyī",
+  "mn79:25.1+mn79:25.4^speaker": "the Buddha",
+  "mn79:25.5^speaker": "Sakuludāyī",
+  "mn79:25.6+mn79:25.7^speaker": "the Buddha",
+  "mn79:25.6+mn79:25.7^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:26.2+mn79:26.3^speaker": "Sakuludāyī",
+  "mn79:27.1^speaker": "Sakuludāyī",
+  "mn79:27.2+mn79:27.4^speaker": "the Buddha",
+  "mn79:28.1^speaker": "Sakuludāyī",
+  "mn79:28.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn79:28.2+mn79:28.3^speaker": "the Buddha",
+  "mn79:28.2+mn79:28.3^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "mn79:28.4^speaker": "Sakuludāyī",
+  "mn79:28.4^who_around_here_and_before": [
+    "wanderers"
+  ],
+  "mn79:29-36.1+mn79:44.5^speaker": "the Buddha",
+  "mn79:29-36.1+mn79:44.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn79:45.2+mn79:45.5^speaker": "Sakuludāyī",
+  "mn79:45.2+mn79:45.5^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn79:46.2+mn79:46.6^speaker": "Sakuludāyī's assembly",
+  "mn79:46.2+mn79:46.6^who_else_mentioned": [
+    "Udāyī",
+    "Gotama"
+  ],
+  "mn79:46.2^who_around_here_and_before": [
+    "Sakuludāyī's assembly"
+  ],
+  "mn79^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn79^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"
+}

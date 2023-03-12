@@ -1,0 +1,43 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn14:2.2+mn14:2.8^speaker": "Mahānāma the Sakyan",
+  "mn14:3.1+mn14:21.21^speaker": "the Buddha",
+  "mn14:3.1+mn14:21.21^where_else_mentioned": [
+    "Rājagaha",
+    "the Vulture",
+    "Peak Mountain",
+    "Isigili",
+    "the Black Rock",
+    "Māgadha"
+  ],
+  "mn14:3.1+mn14:21.21^who_else_mentioned": [
+    "Mahānāma",
+    "Jain",
+    "Nātaputta",
+    "Gotama",
+    "Seniya Bimbisāra",
+    "Bimbisāra"
+  ],
+  "mn14:3.1^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "mn14:3.1^where_here_and_before": [
+    "Kapilavatthu in the Banyan Tree Monastery"
+  ],
+  "mn14:3.1^who_around_here_and_before": [
+    "King Bimbisāra"
+  ],
+  "mn14:3.1^who_mentioned_here_and_before": [
+    "Jain ascetics"
+  ],
+  "mn14:17.3^speaker": "the Buddha",
+  "mn14:20.11^speaker": "the Buddha",
+  "mn14:20.11^who_else_mentioned": [
+    "Bimbisāra",
+    "Gotama"
+  ],
+  "mn14^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "mn14^where": "Kapilavatthu in the Banyan Tree Monastery"
+}

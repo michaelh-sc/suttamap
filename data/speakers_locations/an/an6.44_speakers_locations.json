@@ -1,0 +1,36 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an6.44:2.1+an6.44:2.6^speaker": "the laywoman Migasālā",
+  "an6.44:2.1+an6.44:2.6^who_else_mentioned": [
+    "Ānanda",
+    "Buddha",
+    "Purāṇa",
+    "Isidatta"
+  ],
+  "an6.44:2.7^speaker": "Ānanda",
+  "an6.44:2.7^where_here_and_before": [
+    "the home of the laywoman Migasālā"
+  ],
+  "an6.44:2.7^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "an6.44:2.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an6.44:5.1+an6.44:18.3^speaker": "the Buddha",
+  "an6.44:5.1+an6.44:18.3^who_else_mentioned": [
+    "Migasālā",
+    "Ānanda",
+    "Isidatta"
+  ],
+  "an6.44:5.1^where_here_and_before": [
+    "at Migasālā's home"
+  ],
+  "an6.44:5.1^who_around_here_and_before": [
+    "Ānanda"
+  ],
+  "an6.44:5.1^who_mentioned_here_and_before": [
+    "the laywoman Migasālā"
+  ],
+  "an6.44^where": "the home of the laywoman Migasālā"
+}

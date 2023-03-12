@@ -1,0 +1,56 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.194:2.1^speaker": "the brahmin Kāraṇapālī",
+  "an5.194:2.1^who_else_mentioned": [
+    "Piṅgiyānī"
+  ],
+  "an5.194:2.2^speaker": "the brahmin Piṅgiyānī",
+  "an5.194:2.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.194:2.3^speaker": "the brahmin Kāraṇapālī",
+  "an5.194:2.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.194:2.4+an5.194:2.5^speaker": "the brahmin Piṅgiyānī",
+  "an5.194:2.4+an5.194:2.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.194:2.6^speaker": "the brahmin Kāraṇapālī",
+  "an5.194:2.6^who_else_mentioned": [
+    "Piṅgiyānī",
+    "Gotama"
+  ],
+  "an5.194:2.7+an5.194:2.8^speaker": "the brahmin Piṅgiyānī",
+  "an5.194:2.7+an5.194:2.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.194:2.9^speaker": "the brahmin Kāraṇapālī",
+  "an5.194:2.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.194:3.1+an5.194:7.6^speaker": "the brahmin Piṅgiyānī",
+  "an5.194:3.1+an5.194:7.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an5.194:9.1+an5.194:12.4^speaker": "the brahmin Kāraṇapālī",
+  "an5.194:9.1+an5.194:12.4^who_else_mentioned": [
+    "Buddha",
+    "Piṅgiyānī",
+    "Gotama",
+    "Saṅgha"
+  ],
+  "an5.194:9.1^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "an5.194:9.1^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "an5.194:9.1^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "an5.194^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "an5.194^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

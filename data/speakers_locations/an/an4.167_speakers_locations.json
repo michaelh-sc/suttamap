@@ -1,0 +1,11 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.167:2.1+an4.167:2.8^speaker": "Sāriputta",
+  "an4.167:2.1+an4.167:2.8^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "an4.167:3.1+an4.167:3.5^speaker": "Mahāmoggallāna",
+  "an4.167:3.1+an4.167:3.5^who_else_mentioned": [
+    "Sāriputta"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn16.8:1.3+sn16.8:1.6^speaker": "the Buddha",
+  "sn16.8:1.3+sn16.8:1.6^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "sn16.8:2.1^speaker": "Mahākassapa",
+  "sn16.8:2.2+sn16.8:7.7^speaker": "the Buddha",
+  "sn16.8:2.2+sn16.8:7.7^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "sn16.8:2.2^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn16.8:2.2^where_here_and_before": [
+    "Near Rājagaha",
+    "in the squirrels' feeding ground"
+  ],
+  "sn16.8:2.2^who_around_here_and_before": [
+    "Mahākassapa"
+  ],
+  "sn16.8:2.2^who_mentioned_here_and_before": [
+    "senior mendicants"
+  ],
+  "sn16.8^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn16.8^where": "Near Rājagaha, in the squirrels' feeding ground."
+}

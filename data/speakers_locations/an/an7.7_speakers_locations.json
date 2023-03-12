@@ -1,0 +1,26 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.7:2.1+an7.7:2.2^speaker": "Ugga the government minister",
+  "an7.7:2.1+an7.7:2.2^where_else_mentioned": [
+    "Rohaṇa"
+  ],
+  "an7.7:2.1+an7.7:2.2^who_else_mentioned": [
+    "Migāra"
+  ],
+  "an7.7:2.3^speaker": "the Buddha",
+  "an7.7:2.3^who_else_mentioned": [
+    "Ugga"
+  ],
+  "an7.7:2.4^speaker": "Ugga the government minister",
+  "an7.7:2.5+an7.7:5.4^speaker": "the Buddha",
+  "an7.7:2.5+an7.7:5.4^who_else_mentioned": [
+    "Ugga",
+    "Buddhas"
+  ],
+  "an7.7:2.5^who_around_here_and_before": [
+    "Ugga the government minister"
+  ],
+  "an7.7:2.5^who_mentioned_here_and_before": [
+    "Migāra of Rohaṇa"
+  ]
+}

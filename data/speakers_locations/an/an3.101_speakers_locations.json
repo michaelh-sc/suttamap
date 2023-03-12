@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.101:1.1+an3.101:8.2^speaker": "the Buddha (assumed)",
+  "an3.101:1.1+an3.101:8.2^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "an3.101:5.2^speaker": "the Buddha (assumed)",
+  "an3.101:5.3^speaker": "the Buddha (assumed)",
+  "an3.101:5.4^speaker": "the Buddha (assumed)",
+  "an3.101:5.5^speaker": "the Buddha (assumed)",
+  "an3.101:5.6^speaker": "the Buddha (assumed)",
+  "an3.101:5.7^speaker": "the Buddha (assumed)",
+  "an3.101:5.8^speaker": "the Buddha (assumed)",
+  "an3.101:5.9^speaker": "the Buddha (assumed)",
+  "an3.101:5.10^speaker": "the Buddha (assumed)",
+  "an3.101:5.11^speaker": "the Buddha (assumed)",
+  "an3.101:5.12^speaker": "the Buddha (assumed)",
+  "an3.101:5.13^speaker": "the Buddha (assumed)",
+  "an3.101:5.14^speaker": "the Buddha (assumed)",
+  "an3.101:5.15^speaker": "the Buddha (assumed)",
+  "an3.101:5.16^speaker": "the Buddha (assumed)",
+  "an3.101:5.17^speaker": "the Buddha (assumed)",
+  "an3.101:6.1^speaker": "the Buddha (assumed)",
+  "an3.101:7.1^speaker": "the Buddha (assumed)"
+}

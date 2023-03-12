@@ -1,0 +1,54 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn123:2.2+mn123:2.4^speaker": "Several senior mendicants",
+  "mn123:2.2+mn123:2.4^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "mn123:2.6+mn123:2.7^speaker": "Ānanda",
+  "mn123:2.11^speaker": "The Buddha",
+  "mn123:2.19^speaker": "The Buddha",
+  "mn123:2.19^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn123:3.1+mn123:21.6^speaker": "Ānanda",
+  "mn123:3.1+mn123:21.6^who_else_mentioned": [
+    "Buddha",
+    "Māras",
+    "Brahmās",
+    "Kāsī"
+  ],
+  "mn123:7.5^speaker": "Sentient beings",
+  "mn123:12.4^speaker": "Someone with good eyesight",
+  "mn123:17.2^speaker": "Four deities",
+  "mn123:20.2^speaker": "Being intent on awakening",
+  "mn123:21.4^speaker": "Sentient beings",
+  "mn123:22.1+mn123:22.5^speaker": "The Buddha",
+  "mn123:22.1+mn123:22.5^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn123:23.1+mn123:23.4^speaker": "Ānanda",
+  "mn123:23.1+mn123:23.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn123:23.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn123:23.1^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "mn123:23.1^who_around_here_and_before": [
+    "Several senior mendicants",
+    "Ānanda"
+  ],
+  "mn123:23.1^who_mentioned_here_and_before": [
+    "Sentient beings",
+    "Four deities",
+    "Being intent on awakening",
+    "Someone with good eyesight"
+  ],
+  "mn123^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn123^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.69:1.1+an7.69:16.10^speaker": "the Buddha (assumed)",
+  "an7.69:1.1+an7.69:16.10^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "an7.69:1.1^where_here_and_before": [
+    "Shady Orchid Tree"
+  ],
+  "an7.69:1.1^who_mentioned_here_and_before": [
+    "Gods of the Thirty-Three"
+  ],
+  "an7.69^where": "Shady Orchid Tree"
+}

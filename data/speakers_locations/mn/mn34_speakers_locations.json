@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn34:1.4^speaker": "The Buddha",
+  "mn34:1.5^geographic_locations_here_and_before": [
+    "Ukkacelā"
+  ],
+  "mn34:1.5^speaker": "The mendicants",
+  "mn34:1.5^where_here_and_before": [
+    "The land of the Vajjis near Ukkacelā on the bank of the Ganges river"
+  ],
+  "mn34:2.1+mn34:11.1^speaker": "The Buddha",
+  "mn34:2.1+mn34:11.1^where_else_mentioned": [
+    "Ganges",
+    "Suvidehans",
+    "Māra"
+  ],
+  "mn34:2.1+mn34:11.1^who_else_mentioned": [
+    "Magadhan"
+  ],
+  "mn34:12.3+mn34:12.14^speaker": "The Holy One, the Teacher",
+  "mn34:12.3+mn34:12.14^who_else_mentioned": [
+    "Māra",
+    "Buddha"
+  ],
+  "mn34:12.3^geographic_locations_here_and_before": [
+    "Ukkacelā"
+  ],
+  "mn34:12.3^where_here_and_before": [
+    "The land of the Vajjis near Ukkacelā on the bank of the Ganges river"
+  ],
+  "mn34:12.3^who_around_here_and_before": [
+    "The mendicants"
+  ],
+  "mn34:12.3^who_mentioned_here_and_before": [
+    "An unintelligent Magadhan cowherd",
+    "Māra"
+  ],
+  "mn34^initial_geographic_location": [
+    "Ukkacelā"
+  ],
+  "mn34^where": "The land of the Vajjis near Ukkacelā on the bank of the Ganges river."
+}

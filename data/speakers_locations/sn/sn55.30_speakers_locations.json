@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn55.30:2.1+sn55.30:3.6^speaker": "the Buddha",
+  "sn55.30:2.1+sn55.30:3.6^who_else_mentioned": [
+    "Nandaka"
+  ],
+  "sn55.30:4.2^speaker": "a certain person",
+  "sn55.30:4.3+sn55.30:4.5^speaker": "Nandaka",
+  "sn55.30:4.3+sn55.30:4.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn55.30:4.3^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "sn55.30:4.3^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "sn55.30:4.3^who_around_here_and_before": [
+    "Nandaka the Licchavi minister"
+  ],
+  "sn55.30^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "sn55.30^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

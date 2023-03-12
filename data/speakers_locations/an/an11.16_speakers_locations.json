@@ -1,0 +1,58 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an11.16:2.2+an11.16:2.3^speaker": "the householder Dasama",
+  "an11.16:2.2+an11.16:2.3^who_else_mentioned": [
+    "Venerable Ānanda"
+  ],
+  "an11.16:2.4^speaker": "the mendicant",
+  "an11.16:2.4^where_else_mentioned": [
+    "Vesālī",
+    "Beluva"
+  ],
+  "an11.16:2.4^who_else_mentioned": [
+    "Venerable Ānanda"
+  ],
+  "an11.16:3.2^speaker": "the householder Dasama",
+  "an11.16:3.2^who_else_mentioned": [
+    "Ānanda",
+    "the Blessed One",
+    "Buddha"
+  ],
+  "an11.16:3.3^speaker": "Ānanda",
+  "an11.16:4.1^geographic_locations_here_and_before": [
+    "Vesāli",
+    "Beluva"
+  ],
+  "an11.16:4.1^speaker": "the householder Dasama",
+  "an11.16:4.1^where_here_and_before": [
+    "Vesālī in the little village of Beluva"
+  ],
+  "an11.16:4.1^who_around_here_and_before": [
+    "Ānanda"
+  ],
+  "an11.16:4.2+an11.16:9.8^speaker": "Ānanda",
+  "an11.16:4.2+an11.16:9.8^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "an11.16:10.2+an11.16:10.7^speaker": "the householder Dasama",
+  "an11.16:10.2+an11.16:10.7^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "an11.16:10.2^geographic_locations_here_and_before": [
+    "Beluva",
+    "Vesāli"
+  ],
+  "an11.16:10.2^where_here_and_before": [
+    "the little village of Beluva in Vesālī"
+  ],
+  "an11.16:10.2^who_around_here_and_before": [
+    "Saṅgha from Vesālī",
+    "Saṅgha from Pāṭaliputta"
+  ],
+  "an11.16^initial_geographic_location": [
+    "Vesāli",
+    "Beluva"
+  ],
+  "an11.16^where": "Vesālī in the little village of Beluva"
+}

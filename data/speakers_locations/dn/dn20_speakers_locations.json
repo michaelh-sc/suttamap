@@ -1,0 +1,160 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn20:2.4^speaker": "four deities of the Pure Abodes",
+  "dn20:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn20:3.4+dn20:3.7^speaker": "one deity",
+  "dn20:3.4+dn20:3.7^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "dn20:3.9+dn20:3.12^speaker": "another deity",
+  "dn20:3.14+dn20:3.17^speaker": "another deity",
+  "dn20:3.19+dn20:3.22^speaker": "another deity",
+  "dn20:3.19+dn20:3.22^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn20:4.2+dn20:4.8^speaker": "the Buddha",
+  "dn20:4.2+dn20:4.8^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "dn20:4.9^speaker": "the mendicants",
+  "dn20:5.1+dn20:5.8^speaker": "the Buddha",
+  "dn20:5.13+dn20:5.14^speaker": "the Buddha",
+  "dn20:5.13^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "dn20:5.13^where_here_and_before": [
+    "Kapilavatthu in the Great Wood"
+  ],
+  "dn20:5.13^who_around_here_and_before": [
+    "a large Saṅgha of around five hundred mendicants",
+    "most of the deities from ten solar systems"
+  ],
+  "dn20:5.13^who_mentioned_here_and_before": [
+    "Seer"
+  ],
+  "dn20:6.13+dn20:20.12^speaker": "the Seer",
+  "dn20:6.13+dn20:20.12^where_else_mentioned": [
+    "Kapilavatthu",
+    "Himalayas",
+    "Mount Sātā",
+    "Vessamittā",
+    "Rājagaha",
+    "Mount Vepulla",
+    "Dhataraṭṭha",
+    "Virūḷhaka",
+    "Virūpakkha",
+    "Kuvera",
+    "Cittasena",
+    "Nābhasa",
+    "Pāyāga",
+    "Yamunā",
+    "Namuci",
+    "Bali",
+    "Water",
+    "Earth",
+    "Moon"
+  ],
+  "dn20:6.13+dn20:20.12^who_else_mentioned": [
+    "Kumbhīra",
+    "King Dhataraṭṭha",
+    "Indra",
+    "King Virūḷha",
+    "Lord of the goblins",
+    "King Virūpakkha",
+    "King Kuvera",
+    "Kuṭeṇḍu",
+    "Viṭeṇḍu",
+    "Viṭucca",
+    "Viṭuḍa",
+    "Candana",
+    "Kāmaseṭṭha",
+    "Kinnughaṇḍu",
+    "Nighaṇḍu",
+    "Panāda",
+    "Opamañña",
+    "Mātali",
+    "Nala",
+    "Pañcasikha",
+    "Timbaru",
+    "Suriyavacchasā",
+    "Vesālī",
+    "Tacchakas",
+    "Kambalas",
+    "Assataras",
+    "Erāvaṇa",
+    "Buddha",
+    "Vajirahattha",
+    "Vāsava",
+    "Kālakañjas",
+    "Dānaveghasa",
+    "Veroca",
+    "Rāhu",
+    "Varuṇa",
+    "Vāruṇa",
+    "Soma",
+    "Yasa",
+    "Veṇhu",
+    "Sahali",
+    "Asama",
+    "Yamas",
+    "Sun",
+    "Sakka",
+    "Sahabhū",
+    "Ariṭṭhakas",
+    "Rojas",
+    "Sūleyyas",
+    "Vāsavanesi",
+    "Samānas",
+    "Mahāsamānas",
+    "Mānusas",
+    "Mānusuttamas",
+    "Hari",
+    "Lohitavāsīs",
+    "Pāragas",
+    "Mahāpāragas",
+    "Sukkas",
+    "Karumhas",
+    "Veghanasas",
+    "Odātagayhas",
+    "Vicakkhaṇa",
+    "Sadāmattas",
+    "Hāragajas",
+    "Missakas",
+    "Pajjuna",
+    "Khemiyas",
+    "Tusitas",
+    "Yāmas",
+    "Kaṭṭhakas",
+    "Lambītakas",
+    "Lāmaseṭ",
+    "Jotis",
+    "Subrahmā",
+    "Paramatta",
+    "Sanaṅkumāra",
+    "Tissa",
+    "Brahmā",
+    "Issarās",
+    "Hārita"
+  ],
+  "dn20:21.5^speaker": "Māra",
+  "dn20:21.6+dn20:21.8^speaker": "Māra",
+  "dn20:22.5+dn20:22.6^speaker": "the Buddha",
+  "dn20:22.5+dn20:22.6^who_else_mentioned": [
+    "Māra"
+  ],
+  "dn20:22.11+dn20:22.14^speaker": "the Buddha",
+  "dn20:22.11^who_around_here_and_before": [
+    "the disciples",
+    "the gods",
+    "the Brahmās"
+  ],
+  "dn20:22.11^who_mentioned_here_and_before": [
+    "Hārita"
+  ],
+  "dn20^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "dn20^where": "Kapilavatthu in the Great Wood"
+}

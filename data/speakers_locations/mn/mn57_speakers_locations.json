@@ -1,0 +1,89 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn57:2.3+mn57:2.5^speaker": "Puṇṇa Koliyaputta",
+  "mn57:2.3+mn57:2.5^who_else_mentioned": [
+    "Seniya"
+  ],
+  "mn57:2.6^speaker": "the Buddha",
+  "mn57:2.6^where_else_mentioned": [
+    "Puṇṇa"
+  ],
+  "mn57:2.9+mn57:2.11^speaker": "Puṇṇa Koliyaputta",
+  "mn57:2.9+mn57:2.11^who_else_mentioned": [
+    "Seniya"
+  ],
+  "mn57:2.12+mn57:3.5^speaker": "the Buddha",
+  "mn57:2.12+mn57:3.5^who_else_mentioned": [
+    "Puṇṇa"
+  ],
+  "mn57:4.3+mn57:4.4^speaker": "the Buddha",
+  "mn57:4.5+mn57:4.9^speaker": "Seniya",
+  "mn57:4.5+mn57:4.9^who_else_mentioned": [
+    "Buddha",
+    "Puṇṇa"
+  ],
+  "mn57:4.10^speaker": "the Buddha",
+  "mn57:4.10^who_else_mentioned": [
+    "Seniya"
+  ],
+  "mn57:4.13+mn57:4.15^speaker": "Seniya",
+  "mn57:4.13+mn57:4.15^who_else_mentioned": [
+    "Puṇṇa"
+  ],
+  "mn57:4.16+mn57:5.5^speaker": "the Buddha",
+  "mn57:4.16+mn57:5.5^who_else_mentioned": [
+    "Seniya"
+  ],
+  "mn57:6.3+mn57:6.4^speaker": "the Buddha",
+  "mn57:6.3+mn57:6.4^who_else_mentioned": [
+    "Seniya"
+  ],
+  "mn57:6.5+mn57:6.8^speaker": "Seniya",
+  "mn57:6.5+mn57:6.8^who_else_mentioned": [
+    "Buddha",
+    "Seniya"
+  ],
+  "mn57:6.9^speaker": "the Buddha",
+  "mn57:6.9^who_else_mentioned": [
+    "Puṇṇa"
+  ],
+  "mn57:6.10^geographic_locations_here_and_before": [
+    "Haliddavasana"
+  ],
+  "mn57:6.10^speaker": "Puṇṇa Koliyaputta",
+  "mn57:6.10^where_here_and_before": [
+    "The land of the Koliyans Haliddavasana"
+  ],
+  "mn57:6.10^who_around_here_and_before": [
+    "Seniya"
+  ],
+  "mn57:7.1+mn57:11.4^speaker": "the Buddha",
+  "mn57:7.1+mn57:11.4^who_else_mentioned": [
+    "Puṇṇa"
+  ],
+  "mn57:12.2+mn57:12.4^speaker": "Puṇṇa Koliyaputta",
+  "mn57:12.2+mn57:12.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn57:13.2+mn57:13.5^speaker": "Seniya",
+  "mn57:13.2+mn57:13.5^who_else_mentioned": [
+    "Saṅgha",
+    "Buddha"
+  ],
+  "mn57:14.1+mn57:14.2^speaker": "the Buddha",
+  "mn57:14.1+mn57:14.2^who_else_mentioned": [
+    "Seniya"
+  ],
+  "mn57:14.3^speaker": "Seniya",
+  "mn57:15.3^speaker": "Seniya",
+  "mn57:15.3^who_around_here_and_before": [
+    "Puṇṇa Koliyaputta"
+  ],
+  "mn57:15.3^who_mentioned_here_and_before": [
+    "the naked ascetic Seniya"
+  ],
+  "mn57^initial_geographic_location": [
+    "Haliddavasana"
+  ],
+  "mn57^where": "The land of the Koliyans, Haliddavasana"
+}

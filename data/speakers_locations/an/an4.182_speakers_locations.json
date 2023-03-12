@@ -1,0 +1,15 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.182:1.1+an4.182:3.2^speaker": "the Buddha (assumed)",
+  "an4.182:1.1+an4.182:3.2^who_else_mentioned": [
+    "Māra",
+    "Brahmā"
+  ],
+  "an4.182:1.1^who_mentioned_here_and_before": [
+    "ascetic",
+    "a brahmin",
+    "a god",
+    "a Māra",
+    "a Brahmā"
+  ]
+}

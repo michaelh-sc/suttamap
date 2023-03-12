@@ -1,0 +1,55 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn143:2.3+mn143:2.10^speaker": "Anāthapiṇḍika",
+  "mn143:2.3+mn143:2.10^who_else_mentioned": [
+    "Buddha",
+    "Anāthapiṇḍika"
+  ],
+  "mn143:2.11^speaker": "the man",
+  "mn143:3.2^speaker": "Sāriputta",
+  "mn143:4.1+mn143:4.9^speaker": "Anāthapiṇḍika",
+  "mn143:4.1+mn143:4.9^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn143:5.1+mn143:14.6^speaker": "Sāriputta",
+  "mn143:15.3^speaker": "Ānanda",
+  "mn143:15.4+mn143:15.6^speaker": "Anāthapiṇḍika",
+  "mn143:15.4+mn143:15.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn143:15.7+mn143:15.8^speaker": "Sāriputta",
+  "mn143:15.9+mn143:15.11^speaker": "Anāthapiṇḍika",
+  "mn143:15.9+mn143:15.11^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn143:17.3+mn143:17.18^speaker": "the god Anāthapiṇḍika",
+  "mn143:17.3+mn143:17.18^where_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn143:17.3+mn143:17.18^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn143:20.2+mn143:20.3^speaker": "Ānanda",
+  "mn143:20.2+mn143:20.3^who_else_mentioned": [
+    "Anāthapiṇḍika"
+  ],
+  "mn143:20.4+mn143:20.6^speaker": "the Buddha",
+  "mn143:20.4^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn143:20.4^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "mn143:20.4^who_around_here_and_before": [
+    "Sāriputta",
+    "Ānanda"
+  ],
+  "mn143:20.4^who_mentioned_here_and_before": [
+    "the man"
+  ],
+  "mn143^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn143^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

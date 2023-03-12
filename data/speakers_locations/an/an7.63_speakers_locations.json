@@ -1,0 +1,45 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.63:2.1^speaker": "the Buddha",
+  "an7.63:2.2+an7.63:2.3^speaker": "the householder Anāthapiṇḍika",
+  "an7.63:2.2+an7.63:2.3^who_else_mentioned": [
+    "Sujātā",
+    "Buddha"
+  ],
+  "an7.63:3.2^speaker": "the Buddha",
+  "an7.63:3.2^who_else_mentioned": [
+    "Sujātā"
+  ],
+  "an7.63:3.3^speaker": "Sujātā",
+  "an7.63:4.1+an7.63:4.5^speaker": "the Buddha",
+  "an7.63:4.1+an7.63:4.5^who_else_mentioned": [
+    "Sujātā"
+  ],
+  "an7.63:4.6+an7.63:4.7^speaker": "Sujātā",
+  "an7.63:4.6+an7.63:4.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an7.63:4.8^speaker": "the Buddha",
+  "an7.63:4.8^who_else_mentioned": [
+    "Sujātā"
+  ],
+  "an7.63:4.9^speaker": "Sujātā",
+  "an7.63:5.1+an7.63:14.2^speaker": "the Buddha",
+  "an7.63:5.1+an7.63:14.2^who_else_mentioned": [
+    "Sujātā"
+  ],
+  "an7.63:14.3^speaker": "Sujātā",
+  "an7.63:14.3^where_here_and_before": [
+    "the home of the householder Anāthapiṇḍika"
+  ],
+  "an7.63:14.3^who_around_here_and_before": [
+    "the householder Anāthapiṇḍika"
+  ],
+  "an7.63:14.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an7.63:14.3^who_mentioned_here_and_before": [
+    "Sujātā"
+  ],
+  "an7.63^where": "the home of the householder Anāthapiṇḍika"
+}

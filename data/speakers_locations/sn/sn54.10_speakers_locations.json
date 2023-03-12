@@ -1,0 +1,31 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn54.10:1.4^speaker": "the Buddha",
+  "sn54.10:1.4^who_else_mentioned": [
+    "Kimbila"
+  ],
+  "sn54.10:2.4^speaker": "the Buddha",
+  "sn54.10:3.2+sn54.10:3.3^speaker": "Ānanda",
+  "sn54.10:3.2+sn54.10:3.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn54.10:4.1^speaker": "the Buddha",
+  "sn54.10:4.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn54.10:4.2^geographic_locations_here_and_before": [
+    "Kimilā"
+  ],
+  "sn54.10:4.2^speaker": "Ānanda",
+  "sn54.10:4.2^where_here_and_before": [
+    "Kimbilā in the Freshwater Mangrove Wood"
+  ],
+  "sn54.10:4.2^who_around_here_and_before": [
+    "Kimbila"
+  ],
+  "sn54.10:4.4+sn54.10:9.9^speaker": "the Buddha",
+  "sn54.10^initial_geographic_location": [
+    "Kimilā"
+  ],
+  "sn54.10^where": "Kimbilā in the Freshwater Mangrove Wood"
+}

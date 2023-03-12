@@ -1,0 +1,61 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.195:2.1+an4.195:2.2^speaker": "Mahāmoggallāna",
+  "an4.195:2.1+an4.195:2.2^who_else_mentioned": [
+    "Vappa"
+  ],
+  "an4.195:2.3+an4.195:2.5^speaker": "Vappa",
+  "an4.195:4.1^speaker": "the Buddha",
+  "an4.195:4.1^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "an4.195:4.9^speaker": "Mahāmoggallāna",
+  "an4.195:4.9^who_else_mentioned": [
+    "Vappa",
+    "Buddha"
+  ],
+  "an4.195:5.2+an4.195:5.3^speaker": "the Buddha",
+  "an4.195:5.2+an4.195:5.3^who_else_mentioned": [
+    "Vappa"
+  ],
+  "an4.195:5.4^speaker": "Vappa",
+  "an4.195:6.1+an4.195:6.4^speaker": "the Buddha",
+  "an4.195:6.1+an4.195:6.4^who_else_mentioned": [
+    "Vappa"
+  ],
+  "an4.195:6.5^speaker": "Vappa",
+  "an4.195:7.1+an4.195:7.5^speaker": "the Buddha",
+  "an4.195:7.1+an4.195:7.5^who_else_mentioned": [
+    "Vappa"
+  ],
+  "an4.195:7.6^speaker": "Vappa",
+  "an4.195:8.1+an4.195:8.5^speaker": "the Buddha",
+  "an4.195:8.1+an4.195:8.5^who_else_mentioned": [
+    "Vappa"
+  ],
+  "an4.195:8.6^speaker": "Vappa",
+  "an4.195:9.1+an4.195:9.5^speaker": "the Buddha",
+  "an4.195:9.1+an4.195:9.5^who_else_mentioned": [
+    "Vappa"
+  ],
+  "an4.195:9.6^speaker": "Vappa",
+  "an4.195:10.1+an4.195:12.9^speaker": "the Buddha",
+  "an4.195:13.2+an4.195:13.7^speaker": "Vappa",
+  "an4.195:13.2+an4.195:13.7^who_else_mentioned": [
+    "Jain",
+    "Buddha"
+  ],
+  "an4.195:13.2^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "an4.195:13.2^where_here_and_before": [
+    "Kapilavatthu in the Banyan Tree Monastery"
+  ],
+  "an4.195:13.2^who_around_here_and_before": [
+    "Mahāmoggallāna"
+  ],
+  "an4.195^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "an4.195^where": "Kapilavatthu in the Banyan Tree Monastery"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn7.1:2.1+sn7.1:4.1^speaker": "Dhanañjānī",
+  "sn7.1:2.1+sn7.1:4.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn7.1:5.2+sn7.1:5.3^speaker": "the brahmin",
+  "sn7.1:5.4+sn7.1:5.5^speaker": "Dhanañjānī",
+  "sn7.1:5.4+sn7.1:5.5^who_else_mentioned": [
+    "Māras",
+    "Brahmās",
+    "the Blessed One",
+    "Buddha"
+  ],
+  "sn7.1:7.1+sn7.1:7.4^speaker": "the brahmin",
+  "sn7.1:8.1+sn7.1:8.6^speaker": "the Buddha",
+  "sn7.1:9.2+sn7.1:9.5^speaker": "the brahmin",
+  "sn7.1:9.2+sn7.1:9.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha",
+    "Buddha"
+  ],
+  "sn7.1:10.3^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn7.1:10.3^speaker": "Bhāradvāja",
+  "sn7.1:10.3^where_here_and_before": [
+    "Rājagaha",
+    "Bamboo Grove",
+    "the squirrels' feeding ground"
+  ],
+  "sn7.1:10.3^who_around_here_and_before": [
+    "the Buddha",
+    "the Saṅgha"
+  ],
+  "sn7.1:10.3^who_mentioned_here_and_before": [
+    "Māras",
+    "Brahmās",
+    "gods",
+    "humans"
+  ],
+  "sn7.1^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn7.1^where": "Rājagaha, Bamboo Grove, the squirrels' feeding ground"
+}

@@ -1,0 +1,86 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.50:1.6^speaker": "King Muṇḍa",
+  "an5.50:1.6^who_else_mentioned": [
+    "Piyaka",
+    "Queen Bhaddā"
+  ],
+  "an5.50:1.7^speaker": "Piyaka the treasurer",
+  "an5.50:2.2+an5.50:2.5^speaker": "Piyaka the treasurer",
+  "an5.50:2.2+an5.50:2.5^who_else_mentioned": [
+    "King Muṇḍa",
+    "Queen Bhaddā"
+  ],
+  "an5.50:3.2+an5.50:3.5^speaker": "Piyaka the treasurer",
+  "an5.50:3.2+an5.50:3.5^where_else_mentioned": [
+    "Pāṭaliputta"
+  ],
+  "an5.50:3.2+an5.50:3.5^who_else_mentioned": [
+    "Nārada",
+    "Muṇḍa"
+  ],
+  "an5.50:4.2+an5.50:4.5^speaker": "Piyaka the treasurer",
+  "an5.50:4.2+an5.50:4.5^where_else_mentioned": [
+    "Pāṭaliputta"
+  ],
+  "an5.50:4.2+an5.50:4.5^who_else_mentioned": [
+    "Nārada"
+  ],
+  "an5.50:4.6+an5.50:4.7^speaker": "King Muṇḍa",
+  "an5.50:4.6+an5.50:4.7^who_else_mentioned": [
+    "Piyaka",
+    "Nārada"
+  ],
+  "an5.50:4.8^speaker": "Piyaka the treasurer",
+  "an5.50:5.1+an5.50:5.4^speaker": "Piyaka the treasurer",
+  "an5.50:5.1+an5.50:5.4^who_else_mentioned": [
+    "King Muṇḍa",
+    "Queen Bhaddā"
+  ],
+  "an5.50:5.5^speaker": "Nārada",
+  "an5.50:5.5^who_else_mentioned": [
+    "Piyaka"
+  ],
+  "an5.50:6.2+an5.50:6.3^speaker": "Piyaka the treasurer",
+  "an5.50:6.2+an5.50:6.3^who_else_mentioned": [
+    "Nārada"
+  ],
+  "an5.50:6.4^speaker": "King Muṇḍa",
+  "an5.50:6.4^who_else_mentioned": [
+    "Piyaka"
+  ],
+  "an5.50:6.5^speaker": "Piyaka the treasurer",
+  "an5.50:6.6+an5.50:6.7^speaker": "Piyaka the treasurer",
+  "an5.50:6.6^where_here_and_before": [
+    "Pāṭaliputta",
+    "in the Chicken Monastery"
+  ],
+  "an5.50:6.6^who_around_here_and_before": [
+    "Nārada"
+  ],
+  "an5.50:6.6^who_mentioned_here_and_before": [
+    "Queen Bhaddā"
+  ],
+  "an5.50:8.1+an5.50:17.4^speaker": "Nārada",
+  "an5.50:8.1+an5.50:17.4^who_else_mentioned": [
+    "Māra",
+    "Brahmā"
+  ],
+  "an5.50:18.2^speaker": "King Muṇḍa",
+  "an5.50:18.3^speaker": "Nārada",
+  "an5.50:18.4+an5.50:18.5^speaker": "King Muṇḍa",
+  "an5.50:19.2+an5.50:19.3^speaker": "King Muṇḍa",
+  "an5.50:19.2+an5.50:19.3^where_else_mentioned": [
+    "Piyaka"
+  ],
+  "an5.50:19.2^where_here_and_before": [
+    "Chicken Monastery"
+  ],
+  "an5.50:19.2^who_around_here_and_before": [
+    "Piyaka the treasurer"
+  ],
+  "an5.50:19.2^who_mentioned_here_and_before": [
+    "Queen Bhaddā"
+  ],
+  "an5.50^where": "Pāṭaliputta, in the Chicken Monastery"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.7:2.1^speaker": "Ānanda",
+  "an10.7:2.1^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an10.7:3.1^speaker": "Sāriputta",
+  "an10.7:3.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "an10.7:4.1^speaker": "Ānanda",
+  "an10.7:4.2+an10.7:4.3^speaker": "Sāriputta",
+  "an10.7:4.2+an10.7:4.3^where_else_mentioned": [
+    "Sāvatthī",
+    "the Dark Forest"
+  ],
+  "an10.7:4.2+an10.7:4.3^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "an10.7:5.1^speaker": "Ānanda",
+  "an10.7:5.1^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an10.7:5.2+an10.7:5.5^speaker": "Sāriputta",
+  "an10.7:5.2^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "an10.7:5.2^where_here_and_before": [
+    "Sāvatthī in the Dark Forest"
+  ],
+  "an10.7:5.2^who_around_here_and_before": [
+    "Ānanda",
+    "Sāriputta"
+  ],
+  "an10.7^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "an10.7^where": "Sāvatthī in the Dark Forest"
+}

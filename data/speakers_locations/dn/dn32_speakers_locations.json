@@ -1,0 +1,129 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn32:2.2+dn32:2.15^speaker": "Great King Vessavaṇa",
+  "dn32:2.2+dn32:2.15^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn32:2.2^geographic_locations_here_and_before": [
+    "Gijjhakūṭa"
+  ],
+  "dn32:2.2^where_here_and_before": [
+    "Vulture's Peak Mountain near Rājagaha"
+  ],
+  "dn32:2.2^who_around_here_and_before": [
+    "Four Great Kings",
+    "spirits",
+    "fairies",
+    "goblins",
+    "dragons"
+  ],
+  "dn32:2.2^who_mentioned_here_and_before": [
+    "monks",
+    "nuns",
+    "laymen",
+    "laywomen"
+  ],
+  "dn32:3.2+dn32:7.90^speaker": "Great King Vessavaṇa",
+  "dn32:3.2+dn32:7.90^where_else_mentioned": [
+    "Sun",
+    "Uttarakuru",
+    "Mount Meru",
+    "Kusināṭā",
+    "Parakusināṭā",
+    "Kapīvanta",
+    "Jonogha",
+    "Navanavutiya",
+    "Kuvera",
+    "Tatolā",
+    "Tattalā",
+    "Tatotalā",
+    "Ojasi",
+    "Tejasi",
+    "Tatojasi",
+    "Sūra",
+    "Rājā",
+    "Ariṭṭha",
+    "Nemi"
+  ],
+  "dn32:3.2+dn32:7.90^who_else_mentioned": [
+    "Hail Vipassī",
+    "Hail Sikhī",
+    "Hail Vessabhū",
+    "Hail Kakusandha",
+    "Māra",
+    "Hail Koṇāgamana",
+    "Hail Kassapa",
+    "Hail Aṅgīrasa",
+    "Sakyan",
+    "Gotama",
+    "Aditi",
+    "Dhataraṭṭha",
+    "Indra",
+    "Buddha",
+    "Kinsman",
+    "Virūḷha",
+    "Virūpakkha",
+    "Nāṭasuriyā",
+    "Parakusiṭanāṭā",
+    "Vessavaṇa",
+    "Bhagalavatī"
+  ],
+  "dn32:11.3^speaker": "the Buddha",
+  "dn32:13.1+dn32:13.4^speaker": "the Buddha",
+  "dn32:13.1^where_here_and_before": [
+    "the Buddha's presence"
+  ],
+  "dn32:13.1^who_around_here_and_before": [
+    "spirits",
+    "Four Great Kings",
+    "mendicants"
+  ],
+  "dn32:13.1^who_mentioned_here_and_before": [
+    "Indra",
+    "Soma",
+    "Varuṇa",
+    "Bhāradvāja",
+    "Pajāpati",
+    "Candana",
+    "Kāmaseṭṭha",
+    "Kinnughaṇḍu",
+    "Nighaṇḍu",
+    "Panāda",
+    "Opamañña",
+    "Mātali",
+    "Vipassī",
+    "the king of Magadha",
+    "bandits",
+    "Cittasena",
+    "Nala",
+    "Janesabha",
+    "Sātāgira",
+    "Hemavata",
+    "Puṇṇaka",
+    "Karatiya",
+    "Guḷa",
+    "Sivaka",
+    "Mucalinda",
+    "Vessāmitta",
+    "Yugandhara",
+    "Gopāla",
+    "Supparodha",
+    "Hiri",
+    "Netti",
+    "Mandiya",
+    "Pañcālacaṇḍa",
+    "Āḷavaka",
+    "Pajjunna",
+    "Sumana",
+    "Sumukha",
+    "Dadhimukha",
+    "Maṇi",
+    "Māṇivara",
+    "Dīgha",
+    "Serīsaka"
+  ],
+  "dn32^initial_geographic_location": [
+    "Gijjhakūṭa"
+  ],
+  "dn32^where": "Vulture's Peak Mountain, near Rājagaha"
+}

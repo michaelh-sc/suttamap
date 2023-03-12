@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.19:2.1^speaker": "the Buddha",
+  "an8.19:2.1^who_else_mentioned": [
+    "Pahārāda"
+  ],
+  "an8.19:2.2^speaker": "Pahārāda",
+  "an8.19:2.3^speaker": "the Buddha",
+  "an8.19:2.4+an8.19:10.1^speaker": "the Buddha",
+  "an8.19:2.4+an8.19:10.1^where_else_mentioned": [
+    "Ganges",
+    "Yamunā",
+    "Aciravatī",
+    "Sarabhū",
+    "Mahī"
+  ],
+  "an8.19:10.2^speaker": "the Buddha",
+  "an8.19:10.2^who_else_mentioned": [
+    "Pahārāda"
+  ],
+  "an8.19:10.3^speaker": "Pahārāda",
+  "an8.19:10.4+an8.19:19.1^speaker": "the Buddha",
+  "an8.19:10.4+an8.19:19.1^where_else_mentioned": [
+    "Ganges",
+    "Yamunā",
+    "Aciravatī",
+    "Sarabhū",
+    "Mahī"
+  ],
+  "an8.19:10.4+an8.19:19.1^who_else_mentioned": [
+    "Pahārāda",
+    "Saṅgha",
+    "Sakyan"
+  ],
+  "an8.19:10.4^where_here_and_before": [
+    "Verañja at the root of a neem tree dedicated to Naḷeru"
+  ],
+  "an8.19:10.4^who_around_here_and_before": [
+    "Pahārāda"
+  ],
+  "an8.19^where": "Verañja at the root of a neem tree dedicated to Naḷeru"
+}

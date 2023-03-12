@@ -1,0 +1,51 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn29:1.5^speaker": "Jain ascetics",
+  "dn29:2.5+dn29:2.6^speaker": "Ānanda",
+  "dn29:2.5+dn29:2.6^who_else_mentioned": [
+    "Cunda",
+    "Buddha"
+  ],
+  "dn29:2.7^speaker": "Cunda",
+  "dn29:4.1+dn29:40.7^speaker": "Ānanda and Cunda",
+  "dn29:4.1+dn29:40.7^who_else_mentioned": [
+    "Cunda",
+    "Buddha",
+    "Saṅgha",
+    "Uddaka",
+    "Rāma",
+    "Sakyan",
+    "the Blessed One",
+    "Gotama",
+    "Māras",
+    "Brahmās",
+    "The Realized One"
+  ],
+  "dn29:30.2^speaker": "Cunda",
+  "dn29:30.7^speaker": "Cunda",
+  "dn29:30.12^speaker": "Cunda",
+  "dn29:30.17^speaker": "Cunda",
+  "dn29:32.4^speaker": "the Buddha",
+  "dn29:35.5^speaker": "the Buddha",
+  "dn29:38.5^speaker": "the Buddha",
+  "dn29:41.3+dn29:41.5^speaker": "Upavāṇa",
+  "dn29:41.6^speaker": "the Buddha",
+  "dn29:41.6^where_here_and_before": [
+    "the land of the Sakyans in a stilt longhouse in a mango grove belonging to the Sakyan family named Vedhañña"
+  ],
+  "dn29:41.6^who_around_here_and_before": [
+    "the Buddha",
+    "Ānanda",
+    "Cunda",
+    "Upavāṇa"
+  ],
+  "dn29:41.6^who_else_mentioned": [
+    "Upavāṇa"
+  ],
+  "dn29:41.6^who_mentioned_here_and_before": [
+    "Nigaṇṭha Nātaputta",
+    "Jain ascetics",
+    "white-clothed lay disciples"
+  ],
+  "dn29^where": "the land of the Sakyans in a stilt longhouse in a mango grove belonging to the Sakyan family named Vedhañña"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn48.42:2.1+sn48.42:2.4^speaker": "Uṇṇābha the brahmin",
+  "sn48.42:2.1+sn48.42:2.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn48.42:3.1+sn48.42:3.4^speaker": "the Buddha",
+  "sn48.42:4.1^speaker": "Uṇṇābha the brahmin",
+  "sn48.42:4.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn48.42:4.2^speaker": "the Buddha",
+  "sn48.42:4.3^speaker": "Uṇṇābha the brahmin",
+  "sn48.42:4.4^speaker": "the Buddha",
+  "sn48.42:4.5^speaker": "Uṇṇābha the brahmin",
+  "sn48.42:4.6^speaker": "the Buddha",
+  "sn48.42:4.7^speaker": "Uṇṇābha the brahmin",
+  "sn48.42:4.8+sn48.42:4.9^speaker": "the Buddha",
+  "sn48.42:6.2^speaker": "the Buddha",
+  "sn48.42:6.3^speaker": "the mendicants",
+  "sn48.42:6.4+sn48.42:6.5^speaker": "the Buddha",
+  "sn48.42:6.4+sn48.42:6.5^who_else_mentioned": [
+    "Uṇṇābha",
+    "Māra",
+    "Brahmā"
+  ],
+  "sn48.42:6.4^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn48.42:6.4^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn48.42:6.4^who_around_here_and_before": [
+    "Uṇṇābha the brahmin",
+    "the mendicants"
+  ],
+  "sn48.42^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn48.42^where": "Sāvatthī"
+}

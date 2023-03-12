@@ -1,0 +1,84 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn89:2.3^speaker": "King Pasenadi of Kosala",
+  "mn89:2.3^who_else_mentioned": [
+    "Kārāyana"
+  ],
+  "mn89:2.4^speaker": "Dīgha Kārāyana",
+  "mn89:2.5+mn89:2.6^speaker": "Dīgha Kārāyana",
+  "mn89:4.3^speaker": "King Pasenadi of Kosala",
+  "mn89:4.3^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "mn89:4.5+mn89:4.6^speaker": "King Pasenadi of Kosala",
+  "mn89:4.5+mn89:4.6^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha",
+    "Kārāyana"
+  ],
+  "mn89:5.1+mn89:5.2^speaker": "Dīgha Kārāyana",
+  "mn89:5.1+mn89:5.2^who_else_mentioned": [
+    "Sakyan",
+    "Medaḷumpa",
+    "Buddha"
+  ],
+  "mn89:5.3^speaker": "King Pasenadi of Kosala",
+  "mn89:5.4+mn89:5.6^speaker": "Dīgha Kārāyana",
+  "mn89:5.7^speaker": "King Pasenadi of Kosala",
+  "mn89:5.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn89:5.8^speaker": "Dīgha Kārāyana",
+  "mn89:5.9+mn89:5.10^speaker": "Dīgha Kārāyana",
+  "mn89:7.3+mn89:7.4^speaker": "King Pasenadi of Kosala",
+  "mn89:7.3+mn89:7.4^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "mn89:8.1^speaker": "the mendicants",
+  "mn89:8.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn89:8.4^speaker": "Dīgha Kārāyana",
+  "mn89:9.2+mn89:9.3^speaker": "King Pasenadi of Kosala",
+  "mn89:9.2+mn89:9.3^where_else_mentioned": [
+    "Kosala"
+  ],
+  "mn89:9.2+mn89:9.3^who_else_mentioned": [
+    "I am Pasenadi",
+    "Pasenadi"
+  ],
+  "mn89:9.4^speaker": "the Buddha",
+  "mn89:9.4^where_here_and_before": [
+    "the land of the Sakyans near the Sakyan town named Medaḷumpa"
+  ],
+  "mn89:9.4^who_around_here_and_before": [
+    "Dīgha Kārāyana",
+    "mendicants"
+  ],
+  "mn89:10.1+mn89:20.2^speaker": "King Pasenadi of Kosala",
+  "mn89:10.1+mn89:20.2^where_else_mentioned": [
+    "Purāṇa"
+  ],
+  "mn89:10.1+mn89:20.2^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha",
+    "the Blessed One",
+    "Gotama",
+    "Isidatta",
+    "Kosalan"
+  ],
+  "mn89:20.3^speaker": "the Buddha",
+  "mn89:21.2+mn89:21.6^speaker": "the Buddha",
+  "mn89:21.2+mn89:21.6^who_else_mentioned": [
+    "Pasenadi"
+  ],
+  "mn89:21.2^where_here_and_before": [
+    "the Buddha's dwelling"
+  ],
+  "mn89:21.2^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "mn89^where": "the land of the Sakyans, near the Sakyan town named Medaḷumpa"
+}

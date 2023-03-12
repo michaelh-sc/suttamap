@@ -1,0 +1,63 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.80:1.2+an3.80:1.4^speaker": "Ānanda",
+  "an3.80:1.2+an3.80:1.4^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "an3.80:1.2+an3.80:1.4^who_else_mentioned": [
+    "Buddha",
+    "Ānanda",
+    "Sikhi",
+    "Abhibhū",
+    "a Blessed One"
+  ],
+  "an3.80:1.5^speaker": "the Buddha",
+  "an3.80:3.4^speaker": "Ānanda",
+  "an3.80:3.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an3.80:3.5^speaker": "the Buddha",
+  "an3.80:3.6+an3.80:3.7^speaker": "Ānanda",
+  "an3.80:3.6+an3.80:3.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an3.80:3.8^speaker": "the Buddha",
+  "an3.80:3.8^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "an3.80:3.9^speaker": "Ānanda",
+  "an3.80:4.1+an3.80:7.1^speaker": "the Buddha",
+  "an3.80:4.1+an3.80:7.1^where_else_mentioned": [
+    "Great Kings"
+  ],
+  "an3.80:4.1+an3.80:7.1^who_else_mentioned": [
+    "Sinerus",
+    "Indias",
+    "Brahmā",
+    "Ānanda"
+  ],
+  "an3.80:8.1^speaker": "Ānanda",
+  "an3.80:8.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an3.80:8.2+an3.80:8.4^speaker": "the Buddha",
+  "an3.80:8.2+an3.80:8.4^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "an3.80:9.2+an3.80:9.3^speaker": "Ānanda",
+  "an3.80:9.5^speaker": "Udāyī",
+  "an3.80:9.5^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "an3.80:9.7+an3.80:9.9^speaker": "the Buddha",
+  "an3.80:9.7+an3.80:9.9^where_else_mentioned": [
+    "India"
+  ],
+  "an3.80:9.7+an3.80:9.9^who_else_mentioned": [
+    "Udāyī",
+    "Ānanda"
+  ],
+  "an3.80:9.7^who_around_here_and_before": [
+    "Udāyī"
+  ]
+}

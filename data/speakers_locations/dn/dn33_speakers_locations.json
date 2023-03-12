@@ -1,0 +1,61 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn33:1.2.4+dn33:1.2.6^speaker": "The Mallas of Pāvā",
+  "dn33:1.2.4+dn33:1.2.6^where_else_mentioned": [
+    "Ubbhaṭaka"
+  ],
+  "dn33:1.2.4+dn33:1.2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn33:1.3.5^speaker": "The Mallas of Pāvā",
+  "dn33:1.4.5+dn33:1.4.6^speaker": "The Buddha",
+  "dn33:1.4.5+dn33:1.4.6^who_else_mentioned": [
+    "Vāseṭṭhas"
+  ],
+  "dn33:1.4.7^speaker": "The Mallas of Pāvā",
+  "dn33:1.5.2+dn33:1.5.5^speaker": "The Buddha",
+  "dn33:1.5.2+dn33:1.5.5^where_else_mentioned": [
+    "Sāriputta"
+  ],
+  "dn33:1.5.6^speaker": "Sāriputta",
+  "dn33:1.6.3^speaker": "The Jain ascetics",
+  "dn33:1.7.4+dn33:3.3.89^speaker": "Sāriputta",
+  "dn33:1.7.4+dn33:3.3.89^where_else_mentioned": [
+    "Atappa"
+  ],
+  "dn33:1.7.4+dn33:3.3.89^who_else_mentioned": [
+    "Buddha",
+    "the Blessed One",
+    "Brahmā",
+    "Saṅgha",
+    "Aviha",
+    "Akaniṭṭha",
+    "Buddhas",
+    "the Holy One"
+  ],
+  "dn33:2.2.106^speaker": "Sāriputta",
+  "dn33:2.2.109^speaker": "Sāriputta",
+  "dn33:2.2.111^speaker": "Sāriputta",
+  "dn33:3.4.2+dn33:3.4.3^speaker": "The Buddha",
+  "dn33:3.4.2^geographic_locations_here_and_before": [
+    "Pāvā"
+  ],
+  "dn33:3.4.2^where_here_and_before": [
+    "Pāvā",
+    "Cunda the smith's mango grove",
+    "Ubbhaṭaka town hall"
+  ],
+  "dn33:3.4.2^who_around_here_and_before": [
+    "The Saṅgha of mendicants",
+    "The Mallas of Pāvā"
+  ],
+  "dn33:3.4.2^who_mentioned_here_and_before": [
+    "Nigaṇṭha Nātaputta",
+    "Jain ascetics",
+    "The Buddha"
+  ],
+  "dn33^initial_geographic_location": [
+    "Pāvā"
+  ],
+  "dn33^where": "Pāvā, Cunda the smith's mango grove, Ubbhaṭaka town hall"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an6.60:1.6^speaker": "Mahākoṭṭhita",
+  "an6.60:1.8+an6.60:1.9^speaker": "Citta Hatthisāriputta's companions",
+  "an6.60:1.8+an6.60:1.9^who_else_mentioned": [
+    "Citta Hatthisāriputta"
+  ],
+  "an6.60:2.1+an6.60:3.2^speaker": "Mahākoṭṭhita",
+  "an6.60:3.3+an6.60:3.4^speaker": "Citta Hatthisāriputta's companions",
+  "an6.60:3.5+an6.60:4.5^speaker": "Mahākoṭṭhita",
+  "an6.60:4.6+an6.60:4.7^speaker": "Citta Hatthisāriputta's companions",
+  "an6.60:4.8+an6.60:5.6^speaker": "Mahākoṭṭhita",
+  "an6.60:5.7+an6.60:5.8^speaker": "Citta Hatthisāriputta's companions",
+  "an6.60:5.9+an6.60:6.5^speaker": "Mahākoṭṭhita",
+  "an6.60:6.6+an6.60:6.8^speaker": "Citta Hatthisāriputta's companions",
+  "an6.60:6.9+an6.60:7.5^speaker": "Mahākoṭṭhita",
+  "an6.60:7.6+an6.60:7.7^speaker": "Citta Hatthisāriputta's companions",
+  "an6.60:7.8+an6.60:8.7^speaker": "Mahākoṭṭhita",
+  "an6.60:8.8+an6.60:8.9^speaker": "Citta Hatthisāriputta's companions",
+  "an6.60:8.10+an6.60:8.13^speaker": "Mahākoṭṭhita",
+  "an6.60:9.3+an6.60:9.5^speaker": "Citta Hatthisāriputta's companions",
+  "an6.60:9.3+an6.60:9.5^who_else_mentioned": [
+    "Mahākoṭṭhita",
+    "Citta Hatthisāriputta"
+  ],
+  "an6.60:9.7+an6.60:9.9^speaker": "Mahākoṭṭhita",
+  "an6.60:10.2^speaker": "Citta Hatthisāriputta's companions",
+  "an6.60:10.2^who_else_mentioned": [
+    "Citta Hatthisāriputta"
+  ],
+  "an6.60:10.3^speaker": "the Buddha",
+  "an6.60:10.3^who_else_mentioned": [
+    "Citta"
+  ],
+  "an6.60:11.3^geographic_locations_here_and_before": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "an6.60:11.3^speaker": "Citta Hatthisāriputta",
+  "an6.60:11.3^where_here_and_before": [
+    "Benares",
+    "in the deer park at Isipatana"
+  ],
+  "an6.60:11.3^who_around_here_and_before": [
+    "Senior mendicants"
+  ],
+  "an6.60^initial_geographic_location": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "an6.60^where": "Benares, in the deer park at Isipatana",
+  "who_around": "the Buddha"
+}

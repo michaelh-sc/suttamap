@@ -1,0 +1,92 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn18:1.4+dn18:1.7^speaker": "The Buddha",
+  "dn18:1.4+dn18:1.7^where_else_mentioned": [
+    "Nādika"
+  ],
+  "dn18:4.2+dn18:4.17^speaker": "Ānanda",
+  "dn18:4.2+dn18:4.17^who_else_mentioned": [
+    "Magadhan",
+    "Aṅga",
+    "Magadha",
+    "Buddha",
+    "Saṅgha",
+    "Seniya Bimbisāra",
+    "King Bimbisāra"
+  ],
+  "dn18:6.9^speaker": "Ānanda",
+  "dn18:6.9^who_else_mentioned": [
+    "Buddha",
+    "Magadhan"
+  ],
+  "dn18:7.3^speaker": "The Buddha",
+  "dn18:8.2+dn18:8.3^speaker": "Ānanda",
+  "dn18:9.5+dn18:9.8^speaker": "Invisible spirit",
+  "dn18:9.5+dn18:9.8^where_else_mentioned": [
+    "Holy One"
+  ],
+  "dn18:9.5+dn18:9.8^who_else_mentioned": [
+    "Ānanda",
+    "Janavasabha"
+  ],
+  "dn18:9.9+dn18:9.11^speaker": "Ānanda",
+  "dn18:9.9+dn18:9.11^who_else_mentioned": [
+    "Janavasabha"
+  ],
+  "dn18:10.1+dn18:29.1^speaker": "Invisible spirit",
+  "dn18:10.1+dn18:29.1^where_else_mentioned": [
+    "Holy One"
+  ],
+  "dn18:10.1+dn18:29.1^who_else_mentioned": [
+    "Ānanda",
+    "I am Bimbisāra",
+    "Janavasabha",
+    "Buddha",
+    "Vessavaṇa",
+    "Virūḷhaka",
+    "Magadhan",
+    "Dhatara",
+    "Virūpakkha",
+    "Sakka",
+    "Brahmā",
+    "Brahmā Sanaṅkumāra",
+    "Pañcasikha",
+    "Saṅgha",
+    "the Blessed One",
+    "Great King Vessavaṇa"
+  ],
+  "dn18:10.12^speaker": "Invisible spirit",
+  "dn18:11.8^speaker": "Invisible spirit",
+  "dn18:11.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn18:12.11^speaker": "The gods",
+  "dn18:13.19^speaker": "The gods",
+  "dn18:15.3^speaker": "The Buddha",
+  "dn18:15.3^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn18:16.2^speaker": "The gods",
+  "dn18:16.6^speaker": "The gods",
+  "dn18:17.8^speaker": "The gods",
+  "dn18:17.8^who_else_mentioned": [
+    "Brahmā Sanaṅkumāra"
+  ],
+  "dn18:21.3^speaker": "The Buddha",
+  "dn18:22.14^speaker": "The gods",
+  "dn18:22.15^speaker": "The Buddha",
+  "dn18:28.2^speaker": "Great King Vessavaṇa",
+  "dn18:28.2^where_here_and_before": [
+    "Nādika in the brick house"
+  ],
+  "dn18:28.2^who_around_here_and_before": [
+    "Brahmā Sanaṅkumāra",
+    "gods of the Thirty-Three"
+  ],
+  "dn18:28.2^who_mentioned_here_and_before": [
+    "Magadhan devotees",
+    "Janavasabha"
+  ],
+  "who_around": "Brahmā Sanaṅkumāra, the great king Vessavaṇa, the spirit Janavasabha, the Buddha, Ānanda, monks, nuns, laymen, laywomen",
+  "who_mentioned": "gods of the Thirty-Three"
+}

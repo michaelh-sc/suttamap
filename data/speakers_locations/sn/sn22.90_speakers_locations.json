@@ -1,0 +1,46 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.90:1.3^speaker": "Channa",
+  "sn22.90:2.2+sn22.90:2.13^speaker": "the senior mendicants",
+  "sn22.90:2.2+sn22.90:2.13^who_else_mentioned": [
+    "Channa"
+  ],
+  "sn22.90:3.2+sn22.90:3.17^speaker": "Channa",
+  "sn22.90:4.2+sn22.90:4.4^speaker": "Channa",
+  "sn22.90:4.2+sn22.90:4.4^where_else_mentioned": [
+    "Kosambi",
+    "Ghosita’s Monastery"
+  ],
+  "sn22.90:4.2+sn22.90:4.4^who_else_mentioned": [
+    "Buddha",
+    "Ānanda"
+  ],
+  "sn22.90:7.5^speaker": "Channa",
+  "sn22.90:8.1+sn22.90:8.3^speaker": "Ānanda",
+  "sn22.90:8.1+sn22.90:8.3^who_else_mentioned": [
+    "Channa"
+  ],
+  "sn22.90:8.5^speaker": "Channa",
+  "sn22.90:9.6^speaker": "Channa",
+  "sn22.90:9.10^speaker": "Ānanda",
+  "sn22.90:9.11^geographic_locations_here_and_before": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "sn22.90:9.11^speaker": "Ānanda",
+  "sn22.90:9.11^where_here_and_before": [
+    "Benares",
+    "in the deer park at Isipatana"
+  ],
+  "sn22.90:9.11^who_around_here_and_before": [
+    "the senior mendicants"
+  ],
+  "sn22.90:9.11^who_mentioned_here_and_before": [
+    "Kaccānagotta"
+  ],
+  "sn22.90^initial_geographic_location": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "sn22.90^where": "Benares, in the deer park at Isipatana"
+}

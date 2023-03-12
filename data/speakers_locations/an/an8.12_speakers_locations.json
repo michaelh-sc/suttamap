@@ -1,0 +1,125 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.12:2.3+an8.12:2.4^speaker": "General Sīha",
+  "an8.12:2.3+an8.12:2.4^who_else_mentioned": [
+    "Buddha",
+    "Licchavis",
+    "Saṅgha"
+  ],
+  "an8.12:2.6^speaker": "General Sīha",
+  "an8.12:2.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an8.12:3.1+an8.12:3.2^speaker": "Nigaṇṭha Nātaputta",
+  "an8.12:3.1+an8.12:3.2^who_else_mentioned": [
+    "Sīha",
+    "Gotama"
+  ],
+  "an8.12:4.4^speaker": "General Sīha",
+  "an8.12:4.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an8.12:6.3+an8.12:6.5^speaker": "General Sīha",
+  "an8.12:6.3+an8.12:6.5^who_else_mentioned": [
+    "Buddha",
+    "Licchavis",
+    "Saṅgha",
+    "Jains"
+  ],
+  "an8.12:8.1+an8.12:8.4^speaker": "General Sīha",
+  "an8.12:8.1+an8.12:8.4^who_else_mentioned": [
+    "Gotama",
+    "Buddha",
+    "the Blessed One"
+  ],
+  "an8.12:9.1+an8.12:24.4^speaker": "the Buddha",
+  "an8.12:9.1+an8.12:24.4^who_else_mentioned": [
+    "Sīha",
+    "The Realized One"
+  ],
+  "an8.12:25.2+an8.12:25.3^speaker": "General Sīha",
+  "an8.12:25.2+an8.12:25.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an8.12:26.1^speaker": "the Buddha",
+  "an8.12:26.1^who_else_mentioned": [
+    "Sīha"
+  ],
+  "an8.12:26.2+an8.12:26.7^speaker": "General Sīha",
+  "an8.12:26.2+an8.12:26.7^who_else_mentioned": [
+    "Buddha",
+    "Vesālī",
+    "Sīha",
+    "Saṅgha"
+  ],
+  "an8.12:27.1^speaker": "the Buddha",
+  "an8.12:27.1^who_else_mentioned": [
+    "Sīha"
+  ],
+  "an8.12:27.2+an8.12:27.12^speaker": "General Sīha",
+  "an8.12:27.2+an8.12:27.12^who_else_mentioned": [
+    "Buddha",
+    "Jain",
+    "Gotama",
+    "Saṅgha"
+  ],
+  "an8.12:28.7^speaker": "General Sīha",
+  "an8.12:29.2^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "an8.12:29.2^speaker": "General Sīha",
+  "an8.12:29.2^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "an8.12:29.2^who_around_here_and_before": [
+    "several very prominent Licchavis",
+    "Jain ascetics",
+    "the Buddha",
+    "the mendicant Saṅgha"
+  ],
+  "an8.12:29.2^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "an8.12:29.2^who_mentioned_here_and_before": [
+    "Nigaṇṭha Nātaputta"
+  ],
+  "an8.12:30.2^speaker": "General Sīha",
+  "an8.12:30.4^speaker": "General Sīha",
+  "an8.12:31.3+an8.12:31.4^speaker": "Jain ascetics",
+  "an8.12:31.3+an8.12:31.4^who_else_mentioned": [
+    "Sīha",
+    "Gotama"
+  ],
+  "an8.12:32.2+an8.12:32.5^speaker": "a certain person",
+  "an8.12:32.2+an8.12:32.5^where_else_mentioned": [
+    "Vesālī"
+  ],
+  "an8.12:32.2+an8.12:32.5^who_else_mentioned": [
+    "Jain",
+    "Sīha",
+    "Gotama"
+  ],
+  "an8.12:32.6+an8.12:32.8^speaker": "General Sīha",
+  "an8.12:32.6+an8.12:32.8^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "an8.12:32.6^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "an8.12:32.6^where_here_and_before": [
+    "Vesālī"
+  ],
+  "an8.12:32.6^who_around_here_and_before": [
+    "the Buddha",
+    "the Saṅgha of mendicants"
+  ],
+  "an8.12:32.6^who_mentioned_here_and_before": [
+    "the Teacher"
+  ],
+  "an8.12^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "an8.12^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

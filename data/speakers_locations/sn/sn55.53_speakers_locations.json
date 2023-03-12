@@ -1,0 +1,43 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn55.53:1.3+sn55.53:1.4^speaker": "Dhammadinna",
+  "sn55.53:1.3+sn55.53:1.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn55.53:2.1+sn55.53:2.3^speaker": "the Buddha",
+  "sn55.53:2.1+sn55.53:2.3^who_else_mentioned": [
+    "Dhammadinna"
+  ],
+  "sn55.53:2.4+sn55.53:2.6^speaker": "Dhammadinna",
+  "sn55.53:2.4+sn55.53:2.6^where_else_mentioned": [
+    "Kāsi"
+  ],
+  "sn55.53:3.1+sn55.53:3.7^speaker": "the Buddha",
+  "sn55.53:3.1+sn55.53:3.7^who_else_mentioned": [
+    "Dhammadinna"
+  ],
+  "sn55.53:4.1+sn55.53:4.6^speaker": "Dhammadinna",
+  "sn55.53:4.1+sn55.53:4.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn55.53:4.7+sn55.53:4.8^speaker": "the Buddha",
+  "sn55.53:4.7+sn55.53:4.8^who_else_mentioned": [
+    "Dhammadinna"
+  ],
+  "sn55.53:4.7^geographic_locations_here_and_before": [
+    "Isipatana"
+  ],
+  "sn55.53:4.7^where_here_and_before": [
+    "deer park at Isipatana near Benares"
+  ],
+  "sn55.53:4.7^who_around_here_and_before": [
+    "five hundred lay followers"
+  ],
+  "sn55.53:4.7^who_mentioned_here_and_before": [
+    "Kāsi"
+  ],
+  "sn55.53^initial_geographic_location": [
+    "Isipatana"
+  ],
+  "sn55.53^where": "deer park at Isipatana, near Benares"
+}

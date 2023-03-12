@@ -1,0 +1,45 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn12.51:1.4^speaker": "The Buddha",
+  "sn12.51:1.5^speaker": "The mendicants",
+  "sn12.51:2.1^speaker": "The Buddha",
+  "sn12.51:2.2^speaker": "The mendicants",
+  "sn12.51:2.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn12.51:2.3^speaker": "The Buddha",
+  "sn12.51:2.4^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "sn12.51:2.4^speaker": "The mendicants",
+  "sn12.51:2.4^where_here_and_before": [
+    "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
+  ],
+  "sn12.51:3.1+sn12.51:13.2^speaker": "The Buddha",
+  "sn12.51:13.3^speaker": "The mendicants",
+  "sn12.51:14.1^speaker": "The Buddha",
+  "sn12.51:14.2^speaker": "The mendicants",
+  "sn12.51:15.1^speaker": "The Buddha",
+  "sn12.51:15.2^speaker": "The mendicants",
+  "sn12.51:16.1^speaker": "The Buddha",
+  "sn12.51:16.2^speaker": "The mendicants",
+  "sn12.51:17.1^speaker": "The Buddha",
+  "sn12.51:17.2^speaker": "The mendicants",
+  "sn12.51:18.1^speaker": "The Buddha",
+  "sn12.51:18.2^speaker": "The mendicants",
+  "sn12.51:19.1^speaker": "The Buddha",
+  "sn12.51:19.2^speaker": "The mendicants",
+  "sn12.51:20.1^speaker": "The Buddha",
+  "sn12.51:20.2^speaker": "The mendicants",
+  "sn12.51:21.1^speaker": "The Buddha",
+  "sn12.51:21.2^speaker": "The mendicants",
+  "sn12.51:22.1^speaker": "The Buddha",
+  "sn12.51:22.2^speaker": "The mendicants",
+  "sn12.51:23.1^speaker": "The Buddha",
+  "sn12.51:23.2^speaker": "The mendicants",
+  "sn12.51:24.1+sn12.51:24.3^speaker": "The Buddha",
+  "sn12.51^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "sn12.51^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"
+}

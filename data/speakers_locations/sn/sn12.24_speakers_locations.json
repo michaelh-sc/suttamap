@@ -1,0 +1,51 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn12.24:1.4+sn12.24:1.5^speaker": "Sāriputta",
+  "sn12.24:1.4+sn12.24:1.5^where_else_mentioned": [
+    "Rājagaha"
+  ],
+  "sn12.24:3.1+sn12.24:3.6^speaker": "the wanderers",
+  "sn12.24:3.1+sn12.24:3.6^who_else_mentioned": [
+    "Sāriputta",
+    "Gotama"
+  ],
+  "sn12.24:4.1+sn12.24:6.4^speaker": "Sāriputta",
+  "sn12.24:4.1+sn12.24:6.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn12.24:8.1+sn12.24:12.2^speaker": "the Buddha",
+  "sn12.24:8.1+sn12.24:12.2^where_else_mentioned": [
+    "Rājagaha",
+    "the Bamboo Grove"
+  ],
+  "sn12.24:8.1+sn12.24:12.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn12.24:17.1+sn12.24:17.3^speaker": "Ānanda",
+  "sn12.24:18.1^speaker": "the Buddha",
+  "sn12.24:18.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn12.24:18.2+sn12.24:21.17^speaker": "Ānanda",
+  "sn12.24:18.2+sn12.24:21.17^who_else_mentioned": [
+    "Ānanda",
+    "Grasping"
+  ],
+  "sn12.24:18.2^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn12.24:18.2^where_here_and_before": [
+    "Near Rājagaha in the Bamboo Grove"
+  ],
+  "sn12.24:18.2^who_around_here_and_before": [
+    "the wanderers"
+  ],
+  "sn12.24:18.2^who_mentioned_here_and_before": [
+    "ascetics",
+    "brahmins"
+  ],
+  "sn12.24^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn12.24^where": "Near Rājagaha, in the Bamboo Grove"
+}

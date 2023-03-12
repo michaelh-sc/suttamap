@@ -1,0 +1,35 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn4.18:1.5^speaker": "the brahmins of Pañcasālā and householders of Pañcasālā",
+  "sn4.18:1.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn4.18:2.3^speaker": "Māra the Wicked",
+  "sn4.18:2.4^speaker": "the Buddha",
+  "sn4.18:2.5+sn4.18:2.6^speaker": "Māra the Wicked",
+  "sn4.18:2.5+sn4.18:2.6^where_else_mentioned": [
+    "Pañcasālā"
+  ],
+  "sn4.18:2.5+sn4.18:2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn4.18:3.1+sn4.18:4.4^speaker": "the Buddha",
+  "sn4.18:3.1+sn4.18:4.4^who_else_mentioned": [
+    "Māra"
+  ],
+  "sn4.18:5.1^speaker": "Māra the Wicked",
+  "sn4.18:5.1^where_here_and_before": [
+    "the land of the Magadhans near the brahmin village of Pañcasālā"
+  ],
+  "sn4.18:5.1^who_around_here_and_before": [
+    "the young women"
+  ],
+  "sn4.18:5.1^who_else_mentioned": [
+    "Buddha",
+    "The Holy One"
+  ],
+  "sn4.18:5.1^who_mentioned_here_and_before": [
+    "gods of streaming radiance"
+  ],
+  "sn4.18^where": "the land of the Magadhans near the brahmin village of Pañcasālā"
+}

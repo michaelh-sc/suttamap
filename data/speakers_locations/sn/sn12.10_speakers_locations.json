@@ -1,0 +1,14 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn12.10:1.1+sn12.10:7.4^speaker": "The Buddha",
+  "sn12.10:1.1^where_here_and_before": [
+    "No location was mentioned"
+  ],
+  "sn12.10:1.1^who_around_here_and_before": [
+    "No one else was mentioned"
+  ],
+  "sn12.10:1.1^who_mentioned_here_and_before": [
+    "No one else was mentioned"
+  ],
+  "sn12.10^where": "No location was mentioned"
+}

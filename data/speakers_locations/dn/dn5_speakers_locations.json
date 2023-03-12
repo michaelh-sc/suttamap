@@ -1,0 +1,200 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn5:2.2+dn5:2.7^speaker": "brahmins of Khāṇumataka, householders of Khāṇumataka",
+  "dn5:2.2+dn5:2.7^where_else_mentioned": [
+    "Khāṇumataka"
+  ],
+  "dn5:2.2+dn5:2.7^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "dn5:3.4^speaker": "Kūṭadanta",
+  "dn5:3.4^where_else_mentioned": [
+    "Ambala"
+  ],
+  "dn5:3.5+dn5:3.8^speaker": "steward",
+  "dn5:3.5+dn5:3.8^where_else_mentioned": [
+    "Khāṇumataka",
+    "Ambalaṭ"
+  ],
+  "dn5:3.5+dn5:3.8^who_else_mentioned": [
+    "Gotama",
+    "Buddha"
+  ],
+  "dn5:4.2+dn5:4.6^speaker": "Kūṭadanta",
+  "dn5:4.2+dn5:4.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:4.8+dn5:4.10^speaker": "steward",
+  "dn5:4.8+dn5:4.10^who_else_mentioned": [
+    "Kūṭadanta",
+    "Gotama"
+  ],
+  "dn5:4.11^speaker": "steward",
+  "dn5:5.6^speaker": "brahmins",
+  "dn5:5.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:5.7^speaker": "Kūṭadanta",
+  "dn5:6.1+dn5:6.21^speaker": "brahmins",
+  "dn5:6.1+dn5:6.21^where_else_mentioned": [
+    "Khāṇumata",
+    "Magadha"
+  ],
+  "dn5:6.1+dn5:6.21^who_else_mentioned": [
+    "Gotama",
+    "Bimbisāra",
+    "Seniya Bimbisāra"
+  ],
+  "dn5:7.2+dn5:7.44^speaker": "Kūṭadanta",
+  "dn5:7.2+dn5:7.44^where_else_mentioned": [
+    "Magadha",
+    "Khāṇumata",
+    "Ambalaṭṭhikā"
+  ],
+  "dn5:7.2+dn5:7.44^who_else_mentioned": [
+    "Gotama",
+    "Buddha",
+    "Seniya Bimbisāra",
+    "Kosala",
+    "Pokkharasāti",
+    "Bimbisāra"
+  ],
+  "dn5:7.46^speaker": "brahmins",
+  "dn5:7.46^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:7.47^speaker": "Kūṭadanta",
+  "dn5:7.47^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:9.2+dn5:9.6^speaker": "Kūṭadanta",
+  "dn5:9.2+dn5:9.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:9.7^speaker": "Buddha",
+  "dn5:9.8^speaker": "Kūṭadanta",
+  "dn5:10.6^speaker": "King Mahāvijita",
+  "dn5:11.5^speaker": "King Mahāvijita",
+  "dn5:12.2^geographic_locations_here_and_before": [
+    "Khāṇumata",
+    "Ambalaṭṭhikā"
+  ],
+  "dn5:12.2^speaker": "King Mahāvijita",
+  "dn5:12.2^where_here_and_before": [
+    "Khāṇumata",
+    "Ambalaṭṭhikā"
+  ],
+  "dn5:12.2^who_around_here_and_before": [
+    "brahmin high priest",
+    "steward",
+    "brahmins",
+    "householders of Khāṇumataka",
+    "aristocrat vassals",
+    "ministers",
+    "counselors",
+    "well-to-do brahmins",
+    "well-off householders"
+  ],
+  "dn5:12.2^who_mentioned_here_and_before": [
+    "King Seniya Bimbisāra of Magadha",
+    "King Mahāvijita"
+  ],
+  "dn5:17.3, dn5:17.9^where_here_and_before": [
+    "the realm"
+  ],
+  "dn5:17.3, dn5:17.9^who_around_here_and_before": [
+    "the aristocrat vassals",
+    "ministers",
+    "counselors",
+    "well-to-do brahmins",
+    "well-off householders of both town and country"
+  ],
+  "dn5:17.3, dn5:17.9^who_mentioned_here_and_before": [
+    "bondservants",
+    "employees",
+    "or workers"
+  ],
+  "dn5:21.2^speaker": "brahmins",
+  "dn5:21.5^speaker": "brahmins",
+  "dn5:21.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:21.6+dn5:21.15^speaker": "Kūṭadanta",
+  "dn5:21.6+dn5:21.15^who_else_mentioned": [
+    "Gotama",
+    "Mahāvijita"
+  ],
+  "dn5:21.16^speaker": "the Buddha",
+  "dn5:22.1^speaker": "Kūṭadanta",
+  "dn5:22.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:22.2^speaker": "the Buddha",
+  "dn5:22.3^speaker": "Kūṭadanta",
+  "dn5:22.4+dn5:22.5^speaker": "the Buddha",
+  "dn5:23.1^speaker": "Kūṭadanta",
+  "dn5:23.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:23.2+dn5:23.9^speaker": "the Buddha",
+  "dn5:24.1^speaker": "Kūṭadanta",
+  "dn5:24.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:24.2^speaker": "the Buddha",
+  "dn5:24.3^speaker": "Kūṭadanta",
+  "dn5:24.4^speaker": "the Buddha",
+  "dn5:24.4^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "dn5:25.1^speaker": "Kūṭadanta",
+  "dn5:25.4^speaker": "the Buddha",
+  "dn5:25.4^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "dn5:26.1^speaker": "Kūṭadanta",
+  "dn5:26.4+dn5:26.5^speaker": "the Buddha",
+  "dn5:27.1^speaker": "Kūṭadanta",
+  "dn5:27.2+dn5:27.16^speaker": "the Buddha",
+  "dn5:27.2+dn5:27.16^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn5:28.2+dn5:28.6^speaker": "Kūṭadanta",
+  "dn5:28.2+dn5:28.6^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "dn5:29.7^speaker": "Kūṭadanta",
+  "dn5:30.2^speaker": "Kūṭadanta",
+  "dn5:30.2^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "dn5:30.6^speaker": "Kūṭadanta",
+  "dn5:30.6^where_here_and_before": [
+    "the home of Kūṭadanta"
+  ],
+  "dn5:30.6^who_around_here_and_before": [
+    "the mendicant Saṅgha"
+  ],
+  "dn5:30.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn5:30.6^who_mentioned_here_and_before": [
+    "the brahmin high priest",
+    "the aristocrat vassals of town and country",
+    "the ministers and counselors of town and country",
+    "the well-to-do brahmins of town and country",
+    "the well-off householders of town and country"
+  ],
+  "dn5^initial_geographic_location": [
+    "Khāṇumata",
+    "Ambalaṭṭhikā"
+  ],
+  "dn5^where": "Khāṇumata, Ambalaṭṭhikā"
+}

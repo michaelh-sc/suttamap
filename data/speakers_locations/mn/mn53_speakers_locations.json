@@ -1,0 +1,57 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn53:2.3+mn53:2.5^speaker": "The Sakyans of Kapilavatthu",
+  "mn53:2.3+mn53:2.5^where_else_mentioned": [
+    "Kapilavatthu"
+  ],
+  "mn53:2.3+mn53:2.5^who_else_mentioned": [
+    "Sakyans",
+    "Buddha"
+  ],
+  "mn53:3.6^speaker": "The Sakyans of Kapilavatthu",
+  "mn53:5.2+mn53:5.4^speaker": "The Buddha",
+  "mn53:5.2+mn53:5.4^where_else_mentioned": [
+    "Kapilavatthu"
+  ],
+  "mn53:5.2+mn53:5.4^who_else_mentioned": [
+    "Sakyans"
+  ],
+  "mn53:5.5^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "mn53:5.5^speaker": "Ānanda",
+  "mn53:5.5^where_here_and_before": [
+    "Banyan Tree Monastery near Kapilavatthu in the land of the Sakyans"
+  ],
+  "mn53:5.5^who_around_here_and_before": [
+    "Saṅgha of mendicants",
+    "Mahānāma the Sakyan"
+  ],
+  "mn53:6.2+mn53:25.7^speaker": "Ānanda",
+  "mn53:6.2+mn53:25.7^who_else_mentioned": [
+    "Mahānāma",
+    "Buddha",
+    "Brahmā Sanaṅkumāra"
+  ],
+  "mn53:26.2+mn53:26.3^speaker": "The Buddha",
+  "mn53:26.2+mn53:26.3^who_else_mentioned": [
+    "Sakyans",
+    "Kapilavatthu"
+  ],
+  "mn53:26.2^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "mn53:26.2^where_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "mn53:26.2^who_around_here_and_before": [
+    "Mahānāma the Sakyan"
+  ],
+  "mn53:26.2^who_mentioned_here_and_before": [
+    "Brahmā Sanaṅkumāra"
+  ],
+  "mn53^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "mn53^where": "Banyan Tree Monastery, near Kapilavatthu in the land of the Sakyans"
+}

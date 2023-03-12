@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn69:3.1+mn69:19.6^speaker": "Sāriputta",
+  "mn69:3.1+mn69:19.6^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn69:19.8^speaker": "Mahāmoggallāna",
+  "mn69:19.8^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn69:19.9^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn69:19.9^speaker": "Sāriputta",
+  "mn69:19.9^where_here_and_before": [
+    "Bamboo Grove near Rājagaha"
+  ],
+  "mn69:19.9^who_around_here_and_before": [
+    "Gulissāni"
+  ],
+  "mn69:19.9^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "mn69^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn69^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground.",
+  "who_around": "Gulissāni"
+}

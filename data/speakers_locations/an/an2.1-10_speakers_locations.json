@@ -1,0 +1,54 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an2.1-10^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "an2.1-10^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+  "an2.1:1.4^speaker": "the Buddha (assumed)",
+  "an2.1:1.5^speaker": "the mendicants",
+  "an2.1:2.1+an2.1:4.12^speaker": "the Buddha (assumed)",
+  "an2.1:2.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "an2.1:2.1^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery",
+    "Sāvatthī"
+  ],
+  "an2.2:1.1+an2.2:2.4^speaker": "the Buddha (assumed)",
+  "an2.3:1.1+an2.3:1.9^speaker": "the Buddha (assumed)",
+  "an2.3:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.4:1.1+an2.4:1.9^speaker": "the Buddha (assumed)",
+  "an2.4:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.5:1.1+an2.5:1.12^speaker": "the Buddha (assumed)",
+  "an2.5:1.11^speaker": "the Buddha (assumed)",
+  "an2.5:1.11^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.6:1.1+an2.6:2.4^speaker": "the Buddha (assumed)",
+  "an2.6:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.7:1.1+an2.7:1.4^speaker": "the Buddha (assumed)",
+  "an2.7:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.8:1.1+an2.8:1.4^speaker": "the Buddha (assumed)",
+  "an2.8:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.9:1.1+an2.9:1.6^speaker": "the Buddha (assumed)",
+  "an2.9:1.1^who_mentioned_here_and_before": [
+    "mother of teachers and respected people",
+    "aunts of teachers and respected people",
+    "wives of teachers and respected people",
+    "partners of teachers and respected people"
+  ],
+  "an2.10:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.21:1.3^speaker": "the Buddha",
+  "an8.21:1.3^who_else_mentioned": [
+    "Ugga",
+    "Vesālī"
+  ],
+  "an8.21:3.1+an8.21:3.2^speaker": "the mendicant",
+  "an8.21:3.1+an8.21:3.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an8.21:3.3+an8.21:3.6^speaker": "Ugga of Vesālī",
+  "an8.21:3.3+an8.21:3.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an8.21:3.7^speaker": "the mendicant",
+  "an8.21:3.9+an8.21:11.3^speaker": "Ugga of Vesālī",
+  "an8.21:3.9+an8.21:11.3^who_else_mentioned": [
+    "Buddha",
+    "Buddhas",
+    "Saṅgha"
+  ],
+  "an8.21:13.1+an8.21:13.3^speaker": "the Buddha",
+  "an8.21:13.1+an8.21:13.3^who_else_mentioned": [
+    "Ugga",
+    "Vesālī"
+  ],
+  "an8.21:13.1^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "an8.21:13.1^where_here_and_before": [
+    "Great Wood near Vesālī"
+  ],
+  "an8.21:13.1^who_around_here_and_before": [
+    "the mendicant"
+  ],
+  "an8.21:13.1^who_mentioned_here_and_before": [
+    "Ugga of Vesālī"
+  ],
+  "an8.21^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "an8.21^where": "Great Wood, near Vesālī"
+}

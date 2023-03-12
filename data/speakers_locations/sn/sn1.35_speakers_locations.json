@@ -1,0 +1,30 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn1.35:2.1+sn1.35:3.4^speaker": "a deity of the Disdainful Group",
+  "sn1.35:4.1+sn1.35:5.4^speaker": "a deity of the Disdainful Group",
+  "sn1.35:6.2+sn1.35:6.3^speaker": "the deities",
+  "sn1.35:6.2+sn1.35:6.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn1.35:7.1+sn1.35:7.4^speaker": "a deity of the Disdainful Group",
+  "sn1.35:8.1+sn1.35:8.4^speaker": "a deity of the Disdainful Group",
+  "sn1.35:9.1+sn1.35:9.4^speaker": "a deity of the Disdainful Group",
+  "sn1.35:10.1+sn1.35:11.6^speaker": "a deity of the Disdainful Group",
+  "sn1.35:10.1+sn1.35:11.6^who_else_mentioned": [
+    "The Realized One",
+    "Buddha"
+  ],
+  "sn1.35:10.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "sn1.35:10.1^where_here_and_before": [
+    "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
+  ],
+  "sn1.35:10.1^who_around_here_and_before": [
+    "The Buddha"
+  ],
+  "sn1.35^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "sn1.35^where": "Jeta's Grove, Anāthapiṇḍika's Monastery near Sāvatthī"
+}

@@ -1,0 +1,108 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.22:1.5^speaker": "King Ajātasattu Vedehiputta of Māgadha",
+  "an7.22:1.5^who_else_mentioned": [
+    "Vajjis"
+  ],
+  "an7.22:2.2+an7.22:2.9^speaker": "Vassakāra the brahmin minister of Māgadha",
+  "an7.22:2.2+an7.22:2.9^where_else_mentioned": [
+    "Māgadha"
+  ],
+  "an7.22:2.2+an7.22:2.9^who_else_mentioned": [
+    "Ajātasattu Vedehiputta",
+    "Vajjis",
+    "Buddha"
+  ],
+  "an7.22:2.7^speaker": "King Ajātasattu Vedehiputta of Māgadha",
+  "an7.22:2.7^who_else_mentioned": [
+    "Vajjis"
+  ],
+  "an7.22:3.1^speaker": "Vassakāra the brahmin minister of Māgadha",
+  "an7.22:3.3+an7.22:3.6^speaker": "Vassakāra the brahmin minister of Māgadha",
+  "an7.22:3.3+an7.22:3.6^who_else_mentioned": [
+    "Gotama",
+    "King Ajātasattu",
+    "Ajātasattu",
+    "Vajjis"
+  ],
+  "an7.22:4.3^speaker": "the Buddha",
+  "an7.22:4.3^who_else_mentioned": [
+    "Vajjis"
+  ],
+  "an7.22:4.4^speaker": "Ānanda",
+  "an7.22:4.5+an7.22:5.1^speaker": "the Buddha",
+  "an7.22:4.5+an7.22:5.1^who_else_mentioned": [
+    "Vajjis"
+  ],
+  "an7.22:5.2^speaker": "Ānanda",
+  "an7.22:5.3+an7.22:6.1^speaker": "the Buddha",
+  "an7.22:5.3+an7.22:6.1^who_else_mentioned": [
+    "Vajjis",
+    "Vajjian"
+  ],
+  "an7.22:6.2^speaker": "Ānanda",
+  "an7.22:6.3+an7.22:7.1^speaker": "the Buddha",
+  "an7.22:6.3+an7.22:7.1^who_else_mentioned": [
+    "Vajjis",
+    "Vajjian"
+  ],
+  "an7.22:7.2^speaker": "Ānanda",
+  "an7.22:7.3+an7.22:8.1^speaker": "the Buddha",
+  "an7.22:7.3+an7.22:8.1^who_else_mentioned": [
+    "Vajjis",
+    "Vajjian"
+  ],
+  "an7.22:8.2^speaker": "Ānanda",
+  "an7.22:8.3+an7.22:9.1^speaker": "the Buddha",
+  "an7.22:8.3+an7.22:9.1^who_else_mentioned": [
+    "Vajjis",
+    "Vajjian"
+  ],
+  "an7.22:9.2^speaker": "Ānanda",
+  "an7.22:9.3+an7.22:10.1^speaker": "the Buddha",
+  "an7.22:9.3+an7.22:10.1^who_else_mentioned": [
+    "Vajjis",
+    "Vajjian"
+  ],
+  "an7.22:10.2^speaker": "Ānanda",
+  "an7.22:10.3^speaker": "the Buddha",
+  "an7.22:10.3^where_else_mentioned": [
+    "Vajjis"
+  ],
+  "an7.22:11.2+an7.22:11.4^speaker": "Vassakāra the brahmin minister of Māgadha",
+  "an7.22:11.2+an7.22:11.4^where_else_mentioned": [
+    "Vesālī",
+    "Sārandada"
+  ],
+  "an7.22:11.2+an7.22:11.4^who_else_mentioned": [
+    "Vajjis"
+  ],
+  "an7.22:12.1+an7.22:12.4^speaker": "Vassakāra the brahmin minister of Māgadha",
+  "an7.22:12.1+an7.22:12.4^who_else_mentioned": [
+    "Gotama",
+    "Vajjis",
+    "King Ajātasattu"
+  ],
+  "an7.22:12.5^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "an7.22:12.5^speaker": "the Buddha",
+  "an7.22:12.5^where_here_and_before": [
+    "Rājagaha",
+    "on the Vulture's Peak Mountain"
+  ],
+  "an7.22:12.5^who_around_here_and_before": [
+    "Ānanda"
+  ],
+  "an7.22:12.5^who_mentioned_here_and_before": [
+    "Vajjis",
+    "King Ajātasattu Vedehiputta of Māgadha",
+    "Vassakāra the brahmin minister of Māgadha"
+  ],
+  "an7.22^initial_geographic_location": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "an7.22^where": "Rājagaha, on the Vulture's Peak Mountain"
+}

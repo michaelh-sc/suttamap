@@ -1,0 +1,53 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn104:2.3^speaker": "Jain ascetics",
+  "mn104:4.2+mn104:4.3^speaker": "Ānanda",
+  "mn104:4.2+mn104:4.3^who_else_mentioned": [
+    "Cunda",
+    "Buddha"
+  ],
+  "mn104:4.4^speaker": "Cunda",
+  "mn104:4.9+mn104:4.11^speaker": "Ānanda",
+  "mn104:4.9+mn104:4.11^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn104:5.1+mn104:5.3^speaker": "the Buddha",
+  "mn104:5.1+mn104:5.3^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn104:5.4+mn104:5.7^speaker": "Ānanda",
+  "mn104:5.4+mn104:5.7^where_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn104:5.4+mn104:5.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn104:5.8+mn104:22.1^speaker": "the Buddha",
+  "mn104:5.8+mn104:22.1^where_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn104:22.2^speaker": "Ānanda",
+  "mn104:22.3+mn104:22.4^speaker": "the Buddha",
+  "mn104:22.3+mn104:22.4^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn104:22.3^geographic_locations_here_and_before": [
+    "Pāvā"
+  ],
+  "mn104:22.3^where_here_and_before": [
+    "Sāma village near the village of Pāvā"
+  ],
+  "mn104:22.3^who_around_here_and_before": [
+    "Cunda",
+    "the Jain ascetics",
+    "the Nigaṇṭha Nātaputta's white-clothed lay disciples"
+  ],
+  "mn104:22.3^who_mentioned_here_and_before": [
+    "the Nigaṇṭha Nātaputta"
+  ],
+  "mn104^initial_geographic_location": [
+    "Pāvā"
+  ],
+  "mn104^where": "Sāma village near the village of Pāvā"
+}

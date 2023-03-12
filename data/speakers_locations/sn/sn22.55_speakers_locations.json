@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.55:1.3+sn22.55:1.4^speaker": "the Buddha",
+  "sn22.55:1.6+sn22.55:1.7^speaker": "one of the mendicants",
+  "sn22.55:2.1+sn22.55:9.3^speaker": "the Buddha",
+  "sn22.55:2.1+sn22.55:9.3^who_else_mentioned": [
+    "Mendicant"
+  ],
+  "sn22.55:9.4+sn22.55:10.1^speaker": "one of the mendicants",
+  "sn22.55:10.2+sn22.55:13.8^speaker": "the Buddha",
+  "sn22.55:10.2^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn22.55:10.2^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn22.55:10.2^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "sn22.55:10.2^who_mentioned_here_and_before": [
+    "an uneducated ordinary person"
+  ],
+  "sn22.55^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn22.55^where": "Sāvatthī"
+}

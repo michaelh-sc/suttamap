@@ -1,0 +1,212 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn97:2.4^speaker": "a certain mendicant",
+  "mn97:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn97:2.5^speaker": "Sāriputta",
+  "mn97:2.6^speaker": "Sāriputta",
+  "mn97:2.6^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn97:2.7^speaker": "a certain mendicant",
+  "mn97:2.8+mn97:2.9^speaker": "a certain mendicant",
+  "mn97:2.10^speaker": "Sāriputta",
+  "mn97:2.11^speaker": "Sāriputta",
+  "mn97:2.12+mn97:2.15^speaker": "Sāriputta",
+  "mn97:2.12+mn97:2.15^who_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:2.16+mn97:2.18^speaker": "a certain mendicant",
+  "mn97:2.16+mn97:2.18^where_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:4.6^speaker": "Dhanañjāni",
+  "mn97:4.6^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn97:4.7+mn97:4.10^speaker": "Sāriputta",
+  "mn97:4.11^speaker": "Dhanañjāni",
+  "mn97:5.3^speaker": "Sāriputta",
+  "mn97:5.3^who_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:5.4^speaker": "Dhanañjāni",
+  "mn97:5.4^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn97:6.1+mn97:6.3^speaker": "Sāriputta",
+  "mn97:6.1+mn97:6.3^who_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:6.4+mn97:6.5^speaker": "Dhanañjāni",
+  "mn97:6.4+mn97:6.5^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn97:7.1+mn97:15.2^speaker": "Sāriputta",
+  "mn97:7.1+mn97:15.2^who_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:15.3+mn97:15.4^speaker": "Dhanañjāni",
+  "mn97:15.3+mn97:15.4^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn97:16.1^speaker": "Sāriputta",
+  "mn97:16.1^who_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:16.3+mn97:16.5^speaker": "Dhanañjāni",
+  "mn97:16.6+mn97:25.1^speaker": "Sāriputta",
+  "mn97:16.6+mn97:25.1^where_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:25.3+mn97:25.5^speaker": "Dhanañjāni",
+  "mn97:25.6^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn97:25.6^speaker": "Sāriputta",
+  "mn97:25.6^where_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:25.6^where_here_and_before": [
+    "Rājagaha",
+    "in the Bamboo Grove",
+    "the squirrels' feeding ground"
+  ],
+  "mn97:25.6^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "mn97:25.6^who_mentioned_here_and_before": [
+    "Dhanañjāni's mother",
+    "Dhanañjāni's father",
+    "Dhanañjāni's wives",
+    "Dhanañjāni's children",
+    "Dhanañjāni's bondservants",
+    "Dhanañjāni's workers",
+    "Dhanañjāni's friends",
+    "Dhanañjāni's colleagues",
+    "Dhanañjāni's relatives",
+    "Dhanañjāni's kin",
+    "guests",
+    "ancestors",
+    "deities",
+    "king"
+  ],
+  "mn97:27.3+mn97:27.10^speaker": "Dhanañjāni",
+  "mn97:27.3+mn97:27.10^who_else_mentioned": [
+    "Buddha",
+    "Dhanañjāni"
+  ],
+  "mn97:27.11^speaker": "man",
+  "mn97:28.2^speaker": "Sāriputta",
+  "mn97:28.2^who_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:29.1+mn97:29.9^speaker": "Dhanañjāni",
+  "mn97:29.1+mn97:29.9^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn97:30.1+mn97:30.2^speaker": "Sāriputta",
+  "mn97:30.1+mn97:30.2^who_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:30.3^speaker": "Dhanañjāni",
+  "mn97:30.4+mn97:30.5^speaker": "Sāriputta",
+  "mn97:30.6^speaker": "Dhanañjāni",
+  "mn97:30.7+mn97:30.8^speaker": "Sāriputta",
+  "mn97:30.9^speaker": "Dhanañjāni",
+  "mn97:30.10+mn97:30.11^speaker": "Sāriputta",
+  "mn97:30.12^speaker": "Dhanañjāni",
+  "mn97:30.13+mn97:30.14^speaker": "Sāriputta",
+  "mn97:30.15^speaker": "Dhanañjāni",
+  "mn97:30.16+mn97:30.17^speaker": "Sāriputta",
+  "mn97:30.18^speaker": "Dhanañjāni",
+  "mn97:30.18^who_else_mentioned": [
+    "The Gods of Yama"
+  ],
+  "mn97:30.19+mn97:30.20^speaker": "Sāriputta",
+  "mn97:30.21^speaker": "Dhanañjāni",
+  "mn97:30.22+mn97:30.23^speaker": "Sāriputta",
+  "mn97:30.24^speaker": "Dhanañjāni",
+  "mn97:30.25+mn97:30.26^speaker": "Sāriputta",
+  "mn97:30.27^speaker": "Dhanañjāni",
+  "mn97:31.1+mn97:31.2^speaker": "Sāriputta",
+  "mn97:31.1+mn97:31.2^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "mn97:31.3+mn97:31.4^speaker": "Dhanañjāni",
+  "mn97:31.3+mn97:31.4^who_else_mentioned": [
+    "Sāriputta",
+    "Brahmā"
+  ],
+  "mn97:31.6+mn97:31.7^speaker": "Sāriputta",
+  "mn97:31.6+mn97:31.7^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "mn97:31.8+mn97:31.9^speaker": "Sāriputta",
+  "mn97:31.8+mn97:31.9^who_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:31.10^speaker": "Dhanañjāni",
+  "mn97:32.1+mn97:33-35.4^speaker": "Sāriputta",
+  "mn97:32.1+mn97:33-35.4^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "mn97:36.1+mn97:36.3^speaker": "Dhanañjāni",
+  "mn97:36.1+mn97:36.3^who_else_mentioned": [
+    "Sāriputta",
+    "Buddha",
+    "Dhanañjāni"
+  ],
+  "mn97:37.2^speaker": "Buddha",
+  "mn97:37.2^where_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:37.2^who_else_mentioned": [
+    "Sāriputta",
+    "Brahmā"
+  ],
+  "mn97:38.2+mn97:38.3^speaker": "Sāriputta",
+  "mn97:38.2+mn97:38.3^who_else_mentioned": [
+    "Dhanañjāni"
+  ],
+  "mn97:38.4^speaker": "Buddha",
+  "mn97:38.4^where_else_mentioned": [
+    "Dhanañjāni",
+    "Brahmā"
+  ],
+  "mn97:38.4^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn97:38.5+mn97:38.6^speaker": "Sāriputta",
+  "mn97:38.5+mn97:38.6^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "mn97:38.5^where_here_and_before": [
+    "Dhanañjāni's home"
+  ],
+  "mn97:38.5^who_around_here_and_before": [
+    "man"
+  ],
+  "mn97:38.5^who_mentioned_here_and_before": [
+    "Brahmā"
+  ],
+  "mn97:38.7^speaker": "Buddha",
+  "mn97:38.7^where_else_mentioned": [
+    "Sāriputta",
+    "Dhanañjāni"
+  ],
+  "mn97:38.7^who_around_here_and_before": [
+    "Dhanañjāni"
+  ],
+  "mn97:38.7^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "mn97:38.7^who_mentioned_here_and_before": [
+    "Brahmā"
+  ],
+  "mn97^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn97^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.27:1.4+an10.27:1.5^speaker": "the mendicants",
+  "an10.27:1.4+an10.27:1.5^who_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "an10.27:3.1+an10.27:3.5^speaker": "the wanderers",
+  "an10.27:3.1+an10.27:3.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "an10.27:4.3^speaker": "the mendicants",
+  "an10.27:4.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an10.27:9.1+an10.27:19.8^speaker": "the Buddha (assumed)",
+  "an10.27:9.1+an10.27:19.8^who_else_mentioned": [
+    "Māras",
+    "Brahmās"
+  ],
+  "an10.27:9.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "an10.27:9.1^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery",
+    "Sāvatthī"
+  ],
+  "an10.27:9.1^who_around_here_and_before": [
+    "the wanderers"
+  ],
+  "an10.27:9.1^who_mentioned_here_and_before": [
+    "the ascetic Buddha"
+  ],
+  "an10.27^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "an10.27^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"
+}

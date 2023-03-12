@@ -1,0 +1,22 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.197:2.1+an4.197:5.1^speaker": "Queen Mallikā",
+  "an4.197:6.1+an4.197:10.8^speaker": "the Buddha",
+  "an4.197:11.2+an4.197:13.7^speaker": "Queen Mallikā",
+  "an4.197:11.2+an4.197:13.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an4.197:11.2^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "an4.197:11.2^where_here_and_before": [
+    "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
+  ],
+  "an4.197:11.2^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "an4.197^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "an4.197^where": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī"
+}

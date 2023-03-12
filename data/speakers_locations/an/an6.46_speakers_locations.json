@@ -1,0 +1,18 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an6.46:1.4^speaker": "Mahācunda",
+  "an6.46:1.5^speaker": "the mendicants",
+  "an6.46:2.1+an6.46:7.5^speaker": "Mahācunda",
+  "an6.46:2.2^speaker": "the mendicants who practice absorption meditation",
+  "an6.46:3.2^geographic_locations_here_and_before": [
+    "Sahajāti"
+  ],
+  "an6.46:3.2^speaker": "the mendicants who practice discernment of principles",
+  "an6.46:3.2^where_here_and_before": [
+    "the land of the Cetis at Sahajāti"
+  ],
+  "an6.46^initial_geographic_location": [
+    "Sahajāti"
+  ],
+  "an6.46^where": "the land of the Cetis at Sahajāti"
+}

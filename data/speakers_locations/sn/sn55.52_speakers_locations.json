@@ -1,0 +1,43 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn55.52:2.2^speaker": "The Sakyans of Kapilavatthu",
+  "sn55.52:2.3^speaker": "The certain mendicant",
+  "sn55.52:3.1^speaker": "The Sakyans of Kapilavatthu",
+  "sn55.52:3.1^where_else_mentioned": [
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "sn55.52:3.2^speaker": "The certain mendicant",
+  "sn55.52:4.1^speaker": "The Sakyans of Kapilavatthu",
+  "sn55.52:4.2^speaker": "The certain mendicant",
+  "sn55.52:5.1^speaker": "The Sakyans of Kapilavatthu",
+  "sn55.52:5.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn55.52:5.2+sn55.52:7.3^speaker": "The certain mendicant",
+  "sn55.52:5.2+sn55.52:7.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn55.52:5.2^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "sn55.52:5.2^where_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "sn55.52:5.2^where_mentioned_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery",
+    "Sāvatthī"
+  ],
+  "sn55.52:5.2^who_around_here_and_before": [
+    "Sāriputta",
+    "Moggallāna"
+  ],
+  "sn55.52:5.2^who_mentioned_here_and_before": [
+    "The Buddha"
+  ],
+  "sn55.52^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "sn55.52^where": "Kapilavatthu"
+}

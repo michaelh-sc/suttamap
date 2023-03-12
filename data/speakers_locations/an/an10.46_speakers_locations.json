@@ -1,0 +1,53 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.46:1.3^speaker": "the Buddha",
+  "an10.46:1.3^who_else_mentioned": [
+    "Sakyans"
+  ],
+  "an10.46:1.4^speaker": "Sakyan lay followers",
+  "an10.46:1.5+an10.46:2.3^speaker": "the Buddha",
+  "an10.46:1.5+an10.46:2.3^who_else_mentioned": [
+    "Sakyans"
+  ],
+  "an10.46:2.4^speaker": "Sakyan lay followers",
+  "an10.46:3.1+an10.46:3.3^speaker": "the Buddha",
+  "an10.46:3.1+an10.46:3.3^who_else_mentioned": [
+    "Sakyans"
+  ],
+  "an10.46:3.4^speaker": "Sakyan lay followers",
+  "an10.46:4.1+an10.46:4.16^speaker": "the Buddha",
+  "an10.46:4.1+an10.46:4.16^who_else_mentioned": [
+    "Sakyans"
+  ],
+  "an10.46:4.17^speaker": "Sakyan lay followers",
+  "an10.46:5.1+an10.46:5.2^speaker": "the Buddha",
+  "an10.46:5.1+an10.46:5.2^who_else_mentioned": [
+    "Sakyans"
+  ],
+  "an10.46:5.3^speaker": "Sakyan lay followers",
+  "an10.46:6.1+an10.46:6.2^speaker": "the Buddha",
+  "an10.46:6.1+an10.46:6.2^who_else_mentioned": [
+    "Sakyans"
+  ],
+  "an10.46:6.3^speaker": "Sakyan lay followers",
+  "an10.46:6.4^speaker": "the Buddha",
+  "an10.46:6.5^speaker": "Sakyan lay followers",
+  "an10.46:7.1+an10.46:12.10^speaker": "the Buddha",
+  "an10.46:7.1+an10.46:12.10^who_else_mentioned": [
+    "Sakyans"
+  ],
+  "an10.46:12.11^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "an10.46:12.11^speaker": "Sakyan lay followers",
+  "an10.46:12.11^where_here_and_before": [
+    "Kapilavatthu in the Banyan Tree Monastery"
+  ],
+  "an10.46:12.11^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "an10.46^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "an10.46^where": "Kapilavatthu in the Banyan Tree Monastery"
+}

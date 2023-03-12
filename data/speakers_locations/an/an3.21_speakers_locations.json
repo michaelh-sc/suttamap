@@ -1,0 +1,52 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.21:2.1+an3.21:2.5^speaker": "Sāriputta",
+  "an3.21:2.1+an3.21:2.5^who_else_mentioned": [
+    "Saviṭṭha"
+  ],
+  "an3.21:3.1+an3.21:3.7^speaker": "Saviṭṭha",
+  "an3.21:3.1+an3.21:3.7^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an3.21:4.2+an3.21:4.6^speaker": "Sāriputta",
+  "an3.21:4.2+an3.21:4.6^who_else_mentioned": [
+    "Koṭṭhika"
+  ],
+  "an3.21:5.1+an3.21:5.7^speaker": "Mahākoṭṭhita",
+  "an3.21:5.1+an3.21:5.7^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an3.21:6.2+an3.21:6.6^speaker": "Mahākoṭṭhita",
+  "an3.21:6.2+an3.21:6.6^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an3.21:7.1+an3.21:7.7^speaker": "Sāriputta",
+  "an3.21:7.1+an3.21:7.7^who_else_mentioned": [
+    "Koṭṭhika"
+  ],
+  "an3.21:8.2+an3.21:8.4^speaker": "Sāriputta",
+  "an3.21:8.2+an3.21:8.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an3.21:8.5^speaker": "Saviṭṭha, Mahākoṭṭhita",
+  "an3.21:9.1+an3.21:12.2^speaker": "the Buddha",
+  "an3.21:9.1+an3.21:12.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "an3.21:9.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "an3.21:9.1^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery in Sāvatthī"
+  ],
+  "an3.21:9.1^who_around_here_and_before": [
+    "Sāriputta",
+    "Saviṭṭha",
+    "Mahākoṭṭhita"
+  ],
+  "an3.21^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "an3.21^where": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn54.9:2.2+sn54.9:2.3^speaker": "the Buddha",
+  "sn54.9:2.4^speaker": "the mendicants",
+  "sn54.9:3.2^speaker": "the mendicants",
+  "sn54.9:3.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn54.9:4.2^speaker": "the Buddha",
+  "sn54.9:4.2^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "sn54.9:4.6^speaker": "Ānanda",
+  "sn54.9:4.6^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "sn54.9:5.1^speaker": "the Buddha",
+  "sn54.9:5.1^where_else_mentioned": [
+    "Vesālī"
+  ],
+  "sn54.9:5.1^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn54.9:5.2^speaker": "Ānanda",
+  "sn54.9:5.3+sn54.9:5.4^speaker": "Ānanda",
+  "sn54.9:5.3+sn54.9:5.4^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "sn54.9:6.3+sn54.9:8.4^speaker": "the Buddha",
+  "sn54.9:6.3^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "sn54.9:6.3^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "sn54.9:6.3^who_around_here_and_before": [
+    "Ānanda"
+  ],
+  "sn54.9^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "sn54.9^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

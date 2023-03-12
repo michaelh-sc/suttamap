@@ -1,0 +1,35 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.60:2.1+sn22.60:2.6^speaker": "Mahāli the Licchavi",
+  "sn22.60:2.1+sn22.60:2.6^who_else_mentioned": [
+    "Pūraṇa Kassapa",
+    "Buddha"
+  ],
+  "sn22.60:3.1+sn22.60:3.4^speaker": "the Buddha",
+  "sn22.60:3.1+sn22.60:3.4^who_else_mentioned": [
+    "Mahāli"
+  ],
+  "sn22.60:4.1+sn22.60:4.2^speaker": "Mahāli the Licchavi",
+  "sn22.60:5.1+sn22.60:8.5^speaker": "the Buddha",
+  "sn22.60:5.1+sn22.60:8.5^who_else_mentioned": [
+    "Mahāli"
+  ],
+  "sn22.60:9.1+sn22.60:9.2^speaker": "Mahāli the Licchavi",
+  "sn22.60:9.3+sn22.60:10.8^speaker": "the Buddha",
+  "sn22.60:9.3+sn22.60:10.8^who_else_mentioned": [
+    "Mahāli"
+  ],
+  "sn22.60:9.3^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "sn22.60:9.3^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "sn22.60:9.3^who_mentioned_here_and_before": [
+    "Pūraṇa Kassapa"
+  ],
+  "sn22.60^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "sn22.60^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

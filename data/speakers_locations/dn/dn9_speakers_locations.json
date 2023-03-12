@@ -1,0 +1,206 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn9:2.2+dn9:2.3^speaker": "The Buddha",
+  "dn9:2.2+dn9:2.3^where_else_mentioned": [
+    "Mallikā"
+  ],
+  "dn9:2.2+dn9:2.3^who_else_mentioned": [
+    "Sāvatthī",
+    "Poṭṭhapāda"
+  ],
+  "dn9:4.3+dn9:4.6^speaker": "Poṭṭhapāda",
+  "dn9:4.3+dn9:4.6^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn9:5.3+dn9:5.6^speaker": "Poṭṭhapāda",
+  "dn9:5.10^speaker": "The Buddha",
+  "dn9:5.10^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:6.2+dn9:6.35^speaker": "Poṭṭhapāda",
+  "dn9:6.2+dn9:6.35^who_else_mentioned": [
+    "Buddha",
+    "the Blessed One",
+    "the Holy One"
+  ],
+  "dn9:7.1+dn9:7.6^speaker": "The Buddha",
+  "dn9:7.1+dn9:7.6^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:7.7+dn9:9-10.5^speaker": "The Buddha",
+  "dn9:7.7+dn9:9-10.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn9:11.1+dn9:11.5^speaker": "The Buddha",
+  "dn9:12.1+dn9:12.5^speaker": "The Buddha",
+  "dn9:13.1+dn9:13.5^speaker": "The Buddha",
+  "dn9:14.1+dn9:14.5^speaker": "The Buddha",
+  "dn9:15.1+dn9:15.5^speaker": "The Buddha",
+  "dn9:16.1+dn9:16.5^speaker": "The Buddha",
+  "dn9:17.1+dn9:18.2^speaker": "The Buddha",
+  "dn9:17.1+dn9:18.2^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:18.3+dn9:18.12^speaker": "Poṭṭhapāda",
+  "dn9:18.3+dn9:18.12^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn9:18.13^speaker": "The Buddha",
+  "dn9:18.13^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:19.1^speaker": "Poṭṭhapāda",
+  "dn9:19.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn9:19.2^speaker": "The Buddha",
+  "dn9:19.3^speaker": "Poṭṭhapāda",
+  "dn9:19.4+dn9:19.5^speaker": "The Buddha",
+  "dn9:20.1^speaker": "Poṭṭhapāda",
+  "dn9:20.2+dn9:20.6^speaker": "The Buddha",
+  "dn9:21.1^speaker": "Poṭṭhapāda",
+  "dn9:21.2^speaker": "The Buddha",
+  "dn9:21.2^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:21.3^speaker": "Poṭṭhapāda",
+  "dn9:21.4+dn9:21.7^speaker": "The Buddha",
+  "dn9:21.4+dn9:21.7^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:22.1^speaker": "Poṭṭhapāda",
+  "dn9:22.2+dn9:22.5^speaker": "The Buddha",
+  "dn9:22.2+dn9:22.5^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:23.1^speaker": "Poṭṭhapāda",
+  "dn9:23.2+dn9:23.5^speaker": "The Buddha",
+  "dn9:23.2+dn9:23.5^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:24.1+dn9:24.2^speaker": "Poṭṭhapāda",
+  "dn9:24.3^speaker": "The Buddha",
+  "dn9:25.1+dn9:25.3^speaker": "Poṭṭhapāda",
+  "dn9:25.4^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "dn9:25.4^speaker": "The Buddha",
+  "dn9:25.4^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery",
+    "Mallikā's single-halled monastery"
+  ],
+  "dn9:25.4^who_around_here_and_before": [
+    "three hundred wanderers",
+    "Mallikā"
+  ],
+  "dn9:25.4^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:25.4^who_mentioned_here_and_before": [
+    "Anāthapiṇḍika"
+  ],
+  "dn9:26.1^speaker": "Poṭṭhapāda",
+  "dn9:26.2^speaker": "The Buddha",
+  "dn9:27.1+dn9:27.8^speaker": "Poṭṭhapāda",
+  "dn9:27.9^speaker": "The Buddha",
+  "dn9:28.1^speaker": "Poṭṭhapāda",
+  "dn9:28.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn9:28.2+dn9:28.3^speaker": "The Buddha",
+  "dn9:29.1^speaker": "Poṭṭhapāda",
+  "dn9:29.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn9:29.2^speaker": "The Buddha",
+  "dn9:30.1^speaker": "Poṭṭhapāda",
+  "dn9:30.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn9:30.2+dn9:30.3^speaker": "The Buddha",
+  "dn9:30.4+dn9:30.5^speaker": "Poṭṭhapāda",
+  "dn9:31.2+dn9:31.4^speaker": "Wanderers",
+  "dn9:31.2+dn9:31.4^who_else_mentioned": [
+    "Gotama",
+    "Poṭṭhapāda"
+  ],
+  "dn9:31.7+dn9:31.11^speaker": "Poṭṭhapāda",
+  "dn9:31.7+dn9:31.11^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn9:33.1+dn9:33.21^speaker": "The Buddha",
+  "dn9:33.1+dn9:33.21^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:34.19+dn9:34.20^speaker": "Deities",
+  "dn9:34.24^speaker": "Poṭṭhapāda",
+  "dn9:35.1+dn9:35.13^speaker": "The Buddha",
+  "dn9:35.1+dn9:35.13^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:35.14^speaker": "Poṭṭhapāda",
+  "dn9:36.1+dn9:36.22^speaker": "The Buddha",
+  "dn9:36.23^speaker": "Poṭṭhapāda",
+  "dn9:37.1+dn9:37.9^speaker": "The Buddha",
+  "dn9:37.1+dn9:37.9^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:37.10^speaker": "Poṭṭhapāda",
+  "dn9:38.1+dn9:38.21^speaker": "The Buddha",
+  "dn9:38.22^speaker": "Poṭṭhapāda",
+  "dn9:38.22^where_here_and_before": [
+    "Crossroads"
+  ],
+  "dn9:38.22^who_around_here_and_before": [
+    "Citta Hatthisāriputta"
+  ],
+  "dn9:38.22^who_mentioned_here_and_before": [
+    "Ascetics",
+    "Brahmins"
+  ],
+  "dn9:39.1+dn9:45.6^speaker": "The Buddha",
+  "dn9:39.1+dn9:45.6^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:45.7^speaker": "Poṭṭhapāda",
+  "dn9:46.1+dn9:46.7^speaker": "The Buddha",
+  "dn9:46.1+dn9:46.7^who_else_mentioned": [
+    "Poṭṭhapāda"
+  ],
+  "dn9:46.8^speaker": "Poṭṭhapāda",
+  "dn9:48.2+dn9:48.7^speaker": "Citta Hatthisāriputta",
+  "dn9:49.1+dn9:49.11^speaker": "The Buddha",
+  "dn9:49.1+dn9:49.11^who_else_mentioned": [
+    "Citta"
+  ],
+  "dn9:49.12+dn9:49.20^speaker": "Citta Hatthisāriputta",
+  "dn9:50.1+dn9:50.5^speaker": "The Buddha",
+  "dn9:50.1+dn9:50.5^who_else_mentioned": [
+    "Citta"
+  ],
+  "dn9:50.6+dn9:50.14^speaker": "Citta Hatthisāriputta",
+  "dn9:51.1+dn9:53.5^speaker": "The Buddha",
+  "dn9:54.2+dn9:54.5^speaker": "Poṭṭhapāda",
+  "dn9:54.2+dn9:54.5^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "dn9:55.2+dn9:55.5^speaker": "Citta Hatthisāriputta",
+  "dn9:55.2+dn9:55.5^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "dn9:56.3^speaker": "Citta Hatthisāriputta",
+  "dn9:56.3^where_here_and_before": [
+    "Crossroads"
+  ],
+  "dn9:56.3^who_around_here_and_before": [
+    "Poṭṭhapāda",
+    "Citta Hatthisāriputta"
+  ],
+  "dn9^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "dn9^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Mallikā's single-halled monastery"
+}

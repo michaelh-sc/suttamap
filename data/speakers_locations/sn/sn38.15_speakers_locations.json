@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn38.15:1.1+sn38.15:1.2^speaker": "Reverend Sāriputta",
+  "sn38.15:1.1+sn38.15:1.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn38.15:1.3+sn38.15:1.5^speaker": "the Buddha",
+  "sn38.15:1.3+sn38.15:1.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn38.15:1.6^speaker": "Reverend Sāriputta",
+  "sn38.15:1.7^speaker": "the Buddha",
+  "sn38.15:1.7^who_around_here_and_before": [
+    "Reverend Sāriputta"
+  ],
+  "sn38.15:1.7^who_mentioned_here_and_before": [
+    "The Buddha"
+  ]
+}

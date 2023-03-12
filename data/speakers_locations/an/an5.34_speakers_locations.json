@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.34:1.3^speaker": "General Sīha",
+  "an5.34:2.1^speaker": "the Buddha",
+  "an5.34:2.1^who_else_mentioned": [
+    "Sīha"
+  ],
+  "an5.34:2.2+an5.34:6.2^speaker": "the Buddha",
+  "an5.34:7.2+an5.34:7.9^speaker": "General Sīha",
+  "an5.34:7.2+an5.34:7.9^who_else_mentioned": [
+    "Buddha",
+    "Sīha",
+    "Saṅgha"
+  ],
+  "an5.34:7.10+an5.34:10.6^speaker": "the Buddha",
+  "an5.34:7.10+an5.34:10.6^who_else_mentioned": [
+    "Sīha",
+    "the Holy One"
+  ],
+  "an5.34:7.10^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "an5.34:7.10^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "an5.34:7.10^who_around_here_and_before": [
+    "disciples of the Holy One"
+  ],
+  "an5.34^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "an5.34^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

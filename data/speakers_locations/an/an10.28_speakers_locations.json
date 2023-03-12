@@ -1,0 +1,35 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.28:2.1+an10.28:2.3^speaker": "the lay followers of Kajaṅgalā",
+  "an10.28:2.1+an10.28:2.3^who_else_mentioned": [
+    "Ma’am",
+    "Buddha"
+  ],
+  "an10.28:3.1+an10.28:3.3^speaker": "the nun Kajaṅgalikā",
+  "an10.28:3.1+an10.28:3.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an10.28:3.4^speaker": "the lay followers",
+  "an10.28:4.1+an10.28:10.5^speaker": "the nun Kajaṅgalikā",
+  "an10.28:4.1+an10.28:10.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an10.28:10.6^speaker": "the lay followers",
+  "an10.28:11.1+an10.28:11.4^speaker": "the Buddha",
+  "an10.28:11.1+an10.28:11.4^who_else_mentioned": [
+    "Kajaṅgalikā"
+  ],
+  "an10.28:11.1^geographic_locations_here_and_before": [
+    "Gajaṅgala"
+  ],
+  "an10.28:11.1^where_here_and_before": [
+    "Kajaṅgalā in a bamboo grove"
+  ],
+  "an10.28:11.1^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "an10.28^initial_geographic_location": [
+    "Gajaṅgala"
+  ],
+  "an10.28^where": "Kajaṅgalā in a bamboo grove"
+}

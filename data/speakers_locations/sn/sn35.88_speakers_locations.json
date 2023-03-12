@@ -1,0 +1,63 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.88:1.2^speaker": "Puṇṇa",
+  "sn35.88:1.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn35.88:2.1+sn35.88:4.1^speaker": "the Buddha",
+  "sn35.88:2.1+sn35.88:4.1^who_else_mentioned": [
+    "Puṇṇa"
+  ],
+  "sn35.88:4.2^speaker": "Puṇṇa",
+  "sn35.88:5.1+sn35.88:5.3^speaker": "the Buddha",
+  "sn35.88:5.1+sn35.88:5.3^where_else_mentioned": [
+    "Sunāparanta",
+    "Puṇṇa"
+  ],
+  "sn35.88:6.1+sn35.88:6.4^speaker": "Puṇṇa",
+  "sn35.88:6.1+sn35.88:6.4^where_else_mentioned": [
+    "Sunāparanta"
+  ],
+  "sn35.88:7.1^speaker": "the Buddha",
+  "sn35.88:8.1+sn35.88:8.4^speaker": "Puṇṇa",
+  "sn35.88:8.1+sn35.88:8.4^where_else_mentioned": [
+    "Sunāparanta"
+  ],
+  "sn35.88:9.1^speaker": "the Buddha",
+  "sn35.88:10.1+sn35.88:10.4^speaker": "Puṇṇa",
+  "sn35.88:10.1+sn35.88:10.4^where_else_mentioned": [
+    "Sunāparanta"
+  ],
+  "sn35.88:11.1^speaker": "the Buddha",
+  "sn35.88:12.1+sn35.88:12.4^speaker": "Puṇṇa",
+  "sn35.88:12.1+sn35.88:12.4^where_else_mentioned": [
+    "Sunāparanta"
+  ],
+  "sn35.88:13.1^speaker": "the Buddha",
+  "sn35.88:14.1+sn35.88:14.4^speaker": "Puṇṇa",
+  "sn35.88:14.1+sn35.88:14.4^where_else_mentioned": [
+    "Sunāparanta"
+  ],
+  "sn35.88:15.1^speaker": "the Buddha",
+  "sn35.88:16.1+sn35.88:16.4^speaker": "Puṇṇa",
+  "sn35.88:16.1+sn35.88:16.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn35.88:17.1+sn35.88:17.3^speaker": "the Buddha",
+  "sn35.88:17.1+sn35.88:17.3^where_else_mentioned": [
+    "Sunāparanta",
+    "Puṇṇa"
+  ],
+  "sn35.88:19.2+sn35.88:19.3^speaker": "the mendicants",
+  "sn35.88:19.2+sn35.88:19.3^who_else_mentioned": [
+    "Puṇṇa",
+    "Buddha"
+  ],
+  "sn35.88:20.1+sn35.88:20.2^speaker": "the Buddha",
+  "sn35.88:20.1+sn35.88:20.2^who_else_mentioned": [
+    "Puṇṇa"
+  ],
+  "sn35.88:20.1^who_around_here_and_before": [
+    "Puṇṇa"
+  ]
+}

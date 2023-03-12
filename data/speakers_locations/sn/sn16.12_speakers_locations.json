@@ -1,0 +1,63 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn16.12:1.4^speaker": "Sāriputta",
+  "sn16.12:1.4^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "sn16.12:1.5^speaker": "Mahākassapa",
+  "sn16.12:1.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:1.7^speaker": "Sāriputta",
+  "sn16.12:1.8^speaker": "Mahākassapa",
+  "sn16.12:1.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:1.10^speaker": "Sāriputta",
+  "sn16.12:1.11^speaker": "Mahākassapa",
+  "sn16.12:1.11^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:1.13^speaker": "Sāriputta",
+  "sn16.12:1.14^speaker": "Mahākassapa",
+  "sn16.12:1.14^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:1.16^speaker": "Sāriputta",
+  "sn16.12:1.16^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:1.17+sn16.12:1.18^speaker": "Mahākassapa",
+  "sn16.12:1.17+sn16.12:1.18^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:2.1^speaker": "Sāriputta",
+  "sn16.12:2.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:2.2+sn16.12:2.5^speaker": "Mahākassapa",
+  "sn16.12:2.2+sn16.12:2.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:2.6^speaker": "Sāriputta",
+  "sn16.12:2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:2.7+sn16.12:2.8^speaker": "Mahākassapa",
+  "sn16.12:2.7+sn16.12:2.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn16.12:2.7^geographic_locations_here_and_before": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "sn16.12:2.7^where_here_and_before": [
+    "Benares",
+    "in the deer park at Isipatana"
+  ],
+  "sn16.12^initial_geographic_location": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "sn16.12^where": "Benares, in the deer park at Isipatana"
+}

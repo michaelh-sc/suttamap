@@ -1,0 +1,69 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn127:2.2+mn127:2.7^speaker": "Pañcakaṅga",
+  "mn127:2.2+mn127:2.7^who_else_mentioned": [
+    "Pañcakaṅga",
+    "Saṅgha"
+  ],
+  "mn127:2.8^speaker": "the man",
+  "mn127:4.1+mn127:4.6^speaker": "Pañcakaṅga",
+  "mn127:5.1^speaker": "Anuruddha",
+  "mn127:5.2+mn127:5.3^speaker": "Pañcakaṅga",
+  "mn127:6.1+mn127:12.6^speaker": "Abhiya Kaccāna",
+  "mn127:13.2+mn127:13.4^speaker": "Abhiya Kaccāna",
+  "mn127:13.2+mn127:13.4^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn127:13.5^speaker": "Anuruddha",
+  "mn127:13.5^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn127:14.1^speaker": "Abhiya Kaccāna",
+  "mn127:14.1^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn127:14.2+mn127:14.4^speaker": "Anuruddha",
+  "mn127:14.2+mn127:14.4^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn127:14.6^speaker": "Abhiya Kaccāna",
+  "mn127:14.8+mn127:14.25^speaker": "Anuruddha",
+  "mn127:14.8+mn127:14.25^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn127:14.27^speaker": "Abhiya Kaccāna",
+  "mn127:14.29^speaker": "Anuruddha",
+  "mn127:14.29^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn127:15.1+mn127:15.3^speaker": "Abhiya Kaccāna",
+  "mn127:15.1+mn127:15.3^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn127:15.4^speaker": "Anuruddha",
+  "mn127:15.4^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn127:16.1^speaker": "Abhiya Kaccāna",
+  "mn127:16.1^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn127:16.16^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn127:16.16^speaker": "Anuruddha",
+  "mn127:16.16^where_here_and_before": [
+    "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
+  ],
+  "mn127:16.16^who_around_here_and_before": [
+    "Pañcakaṅga",
+    "the man"
+  ],
+  "mn127:16.16^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "mn127^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn127^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"
+}

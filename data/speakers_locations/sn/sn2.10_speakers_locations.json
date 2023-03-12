@@ -1,0 +1,40 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn2.10:2.1+sn2.10:2.4^speaker": "Sun God",
+  "sn2.10:2.1+sn2.10:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn2.10:4.1+sn2.10:5.4^speaker": "the Buddha",
+  "sn2.10:4.1+sn2.10:5.4^who_else_mentioned": [
+    "Buddhas",
+    "Rāhu",
+    "Sun"
+  ],
+  "sn2.10:7.1+sn2.10:7.4^speaker": "Vepacitti",
+  "sn2.10:7.1+sn2.10:7.4^who_else_mentioned": [
+    "Rāhu",
+    "Sun"
+  ],
+  "sn2.10:8.1+sn2.10:8.4^speaker": "Rāhu",
+  "sn2.10:8.1+sn2.10:8.4^who_else_mentioned": [
+    "Buddha",
+    "Sun"
+  ],
+  "sn2.10:8.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn2.10:8.1^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn2.10:8.1^who_around_here_and_before": [
+    "Rāhu",
+    "Vepacitti"
+  ],
+  "sn2.10:8.1^who_mentioned_here_and_before": [
+    "Sun God"
+  ],
+  "sn2.10^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn2.10^where": "Sāvatthī"
+}

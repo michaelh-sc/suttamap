@@ -1,0 +1,104 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn81:2.3+mn81:2.4^speaker": "Ānanda",
+  "mn81:2.3+mn81:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn81:2.6+mn81:2.7^speaker": "Ānanda",
+  "mn81:2.6+mn81:2.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn81:3.1+mn81:3.4^speaker": "the Buddha",
+  "mn81:3.1+mn81:3.4^where_else_mentioned": [
+    "Vebhaliṅga"
+  ],
+  "mn81:3.1+mn81:3.4^who_else_mentioned": [
+    "Ānanda",
+    "Kassapa",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn81:4.2+mn81:4.3^speaker": "Ānanda",
+  "mn81:4.2+mn81:4.3^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "mn81:5.1+mn81:23.4^speaker": "the Buddha",
+  "mn81:5.1+mn81:23.4^where_else_mentioned": [
+    "Vebhaliṅga",
+    "Isipatana"
+  ],
+  "mn81:5.1+mn81:23.4^who_else_mentioned": [
+    "Ānanda",
+    "Kassapa",
+    "Buddha",
+    "Saṅgha",
+    "The Buddha Kassapa",
+    "Ghaṭīkāra",
+    "Jotipāla",
+    "Ghatīkāra",
+    "Benares",
+    "King Kikī of Kāsi",
+    "Kikī",
+    "Kassapa Buddha",
+    "Buddha Kassapa",
+    "Bhaggava",
+    "Mendicants",
+    "King Kikī of Kāsī"
+  ],
+  "mn81:5.1^where_here_and_before": [
+    "the land of the Kosalans"
+  ],
+  "mn81:5.1^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "mn81:5.1^who_mentioned_here_and_before": [
+    "Ghaṭīkāra",
+    "Jotipāla"
+  ],
+  "mn81:18.4^speaker": "Ānanda",
+  "mn81:18.4^where_else_mentioned": [
+    "Benares"
+  ],
+  "mn81:18.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn81:18.14^speaker": "the Buddha",
+  "mn81:19.3^speaker": "Ānanda",
+  "mn81:19.3^who_else_mentioned": [
+    "Bhaggava"
+  ],
+  "mn81:19.4^speaker": "the Buddha",
+  "mn81:19.7^speaker": "Ānanda",
+  "mn81:19.8^speaker": "the Buddha",
+  "mn81:19.8^who_else_mentioned": [
+    "the Buddha Kassapa"
+  ],
+  "mn81:20.3^speaker": "Ānanda",
+  "mn81:20.3^who_else_mentioned": [
+    "Bhaggava"
+  ],
+  "mn81:20.4^speaker": "the Buddha",
+  "mn81:20.7^speaker": "Ānanda",
+  "mn81:20.8^speaker": "the Buddha",
+  "mn81:20.8^who_else_mentioned": [
+    "the Buddha Kassapa"
+  ],
+  "mn81:21.4^speaker": "the Buddha",
+  "mn81:21.4^where_else_mentioned": [
+    "Ghaṭīkāra"
+  ],
+  "mn81:21.6^speaker": "Ānanda",
+  "mn81:21.7^speaker": "the Buddha",
+  "mn81:21.10^speaker": "Ānanda",
+  "mn81:21.11^speaker": "the Buddha",
+  "mn81:21.11^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn81:21.12^speaker": "the Buddha",
+  "mn81:21.14^speaker": "Ānanda",
+  "mn81:21.15^speaker": "the Buddha",
+  "mn81:21.15^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn81^where": "the land of the Kosalans"
+}

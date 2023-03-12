@@ -1,0 +1,148 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn12:2.2+dn12:2.4^speaker": "Lohicca",
+  "dn12:3.2+dn12:3.7^speaker": "Rosika",
+  "dn12:3.2+dn12:3.7^where_else_mentioned": [
+    "Sālavatikā"
+  ],
+  "dn12:3.2+dn12:3.7^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Saṅgha",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "dn12:4.2+dn12:4.5^speaker": "Lohicca",
+  "dn12:4.2+dn12:4.5^who_else_mentioned": [
+    "Rosika",
+    "Gotama",
+    "Saṅgha",
+    "Lohicca"
+  ],
+  "dn12:5.1^speaker": "Rosika",
+  "dn12:6.2+dn12:6.6^speaker": "Rosika",
+  "dn12:6.2+dn12:6.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn12:7.2+dn12:7.3^speaker": "Rosika",
+  "dn12:7.2+dn12:7.3^who_else_mentioned": [
+    "Rosika",
+    "Gotama"
+  ],
+  "dn12:7.4^speaker": "Rosika",
+  "dn12:8.9^speaker": "Rosika",
+  "dn12:8.10^speaker": "the Buddha",
+  "dn12:8.10^who_else_mentioned": [
+    "Rosika"
+  ],
+  "dn12:9.6+dn12:9.9^speaker": "the Buddha",
+  "dn12:9.6+dn12:9.9^who_else_mentioned": [
+    "Lohicca"
+  ],
+  "dn12:9.10^speaker": "Lohicca",
+  "dn12:9.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn12:10.1+dn12:10.2^speaker": "the Buddha",
+  "dn12:10.1+dn12:10.2^where_else_mentioned": [
+    "Sālavatikā"
+  ],
+  "dn12:10.1+dn12:10.2^who_else_mentioned": [
+    "Lohicca"
+  ],
+  "dn12:10.3^speaker": "Lohicca",
+  "dn12:10.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn12:10.4+dn12:10.7^speaker": "the Buddha",
+  "dn12:10.4+dn12:10.7^where_else_mentioned": [
+    "Sālavatikā"
+  ],
+  "dn12:10.4+dn12:10.7^who_else_mentioned": [
+    "Lohicca"
+  ],
+  "dn12:10.8^speaker": "Lohicca",
+  "dn12:10.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn12:10.9^speaker": "the Buddha",
+  "dn12:10.10^speaker": "Lohicca",
+  "dn12:10.11^speaker": "the Buddha",
+  "dn12:10.12^speaker": "Lohicca",
+  "dn12:10.13^speaker": "the Buddha",
+  "dn12:10.14^speaker": "Lohicca",
+  "dn12:10.14^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn12:10.15+dn12:11.2^speaker": "the Buddha",
+  "dn12:10.15+dn12:11.2^who_else_mentioned": [
+    "Lohicca",
+    "King Pasenadi",
+    "Kāsī",
+    "Kosala"
+  ],
+  "dn12:11.3^speaker": "Lohicca",
+  "dn12:11.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn12:11.4+dn12:11.7^speaker": "the Buddha",
+  "dn12:11.4+dn12:11.7^who_else_mentioned": [
+    "Lohicca",
+    "Pasenadi",
+    "Kāsī",
+    "Kosala"
+  ],
+  "dn12:11.8^speaker": "Lohicca",
+  "dn12:11.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn12:11.9^speaker": "the Buddha",
+  "dn12:11.10^speaker": "Lohicca",
+  "dn12:11.11^speaker": "the Buddha",
+  "dn12:11.12^speaker": "Lohicca",
+  "dn12:11.13^speaker": "the Buddha",
+  "dn12:11.14^geographic_locations_here_and_before": [
+    "Sālavatikā"
+  ],
+  "dn12:11.14^speaker": "Lohicca",
+  "dn12:11.14^where_here_and_before": [
+    "Sālavatikā"
+  ],
+  "dn12:11.14^who_around_here_and_before": [
+    "the Buddha",
+    "a large Saṅgha of five hundred mendicants",
+    "Rosika",
+    "King Pasenadi of Kosala"
+  ],
+  "dn12:11.14^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn12:11.15+dn12:18.15^speaker": "the Buddha",
+  "dn12:11.15+dn12:18.15^who_else_mentioned": [
+    "Lohicca",
+    "Pasenadi"
+  ],
+  "dn12:19.2^speaker": "Lohicca",
+  "dn12:19.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn12:19.3^speaker": "the Buddha",
+  "dn12:19.3^who_else_mentioned": [
+    "Lohicca"
+  ],
+  "dn12:19.4^speaker": "Lohicca",
+  "dn12:20-55.1+dn12:63-77.6^speaker": "the Buddha",
+  "dn12:20-55.1+dn12:63-77.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn12:78.2+dn12:78.7^speaker": "Lohicca",
+  "dn12:78.2+dn12:78.7^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "dn12^initial_geographic_location": [
+    "Sālavatikā"
+  ],
+  "dn12^where": "Sālavatikā"
+}

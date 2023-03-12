@@ -1,0 +1,52 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn96:3.1+mn96:3.17^speaker": "Esukārī the brahmin",
+  "mn96:3.1+mn96:3.17^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn96:4.1^speaker": "the Buddha",
+  "mn96:4.2^speaker": "Esukārī the brahmin",
+  "mn96:4.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn96:4.3+mn96:9.3^speaker": "the Buddha",
+  "mn96:10.2+mn96:10.17^speaker": "Esukārī the brahmin",
+  "mn96:10.2+mn96:10.17^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn96:11.1^speaker": "the Buddha",
+  "mn96:11.2^speaker": "Esukārī the brahmin",
+  "mn96:11.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn96:11.3+mn96:14.2^speaker": "the Buddha",
+  "mn96:14.3+mn96:14.8^speaker": "Esukārī the brahmin",
+  "mn96:14.3+mn96:14.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn96:14.9+mn96:15.2^speaker": "the Buddha",
+  "mn96:15.3+mn96:15.8^speaker": "Esukārī the brahmin",
+  "mn96:15.3+mn96:15.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn96:15.9+mn96:16.7^speaker": "the Buddha",
+  "mn96:16.8+mn96:16.11^speaker": "Esukārī the brahmin",
+  "mn96:16.8+mn96:16.11^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn96:16.12+mn96:16.15^speaker": "the Buddha",
+  "mn96:17.2+mn96:17.3^speaker": "Esukārī the brahmin",
+  "mn96:17.2+mn96:17.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn96:17.2^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn96:17.2^where_here_and_before": [
+    "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
+  ],
+  "mn96^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn96^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"
+}

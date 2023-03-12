@@ -1,0 +1,41 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn8.7:1.4+sn8.7:1.5^speaker": "the Buddha",
+  "sn8.7:2.2+sn8.7:2.6^speaker": "Sāriputta",
+  "sn8.7:2.2+sn8.7:2.6^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "sn8.7:3.1+sn8.7:3.4^speaker": "the Buddha",
+  "sn8.7:3.1+sn8.7:3.4^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn8.7:4.1+sn8.7:4.2^speaker": "Sāriputta",
+  "sn8.7:4.3+sn8.7:4.4^speaker": "the Buddha",
+  "sn8.7:4.3+sn8.7:4.4^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn8.7:5.2^speaker": "Vaṅgīsa",
+  "sn8.7:5.3^speaker": "the Buddha",
+  "sn8.7:6.1+sn8.7:9.4^speaker": "Vaṅgīsa",
+  "sn8.7:6.1+sn8.7:9.4^who_else_mentioned": [
+    "the Blessed One",
+    "Kinsman"
+  ],
+  "sn8.7:6.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn8.7:6.1^where_here_and_before": [
+    "Sāvatthī in the Eastern Monastery",
+    "the stilt longhouse of Migāra's mother"
+  ],
+  "sn8.7:6.1^who_around_here_and_before": [
+    "a large Saṅgha of around five hundred monks"
+  ],
+  "sn8.7:6.1^who_mentioned_here_and_before": [
+    "Migāra's mother"
+  ],
+  "sn8.7^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn8.7^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"
+}

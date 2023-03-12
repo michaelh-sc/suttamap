@@ -1,0 +1,116 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn147:1.4+mn147:1.5^speaker": "the Buddha",
+  "mn147:1.4+mn147:1.5^where_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:1.8+mn147:1.9^speaker": "the Buddha",
+  "mn147:1.8+mn147:1.9^where_else_mentioned": [
+    "the Dark Forest"
+  ],
+  "mn147:1.8+mn147:1.9^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:1.10^speaker": "Rāhula",
+  "mn147:2.2^speaker": "the deities",
+  "mn147:2.2^who_else_mentioned": [
+    "Buddha",
+    "Rāhula"
+  ],
+  "mn147:2.6+mn147:2.7^speaker": "the Buddha",
+  "mn147:2.6+mn147:2.7^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:2.8^speaker": "Rāhula",
+  "mn147:2.9^speaker": "the Buddha",
+  "mn147:2.10^speaker": "Rāhula",
+  "mn147:2.11+mn147:2.12^speaker": "the Buddha",
+  "mn147:2.13^speaker": "Rāhula",
+  "mn147:3.1+mn147:3.2^speaker": "the Buddha",
+  "mn147:3.1+mn147:3.2^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:3.3^speaker": "Rāhula",
+  "mn147:3.4^speaker": "the Buddha",
+  "mn147:3.5^speaker": "Rāhula",
+  "mn147:3.6+mn147:3.7^speaker": "the Buddha",
+  "mn147:3.8^speaker": "Rāhula",
+  "mn147:3.9+mn147:3.10^speaker": "the Buddha",
+  "mn147:3.9+mn147:3.10^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:3.11^speaker": "Rāhula",
+  "mn147:3.12^speaker": "the Buddha",
+  "mn147:3.13^speaker": "Rāhula",
+  "mn147:3.14+mn147:3.15^speaker": "the Buddha",
+  "mn147:3.16^speaker": "Rāhula",
+  "mn147:3.17+mn147:3.18^speaker": "the Buddha",
+  "mn147:3.17+mn147:3.18^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:3.19^speaker": "Rāhula",
+  "mn147:3.20^speaker": "the Buddha",
+  "mn147:3.21^speaker": "Rāhula",
+  "mn147:3.22+mn147:3.23^speaker": "the Buddha",
+  "mn147:3.24^speaker": "Rāhula",
+  "mn147:3.25+mn147:3.26^speaker": "the Buddha",
+  "mn147:3.25+mn147:3.26^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:3.27^speaker": "Rāhula",
+  "mn147:3.28^speaker": "the Buddha",
+  "mn147:3.29^speaker": "Rāhula",
+  "mn147:3.30+mn147:3.31^speaker": "the Buddha",
+  "mn147:3.32^speaker": "Rāhula",
+  "mn147:4-8.1+mn147:4-8.9^speaker": "the Buddha",
+  "mn147:4-8.1+mn147:4-8.9^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:4-8.10^speaker": "Rāhula",
+  "mn147:4-8.11^speaker": "the Buddha",
+  "mn147:4-8.12^speaker": "Rāhula",
+  "mn147:4-8.13+mn147:4-8.14^speaker": "the Buddha",
+  "mn147:4-8.15^speaker": "Rāhula",
+  "mn147:4-8.16^speaker": "the Buddha",
+  "mn147:4-8.16^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:4-8.17^speaker": "Rāhula",
+  "mn147:4-8.18^speaker": "the Buddha",
+  "mn147:4-8.19^speaker": "Rāhula",
+  "mn147:4-8.20+mn147:4-8.21^speaker": "the Buddha",
+  "mn147:4-8.22^speaker": "Rāhula",
+  "mn147:4-8.23^speaker": "the Buddha",
+  "mn147:4-8.23^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:4-8.24^speaker": "Rāhula",
+  "mn147:4-8.25^speaker": "the Buddha",
+  "mn147:4-8.26^speaker": "Rāhula",
+  "mn147:4-8.27+mn147:4-8.28^speaker": "the Buddha",
+  "mn147:4-8.29^speaker": "Rāhula",
+  "mn147:4-8.30^speaker": "the Buddha",
+  "mn147:4-8.30^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:4-8.31^speaker": "Rāhula",
+  "mn147:4-8.32^speaker": "the Buddha",
+  "mn147:4-8.33^speaker": "Rāhula",
+  "mn147:4-8.34+mn147:4-8.35^speaker": "the Buddha",
+  "mn147:4-8.36^speaker": "Rāhula",
+  "mn147:4-8.37+mn147:4-8.38^speaker": "the Buddha",
+  "mn147:4-8.37+mn147:4-8.38^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "mn147:4-8.39^speaker": "Rāhula",
+  "mn147:4-8.40^speaker": "the Buddha",
+  "mn147:4-8.41^speaker": "Rāhula",
+  "mn147:4-8.42+mn147:4-8.43^speaker": "the Buddha",
+  "mn147:4-8.44^speaker": "Rāhula",
+  "mn147:9.1+mn147:9.8^speaker": "the Buddha",
+  "mn147:9.13^speaker": "thousands of deities",
+  "mn147:9.13^who_around_here_and_before": [
+    "Rāhula"
+  ],
+  "mn147^where": "Unknown"
+}

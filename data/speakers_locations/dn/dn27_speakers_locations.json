@@ -1,0 +1,48 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn27:2.3+dn27:2.5^speaker": "Vāseṭṭha",
+  "dn27:2.3+dn27:2.5^who_else_mentioned": [
+    "Bhāradvāja",
+    "Buddha"
+  ],
+  "dn27:2.6^speaker": "Bhāradvāja",
+  "dn27:3.2^speaker": "the Buddha",
+  "dn27:3.3^speaker": "Vāseṭṭha",
+  "dn27:3.4^speaker": "the Buddha",
+  "dn27:3.5+dn27:3.12^speaker": "Vāseṭṭha",
+  "dn27:3.5+dn27:3.12^who_else_mentioned": [
+    "Brahmā",
+    "Kinsman"
+  ],
+  "dn27:4.1+dn27:32.11^speaker": "the Buddha",
+  "dn27:4.1+dn27:32.11^who_else_mentioned": [
+    "Vāseṭṭha",
+    "Brahmā",
+    "King Pasenadi",
+    "Kosala",
+    "Gotama",
+    "Sakyans",
+    "Pasenadi",
+    "Sakyan",
+    "Māra",
+    "Buddha",
+    "Brahmā Sanaṅkumāra"
+  ],
+  "dn27:4.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "dn27:4.1^where_here_and_before": [
+    "Sāvatthī in the Eastern Monastery",
+    "in the stilt longhouse of Migāra's mother"
+  ],
+  "dn27:4.1^who_around_here_and_before": [
+    "Bhāradvāja"
+  ],
+  "dn27:4.1^who_mentioned_here_and_before": [
+    "brahmins"
+  ],
+  "dn27^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "dn27^where": "Sāvatthī in the Eastern Monastery, in the stilt longhouse of Migāra's mother"
+}

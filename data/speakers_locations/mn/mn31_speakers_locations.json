@@ -1,0 +1,100 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn31:3.4+mn31:3.6^speaker": "Park Keeper",
+  "mn31:4.3+mn31:4.4^speaker": "Anuruddha",
+  "mn31:4.3+mn31:4.4^who_else_mentioned": [
+    "Buddha",
+    "the Blessed One"
+  ],
+  "mn31:4.6^speaker": "Anuruddha",
+  "mn31:4.6^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "mn31:5.7^speaker": "The Buddha",
+  "mn31:5.7^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn31:5.8^speaker": "Anuruddha",
+  "mn31:6.1^speaker": "The Buddha",
+  "mn31:6.2^speaker": "Anuruddha",
+  "mn31:6.3^speaker": "The Buddha",
+  "mn31:7.1+mn31:7.10^speaker": "Anuruddha",
+  "mn31:7.23^speaker": "Nandiya and Kimbila",
+  "mn31:8.1+mn31:8.2^speaker": "The Buddha",
+  "mn31:8.1+mn31:8.2^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn31:9.1^speaker": "Anuruddha",
+  "mn31:9.2^speaker": "The Buddha",
+  "mn31:9.3+mn31:9.9^speaker": "Anuruddha",
+  "mn31:10.1+mn31:10.2^speaker": "The Buddha",
+  "mn31:10.1+mn31:10.2^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn31:10.3+mn31:10.5^speaker": "Anuruddha",
+  "mn31:11-13.1+mn31:11-13.2^speaker": "The Buddha",
+  "mn31:11-13.3+mn31:11-13.5^speaker": "Anuruddha",
+  "mn31:14.1+mn31:14.2^speaker": "The Buddha",
+  "mn31:14.3+mn31:14.5^speaker": "Anuruddha",
+  "mn31:15.1+mn31:15.2^speaker": "The Buddha",
+  "mn31:15.3+mn31:15.5^speaker": "Anuruddha",
+  "mn31:16.1+mn31:16.2^speaker": "The Buddha",
+  "mn31:16.3+mn31:16.5^speaker": "Anuruddha",
+  "mn31:17.1+mn31:17.2^speaker": "The Buddha",
+  "mn31:17.3+mn31:17.7^speaker": "Anuruddha",
+  "mn31:18.1+mn31:18.2^speaker": "The Buddha",
+  "mn31:18.3+mn31:18.6^speaker": "Anuruddha",
+  "mn31:18.7+mn31:18.8^speaker": "The Buddha",
+  "mn31:18.7^where_here_and_before": [
+    "Nādika in the brick house",
+    "sal forest park at Gosiṅga"
+  ],
+  "mn31:18.7^who_around_here_and_before": [
+    "Nandiya",
+    "Kimbila"
+  ],
+  "mn31:20.2+mn31:20.3^speaker": "Nandiya and Kimbila",
+  "mn31:20.2+mn31:20.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn31:20.4+mn31:20.9^speaker": "Anuruddha",
+  "mn31:20.4+mn31:20.9^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn31:21.2+mn31:21.4^speaker": "Dīgha Parajana",
+  "mn31:21.2+mn31:21.4^who_else_mentioned": [
+    "Vajjis",
+    "Vajjian",
+    "Buddha",
+    "Anuruddha",
+    "Nandiya",
+    "Kimbila"
+  ],
+  "mn31:21.16+mn31:21.18^speaker": "Earth Gods, Gods of the Four Great Kings, Gods of the Thirty-Three, Gods of Yama, Joyful Gods, Gods Who Love to Create, Gods Who Control the Creations of Others, Gods of Brahmā's Host",
+  "mn31:21.16+mn31:21.18^who_else_mentioned": [
+    "Vajjis",
+    "Vajjian",
+    "Buddha",
+    "Anuruddha",
+    "Nandiya",
+    "Kimbila"
+  ],
+  "mn31:22.1+mn31:22.13^speaker": "The Buddha",
+  "mn31:22.1+mn31:22.13^who_else_mentioned": [
+    "Dīgha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn31:22.1^where_here_and_before": [
+    "Brahmā realm"
+  ],
+  "mn31:22.1^who_around_here_and_before": [
+    "Anuruddha",
+    "Nandiya",
+    "Kimbila"
+  ],
+  "mn31:22.1^who_mentioned_here_and_before": [
+    "Dīgha Parajana"
+  ],
+  "mn31^where": "Nādika in the brick house, sal forest park at Gosiṅga"
+}

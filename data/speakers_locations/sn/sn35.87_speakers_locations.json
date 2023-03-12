@@ -1,0 +1,98 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.87:1.5^speaker": "Sāriputta",
+  "sn35.87:1.5^who_else_mentioned": [
+    "Cunda",
+    "Channa"
+  ],
+  "sn35.87:1.6^speaker": "Mahācunda",
+  "sn35.87:2.2^speaker": "Sāriputta",
+  "sn35.87:2.2^who_else_mentioned": [
+    "Channa"
+  ],
+  "sn35.87:3.1+sn35.87:3.10^speaker": "Channa",
+  "sn35.87:3.1+sn35.87:3.10^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn35.87:4.1+sn35.87:4.7^speaker": "Sāriputta",
+  "sn35.87:4.1+sn35.87:4.7^who_else_mentioned": [
+    "Channa"
+  ],
+  "sn35.87:5.1+sn35.87:5.9^speaker": "Channa",
+  "sn35.87:5.1+sn35.87:5.9^who_else_mentioned": [
+    "Sāriputta",
+    "Channa"
+  ],
+  "sn35.87:6.1^speaker": "Sāriputta",
+  "sn35.87:6.1^who_else_mentioned": [
+    "Channa"
+  ],
+  "sn35.87:6.2^speaker": "Channa",
+  "sn35.87:6.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn35.87:7.1+sn35.87:7.3^speaker": "Sāriputta",
+  "sn35.87:7.1+sn35.87:7.3^who_else_mentioned": [
+    "Channa"
+  ],
+  "sn35.87:8.1+sn35.87:8.3^speaker": "Channa",
+  "sn35.87:8.1+sn35.87:8.3^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn35.87:9.1^speaker": "Sāriputta",
+  "sn35.87:9.1^who_else_mentioned": [
+    "Channa"
+  ],
+  "sn35.87:10.1^speaker": "Channa",
+  "sn35.87:10.1^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn35.87:11.2+sn35.87:11.9^speaker": "Mahācunda",
+  "sn35.87:11.2+sn35.87:11.9^who_else_mentioned": [
+    "Channa",
+    "Buddha"
+  ],
+  "sn35.87:13.2+sn35.87:13.3^speaker": "Sāriputta",
+  "sn35.87:13.2+sn35.87:13.3^who_else_mentioned": [
+    "Venerable Channa"
+  ],
+  "sn35.87:13.4^speaker": "the Buddha",
+  "sn35.87:13.4^who_else_mentioned": [
+    "Sāriputta",
+    "Channa"
+  ],
+  "sn35.87:13.5+sn35.87:13.6^speaker": "Sāriputta",
+  "sn35.87:13.5+sn35.87:13.6^who_else_mentioned": [
+    "Vajjian",
+    "Pubbavijjhana",
+    "Channa"
+  ],
+  "sn35.87:13.7+sn35.87:13.11^speaker": "the Buddha",
+  "sn35.87:13.7+sn35.87:13.11^who_else_mentioned": [
+    "Channa",
+    "Sāriputta"
+  ],
+  "sn35.87:13.7^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "sn35.87:13.7^where_here_and_before": [
+    "Rājagaha",
+    "in the Bamboo Grove",
+    "the squirrels' feeding ground",
+    "Vulture's Peak Mountain"
+  ],
+  "sn35.87:13.7^who_around_here_and_before": [
+    "Sāriputta",
+    "Mahācunda",
+    "Channa"
+  ],
+  "sn35.87:13.7^who_mentioned_here_and_before": [
+    "Vajjian village named Pubbavijjhana"
+  ],
+  "sn35.87^initial_geographic_location": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "sn35.87^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground, Vulture's Peak Mountain"
+}

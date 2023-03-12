@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn63:2.2+mn63:2.14^speaker": "Māluṅkya",
+  "mn63:2.2+mn63:2.14^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn63:3.17+mn63:3.51^speaker": "Māluṅkya",
+  "mn63:3.17+mn63:3.51^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn63:4.1+mn63:4.2^speaker": "the Buddha",
+  "mn63:4.1+mn63:4.2^who_else_mentioned": [
+    "Māluṅkyaputta"
+  ],
+  "mn63:4.4^speaker": "Māluṅkya",
+  "mn63:4.5+mn63:4.6^speaker": "Māluṅkya",
+  "mn63:4.5+mn63:4.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn63:4.8^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn63:4.8^speaker": "Māluṅkya",
+  "mn63:4.8^where_here_and_before": [
+    "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
+  ],
+  "mn63:4.8^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "mn63:4.9+mn63:10.5^speaker": "the Buddha",
+  "mn63:4.9+mn63:10.5^who_else_mentioned": [
+    "Māluṅkyaputta",
+    "Buddha"
+  ],
+  "mn63^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn63^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"
+}

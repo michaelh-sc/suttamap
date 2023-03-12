@@ -1,0 +1,32 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.91:1.6^speaker": "Kassapagotta",
+  "an3.91:2.2+an3.91:2.5^speaker": "Kassapagotta",
+  "an3.91:2.2+an3.91:2.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an3.91:3.11+an3.91:3.13^speaker": "Kassapagotta",
+  "an3.91:3.11+an3.91:3.13^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an3.91:4.1+an3.91:8.5^speaker": "the Buddha",
+  "an3.91:4.1+an3.91:8.5^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "an3.91:4.1^geographic_locations_here_and_before": [
+    "Paṅkadhā",
+    "Rājagaha"
+  ],
+  "an3.91:4.1^where_here_and_before": [
+    "Paṅkadhā",
+    "Rājagaha"
+  ],
+  "an3.91:4.1^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "an3.91^initial_geographic_location": [
+    "Paṅkadhā",
+    "Rājagaha"
+  ],
+  "an3.91^where": "Paṅkadhā and Rājagaha"
+}

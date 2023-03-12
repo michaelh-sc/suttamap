@@ -1,0 +1,41 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn3.1:1.5^speaker": "King Pasenadi of Kosala",
+  "sn3.1:1.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn3.1:1.6+sn3.1:1.7^speaker": "the Buddha",
+  "sn3.1:2.1+sn3.1:2.4^speaker": "King Pasenadi of Kosala",
+  "sn3.1:2.1+sn3.1:2.4^who_else_mentioned": [
+    "Pūraṇa Kassapa",
+    "Nigaṇṭha Nāṭaputta",
+    "Sañjaya Belaṭṭhiputta",
+    "Pakudha Kaccāyana",
+    "Ajita Kesakambala"
+  ],
+  "sn3.1:3.1+sn3.1:3.7^speaker": "the Buddha",
+  "sn3.1:5.1+sn3.1:13.6^speaker": "the Buddha",
+  "sn3.1:14.2+sn3.1:14.5^speaker": "King Pasenadi of Kosala",
+  "sn3.1:14.2+sn3.1:14.5^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "sn3.1:14.2^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "sn3.1:14.2^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "sn3.1:14.2^who_around_here_and_before": [
+    "Anāthapiṇḍika"
+  ],
+  "sn3.1:14.2^who_mentioned_here_and_before": [
+    "ascetics",
+    "brahmins"
+  ],
+  "sn3.1^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "sn3.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

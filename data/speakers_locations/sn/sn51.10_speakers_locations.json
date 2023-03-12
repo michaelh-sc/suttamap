@@ -1,0 +1,71 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn51.10:1.5+sn51.10:1.6^speaker": "the Buddha",
+  "sn51.10:1.7^speaker": "Ānanda",
+  "sn51.10:3.1+sn51.10:3.3^speaker": "the Buddha",
+  "sn51.10:3.1+sn51.10:3.3^where_else_mentioned": [
+    "Gotamaka",
+    "Sattamba",
+    "Bahuputta",
+    "Sārandada"
+  ],
+  "sn51.10:3.1+sn51.10:3.3^who_else_mentioned": [
+    "Vesālī",
+    "Udena",
+    "Cāpāla"
+  ],
+  "sn51.10:4.3^speaker": "Ānanda",
+  "sn51.10:4.3^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "sn51.10:5.3+sn51.10:5.5^speaker": "the Buddha",
+  "sn51.10:5.3+sn51.10:5.5^where_else_mentioned": [
+    "Gotamaka",
+    "Sattamba",
+    "Bahuputta",
+    "Sārandada"
+  ],
+  "sn51.10:5.3+sn51.10:5.5^who_else_mentioned": [
+    "Vesālī",
+    "Udena",
+    "Cāpāla"
+  ],
+  "sn51.10:6.3^speaker": "Ānanda",
+  "sn51.10:6.3^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "sn51.10:7.2+sn51.10:7.3^speaker": "the Buddha",
+  "sn51.10:7.4^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "sn51.10:7.4^speaker": "Ānanda",
+  "sn51.10:7.4^where_here_and_before": [
+    "Vesālī at the Great Wood in the hall with the peaked roof"
+  ],
+  "sn51.10:7.4^who_around_here_and_before": [
+    "Māra the Wicked"
+  ],
+  "sn51.10:9.1+sn51.10:15.4^speaker": "Māra the Wicked",
+  "sn51.10:9.1+sn51.10:15.4^where_else_mentioned": [
+    "the Holy One"
+  ],
+  "sn51.10:9.1+sn51.10:15.4^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "sn51.10:16.2+sn51.10:16.3^speaker": "the Buddha",
+  "sn51.10:16.2+sn51.10:16.3^who_else_mentioned": [
+    "Wicked One"
+  ],
+  "sn51.10:18.1+sn51.10:18.4^speaker": "the Buddha",
+  "sn51.10:18.1^where_here_and_before": [
+    "Cāpāla tree shrine"
+  ],
+  "sn51.10:18.1^who_around_here_and_before": [
+    "Māra the Wicked"
+  ],
+  "sn51.10^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "sn51.10^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

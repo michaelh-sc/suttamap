@@ -1,0 +1,189 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn25:1.6+dn25:1.10^speaker": "Sandhāna",
+  "dn25:1.6+dn25:1.10^who_else_mentioned": [
+    "Buddha",
+    "Nigrodha",
+    "Udumbarikā"
+  ],
+  "dn25:3.3+dn25:3.7^speaker": "Nigrodha",
+  "dn25:3.3+dn25:3.7^where_else_mentioned": [
+    "Rājagaha"
+  ],
+  "dn25:3.3+dn25:3.7^who_else_mentioned": [
+    "Sandhāna",
+    "Gotama"
+  ],
+  "dn25:4.3+dn25:4.5^speaker": "Sandhāna",
+  "dn25:4.3+dn25:4.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn25:5.2+dn25:5.10^speaker": "Nigrodha",
+  "dn25:5.2+dn25:5.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn25:6.5+dn25:6.9^speaker": "Nigrodha",
+  "dn25:6.5+dn25:6.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn25:7.3+dn25:7.5^speaker": "Nigrodha",
+  "dn25:7.9^speaker": "The Buddha",
+  "dn25:7.9^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:7.11+dn25:7.14^speaker": "Nigrodha",
+  "dn25:7.11+dn25:7.14^who_else_mentioned": [
+    "Gotama",
+    "Buddha"
+  ],
+  "dn25:7.13^speaker": "Nigrodha",
+  "dn25:7.15+dn25:7.17^speaker": "The Buddha",
+  "dn25:7.15+dn25:7.17^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:7.19^speaker": "Wanderers",
+  "dn25:7.19^where_else_mentioned": [
+    "Gotama"
+  ],
+  "dn25:8.2+dn25:8.3^speaker": "Nigrodha",
+  "dn25:8.4+dn25:8.23^speaker": "The Buddha",
+  "dn25:8.4+dn25:8.23^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:8.24^speaker": "Nigrodha",
+  "dn25:8.25^speaker": "The Buddha",
+  "dn25:9.1^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Gijjhakūṭa",
+    "Sumāgadhā"
+  ],
+  "dn25:9.1^speaker": "Nigrodha",
+  "dn25:9.1^where_here_and_before": [
+    "Rājagaha",
+    "Vulture's Peak Mountain",
+    "Sumāgadhā"
+  ],
+  "dn25:9.1^who_around_here_and_before": [
+    "Sandhāna",
+    "Wanderers"
+  ],
+  "dn25:9.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn25:9.1^who_mentioned_here_and_before": [
+    "Udumbarikā"
+  ],
+  "dn25:9.2+dn25:12.16^speaker": "The Buddha",
+  "dn25:9.2+dn25:12.16^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:12.17+dn25:12.19^speaker": "Nigrodha",
+  "dn25:13.1+dn25:15.15^speaker": "The Buddha",
+  "dn25:13.1+dn25:15.15^where_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:15.16^speaker": "Nigrodha",
+  "dn25:15.17+dn25:15.18^speaker": "The Buddha",
+  "dn25:15.17+dn25:15.18^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:16.1+dn25:16.2^speaker": "Nigrodha",
+  "dn25:16.3+dn25:17.7^speaker": "The Buddha",
+  "dn25:16.3+dn25:17.7^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:17.8^speaker": "Nigrodha",
+  "dn25:17.9+dn25:17.10^speaker": "The Buddha",
+  "dn25:17.9+dn25:17.10^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:18.1+dn25:18.2^speaker": "Nigrodha",
+  "dn25:18.3+dn25:18.15^speaker": "The Buddha",
+  "dn25:18.3+dn25:18.15^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:18.16^speaker": "Nigrodha",
+  "dn25:18.17+dn25:18.18^speaker": "The Buddha",
+  "dn25:18.17+dn25:18.18^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:19.1+dn25:19.2^speaker": "Nigrodha",
+  "dn25:19.3+dn25:19.14^speaker": "The Buddha",
+  "dn25:19.3+dn25:19.14^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:19.15^speaker": "Nigrodha",
+  "dn25:19.16+dn25:19.19^speaker": "The Buddha",
+  "dn25:19.16+dn25:19.19^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:19.21^speaker": "The householder Sandhāna",
+  "dn25:20.2^speaker": "The householder Sandhāna",
+  "dn25:20.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn25:20.4+dn25:20.10^speaker": "The householder Sandhāna",
+  "dn25:20.4+dn25:20.10^who_else_mentioned": [
+    "Nigrodha",
+    "Gotama"
+  ],
+  "dn25:21.2^speaker": "The Buddha",
+  "dn25:21.2^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:21.3^speaker": "Nigrodha",
+  "dn25:21.4+dn25:21.9^speaker": "The Buddha",
+  "dn25:21.4+dn25:21.9^who_else_mentioned": [
+    "Nigrodha",
+    "Buddhas"
+  ],
+  "dn25:21.10+dn25:21.14^speaker": "Nigrodha",
+  "dn25:21.10+dn25:21.14^who_else_mentioned": [
+    "Buddhas",
+    "Buddha"
+  ],
+  "dn25:21.15+dn25:21.16^speaker": "The Buddha",
+  "dn25:21.15+dn25:21.16^who_else_mentioned": [
+    "Nigrodha"
+  ],
+  "dn25:22.2+dn25:22.3^speaker": "Nigrodha",
+  "dn25:22.4+dn25:23.23^speaker": "The Buddha",
+  "dn25:22.4+dn25:23.23^who_else_mentioned": [
+    "Nigrodha",
+    "Gotama"
+  ],
+  "dn25:22.4^where_here_and_before": [
+    "Assembly"
+  ],
+  "dn25:22.4^who_around_here_and_before": [
+    "Wanderers"
+  ],
+  "dn25:22.4^who_mentioned_here_and_before": [
+    "Māra"
+  ],
+  "dn25:24.3+dn25:24.5^speaker": "The Buddha",
+  "dn25:24.3+dn25:24.5^who_else_mentioned": [
+    "the Wicked One",
+    "Gotama"
+  ],
+  "dn25:24.3^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "dn25:24.3^where_here_and_before": [
+    "Rājagaha"
+  ],
+  "dn25:24.3^who_around_here_and_before": [
+    "Wanderers"
+  ],
+  "dn25:24.3^who_mentioned_here_and_before": [
+    "Māra",
+    "Lady Udumbarikā",
+    "householder Sandhāna"
+  ],
+  "dn25^initial_geographic_location": [
+    "Rājagaha",
+    "Gijjhakūṭa",
+    "Sumāgadhā"
+  ],
+  "dn25^where": "Rājagaha, Vulture's Peak Mountain, Sumāgadhā"
+}

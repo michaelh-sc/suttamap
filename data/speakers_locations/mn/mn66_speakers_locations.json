@@ -1,0 +1,52 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn66:4.1+mn66:4.2^speaker": "Udāyī",
+  "mn66:4.1+mn66:4.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn66:4.1^geographic_locations_here_and_before": [
+    "Āpaṇa"
+  ],
+  "mn66:4.1^where_here_and_before": [
+    "The land of the Northern Āpaṇas near the town of theirs named Āpaṇa"
+  ],
+  "mn66:4.1^who_around_here_and_before": [
+    "The Buddha"
+  ],
+  "mn66:6.1+mn66:6.31^speaker": "Udāyī",
+  "mn66:6.1+mn66:6.31^who_else_mentioned": [
+    "Buddha",
+    "the Blessed One",
+    "The Holy One"
+  ],
+  "mn66:7.1+mn66:8.3^speaker": "the Buddha",
+  "mn66:8.5+mn66:8.6^speaker": "the Buddha",
+  "mn66:8.7+mn66:10.3^speaker": "the Buddha",
+  "mn66:8.7+mn66:10.3^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "mn66:10.5+mn66:10.6^speaker": "the Buddha",
+  "mn66:10.7+mn66:11.10^speaker": "the Buddha",
+  "mn66:10.7+mn66:11.10^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "mn66:11.12+mn66:11.14^speaker": "the Buddha",
+  "mn66:11.15+mn66:12.8^speaker": "the Buddha",
+  "mn66:12.10+mn66:12.12^speaker": "the Buddha",
+  "mn66:12.13+mn66:34.3^speaker": "the Buddha",
+  "mn66:12.13+mn66:34.3^who_else_mentioned": [
+    "the Blessed One",
+    "Udāyī"
+  ],
+  "mn66:34.4^geographic_locations_here_and_before": [
+    "Āpaṇa"
+  ],
+  "mn66:34.4^speaker": "Udāyī",
+  "mn66:34.4^where_here_and_before": [
+    "Āpaṇa forest grove"
+  ],
+  "mn66^initial_geographic_location": [
+    "Āpaṇa"
+  ],
+  "mn66^where": "The land of the Northern Āpaṇas, near the town of theirs named Āpaṇa."
+}

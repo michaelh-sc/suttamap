@@ -1,0 +1,164 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn92:2.2+mn92:2.7^speaker": "Keṇiya",
+  "mn92:2.2+mn92:2.7^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn92:3.5^speaker": "Keṇiya",
+  "mn92:3.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn92:3.7^speaker": "the Buddha",
+  "mn92:3.7^where_else_mentioned": [
+    "Saṅgha",
+    "Keṇiya"
+  ],
+  "mn92:3.9+mn92:3.10^speaker": "Keṇiya",
+  "mn92:3.9+mn92:3.10^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn92:3.14+mn92:3.15^speaker": "Keṇiya",
+  "mn92:3.14+mn92:3.15^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn92:4.2+mn92:4.4^speaker": "Keṇiya",
+  "mn92:4.2+mn92:4.4^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "mn92:4.5^speaker": "Keṇiya's friends and colleagues, relatives and family members",
+  "mn92:7.2^speaker": "Sela",
+  "mn92:7.2^where_else_mentioned": [
+    "Magadha"
+  ],
+  "mn92:7.2^who_else_mentioned": [
+    "Keṇiya",
+    "Seniya Bimbisāra"
+  ],
+  "mn92:8.1+mn92:8.6^speaker": "Keṇiya",
+  "mn92:8.1+mn92:8.6^who_else_mentioned": [
+    "Sela",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn92:9.1^speaker": "Sela",
+  "mn92:9.1^who_else_mentioned": [
+    "Keṇiya"
+  ],
+  "mn92:9.2^speaker": "Keṇiya",
+  "mn92:9.3^speaker": "Sela",
+  "mn92:9.4^speaker": "Keṇiya",
+  "mn92:10.2+mn92:10.9^speaker": "Sela",
+  "mn92:10.2+mn92:10.9^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn92:11.1^speaker": "Sela",
+  "mn92:11.1^who_else_mentioned": [
+    "Keṇiya",
+    "the Blessed One",
+    "Buddha"
+  ],
+  "mn92:11.3^speaker": "Keṇiya",
+  "mn92:11.3^who_else_mentioned": [
+    "Sela"
+  ],
+  "mn92:12.3+mn92:12.6^speaker": "Sela",
+  "mn92:12.3+mn92:12.6^who_else_mentioned": [
+    "Buddhas",
+    "Gotama"
+  ],
+  "mn92:12.3^geographic_locations_here_and_before": [
+    "Āpaṇa"
+  ],
+  "mn92:12.3^where_here_and_before": [
+    "Āpaṇa"
+  ],
+  "mn92:12.3^who_around_here_and_before": [
+    "the Buddha",
+    "a large Saṅgha of 1,250 mendicants",
+    "Keṇiya's friends",
+    "Keṇiya's colleagues",
+    "Keṇiya's relatives",
+    "Keṇiya's family members",
+    "three hundred students"
+  ],
+  "mn92:12.3^who_mentioned_here_and_before": [
+    "King Seniya Bimbisāra of Magadha"
+  ],
+  "mn92:13.8+mn92:13.10^speaker": "The Buddha",
+  "mn92:13.8+mn92:13.10^who_else_mentioned": [
+    "Sela"
+  ],
+  "mn92:15.2+mn92:15.6^speaker": "Sela",
+  "mn92:15.2+mn92:15.6^who_else_mentioned": [
+    "Gotama",
+    "Buddhas"
+  ],
+  "mn92:16.1+mn92:16.24^speaker": "Sela",
+  "mn92:16.1+mn92:16.24^where_else_mentioned": [
+    "India"
+  ],
+  "mn92:16.1+mn92:16.24^who_else_mentioned": [
+    "Saṅgha",
+    "Gotama"
+  ],
+  "mn92:17.1+mn92:17.4^speaker": "The Buddha",
+  "mn92:17.1+mn92:17.4^who_else_mentioned": [
+    "Sela"
+  ],
+  "mn92:18.1+mn92:18.8^speaker": "Sela",
+  "mn92:18.1+mn92:18.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn92:19.1^speaker": "The Buddha",
+  "mn92:19.3+mn92:19.21^speaker": "The Buddha",
+  "mn92:19.3+mn92:19.21^who_else_mentioned": [
+    "Buddha",
+    "Māra"
+  ],
+  "mn92:20.1+mn92:20.12^speaker": "The Buddha",
+  "mn92:20.1+mn92:20.12^who_else_mentioned": [
+    "Māra"
+  ],
+  "mn92:21.1+mn92:21.4^speaker": "Sela",
+  "mn92:21.1+mn92:21.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn92:22.1+mn92:22.4^speaker": "Sela",
+  "mn92:23.1^speaker": "The Buddha",
+  "mn92:23.3+mn92:23.5^speaker": "The Buddha",
+  "mn92:25.2^speaker": "Keṇiya",
+  "mn92:25.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn92:26.1+mn92:26.8^speaker": "The Buddha",
+  "mn92:26.1+mn92:26.8^where_else_mentioned": [
+    "the Gāyatrī Mantra"
+  ],
+  "mn92:26.1+mn92:26.8^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn92:27.2^speaker": "Sela and his assembly",
+  "mn92:28.2+mn92:28.17^speaker": "Sela",
+  "mn92:28.2+mn92:28.17^who_else_mentioned": [
+    "Buddha",
+    "Māra"
+  ],
+  "mn92:28.2^where_here_and_before": [
+    "Keṇiya's hermitage"
+  ],
+  "mn92:28.2^who_around_here_and_before": [
+    "Saṅgha of mendicants"
+  ],
+  "mn92^initial_geographic_location": [
+    "Āpaṇa"
+  ],
+  "mn92^where": "Āpaṇa"
+}

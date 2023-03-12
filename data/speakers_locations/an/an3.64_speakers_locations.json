@@ -1,0 +1,66 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.64:1.5+an3.64:1.6^speaker": "Sarabha",
+  "an3.64:1.5+an3.64:1.6^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "an3.64:2.2+an3.64:2.6^speaker": "the mendicants",
+  "an3.64:2.2+an3.64:2.6^where_else_mentioned": [
+    "Rājagaha",
+    "the Sappinī river"
+  ],
+  "an3.64:2.2+an3.64:2.6^who_else_mentioned": [
+    "Sarabha",
+    "Sakyan"
+  ],
+  "an3.64:3.2+an3.64:3.4^speaker": "the Buddha",
+  "an3.64:3.2+an3.64:3.4^who_else_mentioned": [
+    "Sarabha",
+    "Sakyan"
+  ],
+  "an3.64:4.2+an3.64:4.4^speaker": "the Buddha",
+  "an3.64:4.2+an3.64:4.4^who_else_mentioned": [
+    "Sarabha",
+    "Sakyan"
+  ],
+  "an3.64:5.2+an3.64:5.4^speaker": "the Buddha",
+  "an3.64:5.2+an3.64:5.4^who_else_mentioned": [
+    "Sarabha",
+    "Sakyan"
+  ],
+  "an3.64:6.2+an3.64:6.5^speaker": "the wanderers",
+  "an3.64:6.2+an3.64:6.5^who_else_mentioned": [
+    "Gotama",
+    "Sarabha",
+    "Sakyan"
+  ],
+  "an3.64:8.1+an3.64:10.3^speaker": "the Buddha",
+  "an3.64:8.1+an3.64:10.3^who_else_mentioned": [
+    "Buddha",
+    "Sarabha"
+  ],
+  "an3.64:11.2+an3.64:11.7^speaker": "the wanderers",
+  "an3.64:11.2+an3.64:11.7^who_else_mentioned": [
+    "Sarabha",
+    "Gotama"
+  ],
+  "an3.64:11.2^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "an3.64:11.2^where_here_and_before": [
+    "Rājagaha",
+    "on the Vulture's Peak Mountain"
+  ],
+  "an3.64:11.2^who_around_here_and_before": [
+    "Sarabha"
+  ],
+  "an3.64:11.2^who_mentioned_here_and_before": [
+    "the ascetics who follow the Sakyan"
+  ],
+  "an3.64^initial_geographic_location": [
+    "Rājagaha",
+    "Gijjhakūṭa"
+  ],
+  "an3.64^where": "Rājagaha, on the Vulture's Peak Mountain"
+}

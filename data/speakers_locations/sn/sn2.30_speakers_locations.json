@@ -1,0 +1,52 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn2.30:2.1+sn2.30:2.6^speaker": "Asama",
+  "sn2.30:2.1+sn2.30:2.6^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "sn2.30:4.1+sn2.30:4.4^speaker": "Sahalī",
+  "sn2.30:6.1+sn2.30:6.4^speaker": "Niṅka",
+  "sn2.30:8.1+sn2.30:8.4^speaker": "Ākoṭaka",
+  "sn2.30:8.1+sn2.30:8.4^where_else_mentioned": [
+    "Pakudhaka",
+    "Kātiyāna",
+    "Nigaṇṭha"
+  ],
+  "sn2.30:8.1+sn2.30:8.4^who_else_mentioned": [
+    "Makkhali",
+    "Pūraṇa"
+  ],
+  "sn2.30:10.1+sn2.30:10.4^speaker": "Vetambarī",
+  "sn2.30:12.1+sn2.30:12.6^speaker": "Māra the Wicked",
+  "sn2.30:14.1+sn2.30:14.4^speaker": "the Buddha",
+  "sn2.30:16.1+sn2.30:17.4^speaker": "Māṇavagāmiya",
+  "sn2.30:16.1+sn2.30:17.4^where_else_mentioned": [
+    "Rājagaha",
+    "Vipula"
+  ],
+  "sn2.30:16.1+sn2.30:17.4^who_else_mentioned": [
+    "Himalayan",
+    "Buddha"
+  ],
+  "sn2.30:16.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn2.30:16.1^where_here_and_before": [
+    "Bamboo Grove near Rājagaha"
+  ],
+  "sn2.30:16.1^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "sn2.30:16.1^who_mentioned_here_and_before": [
+    "Pūraṇa Kassapa",
+    "Makkhali Gosala",
+    "Nigaṇṭha Nātaputta",
+    "Pakudhaka",
+    "Kātiyāna",
+    "Nigaṇṭha"
+  ],
+  "sn2.30^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn2.30^where": "Bamboo Grove near Rājagaha"
+}

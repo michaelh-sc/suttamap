@@ -1,0 +1,123 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn73:3.1+mn73:3.2^speaker": "Vacchagotta",
+  "mn73:3.1+mn73:3.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn73:3.3+mn73:3.5^speaker": "the Buddha",
+  "mn73:3.3+mn73:3.5^who_else_mentioned": [
+    "Vaccha"
+  ],
+  "mn73:3.6^speaker": "Vacchagotta",
+  "mn73:4.1+mn73:6.1^speaker": "the Buddha",
+  "mn73:7.1+mn73:7.2^speaker": "Vacchagotta",
+  "mn73:7.1+mn73:7.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn73:7.3^speaker": "the Buddha",
+  "mn73:7.3^who_else_mentioned": [
+    "Vaccha"
+  ],
+  "mn73:8.1+mn73:8.2^speaker": "Vacchagotta",
+  "mn73:8.1+mn73:8.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn73:8.3^speaker": "the Buddha",
+  "mn73:8.3^who_else_mentioned": [
+    "Vaccha"
+  ],
+  "mn73:9.1+mn73:9.2^speaker": "Vacchagotta",
+  "mn73:9.1+mn73:9.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn73:9.3^speaker": "the Buddha",
+  "mn73:9.3^who_else_mentioned": [
+    "Vaccha"
+  ],
+  "mn73:10.1+mn73:10.2^speaker": "Vacchagotta",
+  "mn73:10.1+mn73:10.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn73:10.3^speaker": "the Buddha",
+  "mn73:10.3^who_else_mentioned": [
+    "Vaccha"
+  ],
+  "mn73:11.1+mn73:11.2^speaker": "Vacchagotta",
+  "mn73:11.1+mn73:11.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn73:11.3^speaker": "the Buddha",
+  "mn73:11.3^who_else_mentioned": [
+    "Vaccha"
+  ],
+  "mn73:12.1+mn73:12.2^speaker": "Vacchagotta",
+  "mn73:12.1+mn73:12.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn73:12.3^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn73:12.3^speaker": "the Buddha",
+  "mn73:12.3^where_here_and_before": [
+    "Bamboo Grove",
+    "the squirrels' feeding ground near Rājagaha"
+  ],
+  "mn73:12.3^who_else_mentioned": [
+    "Vaccha"
+  ],
+  "mn73:13.1+mn73:15.3^speaker": "Vacchagotta",
+  "mn73:13.1+mn73:15.3^where_else_mentioned": [
+    "Ganges"
+  ],
+  "mn73:13.1+mn73:15.3^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha",
+    "Buddha"
+  ],
+  "mn73:16.1+mn73:16.2^speaker": "the Buddha",
+  "mn73:16.1+mn73:16.2^who_else_mentioned": [
+    "Vaccha"
+  ],
+  "mn73:16.3^speaker": "Vacchagotta",
+  "mn73:17.2+mn73:17.3^speaker": "Vacchagotta",
+  "mn73:21.3^speaker": "the Buddha",
+  "mn73:21.4^speaker": "the Buddha",
+  "mn73:21.5^speaker": "the Buddha",
+  "mn73:21.6^speaker": "the Buddha",
+  "mn73:21.7^speaker": "the Buddha",
+  "mn73:21.8^speaker": "the Buddha",
+  "mn73:21.9^speaker": "the Buddha",
+  "mn73:21.10^speaker": "the Buddha",
+  "mn73:21.11^speaker": "the Buddha",
+  "mn73:21.12^speaker": "the Buddha",
+  "mn73:21.13^speaker": "the Buddha",
+  "mn73:21.14^speaker": "the Buddha",
+  "mn73:21.15^speaker": "the Buddha",
+  "mn73:21.16^speaker": "the Buddha",
+  "mn73:21.17^speaker": "the Buddha",
+  "mn73:21.18^speaker": "the Buddha",
+  "mn73:22.2^speaker": "the Buddha",
+  "mn73:23.2^speaker": "the Buddha",
+  "mn73:26.2^speaker": "Vacchagotta",
+  "mn73:27.4^speaker": "Vacchagotta",
+  "mn73:27.5^speaker": "the mendicants",
+  "mn73:27.5^who_around_here_and_before": [
+    "monks",
+    "nuns",
+    "celibate laymen",
+    "laymen enjoying sensual pleasures",
+    "celibate laywomen",
+    "laywomen enjoying sensual pleasures",
+    "deities"
+  ],
+  "mn73:27.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn73:27.5^who_mentioned_here_and_before": [
+    "the noble ones"
+  ],
+  "mn73^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn73^where": "Bamboo Grove, the squirrels' feeding ground near Rājagaha"
+}

@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn44.11:1.4^speaker": "Vacchagotta",
+  "sn44.11:1.4^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "sn44.11:1.5^speaker": "Sabhiya Kaccāna",
+  "sn44.11:1.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn44.11:1.7^speaker": "Vacchagotta",
+  "sn44.11:1.8^speaker": "Sabhiya Kaccāna",
+  "sn44.11:1.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn44.11:2.1^speaker": "Vacchagotta",
+  "sn44.11:2.2^speaker": "Sabhiya Kaccāna",
+  "sn44.11:2.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn44.11:2.4^speaker": "Vacchagotta",
+  "sn44.11:2.5^speaker": "Sabhiya Kaccāna",
+  "sn44.11:2.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn44.11:3.1+sn44.11:3.13^speaker": "Vacchagotta",
+  "sn44.11:3.1+sn44.11:3.13^who_else_mentioned": [
+    "Kaccāna",
+    "Buddha"
+  ],
+  "sn44.11:3.14+sn44.11:3.15^speaker": "Sabhiya Kaccāna",
+  "sn44.11:3.16^speaker": "Vacchagotta",
+  "sn44.11:3.16^who_else_mentioned": [
+    "Kaccāna"
+  ],
+  "sn44.11:3.17^speaker": "Sabhiya Kaccāna",
+  "sn44.11:3.18^speaker": "Vacchagotta",
+  "sn44.11:3.18^where_here_and_before": [
+    "Nādika in the brick house"
+  ],
+  "sn44.11^where": "Nādika in the brick house"
+}

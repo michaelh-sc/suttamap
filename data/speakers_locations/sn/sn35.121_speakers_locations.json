@@ -1,0 +1,69 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.121:1.3+sn35.121:1.4^speaker": "the Buddha (assumed)",
+  "sn35.121:1.3+sn35.121:1.4^where_else_mentioned": [
+    "Rāhula"
+  ],
+  "sn35.121:1.7+sn35.121:1.8^speaker": "the Buddha",
+  "sn35.121:1.7+sn35.121:1.8^where_else_mentioned": [
+    "the Dark Forest"
+  ],
+  "sn35.121:1.7+sn35.121:1.8^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "sn35.121:1.9^speaker": "Rāhula",
+  "sn35.121:2.2^speaker": "many thousands of deities",
+  "sn35.121:2.2^who_else_mentioned": [
+    "Buddha",
+    "Rāhula"
+  ],
+  "sn35.121:3.1+sn35.121:3.2^speaker": "the Buddha",
+  "sn35.121:3.1+sn35.121:3.2^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "sn35.121:4.1^speaker": "Rāhula",
+  "sn35.121:5.1^speaker": "the Buddha",
+  "sn35.121:6.1^speaker": "Rāhula",
+  "sn35.121:7.1+sn35.121:7.2^speaker": "the Buddha",
+  "sn35.121:8.1^speaker": "Rāhula",
+  "sn35.121:9.1+sn35.121:13.1^speaker": "the Buddha",
+  "sn35.121:14.1^speaker": "Rāhula",
+  "sn35.121:15.1^speaker": "the Buddha",
+  "sn35.121:16.1^speaker": "Rāhula",
+  "sn35.121:17.1^speaker": "the Buddha",
+  "sn35.121:18.1^speaker": "Rāhula",
+  "sn35.121:19.1+sn35.121:19.2^speaker": "the Buddha",
+  "sn35.121:20.1^speaker": "Rāhula",
+  "sn35.121:21.1+sn35.121:33.1^speaker": "the Buddha",
+  "sn35.121:34.1^speaker": "Rāhula",
+  "sn35.121:35.1^speaker": "the Buddha",
+  "sn35.121:36.1^speaker": "Rāhula",
+  "sn35.121:37.1+sn35.121:37.2^speaker": "the Buddha",
+  "sn35.121:38.1^speaker": "Rāhula",
+  "sn35.121:39.1+sn35.121:43.1^speaker": "the Buddha",
+  "sn35.121:44.1^speaker": "Rāhula",
+  "sn35.121:45.1^speaker": "the Buddha",
+  "sn35.121:46.1^speaker": "Rāhula",
+  "sn35.121:47.1^speaker": "the Buddha",
+  "sn35.121:48.1^speaker": "Rāhula",
+  "sn35.121:49.1+sn35.121:49.2^speaker": "the Buddha",
+  "sn35.121:50.1^speaker": "Rāhula",
+  "sn35.121:51.1+sn35.121:52.3^speaker": "the Buddha",
+  "sn35.121:53.5^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "sn35.121:53.5^speaker": "many thousands of deities",
+  "sn35.121:53.5^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery",
+    "Sāvatthī",
+    "Dark Forest"
+  ],
+  "sn35.121:53.5^who_around_here_and_before": [
+    "Rāhula"
+  ],
+  "sn35.121^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "sn35.121^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī, Dark Forest"
+}

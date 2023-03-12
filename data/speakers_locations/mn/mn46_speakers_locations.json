@@ -1,0 +1,30 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn46:1.4^speaker": "The Buddha",
+  "mn46:1.5^speaker": "The mendicants",
+  "mn46:2.1+mn46:2.4^speaker": "The Buddha",
+  "mn46:2.5^speaker": "The mendicants",
+  "mn46:2.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn46:2.6^speaker": "The Buddha",
+  "mn46:2.7^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn46:2.7^speaker": "The mendicants",
+  "mn46:2.7^where_here_and_before": [
+    "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
+  ],
+  "mn46:3.1+mn46:22.2^speaker": "The Buddha",
+  "mn46:3.1^who_mentioned_here_and_before": [
+    "Uneducated ordinary person",
+    "noble ones",
+    "good persons",
+    "various other ascetics",
+    "various other brahmins"
+  ],
+  "mn46^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn46^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"
+}

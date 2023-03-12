@@ -1,0 +1,61 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn9:1.4^speaker": "Sāriputta",
+  "mn9:1.5^speaker": "the mendicants",
+  "mn9:2.1+mn9:2.2^speaker": "Sāriputta",
+  "mn9:2.3+mn9:2.5^speaker": "the mendicants",
+  "mn9:2.3+mn9:2.5^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "mn9:2.6^speaker": "Sāriputta",
+  "mn9:2.7^speaker": "the mendicants",
+  "mn9:3.1+mn9:8.2^speaker": "Sāriputta",
+  "mn9:9.1^speaker": "the mendicants",
+  "mn9:9.2^speaker": "Sāriputta",
+  "mn9:10.1+mn9:12.2^speaker": "Sāriputta",
+  "mn9:13.1^speaker": "the mendicants",
+  "mn9:13.2^speaker": "Sāriputta",
+  "mn9:14-18.1+mn9:19.2^speaker": "Sāriputta",
+  "mn9:20.1^speaker": "the mendicants",
+  "mn9:20.2^speaker": "Sāriputta",
+  "mn9:21-22.1+mn9:21-22.12^speaker": "Sāriputta",
+  "mn9:24-26.2^speaker": "the mendicants",
+  "mn9:24-26.3+mn9:24-26.9^speaker": "Sāriputta",
+  "mn9:28-30.2^speaker": "the mendicants",
+  "mn9:28-30.3+mn9:28-30.9^speaker": "Sāriputta",
+  "mn9:32-34.2^speaker": "the mendicants",
+  "mn9:32-34.3+mn9:32-34.9^speaker": "Sāriputta",
+  "mn9:36-38.2^speaker": "the mendicants",
+  "mn9:36-38.3+mn9:36-38.9^speaker": "Sāriputta",
+  "mn9:40-42.2^speaker": "the mendicants",
+  "mn9:40-42.3+mn9:40-42.9^speaker": "Sāriputta",
+  "mn9:44-46.2^speaker": "the mendicants",
+  "mn9:44-46.3+mn9:44-46.9^speaker": "Sāriputta",
+  "mn9:48-50.2^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn9:48-50.2^speaker": "the mendicants",
+  "mn9:48-50.2^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "mn9:48-50.2^who_around_here_and_before": [
+    "Anāthapiṇḍika"
+  ],
+  "mn9:48-50.3+mn9:48-50.9^speaker": "Sāriputta",
+  "mn9:52-54.2^speaker": "the mendicants",
+  "mn9:52-54.3+mn9:52-54.13^speaker": "Sāriputta",
+  "mn9:56-58.2^speaker": "the mendicants",
+  "mn9:56-58.3+mn9:56-58.9^speaker": "Sāriputta",
+  "mn9:60-62.3^speaker": "the mendicants",
+  "mn9:60-62.4+mn9:60-62.10^speaker": "Sāriputta",
+  "mn9:64-66.2^speaker": "the mendicants",
+  "mn9:64-66.3+mn9:64-66.9^speaker": "Sāriputta",
+  "mn9:68.1^speaker": "the mendicants",
+  "mn9:68.2^speaker": "the mendicants",
+  "mn9:69.1+mn9:71.2^speaker": "Sāriputta",
+  "mn9^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn9^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

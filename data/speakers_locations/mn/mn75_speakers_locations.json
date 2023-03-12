@@ -1,0 +1,198 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn75:3.4^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:3.4^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "mn75:4.1+mn75:4.4^speaker": "the brahmin of the Bhāradvāja clan",
+  "mn75:4.1+mn75:4.4^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Buddha"
+  ],
+  "mn75:5.1+mn75:5.3^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:5.1+mn75:5.3^who_else_mentioned": [
+    "Bhāradvāja",
+    "Gotama"
+  ],
+  "mn75:5.4+mn75:5.6^speaker": "the brahmin of the Bhāradvāja clan",
+  "mn75:5.4+mn75:5.6^who_else_mentioned": [
+    "Māgaṇḍiya",
+    "Gotama"
+  ],
+  "mn75:5.7+mn75:5.10^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:5.7+mn75:5.10^who_else_mentioned": [
+    "Gotama",
+    "Bhāradvāja"
+  ],
+  "mn75:5.11^speaker": "the brahmin of the Bhāradvāja clan",
+  "mn75:5.11^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:5.12^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:5.12^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "mn75:6.5^speaker": "the Buddha",
+  "mn75:6.5^who_else_mentioned": [
+    "Bhāradvāja",
+    "Māgaṇḍiya"
+  ],
+  "mn75:6.7+mn75:6.8^speaker": "the brahmin of the Bhāradvāja clan",
+  "mn75:6.7+mn75:6.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:8.1+mn75:8.4^speaker": "the Buddha",
+  "mn75:8.1+mn75:8.4^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:8.5+mn75:8.8^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:8.9+mn75:8.23^speaker": "the Buddha",
+  "mn75:8.24+mn75:8.27^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:9.1+mn75:9.3^speaker": "the Buddha",
+  "mn75:9.1+mn75:9.3^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:9.4^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:9.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:9.5+mn75:9.11^speaker": "the Buddha",
+  "mn75:9.5+mn75:9.11^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:9.12^geographic_locations_here_and_before": [
+    "Kammāsadhamma"
+  ],
+  "mn75:9.12^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:9.12^where_here_and_before": [
+    "the land of the Kurus near the Kuru town named Kammāsadamma"
+  ],
+  "mn75:9.12^who_around_here_and_before": [
+    "the brahmin of the Bhāradvāja clan"
+  ],
+  "mn75:9.12^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:10.1+mn75:11.7^speaker": "the Buddha",
+  "mn75:10.1+mn75:11.7^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:11.8+mn75:11.10^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:11.8+mn75:11.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:12.1+mn75:13.7^speaker": "the Buddha",
+  "mn75:12.1+mn75:13.7^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:13.8+mn75:13.10^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:13.8+mn75:13.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:14.1+mn75:15.7^speaker": "the Buddha",
+  "mn75:14.1+mn75:15.7^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:15.8+mn75:15.10^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:15.8+mn75:15.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:15.11+mn75:15.12^speaker": "the Buddha",
+  "mn75:15.11+mn75:15.12^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:15.13+mn75:15.14^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:16.1+mn75:18.2^speaker": "the Buddha",
+  "mn75:16.1+mn75:18.2^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:18.3^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:18.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:18.4+mn75:18.6^speaker": "the Buddha",
+  "mn75:18.4+mn75:18.6^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:19.2+mn75:19.5^speaker": "the Buddha",
+  "mn75:19.7+mn75:19.12^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:19.7+mn75:19.12^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:19.13+mn75:19.14^speaker": "the Buddha",
+  "mn75:19.13+mn75:19.14^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:19.16+mn75:19.17^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:19.16+mn75:19.17^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:20.1+mn75:20.12^speaker": "the Buddha",
+  "mn75:20.1+mn75:20.12^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:20.13+mn75:20.14^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:21.1+mn75:21.11^speaker": "the Buddha",
+  "mn75:21.1+mn75:21.11^who_else_mentioned": [
+    "Buddhas",
+    "Māgaṇḍiya"
+  ],
+  "mn75:22.1+mn75:22.2^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:22.1+mn75:22.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:22.3+mn75:22.9^speaker": "the Buddha",
+  "mn75:22.3+mn75:22.9^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:22.10^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:22.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:22.11+mn75:22.13^speaker": "the Buddha",
+  "mn75:23.1+mn75:23.2^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:23.1+mn75:23.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:23.3+mn75:24.9^speaker": "the Buddha",
+  "mn75:23.3+mn75:24.9^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:23.3^who_mentioned_here_and_before": [
+    "a doctor",
+    "a sighted person",
+    "a person affected by leprosy",
+    "a householder or householder's child",
+    "a king or a royal minister",
+    "wanderers of the past",
+    "ascetics or brahmins of the past",
+    "future",
+    "or present"
+  ],
+  "mn75:23.18^speaker": "the Buddha",
+  "mn75:25.1+mn75:25.2^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:25.1+mn75:25.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn75:25.3+mn75:25.10^speaker": "the Buddha",
+  "mn75:25.3+mn75:25.10^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:26.2+mn75:26.5^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:26.2+mn75:26.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha",
+    "Buddha"
+  ],
+  "mn75:27.1+mn75:27.2^speaker": "the Buddha",
+  "mn75:27.1+mn75:27.2^who_else_mentioned": [
+    "Māgaṇḍiya"
+  ],
+  "mn75:27.3^speaker": "the wanderer Māgaṇḍiya",
+  "mn75:28.3^speaker": "Māgaṇḍiya",
+  "mn75^initial_geographic_location": [
+    "Kammāsadhamma"
+  ],
+  "mn75^where": "the land of the Kurus near the Kuru town named Kammāsadamma"
+}

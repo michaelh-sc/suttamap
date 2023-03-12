@@ -1,0 +1,30 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn1.34:2.1+sn1.34:2.4^speaker": "a deity of the Satullapa Group",
+  "sn1.34:3.1+sn1.34:3.3^speaker": "the Buddha",
+  "sn1.34:4.1+sn1.34:6.6^speaker": "a deity of the Satullapa Group",
+  "sn1.34:7.1^speaker": "Mogharājā",
+  "sn1.34:7.3+sn1.34:7.5^speaker": "Mogharājā",
+  "sn1.34:8.1^speaker": "the Buddha",
+  "sn1.34:8.3+sn1.34:8.5^speaker": "the Buddha",
+  "sn1.34:8.3+sn1.34:8.5^who_else_mentioned": [
+    "Mogharājā"
+  ],
+  "sn1.34:8.3^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "sn1.34:8.3^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's Monastery"
+  ],
+  "sn1.34:8.3^who_around_here_and_before": [
+    "several glorious deities of the Satullapa Group"
+  ],
+  "sn1.34:8.3^who_mentioned_here_and_before": [
+    "Mogharājā"
+  ],
+  "sn1.34^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "sn1.34^where": "Jeta's Grove, Anāthapiṇḍika's Monastery"
+}

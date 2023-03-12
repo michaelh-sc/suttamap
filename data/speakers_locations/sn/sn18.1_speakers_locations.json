@@ -1,0 +1,45 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn18.1:1.4^speaker": "Rāhula",
+  "sn18.1:1.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn18.1:2.1+sn18.1:2.2^speaker": "the Buddha",
+  "sn18.1:2.1+sn18.1:2.2^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "sn18.1:2.3^speaker": "Rāhula",
+  "sn18.1:2.4^speaker": "the Buddha",
+  "sn18.1:2.5^speaker": "Rāhula",
+  "sn18.1:2.6+sn18.1:2.7^speaker": "the Buddha",
+  "sn18.1:2.8^speaker": "Rāhula",
+  "sn18.1:3.1^speaker": "the Buddha",
+  "sn18.1:3.2^speaker": "Rāhula",
+  "sn18.1:3.3^speaker": "the Buddha",
+  "sn18.1:3.4^speaker": "Rāhula",
+  "sn18.1:3.5^speaker": "the Buddha",
+  "sn18.1:3.6^speaker": "Rāhula",
+  "sn18.1:3.7^speaker": "the Buddha",
+  "sn18.1:3.8^speaker": "Rāhula",
+  "sn18.1:3.9^speaker": "the Buddha",
+  "sn18.1:3.10^speaker": "Rāhula",
+  "sn18.1:3.11^speaker": "the Buddha",
+  "sn18.1:3.12^speaker": "Rāhula",
+  "sn18.1:3.13+sn18.1:3.14^speaker": "the Buddha",
+  "sn18.1:3.15^speaker": "Rāhula",
+  "sn18.1:4.1+sn18.1:4.3^speaker": "the Buddha",
+  "sn18.1:4.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "sn18.1:4.1^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery in Sāvatthī"
+  ],
+  "sn18.1:4.1^who_around_here_and_before": [
+    "Anāthapiṇḍika"
+  ],
+  "sn18.1^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "sn18.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī"
+}

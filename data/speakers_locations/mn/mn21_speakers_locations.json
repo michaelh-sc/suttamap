@@ -1,0 +1,72 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn21:4.2+mn21:4.3^speaker": "the Buddha",
+  "mn21:4.2+mn21:4.3^who_else_mentioned": [
+    "Phagguna of the Top-Knot"
+  ],
+  "mn21:4.4^speaker": "a certain monk",
+  "mn21:4.5^speaker": "the monk",
+  "mn21:4.5^who_else_mentioned": [
+    "Phagguna"
+  ],
+  "mn21:4.6^speaker": "Phagguna of the Top-Knot",
+  "mn21:5.1+mn21:5.5^speaker": "the Buddha",
+  "mn21:5.1+mn21:5.5^who_else_mentioned": [
+    "Phagguna"
+  ],
+  "mn21:5.6^speaker": "Phagguna of the Top-Knot",
+  "mn21:5.7^speaker": "the Buddha",
+  "mn21:5.7^who_else_mentioned": [
+    "Phagguna"
+  ],
+  "mn21:5.8^speaker": "Phagguna of the Top-Knot",
+  "mn21:6.1+mn21:6.15^speaker": "the Buddha",
+  "mn21:6.1+mn21:6.15^who_else_mentioned": [
+    "Phagguṇa"
+  ],
+  "mn21:6.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn21:6.1^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "mn21:6.1^who_around_here_and_before": [
+    "the mendicants",
+    "the nuns"
+  ],
+  "mn21:6.1^who_mentioned_here_and_before": [
+    "Anāthapiṇḍika"
+  ],
+  "mn21:7.2+mn21:12.7^speaker": "the Buddha",
+  "mn21:7.2+mn21:12.7^where_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "mn21:7.2+mn21:12.7^who_else_mentioned": [
+    "Vedehikā",
+    "Kāḷī"
+  ],
+  "mn21:12.8+mn21:12.12^speaker": "Phagguna of the Top-Knot",
+  "mn21:13.1+mn21:14.5^speaker": "the Buddha",
+  "mn21:14.6+mn21:14.10^speaker": "Phagguna of the Top-Knot",
+  "mn21:15.1+mn21:16.5^speaker": "the Buddha",
+  "mn21:15.1+mn21:16.5^where_else_mentioned": [
+    "Ganges"
+  ],
+  "mn21:16.6+mn21:16.10^speaker": "Phagguna of the Top-Knot",
+  "mn21:16.6+mn21:16.10^where_else_mentioned": [
+    "Ganges"
+  ],
+  "mn21:17.1+mn21:18.6^speaker": "the Buddha",
+  "mn21:18.7+mn21:18.11^speaker": "Phagguna of the Top-Knot",
+  "mn21:19.1+mn21:21.2^speaker": "the Buddha",
+  "mn21:21.3^speaker": "Phagguna of the Top-Knot",
+  "mn21:21.4+mn21:21.5^speaker": "the Buddha",
+  "mn21:21.4^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "mn21^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn21^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

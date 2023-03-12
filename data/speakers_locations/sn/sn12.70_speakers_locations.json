@@ -1,0 +1,156 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn12.70:2.3+sn12.70:2.6^speaker": "the wanderers",
+  "sn12.70:2.3+sn12.70:2.6^who_else_mentioned": [
+    "Susīma",
+    "Gotama"
+  ],
+  "sn12.70:2.7^speaker": "Susīma",
+  "sn12.70:2.9^speaker": "Susīma",
+  "sn12.70:2.9^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn12.70:3.2+sn12.70:3.3^speaker": "Ānanda",
+  "sn12.70:3.2+sn12.70:3.3^who_else_mentioned": [
+    "Susīma"
+  ],
+  "sn12.70:3.4^speaker": "the Buddha",
+  "sn12.70:3.4^who_else_mentioned": [
+    "Ānanda",
+    "Susīma"
+  ],
+  "sn12.70:4.2^speaker": "Susīma",
+  "sn12.70:4.8^speaker": "the mendicants",
+  "sn12.70:4.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn12.70:4.10^speaker": "the mendicants",
+  "sn12.70:5.1^speaker": "Susīma",
+  "sn12.70:5.1^where_else_mentioned": [
+    "Brahmā"
+  ],
+  "sn12.70:5.2^speaker": "the mendicants",
+  "sn12.70:6.1^speaker": "Susīma",
+  "sn12.70:6.2^speaker": "the mendicants",
+  "sn12.70:7.1+sn12.70:7.17^speaker": "Susīma",
+  "sn12.70:7.18^speaker": "the mendicants",
+  "sn12.70:8.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn12.70:8.1^speaker": "Susīma",
+  "sn12.70:8.1^where_here_and_before": [
+    "Rājagaha",
+    "Bamboo Grove",
+    "the squirrels' feeding ground"
+  ],
+  "sn12.70:8.1^who_around_here_and_before": [
+    "Ānanda",
+    "the wanderers",
+    "the mendicants"
+  ],
+  "sn12.70:8.1^who_mentioned_here_and_before": [
+    "Brahmā"
+  ],
+  "sn12.70:8.2^speaker": "the mendicants",
+  "sn12.70:9.1^speaker": "Susīma",
+  "sn12.70:9.2^speaker": "the mendicants",
+  "sn12.70:10.1^speaker": "Susīma",
+  "sn12.70:10.2^speaker": "the mendicants",
+  "sn12.70:11.1^speaker": "Susīma",
+  "sn12.70:11.2^speaker": "the mendicants",
+  "sn12.70:11.2^who_else_mentioned": [
+    "Susīma"
+  ],
+  "sn12.70:12.1+sn12.70:12.2^speaker": "Susīma",
+  "sn12.70:12.3^speaker": "the mendicants",
+  "sn12.70:12.3^who_else_mentioned": [
+    "Susīma"
+  ],
+  "sn12.70:13.3^speaker": "the Buddha",
+  "sn12.70:13.3^who_else_mentioned": [
+    "Susīma"
+  ],
+  "sn12.70:14.1+sn12.70:14.2^speaker": "Susīma",
+  "sn12.70:14.3+sn12.70:15.2^speaker": "the Buddha",
+  "sn12.70:14.3+sn12.70:15.2^who_else_mentioned": [
+    "Susīma"
+  ],
+  "sn12.70:15.3^speaker": "the mendicants",
+  "sn12.70:15.4^speaker": "Susīma",
+  "sn12.70:15.5^speaker": "the mendicants",
+  "sn12.70:15.6+sn12.70:15.7^speaker": "Susīma",
+  "sn12.70:15.8^speaker": "the mendicants",
+  "sn12.70:15.9^speaker": "Susīma",
+  "sn12.70:15.10^speaker": "the mendicants",
+  "sn12.70:15.11^speaker": "Susīma",
+  "sn12.70:15.12^speaker": "the mendicants",
+  "sn12.70:15.13+sn12.70:15.14^speaker": "Susīma",
+  "sn12.70:15.15^speaker": "the mendicants",
+  "sn12.70:15.16^speaker": "Susīma",
+  "sn12.70:15.17^speaker": "the mendicants",
+  "sn12.70:15.18^speaker": "Susīma",
+  "sn12.70:15.19^speaker": "the mendicants",
+  "sn12.70:15.19^who_around_here_and_before": [
+    "the Buddha"
+  ],
+  "sn12.70:15.20^speaker": "the Buddha",
+  "sn12.70:15.21^speaker": "the mendicants",
+  "sn12.70:15.22+sn12.70:15.23^speaker": "the Buddha",
+  "sn12.70:15.24^speaker": "the mendicants",
+  "sn12.70:15.25^speaker": "the Buddha",
+  "sn12.70:15.26^speaker": "the mendicants",
+  "sn12.70:15.27^speaker": "the Buddha",
+  "sn12.70:15.28^speaker": "the mendicants",
+  "sn12.70:15.29+sn12.70:15.30^speaker": "the Buddha",
+  "sn12.70:15.31^speaker": "the mendicants",
+  "sn12.70:16.1+sn12.70:18.1^speaker": "the Buddha",
+  "sn12.70:16.1+sn12.70:18.1^who_else_mentioned": [
+    "Susīma"
+  ],
+  "sn12.70:18.2^speaker": "Susīma",
+  "sn12.70:18.3^speaker": "the Buddha",
+  "sn12.70:18.4^speaker": "Susīma",
+  "sn12.70:18.5^speaker": "the Buddha",
+  "sn12.70:18.6^speaker": "Susīma",
+  "sn12.70:18.7^speaker": "the Buddha",
+  "sn12.70:18.8^speaker": "Susīma",
+  "sn12.70:18.9+sn12.70:18.15^speaker": "the Buddha",
+  "sn12.70:18.16^speaker": "Susīma",
+  "sn12.70:19.1^speaker": "the Buddha",
+  "sn12.70:19.2^speaker": "Susīma",
+  "sn12.70:19.3^speaker": "the Buddha",
+  "sn12.70:19.4^speaker": "Susīma",
+  "sn12.70:19.5+sn12.70:19.13^speaker": "the Buddha",
+  "sn12.70:19.14^speaker": "Susīma",
+  "sn12.70:20.1^speaker": "the Buddha",
+  "sn12.70:20.2^speaker": "Susīma",
+  "sn12.70:21.1^speaker": "the Buddha",
+  "sn12.70:21.2^speaker": "Susīma",
+  "sn12.70:22.1^speaker": "the Buddha",
+  "sn12.70:22.4^speaker": "Susīma",
+  "sn12.70:23.1^speaker": "the Buddha",
+  "sn12.70:23.2^speaker": "Susīma",
+  "sn12.70:24.1^speaker": "the Buddha",
+  "sn12.70:24.2^speaker": "Susīma",
+  "sn12.70:25.1^speaker": "the Buddha",
+  "sn12.70:25.2^speaker": "Susīma",
+  "sn12.70:26.1^speaker": "the Buddha",
+  "sn12.70:26.1^who_else_mentioned": [
+    "Susīma"
+  ],
+  "sn12.70:27.2+sn12.70:27.3^speaker": "Susīma",
+  "sn12.70:28.1+sn12.70:28.8^speaker": "the Buddha",
+  "sn12.70:28.1+sn12.70:28.8^who_else_mentioned": [
+    "Susīma"
+  ],
+  "sn12.70:28.9^speaker": "Susīma",
+  "sn12.70:28.9^who_around_here_and_before": [
+    "the Buddha",
+    "the mendicants"
+  ],
+  "sn12.70:29.1+sn12.70:29.4^speaker": "the Buddha",
+  "sn12.70^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn12.70^where": "Rājagaha, Bamboo Grove, the squirrels' feeding ground"
+}

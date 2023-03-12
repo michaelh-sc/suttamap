@@ -1,0 +1,54 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn55.25:1.6+sn55.25:1.11^speaker": "Mahānāma the Sakyan",
+  "sn55.25:1.6+sn55.25:1.11^who_else_mentioned": [
+    "Buddha",
+    "Sarakāni"
+  ],
+  "sn55.25:1.6^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "sn55.25:1.6^where_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "sn55.25:1.6^who_around_here_and_before": [
+    "The Buddha"
+  ],
+  "sn55.25:1.6^who_mentioned_here_and_before": [
+    "Sarakāni the Sakyan"
+  ],
+  "sn55.25:3.1+sn55.25:10.2^speaker": "the Buddha",
+  "sn55.25:3.1+sn55.25:10.2^who_else_mentioned": [
+    "Mahānāma",
+    "Buddha",
+    "Saṅgha",
+    "Sarakāni",
+    "Sakyan",
+    "Akaniṭṭha"
+  ],
+  "sn55.25:10.3^speaker": "Mahānāma",
+  "sn55.25:10.4+sn55.25:11.3^speaker": "the Buddha",
+  "sn55.25:10.4+sn55.25:11.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn55.25:11.4^speaker": "Mahānāma",
+  "sn55.25:11.5+sn55.25:11.10^speaker": "the Buddha",
+  "sn55.25:11.5+sn55.25:11.10^where_else_mentioned": [
+    "Sarakāni",
+    "Sakyan"
+  ],
+  "sn55.25:11.5+sn55.25:11.10^who_else_mentioned": [
+    "Buddha",
+    "Mahānāma"
+  ],
+  "sn55.25:11.5^who_around_here_and_before": [
+    "Mahānāma the Sakyan"
+  ],
+  "sn55.25:11.5^who_mentioned_here_and_before": [
+    "Sarakāni the Sakyan"
+  ],
+  "sn55.25^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "sn55.25^where": "Kapilavatthu"
+}

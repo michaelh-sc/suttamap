@@ -1,0 +1,74 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn128:3.3^speaker": "a mendicant",
+  "mn128:4.2^speaker": "the Buddha",
+  "mn128:4.4+mn128:4.7^speaker": "a mendicant",
+  "mn128:4.4+mn128:4.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn128:4.16^speaker": "the Buddha",
+  "mn128:4.18+mn128:4.21^speaker": "a mendicant",
+  "mn128:4.18+mn128:4.21^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn128:6.1+mn128:6.41^speaker": "the Buddha",
+  "mn128:6.1+mn128:6.41^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "mn128:7.9^speaker": "the Buddha",
+  "mn128:7.10^speaker": "Bhagu",
+  "mn128:8.4+mn128:8.6^speaker": "the park keeper",
+  "mn128:9.3+mn128:9.4^speaker": "Anuruddha",
+  "mn128:9.3+mn128:9.4^who_else_mentioned": [
+    "Buddha",
+    "the Blessed One"
+  ],
+  "mn128:10.2^speaker": "Anuruddha",
+  "mn128:10.2^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "mn128:10.9^speaker": "the Buddha",
+  "mn128:10.9^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn128:10.10^speaker": "Anuruddha, Nandiya, and Kimbila",
+  "mn128:11.1^speaker": "the Buddha",
+  "mn128:11.2^speaker": "Anuruddha, Nandiya, and Kimbila",
+  "mn128:11.3^speaker": "the Buddha",
+  "mn128:12.1+mn128:12.10^speaker": "Anuruddha",
+  "mn128:12.23^speaker": "Anuruddha, Nandiya, and Kimbila",
+  "mn128:13.1+mn128:13.2^speaker": "the Buddha",
+  "mn128:13.1+mn128:13.2^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn128:14.1^speaker": "Anuruddha, Nandiya, and Kimbila",
+  "mn128:14.2^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "mn128:14.2^speaker": "the Buddha",
+  "mn128:14.2^where_here_and_before": [
+    "Kosambi",
+    "in Ghosita's Monastery",
+    "Eastern Bamboo Park"
+  ],
+  "mn128:14.2^who_around_here_and_before": [
+    "Bhagu",
+    "the park keeper"
+  ],
+  "mn128:14.3+mn128:14.9^speaker": "Anuruddha, Nandiya, and Kimbila",
+  "mn128:15.1+mn128:15.2^speaker": "the Buddha",
+  "mn128:15.1+mn128:15.2^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "mn128:15.3+mn128:15.5^speaker": "Anuruddha, Nandiya, and Kimbila",
+  "mn128:16.1+mn128:32.3^speaker": "the Buddha",
+  "mn128:16.1^who_around_here_and_before": [
+    "Anuruddha",
+    "Nandiya",
+    "Kimbila"
+  ],
+  "mn128^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "mn128^where": "Kosambi, in Ghosita's Monastery, Eastern Bamboo Park"
+}

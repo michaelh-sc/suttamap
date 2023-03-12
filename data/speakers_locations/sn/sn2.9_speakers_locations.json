@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn2.9:2.1+sn2.9:2.4^speaker": "The Moon God",
+  "sn2.9:2.1+sn2.9:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn2.9:4.1+sn2.9:4.4^speaker": "The Buddha",
+  "sn2.9:4.1+sn2.9:4.4^where_else_mentioned": [
+    "Moon"
+  ],
+  "sn2.9:4.1+sn2.9:4.4^who_else_mentioned": [
+    "Buddhas",
+    "Rāhu"
+  ],
+  "sn2.9:6.1+sn2.9:6.4^speaker": "Vepacitti",
+  "sn2.9:6.1+sn2.9:6.4^who_else_mentioned": [
+    "Rāhu",
+    "Moon"
+  ],
+  "sn2.9:7.1+sn2.9:7.4^speaker": "Rāhu",
+  "sn2.9:7.1+sn2.9:7.4^who_else_mentioned": [
+    "Buddha",
+    "Moon"
+  ],
+  "sn2.9:7.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn2.9:7.1^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn2.9:7.1^who_around_here_and_before": [
+    "Rāhu",
+    "Vepacitti"
+  ],
+  "sn2.9:7.1^who_mentioned_here_and_before": [
+    "The Moon God"
+  ],
+  "sn2.9^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn2.9^where": "Sāvatthī"
+}

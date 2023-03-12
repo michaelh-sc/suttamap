@@ -1,0 +1,272 @@
+{
+  "_comment": "This data is a work-in-progress and contains errors. keys with _else are produced with non-trained Stanford NLP and only include capitalized words. + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum",
+  "mn82:2.2+mn82:2.7^speaker": "brahmins of Thullakoṭṭhita, householders of Thullakoṭṭhita",
+  "mn82:2.2+mn82:2.7^where_else_mentioned": [
+    "Thullakoṭṭhita"
+  ],
+  "mn82:2.2+mn82:2.7^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Saṅgha",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn82:4.3+mn82:4.4^speaker": "Raṭṭhapāla",
+  "mn82:4.3+mn82:4.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:6.2+mn82:6.5^speaker": "Raṭṭhapāla",
+  "mn82:6.2+mn82:6.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:6.6^speaker": "the Buddha",
+  "mn82:6.6^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:6.7^speaker": "Raṭṭhapāla",
+  "mn82:6.8^speaker": "the Buddha",
+  "mn82:6.8^who_else_mentioned": [
+    "Raṭṭhapāla",
+    "Buddhas"
+  ],
+  "mn82:6.9^speaker": "Raṭṭhapāla",
+  "mn82:7.2+mn82:7.4^speaker": "Raṭṭhapāla",
+  "mn82:7.2+mn82:7.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:7.6+mn82:7.9^speaker": "Raṭṭhapāla's parents",
+  "mn82:7.6+mn82:7.9^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:7.21^speaker": "Raṭṭhapāla",
+  "mn82:7.22^speaker": "Raṭṭhapāla",
+  "mn82:8.2+mn82:8.10^speaker": "Raṭṭhapāla's parents",
+  "mn82:8.2+mn82:8.10^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:10.2+mn82:10.10^speaker": "Raṭṭhapāla's friends",
+  "mn82:10.2+mn82:10.10^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:10.2^geographic_locations_here_and_before": [
+    "Thullakoṭṭhika"
+  ],
+  "mn82:10.2^where_here_and_before": [
+    "Thullakoṭṭhita"
+  ],
+  "mn82:10.2^who_around_here_and_before": [
+    "a large Saṅgha of mendicants"
+  ],
+  "mn82:10.2^who_mentioned_here_and_before": [
+    "Sakyan family"
+  ],
+  "mn82:11.2+mn82:11.7^speaker": "Raṭṭhapāla's friends",
+  "mn82:11.2+mn82:11.7^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:11.8+mn82:11.9^speaker": "Raṭṭhapāla's parents",
+  "mn82:11.11+mn82:11.12^speaker": "Raṭṭhapāla's friends",
+  "mn82:11.11+mn82:11.12^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:12.2+mn82:12.3^speaker": "Raṭṭhapāla",
+  "mn82:12.2+mn82:12.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:14.2^speaker": "Raṭṭhapāla",
+  "mn82:15.2^speaker": "Raṭṭhapāla",
+  "mn82:15.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:15.6^speaker": "the Buddha",
+  "mn82:17.4^speaker": "Raṭṭhapāla's father",
+  "mn82:18.3^speaker": "Raṭṭhapāla",
+  "mn82:18.6+mn82:18.7^speaker": "Raṭṭhapāla's mother",
+  "mn82:18.6+mn82:18.7^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:18.8^speaker": "Raṭṭhapāla's mother",
+  "mn82:18.10+mn82:18.11^speaker": "Raṭṭhapāla's father",
+  "mn82:18.10+mn82:18.11^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:19.3+mn82:19.4^speaker": "Raṭṭhapāla's father",
+  "mn82:19.3+mn82:19.4^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:19.5+mn82:19.8^speaker": "Raṭṭhapāla",
+  "mn82:19.9^speaker": "Raṭṭhapāla's father",
+  "mn82:19.9^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:19.10^speaker": "Raṭṭhapāla",
+  "mn82:19.11^geographic_locations_here_and_before": [
+    "Thullakoṭṭhika"
+  ],
+  "mn82:19.11^speaker": "Raṭṭhapāla's father",
+  "mn82:19.11^where_here_and_before": [
+    "Thullakoṭṭhita"
+  ],
+  "mn82:19.11^who_around_here_and_before": [
+    "Raṭṭhapāla's former wives"
+  ],
+  "mn82:19.11^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:19.11^who_mentioned_here_and_before": [
+    "King Koravya"
+  ],
+  "mn82:20.2^speaker": "Raṭṭhapāla's former wives",
+  "mn82:20.2^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:21.2^speaker": "Raṭṭhapāla's father",
+  "mn82:22.2+mn82:22.4^speaker": "Raṭṭhapāla's father",
+  "mn82:22.2+mn82:22.4^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:22.5+mn82:22.7^speaker": "Raṭṭhapāla",
+  "mn82:22.5+mn82:22.7^where_else_mentioned": [
+    "Ganges"
+  ],
+  "mn82:23.2^speaker": "Raṭṭhapāla's former wives",
+  "mn82:23.3^speaker": "Raṭṭhapāla",
+  "mn82:23.4^speaker": "Raṭṭhapāla's former wives",
+  "mn82:23.4^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:24.2+mn82:24.3^speaker": "Raṭṭhapāla",
+  "mn82:24.4^speaker": "Raṭṭhapāla's father",
+  "mn82:24.4^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:25.1+mn82:25.24^speaker": "Raṭṭhapāla",
+  "mn82:27.2+mn82:27.3^speaker": "King Koravya",
+  "mn82:27.4^speaker": "gamekeeper",
+  "mn82:27.6+mn82:27.7^speaker": "gamekeeper",
+  "mn82:27.6+mn82:27.7^where_else_mentioned": [
+    "Thullakoṭṭhita"
+  ],
+  "mn82:27.6+mn82:27.7^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:27.8+mn82:27.9^speaker": "King Koravya",
+  "mn82:27.8+mn82:27.9^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:28.1^speaker": "King Koravya",
+  "mn82:28.3^speaker": "King Koravya",
+  "mn82:28.3^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:28.4+mn82:28.5^speaker": "Raṭṭhapāla",
+  "mn82:28.4^geographic_locations_here_and_before": [
+    "Thullakoṭṭhika"
+  ],
+  "mn82:28.4^where_here_and_before": [
+    "Thullakoṭṭhita"
+  ],
+  "mn82:28.4^who_around_here_and_before": [
+    "Raṭṭhapāla's father",
+    "Raṭṭhapāla's former wives",
+    "King Koravya",
+    "gamekeeper"
+  ],
+  "mn82:29.1+mn82:34.3^speaker": "King Koravya",
+  "mn82:29.1+mn82:34.3^where_else_mentioned": [
+    "Thullakoṭṭhita"
+  ],
+  "mn82:29.1+mn82:34.3^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:35.1+mn82:37.1^speaker": "Raṭṭhapāla",
+  "mn82:35.1+mn82:37.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:38.1+mn82:38.3^speaker": "King Koravya",
+  "mn82:38.1+mn82:38.3^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:38.4+mn82:38.5^speaker": "Raṭṭhapāla",
+  "mn82:38.6+mn82:38.7^speaker": "King Koravya",
+  "mn82:38.6+mn82:38.7^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:38.8+mn82:38.9^speaker": "Raṭṭhapāla",
+  "mn82:38.10+mn82:38.12^speaker": "King Koravya",
+  "mn82:38.10+mn82:38.12^who_else_mentioned": [
+    "Raṭṭhapāla"
+  ],
+  "mn82:38.13+mn82:38.14^speaker": "Raṭṭhapāla",
+  "mn82:38.13+mn82:38.14^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:38.16+mn82:39.4^speaker": "King Koravya",
+  "mn82:38.16+mn82:39.4^who_else_mentioned": [
+    "Raṭṭhapāla",
+    "Buddha"
+  ],
+  "mn82:39.5+mn82:39.6^speaker": "Raṭṭhapāla",
+  "mn82:39.7+mn82:39.9^speaker": "King Koravya",
+  "mn82:39.10+mn82:39.13^speaker": "Raṭṭhapāla",
+  "mn82:39.14+mn82:39.16^speaker": "King Koravya",
+  "mn82:39.17+mn82:39.18^speaker": "Raṭṭhapāla",
+  "mn82:39.17+mn82:39.18^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:39.20+mn82:40.4^speaker": "King Koravya",
+  "mn82:39.20+mn82:40.4^who_else_mentioned": [
+    "Raṭṭhapāla",
+    "Buddha"
+  ],
+  "mn82:40.5+mn82:40.7^speaker": "Raṭṭhapāla",
+  "mn82:40.8+mn82:40.10^speaker": "King Koravya",
+  "mn82:40.11+mn82:40.12^speaker": "Raṭṭhapāla",
+  "mn82:40.11+mn82:40.12^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:40.14+mn82:41.3^speaker": "King Koravya",
+  "mn82:40.14+mn82:41.3^who_else_mentioned": [
+    "Raṭṭhapāla",
+    "Buddha"
+  ],
+  "mn82:41.4+mn82:41.5^speaker": "Raṭṭhapāla",
+  "mn82:41.4+mn82:41.5^where_else_mentioned": [
+    "Kuru"
+  ],
+  "mn82:41.6^speaker": "King Koravya",
+  "mn82:41.7+mn82:41.17^speaker": "Raṭṭhapāla",
+  "mn82:41.18^speaker": "King Koravya",
+  "mn82:41.19+mn82:41.32^speaker": "Raṭṭhapāla",
+  "mn82:41.33^speaker": "King Koravya",
+  "mn82:41.34+mn82:41.36^speaker": "Raṭṭhapāla",
+  "mn82:41.34+mn82:41.36^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn82:41.37+mn82:41.40^speaker": "King Koravya",
+  "mn82:41.37+mn82:41.40^who_else_mentioned": [
+    "Raṭṭhapāla",
+    "Buddha"
+  ],
+  "mn82:41.37^geographic_locations_here_and_before": [
+    "Thullakoṭṭhika"
+  ],
+  "mn82:41.37^where_here_and_before": [
+    "Thullakoṭṭhita"
+  ],
+  "mn82:41.37^who_around_here_and_before": [
+    "a group of eminent officials"
+  ],
+  "mn82:41.37^who_mentioned_here_and_before": [
+    "the Buddha"
+  ],
+  "mn82:42.3+mn82:42.54^speaker": "Raṭṭhapāla",
+  "mn82:42.3^who_mentioned_here_and_before": [
+    "Rich people"
+  ],
+  "mn82^initial_geographic_location": [
+    "Thullakoṭṭhika"
+  ],
+  "mn82^where": "Thullakoṭṭhita"
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn47:1.4^speaker": "The Buddha",
+  "mn47:1.5^speaker": "The mendicants",
+  "mn47:2.1^speaker": "The Buddha",
+  "mn47:2.1^who_else_mentioned": [
+    "the Realized One",
+    "Buddha"
+  ],
+  "mn47:3.1^speaker": "The mendicants",
+  "mn47:3.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn47:3.2^speaker": "The Buddha",
+  "mn47:3.3^speaker": "The mendicants",
+  "mn47:4.1+mn47:16.4^speaker": "The Buddha",
+  "mn47:4.1+mn47:16.4^who_else_mentioned": [
+    "the Realized One",
+    "Buddha",
+    "The Realized One",
+    "The Blessed One",
+    "Saṅgha",
+    "Māra",
+    "Brahmā"
+  ],
+  "mn47:4.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "mn47:4.1^where_here_and_before": [
+    "Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "mn47:4.1^who_around_here_and_before": [
+    "The mendicants"
+  ],
+  "mn47:10.8^speaker": "The Buddha",
+  "mn47:15.8^speaker": "The Buddha",
+  "mn47:15.8^who_else_mentioned": [
+    "The Blessed One",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn47^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn47^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
+}

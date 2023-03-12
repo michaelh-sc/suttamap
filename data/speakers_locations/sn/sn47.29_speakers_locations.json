@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn47.29:1.4+sn47.29:1.8^speaker": "the man",
+  "sn47.29:1.4+sn47.29:1.8^who_else_mentioned": [
+    "Siriva"
+  ],
+  "sn47.29:1.9^speaker": "the man",
+  "sn47.29:2.2^speaker": "Ānanda",
+  "sn47.29:2.3^speaker": "Sirivaḍḍha",
+  "sn47.29:3.1+sn47.29:3.6^speaker": "Ānanda",
+  "sn47.29:4.1+sn47.29:4.6^speaker": "Sirivaḍḍha",
+  "sn47.29:4.1+sn47.29:4.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn47.29:4.7+sn47.29:4.8^speaker": "Ānanda",
+  "sn47.29:4.7^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "sn47.29:4.7^where_here_and_before": [
+    "Bamboo Grove",
+    "Rājagaha"
+  ],
+  "sn47.29:4.7^who_around_here_and_before": [
+    "the man"
+  ],
+  "sn47.29:4.7^who_mentioned_here_and_before": [
+    "the Buddha"
+  ],
+  "sn47.29^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "sn47.29^where": "Bamboo Grove, Rājagaha"
+}

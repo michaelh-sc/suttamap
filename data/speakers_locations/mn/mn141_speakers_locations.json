@@ -1,0 +1,63 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn141:1.4^speaker": "The Buddha",
+  "mn141:1.5^speaker": "The mendicants",
+  "mn141:2.1+mn141:5.7^speaker": "The Buddha",
+  "mn141:2.1+mn141:5.7^where_else_mentioned": [
+    "Isipatana"
+  ],
+  "mn141:2.1+mn141:5.7^who_else_mentioned": [
+    "Buddha",
+    "Māra",
+    "Brahmā",
+    "Moggallāna",
+    "Sāriputta"
+  ],
+  "mn141:7.2^speaker": "Sāriputta",
+  "mn141:7.3^geographic_locations_here_and_before": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "mn141:7.3^speaker": "The mendicants",
+  "mn141:7.3^where_here_and_before": [
+    "Near Benares in the deer park at Isipatana"
+  ],
+  "mn141:7.3^who_around_here_and_before": [
+    "The mendicants"
+  ],
+  "mn141:7.3^who_mentioned_here_and_before": [
+    "Māra",
+    "Brahmā"
+  ],
+  "mn141:8.1+mn141:32.2^speaker": "Sāriputta",
+  "mn141:8.1+mn141:32.2^where_else_mentioned": [
+    "Isipatana"
+  ],
+  "mn141:8.1+mn141:32.2^who_else_mentioned": [
+    "Buddha",
+    "Māra",
+    "Brahmā"
+  ],
+  "mn141:8.1^geographic_locations_here_and_before": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "mn141:8.1^where_here_and_before": [
+    "Near Benares in the deer park at Isipatana"
+  ],
+  "mn141:8.1^who_around_here_and_before": [
+    "The Buddha"
+  ],
+  "mn141:8.1^who_mentioned_here_and_before": [
+    "Ascetic",
+    "Brahmin",
+    "God",
+    "Māra",
+    "Brahmā"
+  ],
+  "mn141^initial_geographic_location": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "mn141^where": "Near Benares, in the deer park at Isipatana"
+}

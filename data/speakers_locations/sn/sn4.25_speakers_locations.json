@@ -1,0 +1,34 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn4.25:2.1+sn4.25:2.6^speaker": "Māra the Wicked",
+  "sn4.25:3.1+sn4.25:3.4^speaker": "Māra the Wicked",
+  "sn4.25:3.1+sn4.25:3.4^who_else_mentioned": [
+    "Māra"
+  ],
+  "sn4.25:4.2^speaker": "Craving, Delight, and Lust",
+  "sn4.25:5.2+sn4.25:5.3^speaker": "Craving, Delight, and Lust",
+  "sn4.25:5.5^speaker": "Craving, Delight, and Lust",
+  "sn4.25:6.2+sn4.25:6.3^speaker": "Craving, Delight, and Lust",
+  "sn4.25:6.5^speaker": "Craving, Delight, and Lust",
+  "sn4.25:9.7+sn4.25:11.2^speaker": "Craving, Delight, and Lust",
+  "sn4.25:9.7+sn4.25:11.2^who_else_mentioned": [
+    "Māra"
+  ],
+  "sn4.25:13.1+sn4.25:13.5^speaker": "Craving",
+  "sn4.25:14.1+sn4.25:14.5^speaker": "the Buddha",
+  "sn4.25:16.1+sn4.25:16.4^speaker": "Delight",
+  "sn4.25:17.1+sn4.25:18.4^speaker": "the Buddha",
+  "sn4.25:20.1+sn4.25:20.4^speaker": "Lust",
+  "sn4.25:21.1+sn4.25:21.4^speaker": "the Buddha",
+  "sn4.25:23.1+sn4.25:24.4^speaker": "Māra the Wicked",
+  "sn4.25:23.1+sn4.25:24.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "sn4.25:25.1+sn4.25:25.4^speaker": "Māra the Wicked",
+  "sn4.25:25.1^who_around_here_and_before": [
+    "Māra the Wicked",
+    "Craving",
+    "Delight",
+    "Lust"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn152:2.3^speaker": "the Buddha",
+  "mn152:2.3^who_else_mentioned": [
+    "Uttara",
+    "Pārāsariya"
+  ],
+  "mn152:2.4^speaker": "Uttara",
+  "mn152:2.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn152:2.5^speaker": "the Buddha",
+  "mn152:2.6+mn152:2.7^speaker": "Uttara",
+  "mn152:2.6+mn152:2.7^who_else_mentioned": [
+    "Gotama",
+    "Pārāsariya"
+  ],
+  "mn152:2.8+mn152:2.10^speaker": "the Buddha",
+  "mn152:2.8+mn152:2.10^who_else_mentioned": [
+    "Uttara",
+    "Pārāsariya"
+  ],
+  "mn152:3.2^speaker": "the Buddha",
+  "mn152:3.2^who_else_mentioned": [
+    "Pārāsariya"
+  ],
+  "mn152:3.3+mn152:3.4^speaker": "Ānanda",
+  "mn152:3.3+mn152:3.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn152:3.5^speaker": "the Buddha",
+  "mn152:3.5^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn152:3.6^geographic_locations_here_and_before": [
+    "Gajaṅgala"
+  ],
+  "mn152:3.6^speaker": "Ānanda",
+  "mn152:3.6^where_here_and_before": [
+    "Kajaṅgalā in a bamboo grove"
+  ],
+  "mn152:3.6^who_around_here_and_before": [
+    "Uttara",
+    "Ānanda"
+  ],
+  "mn152:3.6^who_mentioned_here_and_before": [
+    "Pārāsariya"
+  ],
+  "mn152:4.1+mn152:18.2^speaker": "the Buddha",
+  "mn152:4.1+mn152:18.2^who_else_mentioned": [
+    "Ānanda",
+    "the Noble One"
+  ],
+  "mn152:4.1^where_here_and_before": [
+    "Empty huts"
+  ],
+  "mn152:4.1^who_mentioned_here_and_before": [
+    "Pārāsariya"
+  ],
+  "mn152^initial_geographic_location": [
+    "Gajaṅgala"
+  ],
+  "mn152^where": "Kajaṅgalā in a bamboo grove"
+}

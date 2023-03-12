@@ -1,0 +1,21 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.36:1.1+an3.36:22.4^speaker": "the Buddha (assumed)",
+  "an3.36:1.1+an3.36:22.4^where_else_mentioned": [
+    "the Great Hell"
+  ],
+  "an3.36:1.1+an3.36:22.4^who_else_mentioned": [
+    "Yama",
+    "King Yama",
+    "Buddha"
+  ],
+  "an3.36:4.3^speaker": "the Buddha (assumed)",
+  "an3.36:7.3^speaker": "the Buddha (assumed)",
+  "an3.36:11.3^speaker": "the Buddha (assumed)",
+  "an3.36:11.3^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an3.36:11.3^who_mentioned_here_and_before": [
+    "Three messengers of the gods"
+  ]
+}

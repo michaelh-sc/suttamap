@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.100:2.2+an5.100:2.4^speaker": "the god Kakudha",
+  "an5.100:2.2+an5.100:2.4^who_else_mentioned": [
+    "Devadatta",
+    "Saṅgha"
+  ],
+  "an5.100:5.1+an5.100:5.2^speaker": "the Buddha",
+  "an5.100:5.1+an5.100:5.2^who_else_mentioned": [
+    "Moggallāna",
+    "Kakudha"
+  ],
+  "an5.100:5.3^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "an5.100:5.3^speaker": "Mahāmoggallāna",
+  "an5.100:5.3^where_here_and_before": [
+    "Ghosita's Monastery near Kosambi"
+  ],
+  "an5.100:5.3^who_around_here_and_before": [
+    "Mahāmoggallāna"
+  ],
+  "an5.100:5.3^who_mentioned_here_and_before": [
+    "Devadatta"
+  ],
+  "an5.100:5.5+an5.100:11.10^speaker": "the Buddha",
+  "an5.100:5.5+an5.100:11.10^who_else_mentioned": [
+    "Mark",
+    "Moggallāna",
+    "Devadatta"
+  ],
+  "an5.100:5.5^who_around_here_and_before": [
+    "Mahāmoggallāna"
+  ],
+  "an5.100:5.5^who_mentioned_here_and_before": [
+    "Kakudha"
+  ],
+  "an5.100^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "an5.100^where": "Ghosita's Monastery, near Kosambi"
+}

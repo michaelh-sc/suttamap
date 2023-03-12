@@ -1,0 +1,53 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn4.23:2.2+sn4.23:2.3^speaker": "Godhika",
+  "sn4.23:3.1+sn4.23:5.4^speaker": "Māra the Wicked",
+  "sn4.23:7.1+sn4.23:7.4^speaker": "the Buddha",
+  "sn4.23:7.1+sn4.23:7.4^where_else_mentioned": [
+    "Godhika"
+  ],
+  "sn4.23:8.2^speaker": "the Buddha",
+  "sn4.23:8.2^where_else_mentioned": [
+    "the Black Rock",
+    "Isigili"
+  ],
+  "sn4.23:8.2^who_else_mentioned": [
+    "Godhika"
+  ],
+  "sn4.23:8.3^speaker": "the mendicants",
+  "sn4.23:10.2^speaker": "the Buddha",
+  "sn4.23:10.3^speaker": "the mendicants",
+  "sn4.23:10.4+sn4.23:10.6^speaker": "the Buddha",
+  "sn4.23:10.4+sn4.23:10.6^who_else_mentioned": [
+    "Māra",
+    "Godhika"
+  ],
+  "sn4.23:11.1+sn4.23:11.4^speaker": "Māra the Wicked",
+  "sn4.23:11.1+sn4.23:11.4^who_else_mentioned": [
+    "Godhika"
+  ],
+  "sn4.23:12.1+sn4.23:13.4^speaker": "the Buddha",
+  "sn4.23:12.1+sn4.23:13.4^who_else_mentioned": [
+    "Godhika"
+  ],
+  "sn4.23:12.1^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Isigili"
+  ],
+  "sn4.23:12.1^where_here_and_before": [
+    "Rājagaha",
+    "in the Bamboo Grove",
+    "the squirrels' feeding ground; the Black Rock on the slopes of Isigili"
+  ],
+  "sn4.23:12.1^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "sn4.23:12.1^who_mentioned_here_and_before": [
+    "Godhika"
+  ],
+  "sn4.23^initial_geographic_location": [
+    "Rājagaha",
+    "Isigili"
+  ],
+  "sn4.23^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground; the Black Rock on the slopes of Isigili"
+}

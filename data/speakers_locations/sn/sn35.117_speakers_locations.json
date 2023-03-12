@@ -1,0 +1,34 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.117:1.1+sn35.117:1.9^speaker": "the Buddha (assumed)",
+  "sn35.117:2.2+sn35.117:2.6^speaker": "those mendicants",
+  "sn35.117:2.2+sn35.117:2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn35.117:3.2+sn35.117:3.4^speaker": "those mendicants",
+  "sn35.117:3.2+sn35.117:3.4^who_else_mentioned": [
+    "Ānanda",
+    "Buddha"
+  ],
+  "sn35.117:5.15^speaker": "those mendicants",
+  "sn35.117:6.1^speaker": "Ānanda",
+  "sn35.117:6.2^speaker": "those mendicants",
+  "sn35.117:7.1^speaker": "Ānanda",
+  "sn35.117:7.2^speaker": "those mendicants",
+  "sn35.117:8.1+sn35.117:8.14^speaker": "Ānanda",
+  "sn35.117:8.1+sn35.117:8.14^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn35.117:9.1^speaker": "those mendicants",
+  "sn35.117:10.14^speaker": "those mendicants",
+  "sn35.117:10.14^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn35.117:11.1+sn35.117:11.3^speaker": "the Buddha",
+  "sn35.117:11.1+sn35.117:11.3^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "sn35.117:11.1^who_around_here_and_before": [
+    "Ānanda"
+  ]
+}

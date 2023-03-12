@@ -1,0 +1,47 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn56.11:2.1+sn56.11:10.3^speaker": "the Buddha",
+  "sn56.11:2.1+sn56.11:10.3^who_else_mentioned": [
+    "Māras",
+    "Brahmās"
+  ],
+  "sn56.11:11.2^speaker": "Koṇḍañña",
+  "sn56.11:12.2^speaker": "the Earth Gods",
+  "sn56.11:12.2^where_else_mentioned": [
+    "Isipatana"
+  ],
+  "sn56.11:12.2^who_else_mentioned": [
+    "Buddha",
+    "Māra",
+    "Brahmā"
+  ],
+  "sn56.11:12.11^speaker": "the Gods of the Four Great Kings, the Gods of the Thirty-Three, the Gods of Yama, the Joyful Gods, the Gods Who Love to Create, the Gods Who Control the Creations of Others, the Gods of Brahmā's Host",
+  "sn56.11:12.11^where_else_mentioned": [
+    "Isipatana"
+  ],
+  "sn56.11:12.11^who_else_mentioned": [
+    "Buddha",
+    "Māra",
+    "Brahmā"
+  ],
+  "sn56.11:14.2^speaker": "the Buddha",
+  "sn56.11:14.2^who_else_mentioned": [
+    "Koṇḍañña"
+  ],
+  "sn56.11:14.3^geographic_locations_here_and_before": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "sn56.11:14.3^where_here_and_before": [
+    "Benares",
+    "in the deer park at Isipatana"
+  ],
+  "sn56.11:14.3^who_around_here_and_before": [
+    "the group of five mendicants"
+  ],
+  "sn56.11^initial_geographic_location": [
+    "Bārānasī",
+    "Isipatana"
+  ],
+  "sn56.11^where": "Benares, in the deer park at Isipatana."
+}

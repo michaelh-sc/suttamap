@@ -1,0 +1,35 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.72:2.3+an10.72:2.6^speaker": "Venerables Cāla, Upacāla, Kakkaṭa, Kaṭimbha, Kaṭa, Kaṭissaṅga",
+  "an10.72:2.3+an10.72:2.6^where_else_mentioned": [
+    "the Great Wood"
+  ],
+  "an10.72:2.3+an10.72:2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "an10.72:3.2+an10.72:3.3^speaker": "the Buddha",
+  "an10.72:3.2+an10.72:3.3^who_else_mentioned": [
+    "Cāla",
+    "Upacāla",
+    "Kakkaṭa",
+    "Kaṭimbha",
+    "Kaṭa",
+    "Kaṭissaṅga"
+  ],
+  "an10.72:5.1+an10.72:7.6^speaker": "the Buddha",
+  "an10.72:5.1^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "an10.72:5.1^where_here_and_before": [
+    "Vesālī",
+    "at the Great Wood"
+  ],
+  "an10.72:5.1^who_around_here_and_before": [
+    "several well-known Licchavis",
+    "the mendicants"
+  ],
+  "an10.72^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "an10.72^where": "Vesālī, at the Great Wood"
+}

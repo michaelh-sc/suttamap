@@ -1,0 +1,24 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.61:2.1^speaker": "the Buddha",
+  "an7.61:2.1^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "an7.61:2.2^speaker": "Mahāmoggallāna",
+  "an7.61:2.3+an7.61:11.8^speaker": "the Buddha",
+  "an7.61:2.3+an7.61:11.8^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "an7.61:12.2^speaker": "Mahāmoggallāna",
+  "an7.61:13.1+an7.61:13.10^speaker": "the Buddha",
+  "an7.61:13.1^where_here_and_before": [
+    "The land of the Bhaggas on Crocodile Hill in the deer park at Bhesakaḷā's Wood near Kallavāḷamutta Village in the land of the Magadhans"
+  ],
+  "an7.61:13.1^geographic_locations_here_and_before": [
+    "Susumāragiri"
+  ],
+  "an7.61^initial_geographic_location": [
+    "Susumāragiri"
+  ],
+  "an7.61^where": "The land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood and near Kallavāḷamutta Village in the land of the Magadhans."
+}
