@@ -35,14 +35,14 @@
   "mn91:8.2+mn91:8.3^who_else_mentioned": [
     "Gotama"
   ],
-  "mn91:8.7^geographic_locations_here_and_before": [
+  "mn91:8.7^event_dppn_headwords_before_or_around_this_segment": [
     "Videha"
   ],
   "mn91:8.7^speaker": "Brahmāyu",
-  "mn91:8.7^where_here_and_before": [
+  "mn91:8.7^where_before_or_around_this_segment": [
     "the land of the Videhans"
   ],
-  "mn91:8.7^who_around_here_and_before": [
+  "mn91:8.7^who_present_before_or_around_this_segment": [
     "the Buddha",
     "a large Saṅgha of five hundred mendicants"
   ],
@@ -50,7 +50,7 @@
     "Uttara",
     "Gotama"
   ],
-  "mn91:8.7^who_mentioned_here_and_before": [
+  "mn91:8.7^who_mentioned_before_or_around_this_segment": [
     "Uttara"
   ],
   "mn91:8.9+mn91:22.2^speaker": "Uttara",
@@ -124,19 +124,19 @@
     "I am the brahmin Brahmāyu",
     "Gotama"
   ],
-  "mn91:34.2^geographic_locations_here_and_before": [
+  "mn91:34.2^event_dppn_headwords_before_or_around_this_segment": [
     "Mithilā"
   ],
-  "mn91:34.2^where_here_and_before": [
+  "mn91:34.2^where_before_or_around_this_segment": [
     "Makhādeva Mango Grove",
     "Mithilā"
   ],
-  "mn91:34.2^who_around_here_and_before": [
+  "mn91:34.2^who_present_before_or_around_this_segment": [
     "studentof Mithilā",
     "brahmins of Mithilā",
     "householders of Mithilā"
   ],
-  "mn91:34.2^who_mentioned_here_and_before": [
+  "mn91:34.2^who_mentioned_before_or_around_this_segment": [
     "Sakyan"
   ],
   "mn91:35.2+mn91:35.3^speaker": "the assembly",
@@ -163,16 +163,16 @@
   "mn91:39.6+mn91:39.7^who_else_mentioned": [
     "Brahmāyu"
   ],
-  "mn91:39.6^where_here_and_before": [
+  "mn91:39.6^where_before_or_around_this_segment": [
     "the home of the brahmin Brahmāyu"
   ],
-  "mn91:39.6^who_around_here_and_before": [
+  "mn91:39.6^who_present_before_or_around_this_segment": [
     "Saṅgha of mendicants"
   ],
-  "mn91:39.6^who_mentioned_here_and_before": [
+  "mn91:39.6^who_mentioned_before_or_around_this_segment": [
     "Dhamma"
   ],
-  "mn91^initial_geographic_location": [
+  "mn91^initial_location_dppn_headword": [
     "Videha"
   ],
   "mn91^where": "the land of the Videhans"

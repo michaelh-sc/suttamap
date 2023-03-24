@@ -1,31 +1,31 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn130:1.4^speaker": "The Buddha",
+  "mn130:1.4^speaker": "the Buddha",
   "mn130:1.5^speaker": "the mendicants",
-  "mn130:2.1+mn130:7.12^speaker": "The Buddha",
+  "mn130:2.1+mn130:7.12^speaker": "the Buddha",
   "mn130:2.1+mn130:7.12^who_else_mentioned": [
     "Yama"
   ],
-  "mn130:4.7^speaker": "The Buddha",
-  "mn130:5.11^speaker": "The Buddha",
-  "mn130:6.11^speaker": "The Buddha",
-  "mn130:8.11^geographic_locations_here_and_before": [
+  "mn130:4.7^speaker": "the Buddha",
+  "mn130:5.11^speaker": "the Buddha",
+  "mn130:6.11^speaker": "the Buddha",
+  "mn130:8.11^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn130:8.11^speaker": "The Buddha",
-  "mn130:8.11^where_here_and_before": [
+  "mn130:8.11^speaker": "the Buddha",
+  "mn130:8.11^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī"
   ],
-  "mn130:8.11^who_around_here_and_before": [
+  "mn130:8.11^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika's monastery"
   ],
-  "mn130:8.11^who_mentioned_here_and_before": [
+  "mn130:8.11^who_mentioned_before_or_around_this_segment": [
     "King Yama",
     "the wardens of hell",
     "the fifth messenger of the gods"
   ],
-  "mn130^initial_geographic_location": [
+  "mn130^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn130^where": "Jeta's Grove, Sāvatthī"

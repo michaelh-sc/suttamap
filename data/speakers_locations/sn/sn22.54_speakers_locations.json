@@ -5,16 +5,16 @@
   "sn22.54:1.8+sn22.54:1.9^speaker": "the Buddha",
   "sn22.54:1.10^speaker": "the mendicants",
   "sn22.54:1.11+sn22.54:4.10^speaker": "the Buddha",
-  "sn22.54:1.11^geographic_locations_here_and_before": [
+  "sn22.54:1.11^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.54:1.11^where_here_and_before": [
+  "sn22.54:1.11^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.54:1.11^who_around_here_and_before": [
+  "sn22.54:1.11^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn22.54^initial_geographic_location": [
+  "sn22.54^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.54^where": "Sāvatthī"

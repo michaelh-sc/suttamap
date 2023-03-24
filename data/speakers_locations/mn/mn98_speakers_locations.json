@@ -24,21 +24,21 @@
     "Bhāradvāja",
     "Gotama"
   ],
-  "mn98:8.1^geographic_locations_here_and_before": [
+  "mn98:8.1^event_dppn_headwords_before_or_around_this_segment": [
     "Iccānaṅgala"
   ],
   "mn98:8.1^speaker": "the Buddha",
-  "mn98:8.1^where_here_and_before": [
+  "mn98:8.1^where_before_or_around_this_segment": [
     "a forest near Icchānaṅgala"
   ],
-  "mn98:8.1^who_around_here_and_before": [
+  "mn98:8.1^who_present_before_or_around_this_segment": [
     "Caṅkī",
     "Tārukkha",
     "Pokkharasāti",
     "Jāṇussoṇi",
     "Todeyya"
   ],
-  "mn98:8.1^who_mentioned_here_and_before": [
+  "mn98:8.1^who_mentioned_before_or_around_this_segment": [
     "the ascetic Buddha"
   ],
   "mn98:8.3+mn98:13.16^speaker": "the Buddha",
@@ -53,14 +53,14 @@
     "Gotama",
     "Saṅgha"
   ],
-  "mn98:14.2^who_around_here_and_before": [
+  "mn98:14.2^who_present_before_or_around_this_segment": [
     "Bhāradvāja"
   ],
-  "mn98:14.2^who_mentioned_here_and_before": [
+  "mn98:14.2^who_mentioned_before_or_around_this_segment": [
     "Brahmā",
     "Sakka"
   ],
-  "mn98^initial_geographic_location": [
+  "mn98^initial_location_dppn_headword": [
     "Iccānaṅgala"
   ],
   "mn98^where": "a forest near Icchānaṅgala"

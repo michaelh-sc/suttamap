@@ -3,16 +3,16 @@
   "an6.49:2.1+an6.49:2.2^speaker": "Khema",
   "an6.49:3.2+an6.49:3.3^speaker": "Sumana",
   "an6.49:4.2+an6.49:5.4^speaker": "the Buddha (assumed)",
-  "an6.49:4.2^geographic_locations_here_and_before": [
+  "an6.49:4.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an6.49:4.2^where_here_and_before": [
+  "an6.49:4.2^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "an6.49:4.2^who_around_here_and_before": [
+  "an6.49:4.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "an6.49^initial_geographic_location": [
+  "an6.49^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an6.49^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

@@ -104,6 +104,19 @@
     "Mahāli"
   ],
   "dn6:14.3^speaker": "Oṭṭhaddha the Licchavi",
+  "dn6:14.4+dn6:19.8^speaker": "the Buddha",
+  "dn6:14.4+dn6:19.8^where_else_mentioned": [
+    "Kosambī",
+    "Ghosita's Monastery"
+  ],
+  "dn6:14.4+dn6:19.8^who_else_mentioned": [
+    "Mahāli",
+    "Muṇḍiya",
+    "Jāliya",
+    "wood-bowl ascetic",
+    "Realized One",
+    "Reverend Gotama"
+  ],
   "dn6:16.9^speaker": "the Buddha",
   "dn6:16.14^speaker": "the Buddha",
   "dn6:17.5^speaker": "the Buddha",
@@ -113,18 +126,18 @@
   "dn6:19.1^speaker": "the Buddha",
   "dn6:19.3^speaker": "the Buddha",
   "dn6:19.8^speaker": "the Buddha",
-  "dn6:19.8^where_here_and_before": [
-    "Ves"
+  "dn6:19.8^where_before_or_around_this_segment": [
+    "Vesālī"
   ],
-  "dn6:19.8^who_around_here_and_before": [
+  "dn6:19.8^who_present_before_or_around_this_segment": [
     "Nāgita",
     "novice Sīha",
     "brahmin emissaries",
     "Oṭṭhaddha the Licchavi",
     "a large assembly of Licchavis"
   ],
-  "dn6:19.8^who_mentioned_here_and_before": [
+  "dn6:19.8^who_mentioned_before_or_around_this_segment": [
     "Sunakkhatta the Licchavi"
   ],
-  "dn6^where": "Ves"
+  "dn6^where": "Vesālī"
 }

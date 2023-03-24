@@ -18,16 +18,16 @@
     "Buddha"
   ],
   "sn55.27:12.9+sn55.27:12.10^speaker": "Ānanda",
-  "sn55.27:12.9^geographic_locations_here_and_before": [
+  "sn55.27:12.9^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn55.27:12.9^where_here_and_before": [
+  "sn55.27:12.9^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn55.27:12.9^who_around_here_and_before": [
+  "sn55.27:12.9^who_present_before_or_around_this_segment": [
     "the man"
   ],
-  "sn55.27^initial_geographic_location": [
+  "sn55.27^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn55.27^where": "Sāvatthī"

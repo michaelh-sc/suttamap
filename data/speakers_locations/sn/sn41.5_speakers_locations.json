@@ -15,16 +15,16 @@
   "sn41.5:7.2+sn41.5:7.3^who_else_mentioned": [
     "Buddha"
   ],
-  "sn41.5:7.2^geographic_locations_here_and_before": [
+  "sn41.5:7.2^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
-  "sn41.5:7.2^where_here_and_before": [
+  "sn41.5:7.2^where_before_or_around_this_segment": [
     "Macchikāsaṇḍa in the Wild Mango Grove"
   ],
-  "sn41.5:7.2^who_around_here_and_before": [
+  "sn41.5:7.2^who_present_before_or_around_this_segment": [
     "Citta the householder"
   ],
-  "sn41.5^initial_geographic_location": [
+  "sn41.5^initial_location_dppn_headword": [
     "Macchikāsaṇḍa"
   ],
   "sn41.5^where": "Macchikāsaṇḍa in the Wild Mango Grove"

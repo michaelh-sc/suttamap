@@ -4,7 +4,7 @@
   "an2.32:1.3^speaker": "the mendicants",
   "an2.32:2.1+an2.32:2.7^speaker": "the Buddha (assumed)",
   "an2.33:1.1+an2.33:1.9^speaker": "the Buddha (assumed)",
-  "an2.33:1.1^who_mentioned_here_and_before": [
+  "an2.33:1.1^who_mentioned_before_or_around_this_segment": [
     "unfaithful parents",
     "unethical parents",
     "stingy parents",
@@ -18,7 +18,7 @@
   "an2.34:1.4^speaker": "a certain brahmin",
   "an2.34:2.1+an2.34:2.3^speaker": "the Buddha",
   "an2.34:3.1^speaker": "a certain brahmin",
-  "an2.34:3.1^who_around_here_and_before": [
+  "an2.34:3.1^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "an2.34:3.1^who_else_mentioned": [
@@ -27,7 +27,7 @@
   "an2.35:1.2^speaker": "householder Anāthapiṇḍika",
   "an2.35:1.3+an2.35:1.5^speaker": "the Buddha",
   "an2.35:3.1+an2.35:3.6^speaker": "the Buddha",
-  "an2.35:3.1^who_mentioned_here_and_before": [
+  "an2.35:3.1^who_mentioned_before_or_around_this_segment": [
     "trainee",
     "master"
   ],
@@ -49,18 +49,18 @@
     "Migāra",
     "Venerable Sāriputta"
   ],
-  "an2.36:6.1^geographic_locations_here_and_before": [
+  "an2.36:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an2.36:6.1^where_here_and_before": [
+  "an2.36:6.1^where_before_or_around_this_segment": [
     "Jeta's Grove in the Eastern Monastery",
     "the stilt longhouse of Migāra's mother"
   ],
-  "an2.36:6.1^who_around_here_and_before": [
+  "an2.36:6.1^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "the peaceful-minded deities"
   ],
-  "an2.36:6.1^who_mentioned_here_and_before": [
+  "an2.36:6.1^who_mentioned_before_or_around_this_segment": [
     "wanderers who follow other paths"
   ],
   "an2.37:1.5^speaker": "the brahmin Ārāmadaṇḍa",
@@ -93,17 +93,17 @@
     "Gotama",
     "Saṅgha"
   ],
-  "an2.37:6.1^geographic_locations_here_and_before": [
+  "an2.37:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Varaṇā"
   ],
-  "an2.37:6.1^where_here_and_before": [
+  "an2.37:6.1^where_before_or_around_this_segment": [
     "Varaṇā",
     "on the bank of the Kaddama Lake"
   ],
-  "an2.37:6.1^who_around_here_and_before": [
+  "an2.37:6.1^who_present_before_or_around_this_segment": [
     "Mahākaccāna"
   ],
-  "an2.37:6.1^who_mentioned_here_and_before": [
+  "an2.37:6.1^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
   "an2.38:1.3+an2.38:1.6^speaker": "the brahmin Kandarāyana",
@@ -119,36 +119,37 @@
   "an2.38:3.2+an2.38:4.1^who_else_mentioned": [
     "Kaccāna"
   ],
-  "an2.38:3.2^geographic_locations_here_and_before": [
+  "an2.38:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Madhurā"
   ],
-  "an2.38:3.2^where_here_and_before": [
+  "an2.38:3.2^where_before_or_around_this_segment": [
     "Gunda's Grove",
     "Madhurā"
   ],
-  "an2.38:3.2^who_around_here_and_before": [
+  "an2.38:3.2^who_present_before_or_around_this_segment": [
     "Mahākaccāna"
   ],
-  "an2.38:3.2^who_mentioned_here_and_before": [
+  "an2.38:3.2^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
   "an2.39:1.1+an2.39:2.6^speaker": "the Buddha (assumed)",
   "an2.39:1.1+an2.39:2.6^who_else_mentioned": [
     "Saṅgha"
   ],
-  "an2.39:1.1^who_mentioned_here_and_before": [
+  "an2.39:1.1^who_mentioned_before_or_around_this_segment": [
     "Bandits",
     "Kings"
   ],
   "an2.40:1.1+an2.40:2.2^speaker": "the Buddha (assumed)",
-  "an2.40:1.1^who_around_here_and_before": [
+  "an2.40:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an2.40:1.1^who_mentioned_here_and_before": [
+  "an2.40:1.1^who_mentioned_before_or_around_this_segment": [
     "Laypeople",
     "Renunciates"
   ],
-  "an2.41:1.1^who_around_here_and_before": [
+  "an2.41:1.1+an2.41:2.2^speaker": "the Buddha (assumed)",
+  "an2.41:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ]
 }

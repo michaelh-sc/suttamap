@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "dn4:2.2+dn4:2.7^speaker": "brahmins of Campā, householders of Campā",
+  "dn4:2.2+dn4:2.7^speaker": "brahmins and householders of Campā",
   "dn4:2.2+dn4:2.7^where_else_mentioned": [
     "Campā"
   ],
@@ -31,60 +31,161 @@
     "Gotama"
   ],
   "dn4:4.6^speaker": "the brahmin Soṇadaṇḍa",
-  "dn4:6.46^speaker": "the brahmin Soṇadaṇḍa",
+  "dn4:5.1+dn4:5.22^speaker": "brahmins from abroad",
+  "dn4:5.1+dn4:5.22^where_else_mentioned": [
+    "Campā",
+    "Magadha"
+  ],
+  "dn4:5.1+dn4:5.22^who_else_mentioned": [
+    "Soṇadaṇḍa",
+    "Gotama",
+    "Bimbisāra",
+    "Seniya Bimbisāra"
+  ],
+  "dn4:5.1^geographic_locations_here_and_before": [
+    "Campā"
+  ],
+  "dn4:5.1^where_here_and_before": [
+    "Campā by the banks of the Gaggarā Lotus Pond"
+  ],
+  "dn4:5.1^who_around_here_and_before": [
+    "the Buddha",
+    "a large Saṅgha of around five hundred mendicants",
+    "King Seniya Bimbisāra of Magadha"
+  ],
+  "dn4:6.2+dn4:6.44^speaker": "Soṇadaṇḍa",
+  "dn4:6.2+dn4:6.44^where_else_mentioned": [
+    "Magadha",
+    "Campā"
+  ],
+  "dn4:6.2+dn4:6.44^who_else_mentioned": [
+    "Gotama",
+    "Buddha",
+    "Seniya Bimbisāra",
+    "Kosala",
+    "Pokkharasāti",
+    "Bimbisāra"
+  ],
+  "dn4:6.46^speaker": "brahmins from abroad",
   "dn4:6.46^who_else_mentioned": [
     "Soṇadaṇḍa",
     "Gotama"
   ],
-  "dn4:6.47^speaker": "the brahmin Soṇadaṇḍa",
+  "dn4:6.47^speaker": "Soṇadaṇḍa",
   "dn4:6.47^who_else_mentioned": [
     "Gotama"
   ],
-  "dn4:10.16^speaker": "the brahmin Soṇadaṇḍa",
+  "dn4:8.2+dn4:8.20^speaker": "Soṇadaṇḍa",
+  "dn4:8.2+dn4:8.20^who_else_mentioned": [
+    "Gotama",
+    "Soṇadaṇḍa"
+  ],
+  "dn4:10.16^speaker": "Soṇadaṇḍa",
   "dn4:10.16^who_else_mentioned": [
     "Gotama"
   ],
+  "dn4:11.2+dn4:11.3^speaker": "the Buddha",
+  "dn4:11.2+dn4:11.3^who_else_mentioned": [
+    "Soṇadaṇḍa"
+  ],
+  "dn4:11.5+dn4:11.6^speaker": "Soṇadaṇḍa",
+  "dn4:12.2+dn4:12.4^speaker": "Soṇadaṇḍa",
+  "dn4:12.2+dn4:12.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn4:13.2+dn4:13.11^speaker": "Soṇadaṇḍa",
+  "dn4:13.2+dn4:13.11^who_else_mentioned": [
+    "Gotama"
+  ],
   "dn4:14.1^speaker": "the Buddha",
+  "dn4:14.3+dn4:14.10^speaker": "Soṇadaṇḍa",
+  "dn4:14.3+dn4:14.10^who_else_mentioned": [
+    "Gotama"
+  ],
   "dn4:15.1^speaker": "the Buddha",
+  "dn4:15.3+dn4:15.9^speaker": "Soṇadaṇḍa",
+  "dn4:15.3+dn4:15.9^who_else_mentioned": [
+    "Gotama"
+  ],
   "dn4:16.1^speaker": "the Buddha",
-  "dn4:19.2^speaker": "the brahmin Soṇadaṇḍa",
+  "dn4:16.3+dn4:16.8^speaker": "Soṇadaṇḍa",
+  "dn4:16.3+dn4:16.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn4:17.2+dn4:17.3^speaker": "brahmins from abroad",
+  "dn4:17.2+dn4:17.3^who_else_mentioned": [
+    "Soṇadaṇḍa"
+  ],
+  "dn4:18.2+dn4:18.5^speaker": "the Buddha",
+  "dn4:18.2+dn4:18.5^who_else_mentioned": [
+    "Soṇadaṇḍa"
+  ],
+  "dn4:19.2^speaker": "Soṇadaṇḍa",
   "dn4:19.2^who_else_mentioned": [
     "Gotama"
   ],
-  "dn4:20.3^speaker": "the brahmin Soṇadaṇḍa",
+  "dn4:19.4+dn4:19.6^speaker": "Soṇadaṇḍa",
+  "dn4:20.3^speaker": "Soṇadaṇḍa",
   "dn4:20.3^who_else_mentioned": [
     "Aṅgaka"
   ],
-  "dn4:20.4^speaker": "the Buddha",
-  "dn4:21.1^speaker": "the Buddha",
-  "dn4:23.1^speaker": "the Buddha",
-  "dn4:23.2^speaker": "the brahmin Soṇadaṇḍa",
-  "dn4:24.10^geographic_locations_here_and_before": [
-    "Campā"
+  "dn4:20.4^speaker": "brahmins from abroad",
+  "dn4:20.4^where_here_and_before": [
+    "an assembly"
   ],
-  "dn4:24.10^speaker": "the Buddha",
-  "dn4:24.10^where_here_and_before": [
-    "Campā",
-    "Gaggarā Lotus Pond"
-  ],
-  "dn4:24.10^who_around_here_and_before": [
-    "a large Saṅgha of around five hundred mendicants",
-    "King Seniya Bimbisāra of Magadha",
+  "dn4:20.4^who_around_here_and_before": [
+    "Soṇadaṇḍa's nephew",
     "the student Aṅgaka"
   ],
+  "dn4:20.5+dn4:20.13^speaker": "Soṇadaṇḍa",
+  "dn4:20.5+dn4:20.13^who_else_mentioned": [
+    "Aṅgaka",
+    "Gotama"
+  ],
+  "dn4:21.1^speaker": "the Buddha",
+  "dn4:21.3+dn4:21.12^speaker": "Soṇadaṇḍa",
+  "dn4:21.3+dn4:21.12^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn4:22.1+dn4:22.11^speaker": "the Buddha",
+  "dn4:22.12+dn4:22.13^speaker": "Soṇadaṇḍa",
+  "dn4:22.12+dn4:22.13^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn4:23.1^speaker": "the Buddha",
+  "dn4:23.2^speaker": "Soṇadaṇḍa",
+  "dn4:23.4+dn4:23.15^speaker": "the Buddha",
+  "dn4:23.4+dn4:23.15^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dn4:24.2+dn4:24.6^speaker": "Soṇadaṇḍa",
+  "dn4:24.2+dn4:24.6^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "dn4:24.10^speaker": "Soṇadaṇḍa",
   "dn4:24.10^who_else_mentioned": [
     "Gotama"
   ],
-  "dn4:24.10^who_mentioned_here_and_before": [
-    "the ascetic Buddha",
-    "the steward",
-    "brahmins of Campā",
-    "householders of Campā",
-    "the brahmins from abroad",
-    "the Order of monks"
+  "dn4:26.3+dn4:26.13^speaker": "Soṇadaṇḍa",
+  "dn4:26.3+dn4:26.13^who_else_mentioned": [
+    "Gotama",
+    "Buddha"
+  ],
+  "dn4:26.3^where_here_and_before": [
+    "Soṇadaṇḍa's home"
+  ],
+  "dn4:26.3^who_around_here_and_before": [
+    "the Buddha",
+    "the mendicant Saṅgha",
+    "Aṅgaka",
+    "Soṇadaṇḍa's nephew"
+  ],
+  "dn4:26.3^who_mentioned_here_and_before": [
+    "Dhamma"
   ],
   "dn4^initial_geographic_location": [
     "Campā"
   ],
-  "dn4^where": "Campā, Gaggarā Lotus Pond"
+  "dn4^where": "Campā, by the banks of the Gaggarā Lotus Pond"
 }

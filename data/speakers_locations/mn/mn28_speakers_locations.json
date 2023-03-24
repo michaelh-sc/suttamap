@@ -9,21 +9,21 @@
     "Saṅgha"
   ],
   "mn28:9.6^speaker": "Sāriputta",
-  "mn28:24.3^geographic_locations_here_and_before": [
+  "mn28:24.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn28:24.3^speaker": "the Buddha",
-  "mn28:24.3^where_here_and_before": [
+  "mn28:24.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn28:24.3^who_around_here_and_before": [
+  "mn28:24.3^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn28:24.3^who_mentioned_here_and_before": [
+  "mn28:24.3^who_mentioned_before_or_around_this_segment": [
     "low-down bandits"
   ],
-  "mn28^initial_geographic_location": [
+  "mn28^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn28^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

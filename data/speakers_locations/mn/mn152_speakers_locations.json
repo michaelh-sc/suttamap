@@ -32,18 +32,18 @@
   "mn152:3.5^who_else_mentioned": [
     "Ānanda"
   ],
-  "mn152:3.6^geographic_locations_here_and_before": [
+  "mn152:3.6^event_dppn_headwords_before_or_around_this_segment": [
     "Gajaṅgala"
   ],
   "mn152:3.6^speaker": "Ānanda",
-  "mn152:3.6^where_here_and_before": [
+  "mn152:3.6^where_before_or_around_this_segment": [
     "Kajaṅgalā in a bamboo grove"
   ],
-  "mn152:3.6^who_around_here_and_before": [
+  "mn152:3.6^who_present_before_or_around_this_segment": [
     "Uttara",
     "Ānanda"
   ],
-  "mn152:3.6^who_mentioned_here_and_before": [
+  "mn152:3.6^who_mentioned_before_or_around_this_segment": [
     "Pārāsariya"
   ],
   "mn152:4.1+mn152:18.2^speaker": "the Buddha",
@@ -51,13 +51,13 @@
     "Ānanda",
     "the Noble One"
   ],
-  "mn152:4.1^where_here_and_before": [
+  "mn152:4.1^where_before_or_around_this_segment": [
     "Empty huts"
   ],
-  "mn152:4.1^who_mentioned_here_and_before": [
+  "mn152:4.1^who_mentioned_before_or_around_this_segment": [
     "Pārāsariya"
   ],
-  "mn152^initial_geographic_location": [
+  "mn152^initial_location_dppn_headword": [
     "Gajaṅgala"
   ],
   "mn152^where": "Kajaṅgalā in a bamboo grove"

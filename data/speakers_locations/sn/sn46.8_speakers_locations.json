@@ -8,17 +8,17 @@
   "sn46.8:2.2+sn46.8:3.3^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn46.8:2.2^geographic_locations_here_and_before": [
+  "sn46.8:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "sn46.8:2.2^where_here_and_before": [
+  "sn46.8:2.2^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "sn46.8:2.2^who_around_here_and_before": [
+  "sn46.8:2.2^who_present_before_or_around_this_segment": [
     "Ghosita"
   ],
-  "sn46.8^initial_geographic_location": [
+  "sn46.8^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "sn46.8^where": "Kosambi, in Ghosita's Monastery"

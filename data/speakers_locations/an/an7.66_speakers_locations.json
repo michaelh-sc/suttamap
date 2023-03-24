@@ -1,11 +1,11 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "an7.66:1.4^speaker": "the Buddha (assumed)",
-  "an7.66:1.5^geographic_locations_here_and_before": [
+  "an7.66:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
   "an7.66:1.5^speaker": "the mendicants",
-  "an7.66:1.5^where_here_and_before": [
+  "an7.66:1.5^where_before_or_around_this_segment": [
     "Vesālī",
     "in Ambapālī's Wood"
   ],
@@ -31,14 +31,14 @@
     "Gotama",
     "Buddha"
   ],
-  "an7.66:15.1^geographic_locations_here_and_before": [
+  "an7.66:15.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an7.66:15.1^where_here_and_before": [
+  "an7.66:15.1^where_before_or_around_this_segment": [
     "Vesālī",
     "in Ambapālī's Wood"
   ],
-  "an7.66^initial_geographic_location": [
+  "an7.66^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an7.66^where": "Vesālī, in Ambapālī's Wood"

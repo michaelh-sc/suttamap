@@ -29,20 +29,20 @@
   "mn59:3.7+mn59:3.8^who_else_mentioned": [
     "Buddha"
   ],
-  "mn59:3.7^geographic_locations_here_and_before": [
+  "mn59:3.7^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn59:3.7^where_here_and_before": [
+  "mn59:3.7^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn59:3.7^who_around_here_and_before": [
+  "mn59:3.7^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "mn59:3.7^who_mentioned_here_and_before": [
-    "The Buddha"
+  "mn59:3.7^who_mentioned_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "mn59:5.1+mn59:16.6^speaker": "The Buddha",
+  "mn59:5.1+mn59:16.6^speaker": "the Buddha",
   "mn59:5.1+mn59:16.6^who_else_mentioned": [
     "Udāyī",
     "Pañcakaṅga",
@@ -50,12 +50,12 @@
     "Buddha",
     "The Realized One"
   ],
-  "mn59:5.1^who_around_here_and_before": [
+  "mn59:5.1^who_present_before_or_around_this_segment": [
     "Ānanda",
     "Udāyī",
     "Pañcakaṅga"
   ],
-  "mn59^initial_geographic_location": [
+  "mn59^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn59^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

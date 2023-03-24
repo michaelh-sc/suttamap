@@ -4,13 +4,13 @@
   "sn51.21:1.2+sn51.21:2.2^where_else_mentioned": [
     "Brahmā"
   ],
-  "sn51.21:1.15^geographic_locations_here_and_before": [
+  "sn51.21:1.15^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn51.21:1.15^where_here_and_before": [
+  "sn51.21:1.15^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn51.21^initial_geographic_location": [
+  "sn51.21^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn51.21^where": "Sāvatthī"

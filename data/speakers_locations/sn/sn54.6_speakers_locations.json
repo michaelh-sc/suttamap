@@ -10,16 +10,16 @@
   ],
   "sn54.6:2.4^speaker": "Ariṭṭha",
   "sn54.6:3.1+sn54.6:3.6^speaker": "the Buddha",
-  "sn54.6:3.1^geographic_locations_here_and_before": [
+  "sn54.6:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn54.6:3.1^where_here_and_before": [
+  "sn54.6:3.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn54.6:3.1^who_around_here_and_before": [
+  "sn54.6:3.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn54.6^initial_geographic_location": [
+  "sn54.6^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn54.6^where": "Sāvatthī"

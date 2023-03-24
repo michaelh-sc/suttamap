@@ -13,20 +13,20 @@
     "Buddha"
   ],
   "sn47.29:4.7+sn47.29:4.8^speaker": "Ānanda",
-  "sn47.29:4.7^geographic_locations_here_and_before": [
+  "sn47.29:4.7^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn47.29:4.7^where_here_and_before": [
+  "sn47.29:4.7^where_before_or_around_this_segment": [
     "Bamboo Grove",
     "Rājagaha"
   ],
-  "sn47.29:4.7^who_around_here_and_before": [
+  "sn47.29:4.7^who_present_before_or_around_this_segment": [
     "the man"
   ],
-  "sn47.29:4.7^who_mentioned_here_and_before": [
+  "sn47.29:4.7^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn47.29^initial_geographic_location": [
+  "sn47.29^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn47.29^where": "Bamboo Grove, Rājagaha"

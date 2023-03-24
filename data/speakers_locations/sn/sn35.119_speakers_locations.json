@@ -5,13 +5,13 @@
   "sn35.119:1.5+sn35.119:2.5^who_else_mentioned": [
     "Pañcasikha"
   ],
-  "sn35.119:1.5^geographic_locations_here_and_before": [
+  "sn35.119:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn35.119:1.5^where_here_and_before": [
+  "sn35.119:1.5^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain near Rājagaha"
   ],
-  "sn35.119^initial_geographic_location": [
+  "sn35.119^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn35.119^where": "Vulture's Peak Mountain, near Rājagaha"

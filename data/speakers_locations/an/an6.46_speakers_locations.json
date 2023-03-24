@@ -4,14 +4,14 @@
   "an6.46:1.5^speaker": "the mendicants",
   "an6.46:2.1+an6.46:7.5^speaker": "Mahācunda",
   "an6.46:2.2^speaker": "the mendicants who practice absorption meditation",
-  "an6.46:3.2^geographic_locations_here_and_before": [
+  "an6.46:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sahajāti"
   ],
   "an6.46:3.2^speaker": "the mendicants who practice discernment of principles",
-  "an6.46:3.2^where_here_and_before": [
+  "an6.46:3.2^where_before_or_around_this_segment": [
     "the land of the Cetis at Sahajāti"
   ],
-  "an6.46^initial_geographic_location": [
+  "an6.46^initial_location_dppn_headword": [
     "Sahajāti"
   ],
   "an6.46^where": "the land of the Cetis at Sahajāti"

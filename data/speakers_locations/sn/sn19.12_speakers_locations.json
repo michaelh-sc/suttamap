@@ -12,19 +12,19 @@
     "Buddha Kassapa",
     "Saṅgha"
   ],
-  "sn19.12:1.2^geographic_locations_here_and_before": [
+  "sn19.12:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn19.12:1.2^where_here_and_before": [
+  "sn19.12:1.2^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain in Rājagaha"
   ],
-  "sn19.12:1.2^who_around_here_and_before": [
+  "sn19.12:1.2^who_present_before_or_around_this_segment": [
     "the narrator's good men"
   ],
-  "sn19.12:1.2^who_mentioned_here_and_before": [
+  "sn19.12:1.2^who_mentioned_before_or_around_this_segment": [
     "the nasty brahmin"
   ],
-  "sn19.12^initial_geographic_location": [
+  "sn19.12^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn19.12^where": "Vulture's Peak Mountain in Rājagaha"

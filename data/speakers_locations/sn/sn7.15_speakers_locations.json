@@ -30,23 +30,23 @@
   "sn7.15:7.2+sn7.15:7.3^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.15:7.2^geographic_locations_here_and_before": [
+  "sn7.15:7.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn7.15:7.2^where_here_and_before": [
+  "sn7.15:7.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn7.15:7.2^who_around_here_and_before": [
+  "sn7.15:7.2^who_present_before_or_around_this_segment": [
     "the Buddha",
     "the assembly"
   ],
-  "sn7.15:7.2^who_mentioned_here_and_before": [
+  "sn7.15:7.2^who_mentioned_before_or_around_this_segment": [
     "Stuck-Up's mother",
     "Stuck-Up's father",
     "Stuck-Up's teacher",
     "Stuck-Up's oldest brother"
   ],
-  "sn7.15^initial_geographic_location": [
+  "sn7.15^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn7.15^where": "Sāvatthī"

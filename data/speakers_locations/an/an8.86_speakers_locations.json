@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an8.86:1.4+an8.86:1.7^speaker": "brahmins of Icchānaṅgala, householders of Icchānaṅgala",
+  "an8.86:1.4+an8.86:1.7^speaker": "brahmins of Icchānaṅgala and householders of Icchānaṅgala",
   "an8.86:1.4+an8.86:1.7^where_else_mentioned": [
     "Icchānaṅgala"
   ],
@@ -29,18 +29,18 @@
   "an8.86:4.1+an8.86:14.1^who_else_mentioned": [
     "Nāgita"
   ],
-  "an8.86:4.1^geographic_locations_here_and_before": [
+  "an8.86:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Iccānaṅgala"
   ],
-  "an8.86:4.1^where_here_and_before": [
+  "an8.86:4.1^where_before_or_around_this_segment": [
     "the land of the Kosalans Icchānaṅgala",
     "a forest near Icchānaṅgala"
   ],
-  "an8.86:4.1^who_around_here_and_before": [
+  "an8.86:4.1^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants",
     "Nāgita"
   ],
-  "an8.86^initial_geographic_location": [
+  "an8.86^initial_location_dppn_headword": [
     "Iccānaṅgala"
   ],
   "an8.86^where": "the land of the Kosalans, Icchānaṅgala, a forest near Icchānaṅgala"

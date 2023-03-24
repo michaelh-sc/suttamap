@@ -33,14 +33,14 @@
   "mn43:16.2+mn43:16.3^speaker": "Sāriputta",
   "mn43:17.1^speaker": "Mahākoṭṭhita",
   "mn43:17.2+mn43:17.3^speaker": "Sāriputta",
-  "mn43:18.1^geographic_locations_here_and_before": [
+  "mn43:18.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn43:18.1^speaker": "Mahākoṭṭhita",
-  "mn43:18.1^where_here_and_before": [
+  "mn43:18.1^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "mn43:18.1^who_around_here_and_before": [
+  "mn43:18.1^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
   "mn43:18.2+mn43:18.3^speaker": "Sāriputta",
@@ -74,10 +74,10 @@
   "mn43:29.2+mn43:29.4^speaker": "Sāriputta",
   "mn43:29.5^speaker": "Mahākoṭṭhita",
   "mn43:30.1+mn43:37.5^speaker": "Sāriputta",
-  "mn43:30.1^who_around_here_and_before": [
+  "mn43:30.1^who_present_before_or_around_this_segment": [
     "Mahākoṭṭhita"
   ],
-  "mn43^initial_geographic_location": [
+  "mn43^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn43^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

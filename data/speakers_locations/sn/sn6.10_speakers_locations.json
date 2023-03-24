@@ -67,22 +67,22 @@
     "Moggallāna"
   ],
   "sn6.10:7.1+sn6.10:10.4^speaker": "the Buddha",
-  "sn6.10:7.1^geographic_locations_here_and_before": [
+  "sn6.10:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī",
     "Jetavana"
   ],
-  "sn6.10:7.1^where_here_and_before": [
+  "sn6.10:7.1^where_before_or_around_this_segment": [
     "Sāvatthī",
     "Jeta's Grove"
   ],
-  "sn6.10:7.1^who_around_here_and_before": [
+  "sn6.10:7.1^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Moggallāna"
   ],
-  "sn6.10:7.1^who_mentioned_here_and_before": [
+  "sn6.10:7.1^who_mentioned_before_or_around_this_segment": [
     "Kokālika"
   ],
-  "sn6.10^initial_geographic_location": [
+  "sn6.10^initial_location_dppn_headword": [
     "Sāvatthī",
     "Jetavana"
   ],

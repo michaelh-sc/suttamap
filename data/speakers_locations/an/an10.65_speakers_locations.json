@@ -5,16 +5,16 @@
     "Sāriputta"
   ],
   "an10.65:2.2+an10.65:2.8^speaker": "Sāriputta",
-  "an10.65:2.2^geographic_locations_here_and_before": [
+  "an10.65:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Nāḷandā"
   ],
-  "an10.65:2.2^where_here_and_before": [
+  "an10.65:2.2^where_before_or_around_this_segment": [
     "the land of the Magadhans near the little village of Nālaka"
   ],
-  "an10.65:2.2^who_around_here_and_before": [
+  "an10.65:2.2^who_present_before_or_around_this_segment": [
     "the Buddha (assumed)"
   ],
-  "an10.65^initial_geographic_location": [
+  "an10.65^initial_location_dppn_headword": [
     "Nāḷandā"
   ],
   "an10.65^where": "the land of the Magadhans near the little village of Nālaka"

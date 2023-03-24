@@ -6,16 +6,16 @@
   "sn20.11:1.4+sn20.11:1.13^who_else_mentioned": [
     "Sakyan"
   ],
-  "sn20.11:1.4^geographic_locations_here_and_before": [
+  "sn20.11:1.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.11:1.4^where_here_and_before": [
+  "sn20.11:1.4^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.11:1.4^who_mentioned_here_and_before": [
+  "sn20.11:1.4^who_mentioned_before_or_around_this_segment": [
     "old jackal"
   ],
-  "sn20.11^initial_geographic_location": [
+  "sn20.11^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn20.11^where": "Sāvatthī"

@@ -54,11 +54,11 @@
   "mn73:12.1+mn73:12.2^who_else_mentioned": [
     "Gotama"
   ],
-  "mn73:12.3^geographic_locations_here_and_before": [
+  "mn73:12.3^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn73:12.3^speaker": "the Buddha",
-  "mn73:12.3^where_here_and_before": [
+  "mn73:12.3^where_before_or_around_this_segment": [
     "Bamboo Grove",
     "the squirrels' feeding ground near Rājagaha"
   ],
@@ -101,7 +101,7 @@
   "mn73:26.2^speaker": "Vacchagotta",
   "mn73:27.4^speaker": "Vacchagotta",
   "mn73:27.5^speaker": "the mendicants",
-  "mn73:27.5^who_around_here_and_before": [
+  "mn73:27.5^who_present_before_or_around_this_segment": [
     "monks",
     "nuns",
     "celibate laymen",
@@ -113,10 +113,10 @@
   "mn73:27.5^who_else_mentioned": [
     "Buddha"
   ],
-  "mn73:27.5^who_mentioned_here_and_before": [
+  "mn73:27.5^who_mentioned_before_or_around_this_segment": [
     "the noble ones"
   ],
-  "mn73^initial_geographic_location": [
+  "mn73^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn73^where": "Bamboo Grove, the squirrels' feeding ground near Rājagaha"

@@ -6,14 +6,14 @@
   "an11.10:2.1+an11.10:8.4^who_else_mentioned": [
     "Brahmā Sanaṅkumāra"
   ],
-  "an11.10:2.1^geographic_locations_here_and_before": [
+  "an11.10:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "an11.10:2.1^where_here_and_before": [
+  "an11.10:2.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "at the monastery of the wanderers in the peacocks' feeding ground"
   ],
-  "an11.10^initial_geographic_location": [
+  "an11.10^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "an11.10^where": "Rājagaha, at the monastery of the wanderers in the peacocks' feeding ground"

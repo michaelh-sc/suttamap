@@ -74,17 +74,17 @@
   "mn93:8.6+mn93:8.11^who_else_mentioned": [
     "Gotama"
   ],
-  "mn93:8.6^geographic_locations_here_and_before": [
+  "mn93:8.6^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn93:8.6^where_here_and_before": [
+  "mn93:8.6^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery in Sāvatthī"
   ],
-  "mn93:8.6^who_around_here_and_before": [
+  "mn93:8.6^who_present_before_or_around_this_segment": [
     "the brahmins"
   ],
-  "mn93:8.6^who_mentioned_here_and_before": [
+  "mn93:8.6^who_mentioned_before_or_around_this_segment": [
     "Brahmā"
   ],
   "mn93:9.1^speaker": "Assalāyana",
@@ -168,16 +168,16 @@
   "mn93:19.2+mn93:19.3^who_else_mentioned": [
     "Gotama"
   ],
-  "mn93:19.2^where_here_and_before": [
+  "mn93:19.2^where_before_or_around_this_segment": [
     "wilderness region"
   ],
-  "mn93:19.2^who_around_here_and_before": [
+  "mn93:19.2^who_present_before_or_around_this_segment": [
     "Assalāyana"
   ],
-  "mn93:19.2^who_mentioned_here_and_before": [
+  "mn93:19.2^who_mentioned_before_or_around_this_segment": [
     "seven brahmin hermits"
   ],
-  "mn93^initial_geographic_location": [
+  "mn93^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn93^where": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī"

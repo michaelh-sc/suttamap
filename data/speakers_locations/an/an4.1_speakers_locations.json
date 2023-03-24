@@ -8,8 +8,12 @@
     "Gotama",
     "Buddha"
   ],
-  "an4.1:4.1^where_here_and_before": [
+  "an4.1:4.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Vajjī"
+  ],
+  "an4.1:4.1^where_before_or_around_this_segment": [
     "the land of the Vajjis at the village of Bhaṇḍa"
   ],
+  "an4.1^initial_location_dppn_headword": "Vajjī",
   "an4.1^where": "the land of the Vajjis at the village of Bhaṇḍa"
 }

@@ -23,16 +23,16 @@
     "Sujā",
     "Sujampati"
   ],
-  "sn11.13:5.1^geographic_locations_here_and_before": [
+  "sn11.13:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "sn11.13:5.1^where_here_and_before": [
+  "sn11.13:5.1^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "sn11.13:5.1^who_mentioned_here_and_before": [
+  "sn11.13:5.1^who_mentioned_before_or_around_this_segment": [
     "Sakka"
   ],
-  "sn11.13^initial_geographic_location": [
+  "sn11.13^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "sn11.13^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

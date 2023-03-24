@@ -9,11 +9,15 @@
     "Buddha"
   ],
   "sn7.10:17.3^speaker": "Bhāradvāja",
-  "sn7.10:17.3^where_here_and_before": [
+  "sn7.10:17.3^geographical_locations_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "sn7.10:17.3^where_before_or_around_this_segment": [
     "the land of the Kosalans in a certain forest grove"
   ],
-  "sn7.10:17.3^who_around_here_and_before": [
+  "sn7.10:17.3^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
+  "sn7.10^initial_location_dppn_headword": "Kosala",
   "sn7.10^where": "the land of the Kosalans in a certain forest grove"
 }

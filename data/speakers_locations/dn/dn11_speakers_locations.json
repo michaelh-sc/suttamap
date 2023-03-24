@@ -24,16 +24,37 @@
     "Kevaddha"
   ],
   "dn11:7.7^speaker": "Kevaddha",
-  "dn11:85.9^speaker": "the Buddha",
-  "dn11:85.9^where_here_and_before": [
-    "Nālandā in Pāvārika's mango grove"
+  "dn11:7.8+sn11:85.27^speaker^speaker": "the Buddha",
+  "dn11:7.8+sn11:85.27^speaker^who_else_mentioned": [
+    "Kevaddha",
+    "Reverends",
+    "Mendicant",
+    "Suyāma",
+    "Santussita",
+    "Sunimmita",
+    "Vasavattī",
+    "Brahmā",
+    "the Wielder of Power",
+    "Maker",
+    "Begetter",
+    "The Great Brahmā",
+    "I am Brahmā",
+    "Champion",
+    "the Universal Seer",
+    "the Great Brahmā",
+    "Buddha"
   ],
-  "dn11:85.9^geographical_locations_here_and_before": [
+  "dn11:85.9^geographic_locations_here_and_before": [
     "Nāḷandā"
   ],
-  "dn11:85.9^who_around_here_and_before": [
-    "Pāvārika"
+  "dn11:85.9^where_here_and_before": [
+    "near Nālandā in Pāvārika's mango grove"
   ],
-  "dn11^initial_geographical_location": "Nālandā in Pāvārika's mango grove",
-  "dn11^where": "Nālandā in Pāvārika's mango grove"
+  "dn11:85.9^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "dn11^initial_geographic_location": [
+    "Nāḷandā"
+  ],
+  "dn11^where": "near Nālandā in Pāvārika's mango grove"
 }

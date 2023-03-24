@@ -27,13 +27,13 @@
   "an7.57:10.15+an7.57:10.16^who_else_mentioned": [
     "Sīha"
   ],
-  "an7.57:10.15^geographic_locations_here_and_before": [
+  "an7.57:10.15^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an7.57:10.15^where_here_and_before": [
+  "an7.57:10.15^where_before_or_around_this_segment": [
     "Great Wood near Vesālī in the hall with the peaked roof"
   ],
-  "an7.57^initial_geographic_location": [
+  "an7.57^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an7.57^where": "Great Wood, near Vesālī, in the hall with the peaked roof"

@@ -56,17 +56,17 @@
   "mn44:13.2+mn44:13.3^speaker": "Dhammadinnā",
   "mn44:14.1^speaker": "Visākha",
   "mn44:14.2^speaker": "Dhammadinnā",
-  "mn44:15.1^geographic_locations_here_and_before": [
+  "mn44:15.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn44:15.1^speaker": "Visākha",
-  "mn44:15.1^where_here_and_before": [
+  "mn44:15.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "Bamboo Grove",
     "squirrels' feeding ground"
   ],
-  "mn44:15.1^who_mentioned_here_and_before": [
-    "The Buddha",
+  "mn44:15.1^who_mentioned_before_or_around_this_segment": [
+    "the Buddha",
     "noble ones",
     "good persons"
   ],
@@ -115,7 +115,7 @@
     "Visākha",
     "Buddha"
   ],
-  "mn44:29.14^who_around_here_and_before": [
+  "mn44:29.14^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "mn44:30.4+mn44:30.6^speaker": "the Buddha",
@@ -123,13 +123,13 @@
     "Dhammadinnā",
     "Visākha"
   ],
-  "mn44:30.4^who_around_here_and_before": [
+  "mn44:30.4^who_present_before_or_around_this_segment": [
     "the layman Visākha"
   ],
-  "mn44:30.4^who_mentioned_here_and_before": [
+  "mn44:30.4^who_mentioned_before_or_around_this_segment": [
     "the nun Dhammadinnā"
   ],
-  "mn44^initial_geographic_location": [
+  "mn44^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn44^where": "Rājagaha, Bamboo Grove, squirrels' feeding ground"

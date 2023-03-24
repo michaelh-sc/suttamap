@@ -26,17 +26,17 @@
   "sn51.14:5.1+sn51.14:5.17^who_else_mentioned": [
     "Moggallāna"
   ],
-  "sn51.14:5.1^geographic_locations_here_and_before": [
+  "sn51.14:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn51.14:5.1^where_here_and_before": [
+  "sn51.14:5.1^where_before_or_around_this_segment": [
     "Sāvatthī in the Eastern Monastery",
     "the stilt longhouse of Migāra's mother"
   ],
-  "sn51.14:5.1^who_around_here_and_before": [
+  "sn51.14:5.1^who_present_before_or_around_this_segment": [
     "Mahāmoggallāna"
   ],
-  "sn51.14^initial_geographic_location": [
+  "sn51.14^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn51.14^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"

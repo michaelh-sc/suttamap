@@ -9,21 +9,21 @@
     "Buddha"
   ],
   "mn53:3.6^speaker": "The Sakyans of Kapilavatthu",
-  "mn53:5.2+mn53:5.4^speaker": "The Buddha",
+  "mn53:5.2+mn53:5.4^speaker": "the Buddha",
   "mn53:5.2+mn53:5.4^where_else_mentioned": [
     "Kapilavatthu"
   ],
   "mn53:5.2+mn53:5.4^who_else_mentioned": [
     "Sakyans"
   ],
-  "mn53:5.5^geographic_locations_here_and_before": [
+  "mn53:5.5^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
   "mn53:5.5^speaker": "Ānanda",
-  "mn53:5.5^where_here_and_before": [
+  "mn53:5.5^where_before_or_around_this_segment": [
     "Banyan Tree Monastery near Kapilavatthu in the land of the Sakyans"
   ],
-  "mn53:5.5^who_around_here_and_before": [
+  "mn53:5.5^who_present_before_or_around_this_segment": [
     "Saṅgha of mendicants",
     "Mahānāma the Sakyan"
   ],
@@ -33,24 +33,24 @@
     "Buddha",
     "Brahmā Sanaṅkumāra"
   ],
-  "mn53:26.2+mn53:26.3^speaker": "The Buddha",
+  "mn53:26.2+mn53:26.3^speaker": "the Buddha",
   "mn53:26.2+mn53:26.3^who_else_mentioned": [
     "Sakyans",
     "Kapilavatthu"
   ],
-  "mn53:26.2^geographic_locations_here_and_before": [
+  "mn53:26.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "mn53:26.2^where_here_and_before": [
+  "mn53:26.2^where_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "mn53:26.2^who_around_here_and_before": [
+  "mn53:26.2^who_present_before_or_around_this_segment": [
     "Mahānāma the Sakyan"
   ],
-  "mn53:26.2^who_mentioned_here_and_before": [
+  "mn53:26.2^who_mentioned_before_or_around_this_segment": [
     "Brahmā Sanaṅkumāra"
   ],
-  "mn53^initial_geographic_location": [
+  "mn53^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "mn53^where": "Banyan Tree Monastery, near Kapilavatthu in the land of the Sakyans"

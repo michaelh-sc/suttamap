@@ -18,15 +18,15 @@
   "sn22.59:6.16+sn22.59:6.17^speaker": "the Buddha",
   "sn22.59:6.18^speaker": "the group of five mendicants",
   "sn22.59:7.1+sn22.59:11.3^speaker": "the group of five mendicants",
-  "sn22.59:7.1^geographic_locations_here_and_before": [
+  "sn22.59:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn22.59:7.1^where_here_and_before": [
+  "sn22.59:7.1^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "sn22.59^initial_geographic_location": [
+  "sn22.59^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

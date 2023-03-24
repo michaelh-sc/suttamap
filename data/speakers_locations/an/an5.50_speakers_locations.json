@@ -51,14 +51,14 @@
   ],
   "an5.50:6.5^speaker": "Piyaka the treasurer",
   "an5.50:6.6+an5.50:6.7^speaker": "Piyaka the treasurer",
-  "an5.50:6.6^where_here_and_before": [
+  "an5.50:6.6^where_before_or_around_this_segment": [
     "Pāṭaliputta",
     "in the Chicken Monastery"
   ],
-  "an5.50:6.6^who_around_here_and_before": [
+  "an5.50:6.6^who_present_before_or_around_this_segment": [
     "Nārada"
   ],
-  "an5.50:6.6^who_mentioned_here_and_before": [
+  "an5.50:6.6^who_mentioned_before_or_around_this_segment": [
     "Queen Bhaddā"
   ],
   "an5.50:8.1+an5.50:17.4^speaker": "Nārada",
@@ -73,13 +73,13 @@
   "an5.50:19.2+an5.50:19.3^where_else_mentioned": [
     "Piyaka"
   ],
-  "an5.50:19.2^where_here_and_before": [
+  "an5.50:19.2^where_before_or_around_this_segment": [
     "Chicken Monastery"
   ],
-  "an5.50:19.2^who_around_here_and_before": [
+  "an5.50:19.2^who_present_before_or_around_this_segment": [
     "Piyaka the treasurer"
   ],
-  "an5.50:19.2^who_mentioned_here_and_before": [
+  "an5.50:19.2^who_mentioned_before_or_around_this_segment": [
     "Queen Bhaddā"
   ],
   "an5.50^where": "Pāṭaliputta, in the Chicken Monastery"

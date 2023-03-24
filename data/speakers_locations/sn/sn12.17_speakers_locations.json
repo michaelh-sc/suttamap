@@ -58,16 +58,16 @@
     "Kassapa"
   ],
   "sn12.17:8.1^speaker": "Kassapa",
-  "sn12.17:9.3^geographic_locations_here_and_before": [
+  "sn12.17:9.3^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn12.17:9.3^speaker": "the Buddha",
-  "sn12.17:9.3^where_here_and_before": [
+  "sn12.17:9.3^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn12.17^initial_geographic_location": [
+  "sn12.17^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn12.17^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

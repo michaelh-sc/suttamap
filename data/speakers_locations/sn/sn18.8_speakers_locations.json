@@ -7,17 +7,17 @@
   "sn18.8:1.4^speaker": "Rāhula",
   "sn18.8:1.5+sn18.8:1.9^speaker": "the Buddha",
   "sn18.8:1.10^speaker": "Rāhula",
-  "sn18.8:1.11^geographic_locations_here_and_before": [
+  "sn18.8:1.11^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn18.8:1.11^speaker": "the Buddha",
-  "sn18.8:1.11^where_here_and_before": [
+  "sn18.8:1.11^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn18.8:1.11^who_around_here_and_before": [
+  "sn18.8:1.11^who_present_before_or_around_this_segment": [
     "Rāhula"
   ],
-  "sn18.8^initial_geographic_location": [
+  "sn18.8^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn18.8^where": "Sāvatthī"

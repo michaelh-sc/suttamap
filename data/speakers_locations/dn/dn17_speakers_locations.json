@@ -32,13 +32,13 @@
     "Brahmās"
   ],
   "dn17:2.17.5+dn17:2.17.8^speaker": "the Buddha",
-  "dn17:2.17.5^geographic_locations_here_and_before": [
+  "dn17:2.17.5^event_dppn_headwords_before_or_around_this_segment": [
     "Upavatta"
   ],
-  "dn17:2.17.5^where_here_and_before": [
+  "dn17:2.17.5^where_before_or_around_this_segment": [
     "Upavattana near Kusinārā"
   ],
-  "dn17:2.17.5^who_mentioned_here_and_before": [
+  "dn17:2.17.5^who_mentioned_before_or_around_this_segment": [
     "gods",
     "Māras",
     "Brahmās",
@@ -47,7 +47,7 @@
     "gods",
     "humans"
   ],
-  "dn17^initial_geographic_location": [
+  "dn17^initial_location_dppn_headword": [
     "Upavatta"
   ],
   "dn17^where": "Upavattana near Kusinārā"

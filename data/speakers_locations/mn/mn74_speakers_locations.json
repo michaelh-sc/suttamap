@@ -37,19 +37,19 @@
     "Gotama",
     "Saṅgha"
   ],
-  "mn74:16.1^geographic_locations_here_and_before": [
+  "mn74:16.1^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "mn74:16.1^where_here_and_before": [
+  "mn74:16.1^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain in the Boar's Cave near Rājagaha"
   ],
-  "mn74:16.1^who_around_here_and_before": [
+  "mn74:16.1^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "mn74:16.1^who_mentioned_here_and_before": [
+  "mn74:16.1^who_mentioned_before_or_around_this_segment": [
     "Aggivessana"
   ],
-  "mn74^initial_geographic_location": [
+  "mn74^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "mn74^where": "Vulture's Peak Mountain in the Boar's Cave near Rājagaha"

@@ -10,20 +10,20 @@
   "sn1.34:8.3+sn1.34:8.5^who_else_mentioned": [
     "Mogharājā"
   ],
-  "sn1.34:8.3^geographic_locations_here_and_before": [
+  "sn1.34:8.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn1.34:8.3^where_here_and_before": [
+  "sn1.34:8.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's Monastery"
   ],
-  "sn1.34:8.3^who_around_here_and_before": [
+  "sn1.34:8.3^who_present_before_or_around_this_segment": [
     "several glorious deities of the Satullapa Group"
   ],
-  "sn1.34:8.3^who_mentioned_here_and_before": [
+  "sn1.34:8.3^who_mentioned_before_or_around_this_segment": [
     "Mogharājā"
   ],
-  "sn1.34^initial_geographic_location": [
+  "sn1.34^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn1.34^where": "Jeta's Grove, Anāthapiṇḍika's Monastery"

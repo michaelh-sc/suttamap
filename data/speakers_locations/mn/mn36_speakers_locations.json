@@ -76,16 +76,16 @@
   "mn36:18.11+mn36:19.6^who_else_mentioned": [
     "Aggivessana"
   ],
-  "mn36:18.11^geographic_locations_here_and_before": [
+  "mn36:18.11^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "mn36:18.11^where_here_and_before": [
+  "mn36:18.11^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "mn36:18.11^who_around_here_and_before": [
+  "mn36:18.11^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "mn36:18.11^who_mentioned_here_and_before": [
+  "mn36:18.11^who_mentioned_before_or_around_this_segment": [
     "Āḷāra Kālāma",
     "Rāma"
   ],
@@ -125,14 +125,14 @@
   "mn36:48.16^where_else_mentioned": [
     "Aggivessana"
   ],
-  "mn36:48.16^who_around_here_and_before": [
+  "mn36:48.16^who_present_before_or_around_this_segment": [
     "Saccaka"
   ],
-  "mn36:48.16^who_mentioned_here_and_before": [
+  "mn36:48.16^who_mentioned_before_or_around_this_segment": [
     "Aggivessana",
     "Jain parents"
   ],
-  "mn36^initial_geographic_location": [
+  "mn36^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "mn36^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

@@ -35,14 +35,14 @@
     "the Blessed One"
   ],
   "sn51.10:7.2+sn51.10:7.3^speaker": "the Buddha",
-  "sn51.10:7.4^geographic_locations_here_and_before": [
+  "sn51.10:7.4^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
   "sn51.10:7.4^speaker": "Ānanda",
-  "sn51.10:7.4^where_here_and_before": [
+  "sn51.10:7.4^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "sn51.10:7.4^who_around_here_and_before": [
+  "sn51.10:7.4^who_present_before_or_around_this_segment": [
     "Māra the Wicked"
   ],
   "sn51.10:9.1+sn51.10:15.4^speaker": "Māra the Wicked",
@@ -58,13 +58,13 @@
     "Wicked One"
   ],
   "sn51.10:18.1+sn51.10:18.4^speaker": "the Buddha",
-  "sn51.10:18.1^where_here_and_before": [
+  "sn51.10:18.1^where_before_or_around_this_segment": [
     "Cāpāla tree shrine"
   ],
-  "sn51.10:18.1^who_around_here_and_before": [
+  "sn51.10:18.1^who_present_before_or_around_this_segment": [
     "Māra the Wicked"
   ],
-  "sn51.10^initial_geographic_location": [
+  "sn51.10^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "sn51.10^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

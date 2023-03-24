@@ -31,15 +31,15 @@
   "sn22.122:5.2+sn22.122:5.4^who_else_mentioned": [
     "Koṭṭhita"
   ],
-  "sn22.122:5.2^geographic_locations_here_and_before": [
+  "sn22.122:5.2^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn22.122:5.2^where_here_and_before": [
+  "sn22.122:5.2^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "sn22.122^initial_geographic_location": [
+  "sn22.122^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

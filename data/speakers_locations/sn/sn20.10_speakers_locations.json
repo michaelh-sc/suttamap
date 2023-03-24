@@ -5,19 +5,19 @@
   "sn20.10:2.1+sn20.10:3.10^who_else_mentioned": [
     "the Noble One"
   ],
-  "sn20.10:2.1^geographic_locations_here_and_before": [
+  "sn20.10:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.10:2.1^where_here_and_before": [
+  "sn20.10:2.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.10:2.1^who_around_here_and_before": [
+  "sn20.10:2.1^who_present_before_or_around_this_segment": [
     "a certain junior mendicant"
   ],
-  "sn20.10:2.1^who_mentioned_here_and_before": [
+  "sn20.10:2.1^who_mentioned_before_or_around_this_segment": [
     "a cat"
   ],
-  "sn20.10^initial_geographic_location": [
+  "sn20.10^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn20.10^where": "Sāvatthī"

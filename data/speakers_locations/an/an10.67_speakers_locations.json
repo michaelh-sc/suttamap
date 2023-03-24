@@ -9,17 +9,17 @@
   "an10.67:3.4^speaker": "the mendicants",
   "an10.67:4.1+an10.67:7.10^speaker": "Sāriputta",
   "an10.67:8.2+an10.67:11.10^speaker": "the Buddha",
-  "an10.67:8.2^geographic_locations_here_and_before": [
+  "an10.67:8.2^event_dppn_headwords_before_or_around_this_segment": [
     "Naḷakapāna"
   ],
-  "an10.67:8.2^where_here_and_before": [
+  "an10.67:8.2^where_before_or_around_this_segment": [
     "Naḷakapāna",
     "in the parrot tree grove"
   ],
-  "an10.67:8.2^who_around_here_and_before": [
+  "an10.67:8.2^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "an10.67^initial_geographic_location": [
+  "an10.67^initial_location_dppn_headword": [
     "Naḷakapāna"
   ],
   "an10.67^where": "Naḷakapāna, in the parrot tree grove"

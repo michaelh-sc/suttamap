@@ -55,16 +55,16 @@
   "an8.70:14.1+an8.70:21.3^who_else_mentioned": [
     "Joyful Gods"
   ],
-  "an8.70:14.1^geographic_locations_here_and_before": [
+  "an8.70:14.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an8.70:14.1^where_here_and_before": [
+  "an8.70:14.1^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "an8.70:14.1^who_around_here_and_before": [
+  "an8.70:14.1^who_present_before_or_around_this_segment": [
     "Māra the Wicked"
   ],
-  "an8.70^initial_geographic_location": [
+  "an8.70^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an8.70^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

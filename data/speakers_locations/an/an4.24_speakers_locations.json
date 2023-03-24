@@ -7,16 +7,16 @@
     "Māras",
     "Brahmās"
   ],
-  "an4.24:2.1^geographic_locations_here_and_before": [
+  "an4.24:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāketa"
   ],
-  "an4.24:2.1^where_here_and_before": [
+  "an4.24:2.1^where_before_or_around_this_segment": [
     "Sāketa"
   ],
-  "an4.24:2.1^who_around_here_and_before": [
+  "an4.24:2.1^who_present_before_or_around_this_segment": [
     "Kāḷaka's monastery"
   ],
-  "an4.24:2.1^who_mentioned_here_and_before": [
+  "an4.24:2.1^who_mentioned_before_or_around_this_segment": [
     "gods",
     "Māras",
     "Brahmās",
@@ -25,7 +25,7 @@
     "gods",
     "humans"
   ],
-  "an4.24^initial_geographic_location": [
+  "an4.24^initial_location_dppn_headword": [
     "Sāketa"
   ],
   "an4.24^where": "Sāketa"

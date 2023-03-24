@@ -1,6 +1,6 @@
 {
   "_comment": "This data is a work-in-progress and contains errors. keys with _else are produced with non-trained Stanford NLP and only include capitalized words. + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum",
-  "mn82:2.2+mn82:2.7^speaker": "brahmins of Thullakoṭṭhita, householders of Thullakoṭṭhita",
+  "mn82:2.2+mn82:2.7^speaker": "brahmins of Thullakoṭṭhita and householders of Thullakoṭṭhita",
   "mn82:2.2+mn82:2.7^where_else_mentioned": [
     "Thullakoṭṭhita"
   ],
@@ -49,16 +49,16 @@
   "mn82:10.2+mn82:10.10^who_else_mentioned": [
     "Raṭṭhapāla"
   ],
-  "mn82:10.2^geographic_locations_here_and_before": [
+  "mn82:10.2^event_dppn_headwords_before_or_around_this_segment": [
     "Thullakoṭṭhika"
   ],
-  "mn82:10.2^where_here_and_before": [
+  "mn82:10.2^where_before_or_around_this_segment": [
     "Thullakoṭṭhita"
   ],
-  "mn82:10.2^who_around_here_and_before": [
+  "mn82:10.2^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "mn82:10.2^who_mentioned_here_and_before": [
+  "mn82:10.2^who_mentioned_before_or_around_this_segment": [
     "Sakyan family"
   ],
   "mn82:11.2+mn82:11.7^speaker": "Raṭṭhapāla's friends",
@@ -101,20 +101,20 @@
     "Raṭṭhapāla"
   ],
   "mn82:19.10^speaker": "Raṭṭhapāla",
-  "mn82:19.11^geographic_locations_here_and_before": [
+  "mn82:19.11^event_dppn_headwords_before_or_around_this_segment": [
     "Thullakoṭṭhika"
   ],
   "mn82:19.11^speaker": "Raṭṭhapāla's father",
-  "mn82:19.11^where_here_and_before": [
+  "mn82:19.11^where_before_or_around_this_segment": [
     "Thullakoṭṭhita"
   ],
-  "mn82:19.11^who_around_here_and_before": [
+  "mn82:19.11^who_present_before_or_around_this_segment": [
     "Raṭṭhapāla's former wives"
   ],
   "mn82:19.11^who_else_mentioned": [
     "Raṭṭhapāla"
   ],
-  "mn82:19.11^who_mentioned_here_and_before": [
+  "mn82:19.11^who_mentioned_before_or_around_this_segment": [
     "King Koravya"
   ],
   "mn82:20.2^speaker": "Raṭṭhapāla's former wives",
@@ -161,13 +161,13 @@
     "Raṭṭhapāla"
   ],
   "mn82:28.4+mn82:28.5^speaker": "Raṭṭhapāla",
-  "mn82:28.4^geographic_locations_here_and_before": [
+  "mn82:28.4^event_dppn_headwords_before_or_around_this_segment": [
     "Thullakoṭṭhika"
   ],
-  "mn82:28.4^where_here_and_before": [
+  "mn82:28.4^where_before_or_around_this_segment": [
     "Thullakoṭṭhita"
   ],
-  "mn82:28.4^who_around_here_and_before": [
+  "mn82:28.4^who_present_before_or_around_this_segment": [
     "Raṭṭhapāla's father",
     "Raṭṭhapāla's former wives",
     "King Koravya",
@@ -249,23 +249,23 @@
     "Raṭṭhapāla",
     "Buddha"
   ],
-  "mn82:41.37^geographic_locations_here_and_before": [
+  "mn82:41.37^event_dppn_headwords_before_or_around_this_segment": [
     "Thullakoṭṭhika"
   ],
-  "mn82:41.37^where_here_and_before": [
+  "mn82:41.37^where_before_or_around_this_segment": [
     "Thullakoṭṭhita"
   ],
-  "mn82:41.37^who_around_here_and_before": [
+  "mn82:41.37^who_present_before_or_around_this_segment": [
     "a group of eminent officials"
   ],
-  "mn82:41.37^who_mentioned_here_and_before": [
+  "mn82:41.37^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
   "mn82:42.3+mn82:42.54^speaker": "Raṭṭhapāla",
-  "mn82:42.3^who_mentioned_here_and_before": [
+  "mn82:42.3^who_mentioned_before_or_around_this_segment": [
     "Rich people"
   ],
-  "mn82^initial_geographic_location": [
+  "mn82^initial_location_dppn_headword": [
     "Thullakoṭṭhika"
   ],
   "mn82^where": "Thullakoṭṭhita"

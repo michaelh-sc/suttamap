@@ -1,14 +1,14 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn7:1.4^speaker": "The Buddha",
-  "mn7:1.5^geographic_locations_here_and_before": [
+  "mn7:1.4^speaker": "the Buddha",
+  "mn7:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn7:1.5^speaker": "The mendicants",
-  "mn7:1.5^where_here_and_before": [
+  "mn7:1.5^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "mn7:2.1+mn7:18.5^speaker": "The Buddha",
+  "mn7:2.1+mn7:18.5^speaker": "the Buddha",
   "mn7:2.1+mn7:18.5^who_else_mentioned": [
     "Buddha",
     "Saṅgha"
@@ -20,15 +20,15 @@
   "mn7:19.3^who_else_mentioned": [
     "Master Gotama"
   ],
-  "mn7:19.4+mn7:19.5^speaker": "The Buddha",
+  "mn7:19.4+mn7:19.5^speaker": "the Buddha",
   "mn7:19.4+mn7:19.5^where_else_mentioned": [
     "Bāhuka"
   ],
-  "mn7:19.6^speaker": "The Buddha",
+  "mn7:19.6^speaker": "the Buddha",
   "mn7:19.6^where_else_mentioned": [
     "Bāhuka"
   ],
-  "mn7:20.2+mn7:20.23^speaker": "The Buddha",
+  "mn7:20.2+mn7:20.23^speaker": "the Buddha",
   "mn7:20.2+mn7:20.23^where_else_mentioned": [
     "Gayā",
     "Payāga"
@@ -45,17 +45,17 @@
     "Saṅgha",
     "Buddha"
   ],
-  "mn7:22.3^geographic_locations_here_and_before": [
+  "mn7:22.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn7:22.3^speaker": "Bhāradvāja",
-  "mn7:22.3^where_here_and_before": [
+  "mn7:22.3^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "mn7:22.3^who_around_here_and_before": [
+  "mn7:22.3^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "mn7^initial_geographic_location": [
+  "mn7^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn7^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

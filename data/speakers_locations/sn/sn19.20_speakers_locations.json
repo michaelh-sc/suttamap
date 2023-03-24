@@ -2,7 +2,7 @@
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn19.20:1.1+sn19.20:1.2^speaker": "the Buddha",
   "sn19.20:1.3^speaker": "the Buddha",
-  "sn19.20:1.3^who_mentioned_here_and_before": [
+  "sn19.20:1.3^who_mentioned_before_or_around_this_segment": [
     "The novice monk"
   ]
 }

@@ -58,20 +58,20 @@
     "Gotama",
     "Saṅgha"
   ],
-  "dn10:2.37.3^geographic_locations_here_and_before": [
+  "dn10:2.37.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "dn10:2.37.3^where_here_and_before": [
+  "dn10:2.37.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "dn10:2.37.3^who_around_here_and_before": [
+  "dn10:2.37.3^who_present_before_or_around_this_segment": [
     "Cetaka"
   ],
-  "dn10:2.37.3^who_mentioned_here_and_before": [
+  "dn10:2.37.3^who_mentioned_before_or_around_this_segment": [
     "Buddha"
   ],
-  "dn10^initial_geographic_location": [
+  "dn10^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "dn10^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

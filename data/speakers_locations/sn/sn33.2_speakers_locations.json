@@ -5,13 +5,13 @@
     "Gotama"
   ],
   "sn33.2:1.6+sn33.2:1.10^speaker": "the Buddha",
-  "sn33.2:1.6^geographic_locations_here_and_before": [
+  "sn33.2:1.6^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn33.2:1.6^where_here_and_before": [
+  "sn33.2:1.6^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn33.2^initial_geographic_location": [
+  "sn33.2^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn33.2^where": "Sāvatthī"

@@ -12,19 +12,19 @@
     "Kimbila",
     "Saṅgha"
   ],
-  "an6.40:2.2^geographic_locations_here_and_before": [
+  "an6.40:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kimilā"
   ],
-  "an6.40:2.2^where_here_and_before": [
+  "an6.40:2.2^where_before_or_around_this_segment": [
     "Kimbilā in the Freshwater Mangrove Wood"
   ],
-  "an6.40:2.2^who_mentioned_here_and_before": [
+  "an6.40:2.2^who_mentioned_before_or_around_this_segment": [
     "Monks",
     "nuns",
     "laymen",
     "laywomen"
   ],
-  "an6.40^initial_geographic_location": [
+  "an6.40^initial_location_dppn_headword": [
     "Kimilā"
   ],
   "an6.40^where": "Kimbilā in the Freshwater Mangrove Wood"

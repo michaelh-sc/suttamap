@@ -17,24 +17,24 @@
   "an6.57:9.3+an6.57:10.2^who_else_mentioned": [
     "Pūraṇa Kassapa"
   ],
-  "an6.57:10.3^geographic_locations_here_and_before": [
+  "an6.57:10.3^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
   "an6.57:10.3^speaker": "Ānanda",
-  "an6.57:10.3^where_here_and_before": [
+  "an6.57:10.3^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain near Rājagaha"
   ],
-  "an6.57:10.3^who_around_here_and_before": [
+  "an6.57:10.3^who_present_before_or_around_this_segment": [
     "Pūraṇa Kassapa"
   ],
   "an6.57:10.5+an6.57:17.1^speaker": "the Buddha",
-  "an6.57:10.5^who_around_here_and_before": [
+  "an6.57:10.5^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "an6.57:10.5^who_mentioned_here_and_before": [
+  "an6.57:10.5^who_mentioned_before_or_around_this_segment": [
     "Pūraṇa Kassapa"
   ],
-  "an6.57^initial_geographic_location": [
+  "an6.57^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "an6.57^where": "Vulture's Peak Mountain, near Rājagaha"

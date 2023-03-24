@@ -18,8 +18,8 @@
   "an9.11:1.13^who_else_mentioned": [
     "Sāriputta"
   ],
-  "an9.11:1.14^speaker": "Mahāmoggallāna, Ānanda",
-  "an9.11:2.2+an9.11:2.3^speaker": "Mahāmoggallāna, Ānanda",
+  "an9.11:1.14^speaker": "Mahāmoggallāna and Ānanda",
+  "an9.11:2.2+an9.11:2.3^speaker": "Mahāmoggallāna and Ānanda",
   "an9.11:2.2+an9.11:2.3^who_else_mentioned": [
     "Sāriputta",
     "Buddha"
@@ -39,17 +39,17 @@
     "Sāriputta"
   ],
   "an9.11:14.3+an9.11:14.4^speaker": "Sāriputta",
-  "an9.11:14.3^geographic_locations_here_and_before": [
+  "an9.11:14.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an9.11:14.3^where_here_and_before": [
+  "an9.11:14.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery in Sāvatthī"
   ],
-  "an9.11:14.3^who_around_here_and_before": [
+  "an9.11:14.3^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "an9.11^initial_geographic_location": [
+  "an9.11^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an9.11^where": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī"

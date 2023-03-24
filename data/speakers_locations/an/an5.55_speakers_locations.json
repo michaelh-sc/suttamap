@@ -5,22 +5,22 @@
     "Mendicants",
     "Māra"
   ],
-  "an5.55:3.1^geographic_locations_here_and_before": [
+  "an5.55:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an5.55:3.1^where_here_and_before": [
+  "an5.55:3.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "an5.55:3.1^who_around_here_and_before": [
+  "an5.55:3.1^who_present_before_or_around_this_segment": [
     "several mendicants"
   ],
-  "an5.55:3.1^who_mentioned_here_and_before": [
+  "an5.55:3.1^who_mentioned_before_or_around_this_segment": [
     "a mother",
     "a son"
   ],
-  "an5.55^initial_geographic_location": [
+  "an5.55^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an5.55^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

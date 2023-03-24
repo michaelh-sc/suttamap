@@ -50,10 +50,13 @@
     "Pasenadi"
   ],
   "mn89:9.4^speaker": "the Buddha",
-  "mn89:9.4^where_here_and_before": [
+  "mn89:9.4^event_dppn_headwords_before_or_around_this_segment": [
+    "Medāḷupa"
+  ],
+  "mn89:9.4^where_before_or_around_this_segment": [
     "the land of the Sakyans near the Sakyan town named Medaḷumpa"
   ],
-  "mn89:9.4^who_around_here_and_before": [
+  "mn89:9.4^who_present_before_or_around_this_segment": [
     "Dīgha Kārāyana",
     "mendicants"
   ],
@@ -74,11 +77,12 @@
   "mn89:21.2+mn89:21.6^who_else_mentioned": [
     "Pasenadi"
   ],
-  "mn89:21.2^where_here_and_before": [
+  "mn89:21.2^where_before_or_around_this_segment": [
     "the Buddha's dwelling"
   ],
-  "mn89:21.2^who_around_here_and_before": [
+  "mn89:21.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
+  "mn89^initial_location_dppn_headword": "Medāḷupa",
   "mn89^where": "the land of the Sakyans, near the Sakyan town named Medaḷumpa"
 }

@@ -3,15 +3,15 @@
   "an5.51:1.4^speaker": "the Buddha (assumed)",
   "an5.51:1.5^speaker": "the mendicants",
   "an5.51:2.1+an5.51:4.5^speaker": "the Buddha (assumed)",
-  "an5.51:2.1^geographic_locations_here_and_before": [
+  "an5.51:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an5.51:2.1^where_here_and_before": [
+  "an5.51:2.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "an5.51^initial_geographic_location": [
+  "an5.51^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an5.51^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

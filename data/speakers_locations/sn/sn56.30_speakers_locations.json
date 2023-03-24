@@ -5,19 +5,19 @@
   "sn56.30:2.2+sn56.30:2.6^who_else_mentioned": [
     "Buddha"
   ],
-  "sn56.30:2.2^geographic_locations_here_and_before": [
+  "sn56.30:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sahajāti"
   ],
-  "sn56.30:2.2^where_here_and_before": [
+  "sn56.30:2.2^where_before_or_around_this_segment": [
     "the land of the Cetis at Sahajāti"
   ],
-  "sn56.30:2.2^who_around_here_and_before": [
+  "sn56.30:2.2^who_present_before_or_around_this_segment": [
     "several mendicants"
   ],
-  "sn56.30:2.2^who_mentioned_here_and_before": [
+  "sn56.30:2.2^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn56.30^initial_geographic_location": [
+  "sn56.30^initial_location_dppn_headword": [
     "Sahajāti"
   ],
   "sn56.30^where": "the land of the Cetis at Sahajāti"

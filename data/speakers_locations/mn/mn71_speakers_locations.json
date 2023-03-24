@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn71:3.3+mn71:3.4^speaker": "The Buddha",
+  "mn71:3.3+mn71:3.4^speaker": "the Buddha",
   "mn71:3.3+mn71:3.4^where_else_mentioned": [
     "Vesālī"
   ],
@@ -14,7 +14,7 @@
     "Buddha"
   ],
   "mn71:5.3^speaker": "Vacchagotta",
-  "mn71:5.5^speaker": "The Buddha",
+  "mn71:5.5^speaker": "the Buddha",
   "mn71:5.5^who_else_mentioned": [
     "Vaccha"
   ],
@@ -22,7 +22,7 @@
   "mn71:6.1^who_else_mentioned": [
     "Buddha"
   ],
-  "mn71:6.2+mn71:10.1^speaker": "The Buddha",
+  "mn71:6.2+mn71:10.1^speaker": "the Buddha",
   "mn71:6.2+mn71:10.1^who_else_mentioned": [
     "Gotama",
     "Vaccha"
@@ -31,37 +31,37 @@
   "mn71:11.2^who_else_mentioned": [
     "Gotama"
   ],
-  "mn71:11.3^speaker": "The Buddha",
+  "mn71:11.3^speaker": "the Buddha",
   "mn71:11.3^who_else_mentioned": [
     "Vaccha"
   ],
   "mn71:12.1^speaker": "Vacchagotta",
-  "mn71:12.2^speaker": "The Buddha",
+  "mn71:12.2^speaker": "the Buddha",
   "mn71:13.1^speaker": "Vacchagotta",
   "mn71:13.1^who_else_mentioned": [
     "Gotama"
   ],
-  "mn71:13.2^speaker": "The Buddha",
+  "mn71:13.2^speaker": "the Buddha",
   "mn71:13.2^who_else_mentioned": [
     "Vaccha"
   ],
   "mn71:14.1^speaker": "Vacchagotta",
-  "mn71:14.2+mn71:14.3^speaker": "The Buddha",
+  "mn71:14.2+mn71:14.3^speaker": "the Buddha",
   "mn71:15.1^speaker": "Vacchagotta",
   "mn71:15.1^who_else_mentioned": [
     "Gotama"
   ],
-  "mn71:15.2^geographic_locations_here_and_before": [
+  "mn71:15.2^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "mn71:15.2^speaker": "The Buddha",
-  "mn71:15.2^where_here_and_before": [
+  "mn71:15.2^speaker": "the Buddha",
+  "mn71:15.2^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
   "mn71:15.2^who_else_mentioned": [
     "Vaccha"
   ],
-  "mn71^initial_geographic_location": [
+  "mn71^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "mn71^where": "Vesālī, at the Great Wood, in the hall with the peaked roof."

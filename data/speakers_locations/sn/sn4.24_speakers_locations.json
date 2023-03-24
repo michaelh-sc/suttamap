@@ -17,13 +17,13 @@
   "sn4.24:9.1+sn4.24:10.4^who_else_mentioned": [
     "Gotama"
   ],
-  "sn4.24:9.1^geographic_locations_here_and_before": [
+  "sn4.24:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Uruvelā"
   ],
-  "sn4.24:9.1^where_here_and_before": [
+  "sn4.24:9.1^where_before_or_around_this_segment": [
     "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River"
   ],
-  "sn4.24^initial_geographic_location": [
+  "sn4.24^initial_location_dppn_headword": [
     "Uruvelā"
   ],
   "sn4.24^where": "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River"

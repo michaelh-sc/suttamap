@@ -13,18 +13,18 @@
   "an3.91:4.1+an3.91:8.5^who_else_mentioned": [
     "Kassapa"
   ],
-  "an3.91:4.1^geographic_locations_here_and_before": [
+  "an3.91:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Paṅkadhā",
     "Rājagaha"
   ],
-  "an3.91:4.1^where_here_and_before": [
+  "an3.91:4.1^where_before_or_around_this_segment": [
     "Paṅkadhā",
     "Rājagaha"
   ],
-  "an3.91:4.1^who_around_here_and_before": [
+  "an3.91:4.1^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "an3.91^initial_geographic_location": [
+  "an3.91^initial_location_dppn_headword": [
     "Paṅkadhā",
     "Rājagaha"
   ],

@@ -11,20 +11,20 @@
   ],
   "sn45.4:4.2+sn45.4:6.2^speaker": "the Buddha",
   "sn45.4:8.1+sn45.4:11.4^speaker": "the Buddha",
-  "sn45.4:8.1^geographic_locations_here_and_before": [
+  "sn45.4:8.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn45.4:8.1^where_here_and_before": [
+  "sn45.4:8.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn45.4:8.1^who_around_here_and_before": [
+  "sn45.4:8.1^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "sn45.4:8.1^who_mentioned_here_and_before": [
+  "sn45.4:8.1^who_mentioned_before_or_around_this_segment": [
     "Brahmā",
     "Jāṇussoṇi"
   ],
-  "sn45.4^initial_geographic_location": [
+  "sn45.4^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn45.4^where": "Sāvatthī"

@@ -19,16 +19,16 @@
   "sn22.60:9.3+sn22.60:10.8^who_else_mentioned": [
     "Mahāli"
   ],
-  "sn22.60:9.3^geographic_locations_here_and_before": [
+  "sn22.60:9.3^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "sn22.60:9.3^where_here_and_before": [
+  "sn22.60:9.3^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "sn22.60:9.3^who_mentioned_here_and_before": [
+  "sn22.60:9.3^who_mentioned_before_or_around_this_segment": [
     "Pūraṇa Kassapa"
   ],
-  "sn22.60^initial_geographic_location": [
+  "sn22.60^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "sn22.60^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

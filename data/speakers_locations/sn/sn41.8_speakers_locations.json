@@ -26,17 +26,17 @@
   "sn41.8:5.1+sn41.8:5.9^who_else_mentioned": [
     "Citta"
   ],
-  "sn41.8:5.1^geographic_locations_here_and_before": [
+  "sn41.8:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
-  "sn41.8:5.1^where_here_and_before": [
+  "sn41.8:5.1^where_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
-  "sn41.8:5.1^who_around_here_and_before": [
+  "sn41.8:5.1^who_present_before_or_around_this_segment": [
     "a large assembly of Jain ascetics",
     "several lay followers"
   ],
-  "sn41.8^initial_geographic_location": [
+  "sn41.8^initial_location_dppn_headword": [
     "Macchikāsaṇḍa"
   ],
   "sn41.8^where": "Macchikāsaṇḍa"

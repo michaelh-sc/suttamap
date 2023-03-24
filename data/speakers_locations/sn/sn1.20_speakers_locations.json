@@ -26,31 +26,31 @@
   "sn1.20:8.3^speaker": "Samiddhi",
   "sn1.20:17.4^speaker": "Samiddhi",
   "sn1.20:18.2^speaker": "Glorious deity",
-  "sn1.20:20.1+sn1.20:21.5^speaker": "The Buddha",
+  "sn1.20:20.1+sn1.20:21.5^speaker": "the Buddha",
   "sn1.20:22.1+sn1.20:22.2^speaker": "Glorious deity",
   "sn1.20:22.1+sn1.20:22.2^who_else_mentioned": [
     "Buddha"
   ],
-  "sn1.20:23.1+sn1.20:23.5^speaker": "The Buddha",
+  "sn1.20:23.1+sn1.20:23.5^speaker": "the Buddha",
   "sn1.20:24.1+sn1.20:24.2^speaker": "Glorious deity",
   "sn1.20:24.1+sn1.20:24.2^who_else_mentioned": [
     "Buddha"
   ],
-  "sn1.20:25.1+sn1.20:26.1^speaker": "The Buddha",
+  "sn1.20:25.1+sn1.20:26.1^speaker": "the Buddha",
   "sn1.20:27.1+sn1.20:28.4^speaker": "Samiddhi",
   "sn1.20:27.1+sn1.20:28.4^who_else_mentioned": [
     "Buddha"
   ],
-  "sn1.20:27.1^geographic_locations_here_and_before": [
+  "sn1.20:27.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn1.20:27.1^where_here_and_before": [
+  "sn1.20:27.1^where_before_or_around_this_segment": [
     "Rājagaha in the Hot Springs Monastery"
   ],
-  "sn1.20:27.1^who_around_here_and_before": [
-    "The Buddha"
+  "sn1.20:27.1^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "sn1.20^initial_geographic_location": [
+  "sn1.20^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn1.20^where": "Rājagaha in the Hot Springs Monastery"

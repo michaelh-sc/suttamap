@@ -1,22 +1,22 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "mn29:2.1+mn29:7.2^speaker": "the Buddha",
-  "mn29:2.1^geographic_locations_here_and_before": [
+  "mn29:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "mn29:2.1^where_here_and_before": [
+  "mn29:2.1^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain near Rājagaha"
   ],
-  "mn29:2.1^who_around_here_and_before": [
+  "mn29:2.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn29:2.1^who_mentioned_here_and_before": [
+  "mn29:2.1^who_mentioned_before_or_around_this_segment": [
     "Devadatta"
   ],
-  "mn29^initial_geographic_location": [
+  "mn29^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "mn29^where": "Vulture's Peak Mountain, near Rājagaha",
-  "who_around": "Mendicants",
+  "who_present": "Mendicants",
   "who_mentioned": "Devadatta"
 }

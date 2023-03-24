@@ -31,24 +31,24 @@
   "an8.20:5.5+an8.20:5.6^who_else_mentioned": [
     "Moggallāna"
   ],
-  "an8.20:5.5^geographic_locations_here_and_before": [
+  "an8.20:5.5^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "an8.20:5.5^where_here_and_before": [
+  "an8.20:5.5^where_before_or_around_this_segment": [
     "Sāvatthī in the Eastern Monastery",
     "the stilt longhouse of Migāra's mother"
   ],
-  "an8.20:5.5^who_around_here_and_before": [
+  "an8.20:5.5^who_present_before_or_around_this_segment": [
     "Saṅgha of monks"
   ],
   "an8.20:6.2+an8.20:9.11^speaker": "the Buddha",
-  "an8.20:6.2^where_here_and_before": [
+  "an8.20:6.2^where_before_or_around_this_segment": [
     "the gate"
   ],
-  "an8.20:6.2^who_around_here_and_before": [
+  "an8.20:6.2^who_present_before_or_around_this_segment": [
     "the person"
   ],
-  "an8.20^initial_geographic_location": [
+  "an8.20^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "an8.20^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"

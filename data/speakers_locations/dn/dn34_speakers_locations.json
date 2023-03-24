@@ -12,22 +12,22 @@
     "Buddhas",
     "the Holy One"
   ],
-  "dn34:1.1.7^geographic_locations_here_and_before": [
+  "dn34:1.1.7^event_dppn_headwords_before_or_around_this_segment": [
     "Campā"
   ],
-  "dn34:1.1.7^where_here_and_before": [
+  "dn34:1.1.7^where_before_or_around_this_segment": [
     "Campā on the banks of the Gaggarā Lotus Pond"
   ],
-  "dn34:1.1.7^who_around_here_and_before": [
+  "dn34:1.1.7^who_present_before_or_around_this_segment": [
     "a large Saṅgha of five hundred mendicants"
   ],
-  "dn34:1.1.7^who_mentioned_here_and_before": [
+  "dn34:1.1.7^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
   "dn34:1.7.63^speaker": "Sāriputta",
   "dn34:1.7.66^speaker": "Sāriputta",
   "dn34:1.7.68^speaker": "Sāriputta",
-  "dn34^initial_geographic_location": [
+  "dn34^initial_location_dppn_headword": [
     "Campā"
   ],
   "dn34^where": "Campā on the banks of the Gaggarā Lotus Pond"

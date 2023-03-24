@@ -3,7 +3,7 @@
   "sn56.62:1.2+sn56.62:1.3^speaker": "the Buddha (assumed)",
   "sn56.62:1.4+sn56.62:1.5^speaker": "the mendicants",
   "sn56.62:2.1^speaker": "the Buddha (assumed)",
-  "sn56.62:2.1^who_around_here_and_before": [
+  "sn56.62:2.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ]
 }

@@ -5,22 +5,22 @@
   "sn6.15:4.1+sn6.15:4.6^who_else_mentioned": [
     "Buddha"
   ],
-  "sn6.15:6.1+sn6.15:6.4^speaker": "Sakka, lord of gods",
+  "sn6.15:6.1+sn6.15:6.4^speaker": "Sakka lord of Gods",
   "sn6.15:8.1+sn6.15:8.4^speaker": "Ānanda",
   "sn6.15:8.1+sn6.15:8.4^who_else_mentioned": [
     "Buddha"
   ],
   "sn6.15:10.1+sn6.15:11.4^speaker": "Anuruddha",
-  "sn6.15:10.1^geographic_locations_here_and_before": [
+  "sn6.15:10.1^event_dppn_headwords_before_or_around_this_segment": [
     "Upavatta"
   ],
-  "sn6.15:10.1^where_here_and_before": [
+  "sn6.15:10.1^where_before_or_around_this_segment": [
     "Upavattana near Kusinārā"
   ],
-  "sn6.15:10.1^who_around_here_and_before": [
+  "sn6.15:10.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn6.15^initial_geographic_location": [
+  "sn6.15^initial_location_dppn_headword": [
     "Upavatta"
   ],
   "sn6.15^where": "Upavattana near Kusinārā"

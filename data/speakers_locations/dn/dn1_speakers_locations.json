@@ -35,14 +35,14 @@
     "Begetter"
   ],
   "dn1:3.74.2^speaker": "Ānanda",
-  "dn1:3.74.3^geographic_locations_here_and_before": [
+  "dn1:3.74.3^event_dppn_headwords_before_or_around_this_segment": [
     "Ambalaṭṭhikā"
   ],
   "dn1:3.74.3^speaker": "the Buddha",
-  "dn1:3.74.3^where_here_and_before": [
+  "dn1:3.74.3^where_before_or_around_this_segment": [
     "Ambalaṭṭhikā"
   ],
-  "dn1:3.74.3^who_around_here_and_before": [
+  "dn1:3.74.3^who_present_before_or_around_this_segment": [
     "Suppiya",
     "Brahmadatta",
     "Saṅgha of mendicants"
@@ -50,7 +50,7 @@
   "dn1:3.74.3^who_else_mentioned": [
     "Ānanda"
   ],
-  "dn1^initial_geographic_location": [
+  "dn1^initial_location_dppn_headword": [
     "Ambalaṭṭhikā"
   ],
   "dn1^where": "Ambalaṭṭhikā"

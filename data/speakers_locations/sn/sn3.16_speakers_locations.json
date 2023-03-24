@@ -5,19 +5,19 @@
     "Queen Mallikā"
   ],
   "sn3.16:3.1+sn3.16:4.4^speaker": "the Buddha",
-  "sn3.16:3.1^geographic_locations_here_and_before": [
+  "sn3.16:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn3.16:3.1^where_here_and_before": [
+  "sn3.16:3.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn3.16:3.1^who_around_here_and_before": [
+  "sn3.16:3.1^who_present_before_or_around_this_segment": [
     "King Pasenadi of Kosala"
   ],
-  "sn3.16:3.1^who_mentioned_here_and_before": [
+  "sn3.16:3.1^who_mentioned_before_or_around_this_segment": [
     "Queen Mallikā"
   ],
-  "sn3.16^initial_geographic_location": [
+  "sn3.16^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn3.16^where": "Sāvatthī"

@@ -42,16 +42,16 @@
     "Anuruddha"
   ],
   "mn128:14.1^speaker": "Anuruddha, Nandiya, and Kimbila",
-  "mn128:14.2^geographic_locations_here_and_before": [
+  "mn128:14.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
   "mn128:14.2^speaker": "the Buddha",
-  "mn128:14.2^where_here_and_before": [
+  "mn128:14.2^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery",
     "Eastern Bamboo Park"
   ],
-  "mn128:14.2^who_around_here_and_before": [
+  "mn128:14.2^who_present_before_or_around_this_segment": [
     "Bhagu",
     "the park keeper"
   ],
@@ -62,12 +62,12 @@
   ],
   "mn128:15.3+mn128:15.5^speaker": "Anuruddha, Nandiya, and Kimbila",
   "mn128:16.1+mn128:32.3^speaker": "the Buddha",
-  "mn128:16.1^who_around_here_and_before": [
+  "mn128:16.1^who_present_before_or_around_this_segment": [
     "Anuruddha",
     "Nandiya",
     "Kimbila"
   ],
-  "mn128^initial_geographic_location": [
+  "mn128^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "mn128^where": "Kosambi, in Ghosita's Monastery, Eastern Bamboo Park"

@@ -65,11 +65,13 @@
   "sn42.13:14.10+sn42.13:14.11^speaker": "the Buddha",
   "sn42.13:14.12^speaker": "the mendicants",
   "sn42.13:14.13^speaker": "the Buddha",
-  "sn42.13:14.13^where_here_and_before": [
-    "the land of the Koliyans",
+  "sn42.13:14.13^geographical_locations_before_or_around_this_segment": [
     "Uttara"
   ],
-  "sn42.13:14.13^who_mentioned_here_and_before": [
+  "sn42.13:14.13^where_before_or_around_this_segment": [
+    "Uttara"
+  ],
+  "sn42.13:14.13^who_mentioned_before_or_around_this_segment": [
     "Ascetics",
     "Brahmins",
     "Koliyan officers with drooping headdresses"
@@ -102,11 +104,12 @@
   "sn42.13:32.2+sn42.13:32.3^who_else_mentioned": [
     "Gotama"
   ],
-  "sn42.13:32.2^where_here_and_before": [
+  "sn42.13:32.2^where_before_or_around_this_segment": [
     "Have you seen or heard of such a thing?"
   ],
-  "sn42.13:32.2^who_around_here_and_before": [
+  "sn42.13:32.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
+  "sn42.13^initial_location_dppn_headword": "Uttara",
   "sn42.13^where": "the land of the Koliyans, Uttara"
 }

@@ -9,21 +9,21 @@
   "sn2.8:14.1+sn2.8:14.5^who_else_mentioned": [
     "Tāyana"
   ],
-  "sn2.8:14.1^geographic_locations_here_and_before": [
+  "sn2.8:14.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī",
     "Jetavana"
   ],
-  "sn2.8:14.1^where_here_and_before": [
+  "sn2.8:14.1^where_before_or_around_this_segment": [
     "Sāvatthī",
     "Jeta's Grove"
   ],
-  "sn2.8:14.1^who_around_here_and_before": [
+  "sn2.8:14.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn2.8:14.1^who_mentioned_here_and_before": [
+  "sn2.8:14.1^who_mentioned_before_or_around_this_segment": [
     "the god Tāyana"
   ],
-  "sn2.8^initial_geographic_location": [
+  "sn2.8^initial_location_dppn_headword": [
     "Sāvatthī",
     "Jetavana"
   ],

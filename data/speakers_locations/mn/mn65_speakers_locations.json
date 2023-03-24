@@ -1,10 +1,10 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn65:1.4^speaker": "The Buddha",
+  "mn65:1.4^speaker": "the Buddha",
   "mn65:1.5^speaker": "the mendicants",
-  "mn65:2.1+mn65:2.4^speaker": "The Buddha",
+  "mn65:2.1+mn65:2.4^speaker": "the Buddha",
   "mn65:3.2+mn65:3.3^speaker": "Bhaddāli",
-  "mn65:4.1+mn65:4.2^speaker": "The Buddha",
+  "mn65:4.1+mn65:4.2^speaker": "the Buddha",
   "mn65:4.1+mn65:4.2^where_else_mentioned": [
     "Bhaddāli"
   ],
@@ -20,7 +20,7 @@
     "Buddha",
     "Saṅgha"
   ],
-  "mn65:8.1+mn65:9.24^speaker": "The Buddha",
+  "mn65:8.1+mn65:9.24^speaker": "the Buddha",
   "mn65:8.1+mn65:9.24^who_else_mentioned": [
     "Bhaddāli",
     "Buddha",
@@ -33,7 +33,7 @@
     "Buddha",
     "Saṅgha"
   ],
-  "mn65:10.3+mn65:11.3^speaker": "The Buddha",
+  "mn65:10.3+mn65:11.3^speaker": "the Buddha",
   "mn65:10.3+mn65:11.3^who_else_mentioned": [
     "Bhaddāli",
     "Buddha",
@@ -45,33 +45,33 @@
     "Bhaddāli"
   ],
   "mn65:11.13^speaker": "Bhaddāli",
-  "mn65:12.1+mn65:12.2^speaker": "The Buddha",
+  "mn65:12.1+mn65:12.2^speaker": "the Buddha",
   "mn65:12.1+mn65:12.2^who_else_mentioned": [
     "Bhaddāli"
   ],
   "mn65:12.3^speaker": "Bhaddāli",
-  "mn65:12.4^speaker": "The Buddha",
+  "mn65:12.4^speaker": "the Buddha",
   "mn65:13.1^speaker": "Bhaddāli",
   "mn65:13.2+mn65:13.3^speaker": "Bhaddāli",
-  "mn65:13.4+mn65:21.5^speaker": "The Buddha",
+  "mn65:13.4+mn65:21.5^speaker": "the Buddha",
   "mn65:13.4+mn65:21.5^who_else_mentioned": [
     "Bhaddāli"
   ],
-  "mn65:13.4^geographic_locations_here_and_before": [
+  "mn65:13.4^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn65:13.4^where_here_and_before": [
+  "mn65:13.4^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn65:13.4^who_around_here_and_before": [
+  "mn65:13.4^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn65:13.4^who_mentioned_here_and_before": [
+  "mn65:13.4^who_mentioned_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
   "mn65:22.2+mn65:22.3^speaker": "Bhaddāli",
-  "mn65:23.1+mn65:28.9^speaker": "The Buddha",
+  "mn65:23.1+mn65:28.9^speaker": "the Buddha",
   "mn65:23.1+mn65:28.9^who_else_mentioned": [
     "Saṅgha"
   ],
@@ -80,24 +80,24 @@
     "Saṅgha"
   ],
   "mn65:29.1+mn65:29.2^speaker": "Bhaddāli",
-  "mn65:30.1+mn65:32.2^speaker": "The Buddha",
+  "mn65:30.1+mn65:32.2^speaker": "the Buddha",
   "mn65:30.1+mn65:32.2^who_else_mentioned": [
     "Bhaddāli",
     "Saṅgha"
   ],
   "mn65:32.3^speaker": "Bhaddāli",
-  "mn65:32.4^speaker": "The Buddha",
+  "mn65:32.4^speaker": "the Buddha",
   "mn65:32.5^speaker": "Bhaddāli",
-  "mn65:32.6+mn65:32.10^speaker": "The Buddha",
+  "mn65:32.6+mn65:32.10^speaker": "the Buddha",
   "mn65:32.6+mn65:32.10^who_else_mentioned": [
     "Bhaddāli"
   ],
   "mn65:32.11^speaker": "Bhaddāli",
-  "mn65:33.1+mn65:34.4^speaker": "The Buddha",
-  "mn65:33.1^who_mentioned_here_and_before": [
+  "mn65:33.1+mn65:34.4^speaker": "the Buddha",
+  "mn65:33.1^who_mentioned_before_or_around_this_segment": [
     "A deft horse trainer"
   ],
-  "mn65^initial_geographic_location": [
+  "mn65^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn65^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

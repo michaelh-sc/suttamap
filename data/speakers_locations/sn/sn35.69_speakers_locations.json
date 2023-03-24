@@ -10,18 +10,18 @@
   "sn35.69:3.1+sn35.69:3.5^who_else_mentioned": [
     "Upasena"
   ],
-  "sn35.69:3.1^geographic_locations_here_and_before": [
+  "sn35.69:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn35.69:3.1^where_here_and_before": [
+  "sn35.69:3.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "the Cool Grove",
     "under the Snake's Hood Grotto"
   ],
-  "sn35.69:3.1^who_around_here_and_before": [
+  "sn35.69:3.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn35.69^initial_geographic_location": [
+  "sn35.69^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn35.69^where": "Rājagaha, the Cool Grove, under the Snake's Hood Grotto"

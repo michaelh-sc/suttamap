@@ -9,16 +9,16 @@
   "sn28.4:2.4+sn28.4:2.6^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn28.4:2.4^geographic_locations_here_and_before": [
+  "sn28.4:2.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn28.4:2.4^where_here_and_before": [
+  "sn28.4:2.4^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn28.4:2.4^who_around_here_and_before": [
+  "sn28.4:2.4^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn28.4^initial_geographic_location": [
+  "sn28.4^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn28.4^where": "Sāvatthī"

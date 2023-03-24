@@ -32,13 +32,13 @@
   "sn41.6:10.1^speaker": "Citta the householder",
   "sn41.6:10.2^speaker": "Citta the householder",
   "sn41.6:10.3+sn41.6:10.6^speaker": "Kāmabhū",
-  "sn41.6:10.3^geographic_locations_here_and_before": [
+  "sn41.6:10.3^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
-  "sn41.6:10.3^where_here_and_before": [
+  "sn41.6:10.3^where_before_or_around_this_segment": [
     "Macchikāsaṇḍa in the Wild Mango Grove"
   ],
-  "sn41.6^initial_geographic_location": [
+  "sn41.6^initial_location_dppn_headword": [
     "Macchikāsaṇḍa"
   ],
   "sn41.6^where": "Macchikāsaṇḍa in the Wild Mango Grove"

@@ -3,16 +3,16 @@
   "sn47.18:1.3+sn47.18:2.6^speaker": "the Buddha (assumed)",
   "sn47.18:3.3+sn47.18:4.6^speaker": "Brahmā Sahampati",
   "sn47.18:6.1+sn47.18:6.4^speaker": "Brahmā Sahampati",
-  "sn47.18:6.1^geographic_locations_here_and_before": [
+  "sn47.18:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Uruvelā"
   ],
-  "sn47.18:6.1^where_here_and_before": [
+  "sn47.18:6.1^where_before_or_around_this_segment": [
     "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River"
   ],
-  "sn47.18:6.1^who_around_here_and_before": [
+  "sn47.18:6.1^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn47.18^initial_geographic_location": [
+  "sn47.18^initial_location_dppn_headword": [
     "Uruvelā"
   ],
   "sn47.18^where": "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River"

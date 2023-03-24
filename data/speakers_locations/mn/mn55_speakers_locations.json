@@ -39,13 +39,13 @@
   "mn55:13.2+mn55:13.6^who_else_mentioned": [
     "Buddha"
   ],
-  "mn55:13.2^geographic_locations_here_and_before": [
+  "mn55:13.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "mn55:13.2^where_here_and_before": [
+  "mn55:13.2^where_before_or_around_this_segment": [
     "Rājagaha in the Mango Grove of Jīvaka Komārabhacca"
   ],
-  "mn55^initial_geographic_location": [
+  "mn55^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn55^where": "Rājagaha in the Mango Grove of Jīvaka Komārabhacca"

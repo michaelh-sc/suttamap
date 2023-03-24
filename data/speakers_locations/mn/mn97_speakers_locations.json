@@ -61,22 +61,22 @@
     "Dhanañjāni"
   ],
   "mn97:25.3+mn97:25.5^speaker": "Dhanañjāni",
-  "mn97:25.6^geographic_locations_here_and_before": [
+  "mn97:25.6^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn97:25.6^speaker": "Sāriputta",
   "mn97:25.6^where_else_mentioned": [
     "Dhanañjāni"
   ],
-  "mn97:25.6^where_here_and_before": [
+  "mn97:25.6^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "mn97:25.6^who_around_here_and_before": [
+  "mn97:25.6^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "mn97:25.6^who_mentioned_here_and_before": [
+  "mn97:25.6^who_mentioned_before_or_around_this_segment": [
     "Dhanañjāni's mother",
     "Dhanañjāni's father",
     "Dhanañjāni's wives",
@@ -182,13 +182,13 @@
   "mn97:38.5+mn97:38.6^who_else_mentioned": [
     "Brahmā"
   ],
-  "mn97:38.5^where_here_and_before": [
+  "mn97:38.5^where_before_or_around_this_segment": [
     "Dhanañjāni's home"
   ],
-  "mn97:38.5^who_around_here_and_before": [
+  "mn97:38.5^who_present_before_or_around_this_segment": [
     "man"
   ],
-  "mn97:38.5^who_mentioned_here_and_before": [
+  "mn97:38.5^who_mentioned_before_or_around_this_segment": [
     "Brahmā"
   ],
   "mn97:38.7^speaker": "Buddha",
@@ -196,16 +196,16 @@
     "Sāriputta",
     "Dhanañjāni"
   ],
-  "mn97:38.7^who_around_here_and_before": [
+  "mn97:38.7^who_present_before_or_around_this_segment": [
     "Dhanañjāni"
   ],
   "mn97:38.7^who_else_mentioned": [
     "Brahmā"
   ],
-  "mn97:38.7^who_mentioned_here_and_before": [
+  "mn97:38.7^who_mentioned_before_or_around_this_segment": [
     "Brahmā"
   ],
-  "mn97^initial_geographic_location": [
+  "mn97^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn97^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

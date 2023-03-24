@@ -14,16 +14,16 @@
   "an7.43:6.1+an7.43:7.6^who_else_mentioned": [
     "Ānanda"
   ],
-  "an7.43:6.1^geographic_locations_here_and_before": [
+  "an7.43:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "an7.43:6.1^where_here_and_before": [
+  "an7.43:6.1^where_before_or_around_this_segment": [
     "Ghosita's Monastery near Kosambi"
   ],
-  "an7.43:6.1^who_around_here_and_before": [
+  "an7.43:6.1^who_present_before_or_around_this_segment": [
     "wanderers who follow other paths"
   ],
-  "an7.43^initial_geographic_location": [
+  "an7.43^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "an7.43^where": "Ghosita's Monastery, Kosambi"

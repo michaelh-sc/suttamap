@@ -4,18 +4,18 @@
   "mn119:2.2+mn119:2.3^who_else_mentioned": [
     "Buddha"
   ],
-  "mn119:2.6^geographic_locations_here_and_before": [
+  "mn119:2.6^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn119:2.6^speaker": "the Buddha",
-  "mn119:2.6^where_here_and_before": [
+  "mn119:2.6^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn119:2.6^who_around_here_and_before": [
+  "mn119:2.6^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn119:2.6^who_mentioned_here_and_before": [
+  "mn119:2.6^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
   "mn119:3.1+mn119:23.4^speaker": "the Buddha",
@@ -55,20 +55,20 @@
   "mn119:29.4^speaker": "the mendicants",
   "mn119:29.5+mn119:30.2^speaker": "the Buddha",
   "mn119:30.3^speaker": "the mendicants",
-  "mn119:30.3^where_here_and_before": [
+  "mn119:30.3^where_before_or_around_this_segment": [
     "the pavilion"
   ],
-  "mn119:30.3^who_mentioned_here_and_before": [
+  "mn119:30.3^who_mentioned_before_or_around_this_segment": [
     "Māra"
   ],
   "mn119:30.4+mn119:43.1^speaker": "the Buddha",
   "mn119:30.4+mn119:43.1^where_else_mentioned": [
     "Brahmā"
   ],
-  "mn119:30.4^who_mentioned_here_and_before": [
+  "mn119:30.4^who_mentioned_before_or_around_this_segment": [
     "Māra"
   ],
-  "mn119^initial_geographic_location": [
+  "mn119^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn119^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

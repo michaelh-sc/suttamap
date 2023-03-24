@@ -15,14 +15,14 @@
     "Migāra",
     "Saṅgha"
   ],
-  "mn121:3.5^geographic_locations_here_and_before": [
+  "mn121:3.5^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "mn121:3.5^where_here_and_before": [
+  "mn121:3.5^where_before_or_around_this_segment": [
     "Sāvatthī in the Eastern Monastery",
     "the stilt longhouse of Migāra's mother"
   ],
-  "mn121^initial_geographic_location": [
+  "mn121^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "mn121^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother."

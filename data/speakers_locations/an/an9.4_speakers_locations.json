@@ -17,18 +17,18 @@
     "Buddha",
     "Nandaka"
   ],
-  "an9.4:8.2^geographic_locations_here_and_before": [
+  "an9.4:8.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an9.4:8.2^where_here_and_before": [
+  "an9.4:8.2^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "an9.4:8.2^who_around_here_and_before": [
+  "an9.4:8.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
   "an9.4:8.6^speaker": "Nandaka",
   "an9.4:8.16^speaker": "Nandaka",
-  "an9.4^initial_geographic_location": [
+  "an9.4^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an9.4^where": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī"

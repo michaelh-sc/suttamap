@@ -6,18 +6,18 @@
   ],
   "an3.128:4.5+an3.128:4.7^speaker": "one of the mendicants",
   "an3.128:5.1+an3.128:9.4^speaker": "the Buddha",
-  "an3.128:5.1^geographic_locations_here_and_before": [
+  "an3.128:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "an3.128:5.1^where_here_and_before": [
+  "an3.128:5.1^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "an3.128:5.1^who_around_here_and_before": [
+  "an3.128:5.1^who_present_before_or_around_this_segment": [
     "disgruntled monk"
   ],
-  "an3.128^initial_geographic_location": [
+  "an3.128^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

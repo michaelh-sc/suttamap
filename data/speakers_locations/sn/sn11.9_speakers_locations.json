@@ -5,19 +5,19 @@
     "Sakka",
     "Vepacitti"
   ],
-  "sn11.9:1.2^geographic_locations_here_and_before": [
+  "sn11.9:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn11.9:1.2^where_here_and_before": [
+  "sn11.9:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn11.9:1.2^who_around_here_and_before": [
+  "sn11.9:1.2^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn11.9:1.2^who_mentioned_here_and_before": [
+  "sn11.9:1.2^who_mentioned_before_or_around_this_segment": [
     "Hermits"
   ],
-  "sn11.9^initial_geographic_location": [
+  "sn11.9^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn11.9^where": "Sāvatthī"

@@ -5,20 +5,20 @@
     "Gotama"
   ],
   "sn7.5:2.1+sn7.5:2.6^speaker": "the Buddha",
-  "sn7.5:3.2^geographic_locations_here_and_before": [
+  "sn7.5:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn7.5:3.2^speaker": "the brahmin Bhāradvāja the Harmless",
-  "sn7.5:3.2^where_here_and_before": [
+  "sn7.5:3.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn7.5:3.2^who_around_here_and_before": [
+  "sn7.5:3.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "sn7.5:3.2^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.5^initial_geographic_location": [
+  "sn7.5^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn7.5^where": "Sāvatthī"

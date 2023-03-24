@@ -20,21 +20,21 @@
     "Buddha",
     "Saṅgha"
   ],
-  "sn3.1:14.2^geographic_locations_here_and_before": [
+  "sn3.1:14.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn3.1:14.2^where_here_and_before": [
+  "sn3.1:14.2^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "sn3.1:14.2^who_around_here_and_before": [
+  "sn3.1:14.2^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "sn3.1:14.2^who_mentioned_here_and_before": [
+  "sn3.1:14.2^who_mentioned_before_or_around_this_segment": [
     "ascetics",
     "brahmins"
   ],
-  "sn3.1^initial_geographic_location": [
+  "sn3.1^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn3.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

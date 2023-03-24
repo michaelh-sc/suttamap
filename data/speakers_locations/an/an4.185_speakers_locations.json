@@ -7,22 +7,19 @@
     "Gotama"
   ],
   "an4.185:4.1+an4.185:7.6^speaker": "the Buddha",
-  "an4.185:4.1^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "an4.185:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "an4.185:4.1^where_here_and_before": [
-    "Rājagaha",
-    "on the Vulture's Peak Mountain"
+  "an4.185:4.1^where_before_or_around_this_segment": [
+    "Rājagaha on the Vulture's Peak Mountain"
   ],
-  "an4.185:4.1^who_around_here_and_before": [
+  "an4.185:4.1^who_present_before_or_around_this_segment": [
     "Annabhāra",
     "Varadhara",
     "Sakuludāyī",
     "other very well-known wanderers"
   ],
-  "an4.185^initial_geographic_location": [
-    "Rājagaha",
+  "an4.185^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "an4.185^where": "Rājagaha, on the Vulture's Peak Mountain"

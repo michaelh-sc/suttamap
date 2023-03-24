@@ -10,16 +10,16 @@
     "Koṭṭhita"
   ],
   "sn22.135:4.1+sn22.135:4.7^speaker": "Mahākoṭṭhita",
-  "sn22.135:4.1^geographic_locations_here_and_before": [
+  "sn22.135:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn22.135:4.1^where_here_and_before": [
+  "sn22.135:4.1^where_before_or_around_this_segment": [
     "Jeta's Grove"
   ],
-  "sn22.135:4.1^who_around_here_and_before": [
-    "The Buddha"
+  "sn22.135:4.1^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "sn22.135^initial_geographic_location": [
+  "sn22.135^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn22.135^where": "Jeta's Grove"

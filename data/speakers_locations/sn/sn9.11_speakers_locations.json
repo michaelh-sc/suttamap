@@ -4,11 +4,15 @@
   "sn9.11:2.1+sn9.11:3.6^who_else_mentioned": [
     "Saṅgha"
   ],
-  "sn9.11:2.1^where_here_and_before": [
+  "sn9.11:2.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "sn9.11:2.1^where_before_or_around_this_segment": [
     "the land of the Kosalans in a certain forest grove"
   ],
-  "sn9.11:2.1^who_around_here_and_before": [
+  "sn9.11:2.1^who_present_before_or_around_this_segment": [
     "the mendicant"
   ],
-  "sn9.11^where": "the land of the Kosalans in a certain forest grove"
+  "sn9.11^initial_location_dppn_headword": "Kosala",
+  "sn9.11^where": "The land of the Kosalans in a certain forest grove"
 }

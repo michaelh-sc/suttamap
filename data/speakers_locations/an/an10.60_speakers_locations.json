@@ -8,16 +8,16 @@
   "an10.60:2.3+an10.60:14.1^who_else_mentioned": [
     "Girimānanda"
   ],
-  "an10.60:2.3^geographic_locations_here_and_before": [
+  "an10.60:2.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an10.60:2.3^where_here_and_before": [
+  "an10.60:2.3^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "an10.60:2.3^who_around_here_and_before": [
+  "an10.60:2.3^who_present_before_or_around_this_segment": [
     "Girimānanda"
   ],
-  "an10.60^initial_geographic_location": [
+  "an10.60^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an10.60^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

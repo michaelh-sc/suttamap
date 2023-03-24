@@ -4,23 +4,23 @@
   "sn19.17:1.1+sn19.17:1.3^where_else_mentioned": [
     "Vulture’s Peak Mountain"
   ],
-  "sn19.17:1.4^geographic_locations_here_and_before": [
+  "sn19.17:1.4^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
   "sn19.17:1.4^speaker": "the Buddha",
-  "sn19.17:1.4^where_here_and_before": [
+  "sn19.17:1.4^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain"
   ],
-  "sn19.17:1.4^who_around_here_and_before": [
+  "sn19.17:1.4^who_present_before_or_around_this_segment": [
     "the monk"
   ],
   "sn19.17:1.4^who_else_mentioned": [
     "Buddha Kassapa"
   ],
-  "sn19.17:1.4^who_mentioned_here_and_before": [
+  "sn19.17:1.4^who_mentioned_before_or_around_this_segment": [
     "Buddha Kassapa"
   ],
-  "sn19.17^initial_geographic_location": [
+  "sn19.17^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn19.17^where": "Vulture's Peak Mountain"

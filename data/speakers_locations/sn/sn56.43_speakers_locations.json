@@ -5,7 +5,7 @@
   "sn56.43:2.4^speaker": "the Buddha (assumed)",
   "sn56.43:3.1^speaker": "one of the mendicants",
   "sn56.43:3.2+sn56.43:5.1^speaker": "the Buddha (assumed)",
-  "sn56.43:3.2^who_mentioned_here_and_before": [
+  "sn56.43:3.2^who_mentioned_before_or_around_this_segment": [
     "Ascetics",
     "Brahmins"
   ]

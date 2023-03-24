@@ -24,17 +24,17 @@
   "sn41.9:3.2+sn41.9:3.4^who_else_mentioned": [
     "Kassapa"
   ],
-  "sn41.9:3.7^geographic_locations_here_and_before": [
+  "sn41.9:3.7^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
   "sn41.9:3.7^speaker": "Kassapa",
-  "sn41.9:3.7^where_here_and_before": [
+  "sn41.9:3.7^where_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
-  "sn41.9:3.7^who_around_here_and_before": [
+  "sn41.9:3.7^who_present_before_or_around_this_segment": [
     "senior mendicants"
   ],
-  "sn41.9^initial_geographic_location": [
+  "sn41.9^initial_location_dppn_headword": [
     "Macchikāsaṇḍa"
   ],
   "sn41.9^where": "Macchikāsaṇḍa"

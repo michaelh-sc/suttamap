@@ -4,13 +4,13 @@
   "sn35.104:1.2+sn35.104:1.11^who_else_mentioned": [
     "The Realized One"
   ],
-  "sn35.104:1.2^geographic_locations_here_and_before": [
+  "sn35.104:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn35.104:1.2^where_here_and_before": [
+  "sn35.104:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn35.104^initial_geographic_location": [
+  "sn35.104^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn35.104^where": "Sāvatthī"

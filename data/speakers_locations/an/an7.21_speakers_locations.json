@@ -10,17 +10,17 @@
     "Vajjis",
     "Vajjian"
   ],
-  "an7.21:2.1^geographic_locations_here_and_before": [
+  "an7.21:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an7.21:2.1^where_here_and_before": [
+  "an7.21:2.1^where_before_or_around_this_segment": [
     "Vesālī",
     "at the Sārandada Tree-shrine"
   ],
-  "an7.21:2.1^who_around_here_and_before": [
+  "an7.21:2.1^who_present_before_or_around_this_segment": [
     "the Licchavis"
   ],
-  "an7.21^initial_geographic_location": [
+  "an7.21^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an7.21^where": "Vesālī, at the Sārandada Tree-shrine"

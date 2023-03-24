@@ -19,16 +19,16 @@
   "sn22.64:3.1+sn22.64:3.10^who_else_mentioned": [
     "Māra"
   ],
-  "sn22.64:3.1^geographic_locations_here_and_before": [
+  "sn22.64:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.64:3.1^where_here_and_before": [
+  "sn22.64:3.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.64:3.1^who_mentioned_here_and_before": [
+  "sn22.64:3.1^who_mentioned_before_or_around_this_segment": [
     "Māra"
   ],
-  "sn22.64^initial_geographic_location": [
+  "sn22.64^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.64^where": "Sāvatthī"

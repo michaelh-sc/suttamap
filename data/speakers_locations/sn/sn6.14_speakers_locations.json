@@ -1,8 +1,8 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn6.14:1.4^speaker": "The Buddha",
+  "sn6.14:1.4^speaker": "the Buddha",
   "sn6.14:1.5^speaker": "The mendicants",
-  "sn6.14:2.1+sn6.14:11.3^speaker": "The Buddha",
+  "sn6.14:2.1+sn6.14:11.3^speaker": "the Buddha",
   "sn6.14:2.1+sn6.14:11.3^where_else_mentioned": [
     "Brahmā"
   ],
@@ -20,24 +20,24 @@
     "Rouse",
     "Mendicants"
   ],
-  "sn6.14:5.3^geographic_locations_here_and_before": [
+  "sn6.14:5.3^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn6.14:5.3^speaker": "The Buddha",
+  "sn6.14:5.3^speaker": "the Buddha",
   "sn6.14:5.3^where_else_mentioned": [
     "Brahmā"
   ],
-  "sn6.14:5.3^where_here_and_before": [
+  "sn6.14:5.3^where_before_or_around_this_segment": [
     "Near Sāvatthī"
   ],
-  "sn6.14:5.3^who_around_here_and_before": [
+  "sn6.14:5.3^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "sn6.14:5.3^who_mentioned_here_and_before": [
+  "sn6.14:5.3^who_mentioned_before_or_around_this_segment": [
     "King Aruṇavā",
     "Mendicant Abhibhū"
   ],
-  "sn6.14^initial_geographic_location": [
+  "sn6.14^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn6.14^where": "Near Sāvatthī"

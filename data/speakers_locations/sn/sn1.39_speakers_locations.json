@@ -8,16 +8,16 @@
     "Kokanadā",
     "Pajjuna"
   ],
-  "sn1.39:2.1^geographic_locations_here_and_before": [
+  "sn1.39:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "sn1.39:2.1^where_here_and_before": [
+  "sn1.39:2.1^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "sn1.39:2.1^who_around_here_and_before": [
+  "sn1.39:2.1^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn1.39^initial_geographic_location": [
+  "sn1.39^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "sn1.39^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

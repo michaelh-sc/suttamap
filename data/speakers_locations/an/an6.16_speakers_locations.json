@@ -15,19 +15,19 @@
     "Nakula",
     "Buddha"
   ],
-  "an6.16:9.1^geographic_locations_here_and_before": [
+  "an6.16:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Susumāragiri"
   ],
-  "an6.16:9.1^where_here_and_before": [
+  "an6.16:9.1^where_before_or_around_this_segment": [
     "the land of the Bhaggas on Crocodile Hill in the deer park at Bhesakaḷā's Wood"
   ],
-  "an6.16:9.1^who_around_here_and_before": [
+  "an6.16:9.1^who_present_before_or_around_this_segment": [
     "Nakula's father"
   ],
-  "an6.16:9.1^who_mentioned_here_and_before": [
+  "an6.16:9.1^who_mentioned_before_or_around_this_segment": [
     "the housewife Nakula's mother"
   ],
-  "an6.16^initial_geographic_location": [
+  "an6.16^initial_location_dppn_headword": [
     "Susumāragiri"
   ],
   "an6.16^where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood."

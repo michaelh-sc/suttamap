@@ -12,14 +12,18 @@
   "sn9.4:4.1+sn9.4:4.4^who_else_mentioned": [
     "Vajjian"
   ],
-  "sn9.4:4.1^where_here_and_before": [
+  "sn9.4:4.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "sn9.4:4.1^where_before_or_around_this_segment": [
     "the land of the Kosalans in a certain forest grove"
   ],
-  "sn9.4:4.1^who_around_here_and_before": [
+  "sn9.4:4.1^who_present_before_or_around_this_segment": [
     "several mendicants"
   ],
-  "sn9.4:4.1^who_mentioned_here_and_before": [
+  "sn9.4:4.1^who_mentioned_before_or_around_this_segment": [
     "the disciples of Buddha"
   ],
+  "sn9.4^initial_location_dppn_headword": "Kosala",
   "sn9.4^where": "the land of the Kosalans in a certain forest grove"
 }

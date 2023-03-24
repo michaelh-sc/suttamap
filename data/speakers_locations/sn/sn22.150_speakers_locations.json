@@ -9,22 +9,22 @@
   "sn22.150:1.11^speaker": "Mendicants",
   "sn22.150:1.12^speaker": "the Buddha (assumed)",
   "sn22.150:1.13^speaker": "Mendicants",
-  "sn22.150:1.14^speaker": "The Buddha (assumed)",
+  "sn22.150:1.14^speaker": "the Buddha (assumed)",
   "sn22.150:1.15^speaker": "Mendicants",
-  "sn22.150:1.16+sn22.150:1.19^speaker": "The Buddha (assumed)",
+  "sn22.150:1.16+sn22.150:1.19^speaker": "the Buddha (assumed)",
   "sn22.150:1.20^speaker": "Mendicants",
-  "sn22.150:1.21^speaker": "The Buddha (assumed)",
+  "sn22.150:1.21^speaker": "the Buddha (assumed)",
   "sn22.150:1.22^speaker": "Mendicants",
-  "sn22.150:1.23^speaker": "The Buddha (assumed)",
+  "sn22.150:1.23^speaker": "the Buddha (assumed)",
   "sn22.150:1.24^speaker": "Mendicants",
-  "sn22.150:1.25+sn22.150:1.26^speaker": "The Buddha (assumed)",
-  "sn22.150:1.25^geographic_locations_here_and_before": [
+  "sn22.150:1.25+sn22.150:1.26^speaker": "the Buddha (assumed)",
+  "sn22.150:1.25^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.150:1.25^where_here_and_before": [
+  "sn22.150:1.25^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.150^initial_geographic_location": [
+  "sn22.150^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.150^where": "Sāvatthī"

@@ -33,7 +33,7 @@
     "Gotama",
     "Saṅgha"
   ],
-  "mn92:4.5^speaker": "Keṇiya's friends and colleagues, relatives and family members",
+  "mn92:4.5^speaker": "Keṇiya's friends and Keṇiya's colleagues and Keṇiya's relatives and Keṇiya's family members",
   "mn92:7.2^speaker": "Sela",
   "mn92:7.2^where_else_mentioned": [
     "Magadha"
@@ -74,13 +74,13 @@
     "Buddhas",
     "Gotama"
   ],
-  "mn92:12.3^geographic_locations_here_and_before": [
+  "mn92:12.3^event_dppn_headwords_before_or_around_this_segment": [
     "Āpaṇa"
   ],
-  "mn92:12.3^where_here_and_before": [
+  "mn92:12.3^where_before_or_around_this_segment": [
     "Āpaṇa"
   ],
-  "mn92:12.3^who_around_here_and_before": [
+  "mn92:12.3^who_present_before_or_around_this_segment": [
     "the Buddha",
     "a large Saṅgha of 1,250 mendicants",
     "Keṇiya's friends",
@@ -89,10 +89,10 @@
     "Keṇiya's family members",
     "three hundred students"
   ],
-  "mn92:12.3^who_mentioned_here_and_before": [
+  "mn92:12.3^who_mentioned_before_or_around_this_segment": [
     "King Seniya Bimbisāra of Magadha"
   ],
-  "mn92:13.8+mn92:13.10^speaker": "The Buddha",
+  "mn92:13.8+mn92:13.10^speaker": "the Buddha",
   "mn92:13.8+mn92:13.10^who_else_mentioned": [
     "Sela"
   ],
@@ -109,7 +109,7 @@
     "Saṅgha",
     "Gotama"
   ],
-  "mn92:17.1+mn92:17.4^speaker": "The Buddha",
+  "mn92:17.1+mn92:17.4^speaker": "the Buddha",
   "mn92:17.1+mn92:17.4^who_else_mentioned": [
     "Sela"
   ],
@@ -117,13 +117,13 @@
   "mn92:18.1+mn92:18.8^who_else_mentioned": [
     "Gotama"
   ],
-  "mn92:19.1^speaker": "The Buddha",
-  "mn92:19.3+mn92:19.21^speaker": "The Buddha",
+  "mn92:19.1^speaker": "the Buddha",
+  "mn92:19.3+mn92:19.21^speaker": "the Buddha",
   "mn92:19.3+mn92:19.21^who_else_mentioned": [
     "Buddha",
     "Māra"
   ],
-  "mn92:20.1+mn92:20.12^speaker": "The Buddha",
+  "mn92:20.1+mn92:20.12^speaker": "the Buddha",
   "mn92:20.1+mn92:20.12^who_else_mentioned": [
     "Māra"
   ],
@@ -132,13 +132,13 @@
     "Buddha"
   ],
   "mn92:22.1+mn92:22.4^speaker": "Sela",
-  "mn92:23.1^speaker": "The Buddha",
-  "mn92:23.3+mn92:23.5^speaker": "The Buddha",
+  "mn92:23.1^speaker": "the Buddha",
+  "mn92:23.3+mn92:23.5^speaker": "the Buddha",
   "mn92:25.2^speaker": "Keṇiya",
   "mn92:25.2^who_else_mentioned": [
     "Gotama"
   ],
-  "mn92:26.1+mn92:26.8^speaker": "The Buddha",
+  "mn92:26.1+mn92:26.8^speaker": "the Buddha",
   "mn92:26.1+mn92:26.8^where_else_mentioned": [
     "the Gāyatrī Mantra"
   ],
@@ -151,13 +151,13 @@
     "Buddha",
     "Māra"
   ],
-  "mn92:28.2^where_here_and_before": [
+  "mn92:28.2^where_before_or_around_this_segment": [
     "Keṇiya's hermitage"
   ],
-  "mn92:28.2^who_around_here_and_before": [
+  "mn92:28.2^who_present_before_or_around_this_segment": [
     "Saṅgha of mendicants"
   ],
-  "mn92^initial_geographic_location": [
+  "mn92^initial_location_dppn_headword": [
     "Āpaṇa"
   ],
   "mn92^where": "Āpaṇa"

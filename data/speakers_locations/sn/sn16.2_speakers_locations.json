@@ -5,18 +5,18 @@
     "Kassapa"
   ],
   "sn16.2:2.3+sn16.2:5.4^speaker": "Mahākassapa",
-  "sn16.2:2.3^geographic_locations_here_and_before": [
+  "sn16.2:2.3^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn16.2:2.3^where_here_and_before": [
+  "sn16.2:2.3^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "sn16.2:2.3^who_around_here_and_before": [
+  "sn16.2:2.3^who_present_before_or_around_this_segment": [
     "Mahākassapa"
   ],
-  "sn16.2^initial_geographic_location": [
+  "sn16.2^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

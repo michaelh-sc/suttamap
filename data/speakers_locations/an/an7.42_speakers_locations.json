@@ -14,16 +14,16 @@
   "an7.42:4.1+an7.42:5.6^who_else_mentioned": [
     "Sāriputta"
   ],
-  "an7.42:4.1^geographic_locations_here_and_before": [
+  "an7.42:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "an7.42:4.1^where_here_and_before": [
+  "an7.42:4.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "an7.42:4.1^who_around_here_and_before": [
+  "an7.42:4.1^who_present_before_or_around_this_segment": [
     "wanderers who follow other paths"
   ],
-  "an7.42^initial_geographic_location": [
+  "an7.42^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "an7.42^where": "Sāvatthī"

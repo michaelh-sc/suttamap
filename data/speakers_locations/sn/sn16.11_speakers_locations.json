@@ -43,22 +43,22 @@
   ],
   "sn16.11:10.2^speaker": "Mahākassapa",
   "sn16.11:11.2^speaker": "Ānanda",
-  "sn16.11:12.2^geographic_locations_here_and_before": [
+  "sn16.11:12.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn16.11:12.2^speaker": "Ānanda",
-  "sn16.11:12.2^where_here_and_before": [
+  "sn16.11:12.2^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn16.11:12.2^who_around_here_and_before": [
+  "sn16.11:12.2^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "sn16.11:12.2^who_mentioned_here_and_before": [
+  "sn16.11:12.2^who_mentioned_before_or_around_this_segment": [
     "Thullanandā"
   ],
-  "sn16.11^initial_geographic_location": [
+  "sn16.11^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn16.11^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

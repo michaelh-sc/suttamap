@@ -8,21 +8,21 @@
   "sn46.54:3.1+sn46.54:4.7^who_else_mentioned": [
     "Gotama"
   ],
-  "sn46.54:5.3^geographic_locations_here_and_before": [
+  "sn46.54:5.3^event_dppn_headwords_before_or_around_this_segment": [
     "Haliddavasana"
   ],
   "sn46.54:5.3^speaker": "the mendicants",
-  "sn46.54:5.3^where_here_and_before": [
+  "sn46.54:5.3^where_before_or_around_this_segment": [
     "Haliddavasana",
     "land of the Koliyans"
   ],
-  "sn46.54:5.3^who_around_here_and_before": [
+  "sn46.54:5.3^who_present_before_or_around_this_segment": [
     "the wanderers"
   ],
   "sn46.54:5.3^who_else_mentioned": [
     "Buddha"
   ],
-  "sn46.54:5.3^who_mentioned_here_and_before": [
+  "sn46.54:5.3^who_mentioned_before_or_around_this_segment": [
     "the ascetic Buddha"
   ],
   "sn46.54:11.1+sn46.54:15.10^speaker": "the Buddha (assumed)",
@@ -30,10 +30,10 @@
     "Māras",
     "Brahmās"
   ],
-  "sn46.54:11.1^who_around_here_and_before": [
+  "sn46.54:11.1^who_present_before_or_around_this_segment": [
     "the wanderers who follow other paths"
   ],
-  "sn46.54^initial_geographic_location": [
+  "sn46.54^initial_location_dppn_headword": [
     "Haliddavasana"
   ],
   "sn46.54^where": "Haliddavasana, land of the Koliyans"

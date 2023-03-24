@@ -25,13 +25,13 @@
   "an10.96:15.4+an10.96:15.8^who_else_mentioned": [
     "Ānanda"
   ],
-  "an10.96:15.4^geographic_locations_here_and_before": [
+  "an10.96:15.4^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "an10.96:15.4^where_here_and_before": [
+  "an10.96:15.4^where_before_or_around_this_segment": [
     "Rājagaha in the Hot Springs Monastery"
   ],
-  "an10.96^initial_geographic_location": [
+  "an10.96^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "an10.96^where": "Rājagaha in the Hot Springs Monastery"

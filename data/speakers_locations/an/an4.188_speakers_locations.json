@@ -19,24 +19,21 @@
     "Buddha",
     "Upaka"
   ],
-  "an4.188:5.3^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "an4.188:5.3^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "an4.188:5.3^where_here_and_before": [
-    "Rājagaha",
-    "on the Vulture's Peak Mountain"
+  "an4.188:5.3^where_before_or_around_this_segment": [
+    "Rājagaha on the Vulture's Peak Mountain"
   ],
-  "an4.188:5.3^who_around_here_and_before": [
+  "an4.188:5.3^who_present_before_or_around_this_segment": [
     "Upaka the son of Maṇḍikā"
   ],
-  "an4.188:5.3^who_mentioned_here_and_before": [
+  "an4.188:5.3^who_mentioned_before_or_around_this_segment": [
     "the Buddha",
     "the perfected one",
     "the fully awakened Buddha"
   ],
-  "an4.188^initial_geographic_location": [
-    "Rājagaha",
+  "an4.188^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "an4.188^where": "Rājagaha, on the Vulture's Peak Mountain"

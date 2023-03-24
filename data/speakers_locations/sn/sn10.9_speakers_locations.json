@@ -7,19 +7,19 @@
   "sn10.9:2.1+sn10.9:3.4^who_else_mentioned": [
     "Sukkā"
   ],
-  "sn10.9:2.1^geographic_locations_here_and_before": [
+  "sn10.9:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn10.9:2.1^where_here_and_before": [
+  "sn10.9:2.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn10.9:2.1^who_around_here_and_before": [
+  "sn10.9:2.1^who_present_before_or_around_this_segment": [
     "Sukkā",
     "a large assembly"
   ],
-  "sn10.9^initial_geographic_location": [
+  "sn10.9^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn10.9^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

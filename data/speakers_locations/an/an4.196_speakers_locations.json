@@ -18,21 +18,21 @@
   "an4.196:10.1+an4.196:13.3^who_else_mentioned": [
     "Sāḷha"
   ],
-  "an4.196:10.1^geographic_locations_here_and_before": [
+  "an4.196:10.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an4.196:10.1^where_here_and_before": [
+  "an4.196:10.1^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "an4.196:10.1^who_around_here_and_before": [
+  "an4.196:10.1^who_present_before_or_around_this_segment": [
     "Sāḷha the Licchavi",
     "Abhaya the Licchavi"
   ],
-  "an4.196:10.1^who_mentioned_here_and_before": [
+  "an4.196:10.1^who_mentioned_before_or_around_this_segment": [
     "ascetics",
     "brahmins"
   ],
-  "an4.196^initial_geographic_location": [
+  "an4.196^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an4.196^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

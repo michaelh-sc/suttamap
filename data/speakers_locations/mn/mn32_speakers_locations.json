@@ -76,7 +76,7 @@
     "Ānanda",
     "Sāriputta"
   ],
-  "mn32:11.12+mn32:11.14^speaker": "The Buddha",
+  "mn32:11.12+mn32:11.14^speaker": "the Buddha",
   "mn32:11.12+mn32:11.14^who_else_mentioned": [
     "Ānanda"
   ],
@@ -84,7 +84,7 @@
   "mn32:12.1+mn32:12.8^who_else_mentioned": [
     "Revata"
   ],
-  "mn32:12.9+mn32:12.11^speaker": "The Buddha",
+  "mn32:12.9+mn32:12.11^speaker": "the Buddha",
   "mn32:12.9+mn32:12.11^who_else_mentioned": [
     "Revata"
   ],
@@ -92,15 +92,15 @@
   "mn32:13.1+mn32:13.7^who_else_mentioned": [
     "Anuruddha"
   ],
-  "mn32:13.8+mn32:13.9^speaker": "The Buddha",
+  "mn32:13.8+mn32:13.9^speaker": "the Buddha",
   "mn32:13.8+mn32:13.9^who_else_mentioned": [
     "Anuruddha"
   ],
-  "mn32:13.8^where_here_and_before": [
+  "mn32:13.8^where_before_or_around_this_segment": [
     "sal forest park at Gosiṅga"
   ],
-  "mn32:13.8^who_around_here_and_before": [
-    "The Buddha",
+  "mn32:13.8^who_present_before_or_around_this_segment": [
+    "the Buddha",
     "Sāriputta",
     "Mahāmoggallāna",
     "Mahākassapa",
@@ -112,7 +112,7 @@
   "mn32:14.1+mn32:14.7^who_else_mentioned": [
     "Mahākassapa"
   ],
-  "mn32:14.8+mn32:14.10^speaker": "The Buddha",
+  "mn32:14.8+mn32:14.10^speaker": "the Buddha",
   "mn32:14.8+mn32:14.10^who_else_mentioned": [
     "Kassapa"
   ],
@@ -120,7 +120,7 @@
   "mn32:15.1+mn32:15.7^who_else_mentioned": [
     "Mahāmoggallāna"
   ],
-  "mn32:15.8+mn32:15.9^speaker": "The Buddha",
+  "mn32:15.8+mn32:15.9^speaker": "the Buddha",
   "mn32:15.8+mn32:15.9^who_else_mentioned": [
     "Moggallāna"
   ],
@@ -138,14 +138,14 @@
     "Sāriputta"
   ],
   "mn32:17.2^speaker": "Sāriputta",
-  "mn32:17.3+mn32:17.7^speaker": "The Buddha",
+  "mn32:17.3+mn32:17.7^speaker": "the Buddha",
   "mn32:17.3+mn32:17.7^where_else_mentioned": [
     "Gosiṅga"
   ],
-  "mn32:17.3^where_here_and_before": [
+  "mn32:17.3^where_before_or_around_this_segment": [
     "Park"
   ],
-  "mn32:17.3^who_around_here_and_before": [
+  "mn32:17.3^who_present_before_or_around_this_segment": [
     "Revata",
     "Anuruddha",
     "Mahākassapa",

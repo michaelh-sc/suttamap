@@ -15,20 +15,20 @@
   "sn24.8:3.10^speaker": "the Buddha (assumed)",
   "sn24.8:3.13^speaker": "Mendicants",
   "sn24.8:4.1+sn24.8:4.2^speaker": "the Buddha (assumed)",
-  "sn24.8:4.1^geographic_locations_here_and_before": [
+  "sn24.8:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn24.8:4.1^where_here_and_before": [
+  "sn24.8:4.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn24.8:4.1^who_around_here_and_before": [
+  "sn24.8:4.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn24.8:4.1^who_mentioned_here_and_before": [
+  "sn24.8:4.1^who_mentioned_before_or_around_this_segment": [
     "the foolish",
     "the astute"
   ],
-  "sn24.8^initial_geographic_location": [
+  "sn24.8^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn24.8^where": "Sāvatthī"

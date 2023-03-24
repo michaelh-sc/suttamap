@@ -9,17 +9,17 @@
   "sn3.8:1.7^who_else_mentioned": [
     "Mallikā"
   ],
-  "sn3.8:4.1+sn3.8:4.4^speaker": "The Buddha",
-  "sn3.8:4.1^geographic_locations_here_and_before": [
+  "sn3.8:4.1+sn3.8:4.4^speaker": "the Buddha",
+  "sn3.8:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn3.8:4.1^where_here_and_before": [
+  "sn3.8:4.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn3.8:4.1^who_around_here_and_before": [
+  "sn3.8:4.1^who_present_before_or_around_this_segment": [
     "Queen Mallikā"
   ],
-  "sn3.8^initial_geographic_location": [
+  "sn3.8^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn3.8^where": "Sāvatthī"

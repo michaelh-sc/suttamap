@@ -54,20 +54,20 @@
     "Khemā",
     "Buddha"
   ],
-  "sn44.1:13.9^geographic_locations_here_and_before": [
+  "sn44.1:13.9^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "sn44.1:13.9^speaker": "the Buddha",
-  "sn44.1:13.9^where_here_and_before": [
+  "sn44.1:13.9^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "sn44.1:13.9^who_around_here_and_before": [
+  "sn44.1:13.9^who_present_before_or_around_this_segment": [
     "the man",
     "King Pasenadi",
     "the nun Khemā",
     "the Buddha"
   ],
-  "sn44.1^initial_geographic_location": [
+  "sn44.1^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn44.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

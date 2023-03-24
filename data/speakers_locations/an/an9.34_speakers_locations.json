@@ -1,11 +1,11 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "an9.34:1.3+an9.34:1.4^speaker": "Sāriputta",
-  "an9.34:1.6^geographic_locations_here_and_before": [
+  "an9.34:1.6^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "an9.34:1.6^speaker": "Udāyī",
-  "an9.34:1.6^where_here_and_before": [
+  "an9.34:1.6^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
   "an9.34:1.6^who_else_mentioned": [
@@ -15,17 +15,17 @@
   "an9.34:1.7+an9.34:11.1^who_else_mentioned": [
     "Buddha"
   ],
-  "an9.34:1.7^geographic_locations_here_and_before": [
+  "an9.34:1.7^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "an9.34:1.7^where_here_and_before": [
+  "an9.34:1.7^where_before_or_around_this_segment": [
     "Bamboo Grove",
     "Rājagaha"
   ],
-  "an9.34:1.7^who_around_here_and_before": [
+  "an9.34:1.7^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an9.34^initial_geographic_location": [
+  "an9.34^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "an9.34^where": "Bamboo Grove, near Rājagaha"

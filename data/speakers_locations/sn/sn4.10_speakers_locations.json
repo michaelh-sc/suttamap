@@ -3,21 +3,21 @@
   "sn4.10:2.1+sn4.10:2.4^speaker": "the Buddha (assumed)",
   "sn4.10:4.1+sn4.10:4.4^speaker": "Māra the Wicked",
   "sn4.10:5.1+sn4.10:5.4^speaker": "the Buddha (assumed)",
-  "sn4.10:6.1^geographic_locations_here_and_before": [
+  "sn4.10:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn4.10:6.1^speaker": "Māra the Wicked",
-  "sn4.10:6.1^where_here_and_before": [
+  "sn4.10:6.1^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "sn4.10:6.1^who_around_here_and_before": [
+  "sn4.10:6.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "sn4.10:6.1^who_else_mentioned": [
     "Buddha",
     "The Holy One"
   ],
-  "sn4.10^initial_geographic_location": [
+  "sn4.10^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn4.10^where": "Bamboo Grove, near Rājagaha"

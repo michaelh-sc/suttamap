@@ -48,21 +48,21 @@
   "mn127:16.1^who_else_mentioned": [
     "Anuruddha"
   ],
-  "mn127:16.16^geographic_locations_here_and_before": [
+  "mn127:16.16^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn127:16.16^speaker": "Anuruddha",
-  "mn127:16.16^where_here_and_before": [
+  "mn127:16.16^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "mn127:16.16^who_around_here_and_before": [
+  "mn127:16.16^who_present_before_or_around_this_segment": [
     "Pañcakaṅga",
     "the man"
   ],
   "mn127:16.16^who_else_mentioned": [
     "Kaccāna"
   ],
-  "mn127^initial_geographic_location": [
+  "mn127^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn127^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

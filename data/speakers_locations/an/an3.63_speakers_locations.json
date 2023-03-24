@@ -43,16 +43,16 @@
     "Gotama",
     "Saṅgha"
   ],
-  "an3.63:11.1^geographic_locations_here_and_before": [
+  "an3.63:11.1^event_dppn_headwords_before_or_around_this_segment": [
     "Venāgapura"
   ],
-  "an3.63:11.1^where_here_and_before": [
+  "an3.63:11.1^where_before_or_around_this_segment": [
     "the land of the Kosalans Venāgapura"
   ],
-  "an3.63:11.1^who_around_here_and_before": [
+  "an3.63:11.1^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "an3.63^initial_geographic_location": [
+  "an3.63^initial_location_dppn_headword": [
     "Venāgapura"
   ],
   "an3.63^where": "the land of the Kosalans, Venāgapura"

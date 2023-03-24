@@ -10,20 +10,20 @@
   "sn22.83:2.3^speaker": "Ānanda",
   "sn22.83:2.5^speaker": "Ānanda",
   "sn22.83:3.2^speaker": "Ānanda",
-  "sn22.83:4.11^geographic_locations_here_and_before": [
+  "sn22.83:4.11^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn22.83:4.11^speaker": "Puṇṇa Mantāniputta",
-  "sn22.83:4.11^where_here_and_before": [
+  "sn22.83:4.11^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.83:4.11^who_around_here_and_before": [
+  "sn22.83:4.11^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn22.83:4.11^who_mentioned_here_and_before": [
+  "sn22.83:4.11^who_mentioned_before_or_around_this_segment": [
     "Puṇṇa Mantāniputta"
   ],
-  "sn22.83^initial_geographic_location": [
+  "sn22.83^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.83^where": "Sāvatthī"

@@ -29,16 +29,16 @@
   "sn42.8:14.2+sn42.8:14.3^who_else_mentioned": [
     "Buddha"
   ],
-  "sn42.8:14.2^where_here_and_before": [
+  "sn42.8:14.2^where_before_or_around_this_segment": [
     "Nālandā in Pāvārika's mango grove"
   ],
-  "sn42.8:14.2^geographical_locations_here_and_before": [
+  "sn42.8:14.2^geographical_locations_before_or_around_this_segment": [
     "Nāḷandā"
   ],
-  "sn42.8:14.2^who_around_here_and_before": [
+  "sn42.8:14.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn42.8:14.2^who_mentioned_here_and_before": [
+  "sn42.8:14.2^who_mentioned_before_or_around_this_segment": [
     "Nigaṇṭha Nātaputta"
   ],
   "sn42.8^initial_geographical_location": "Nāḷandā",

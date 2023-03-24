@@ -9,16 +9,16 @@
     "Buddha"
   ],
   "sn48.44:3.1+sn48.44:3.5^speaker": "the Buddha",
-  "sn48.44:3.1^geographic_locations_here_and_before": [
+  "sn48.44:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn48.44:3.1^where_here_and_before": [
+  "sn48.44:3.1^where_before_or_around_this_segment": [
     "Sāvatthī at the eastern gate"
   ],
-  "sn48.44:3.1^who_around_here_and_before": [
+  "sn48.44:3.1^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn48.44^initial_geographic_location": [
+  "sn48.44^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn48.44^where": "Sāvatthī at the eastern gate"

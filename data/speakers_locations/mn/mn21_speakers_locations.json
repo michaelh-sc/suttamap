@@ -24,18 +24,18 @@
   "mn21:6.1+mn21:6.15^who_else_mentioned": [
     "Phagguṇa"
   ],
-  "mn21:6.1^geographic_locations_here_and_before": [
+  "mn21:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn21:6.1^where_here_and_before": [
+  "mn21:6.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn21:6.1^who_around_here_and_before": [
+  "mn21:6.1^who_present_before_or_around_this_segment": [
     "the mendicants",
     "the nuns"
   ],
-  "mn21:6.1^who_mentioned_here_and_before": [
+  "mn21:6.1^who_mentioned_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
   "mn21:7.2+mn21:12.7^speaker": "the Buddha",
@@ -62,10 +62,10 @@
   "mn21:19.1+mn21:21.2^speaker": "the Buddha",
   "mn21:21.3^speaker": "Phagguna of the Top-Knot",
   "mn21:21.4+mn21:21.5^speaker": "the Buddha",
-  "mn21:21.4^who_around_here_and_before": [
+  "mn21:21.4^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn21^initial_geographic_location": [
+  "mn21^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn21^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

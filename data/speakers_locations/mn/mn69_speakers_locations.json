@@ -8,22 +8,22 @@
   "mn69:19.8^who_else_mentioned": [
     "Sāriputta"
   ],
-  "mn69:19.9^geographic_locations_here_and_before": [
+  "mn69:19.9^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn69:19.9^speaker": "Sāriputta",
-  "mn69:19.9^where_here_and_before": [
+  "mn69:19.9^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "mn69:19.9^who_around_here_and_before": [
+  "mn69:19.9^who_present_before_or_around_this_segment": [
     "Gulissāni"
   ],
   "mn69:19.9^who_else_mentioned": [
     "Moggallāna"
   ],
-  "mn69^initial_geographic_location": [
+  "mn69^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn69^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground.",
-  "who_around": "Gulissāni"
+  "who_present": "Gulissāni"
 }

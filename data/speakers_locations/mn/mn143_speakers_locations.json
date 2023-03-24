@@ -34,21 +34,21 @@
     "Anāthapiṇḍika"
   ],
   "mn143:20.4+mn143:20.6^speaker": "the Buddha",
-  "mn143:20.4^geographic_locations_here_and_before": [
+  "mn143:20.4^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn143:20.4^where_here_and_before": [
+  "mn143:20.4^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn143:20.4^who_around_here_and_before": [
+  "mn143:20.4^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Ānanda"
   ],
-  "mn143:20.4^who_mentioned_here_and_before": [
+  "mn143:20.4^who_mentioned_before_or_around_this_segment": [
     "the man"
   ],
-  "mn143^initial_geographic_location": [
+  "mn143^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn143^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

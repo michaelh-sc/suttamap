@@ -16,14 +16,14 @@
   "an3.35:5.1+an3.35:6.3^speaker": "the Buddha",
   "an3.35:6.4^speaker": "Hatthaka of Āḷavī",
   "an3.35:7.1+an3.35:9.4^speaker": "the Buddha",
-  "an3.35:7.1^geographic_locations_here_and_before": [
+  "an3.35:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Āḷavī"
   ],
-  "an3.35:7.1^where_here_and_before": [
+  "an3.35:7.1^where_before_or_around_this_segment": [
     "Āḷavī",
     "on a mat of leaves by a cow-path in a grove of Indian Rosewood"
   ],
-  "an3.35^initial_geographic_location": [
+  "an3.35^initial_location_dppn_headword": [
     "Āḷavī"
   ],
   "an3.35^where": "Āḷavī, on a mat of leaves by a cow-path in a grove of Indian Rosewood"

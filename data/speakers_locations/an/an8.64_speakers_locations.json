@@ -5,16 +5,16 @@
     "Māras",
     "Brahmās"
   ],
-  "an8.64:1.3^geographic_locations_here_and_before": [
+  "an8.64:1.3^event_dppn_headwords_before_or_around_this_segment": [
     "Gayā"
   ],
-  "an8.64:1.3^where_here_and_before": [
+  "an8.64:1.3^where_before_or_around_this_segment": [
     "Gayā on Gayā Head"
   ],
-  "an8.64:1.3^who_around_here_and_before": [
+  "an8.64:1.3^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an8.64^initial_geographic_location": [
+  "an8.64^initial_location_dppn_headword": [
     "Gayā"
   ],
   "an8.64^where": "Gayā on Gayā Head"

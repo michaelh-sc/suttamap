@@ -1,7 +1,7 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an5.43:2.1+an5.43:11.4^speaker": "The Buddha",
-  "an5.43:2.1^who_around_here_and_before": [
+  "an5.43:2.1+an5.43:11.4^speaker": "the Buddha",
+  "an5.43:2.1^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ]
 }

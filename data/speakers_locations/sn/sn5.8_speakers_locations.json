@@ -9,23 +9,23 @@
     "Buddha",
     "Māra"
   ],
-  "sn5.8:6.1^geographic_locations_here_and_before": [
+  "sn5.8:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn5.8:6.1^speaker": "Māra the Wicked",
-  "sn5.8:6.1^where_here_and_before": [
+  "sn5.8:6.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn5.8:6.1^who_around_here_and_before": [
+  "sn5.8:6.1^who_present_before_or_around_this_segment": [
     "Sīsupacālā"
   ],
   "sn5.8:6.1^who_else_mentioned": [
     "Sīsupacālā"
   ],
-  "sn5.8:6.1^who_mentioned_here_and_before": [
+  "sn5.8:6.1^who_mentioned_before_or_around_this_segment": [
     "Followers of other creeds"
   ],
-  "sn5.8^initial_geographic_location": [
+  "sn5.8^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn5.8^where": "Sāvatthī"

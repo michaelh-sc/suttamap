@@ -6,14 +6,14 @@
   ],
   "sn12.48:2.2^speaker": "the Buddha",
   "sn12.48:3.1^speaker": "a brahmin cosmologist",
-  "sn12.48:4.1^geographic_locations_here_and_before": [
+  "sn12.48:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn12.48:4.1^speaker": "the Buddha",
-  "sn12.48:4.1^where_here_and_before": [
+  "sn12.48:4.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.48^initial_geographic_location": [
+  "sn12.48^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn12.48^where": "Sāvatthī"

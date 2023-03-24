@@ -1,3 +1,13 @@
 {
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming."
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an2.141:1.1+an2.141:1.5": "the Buddha (assumed)",
+  "an2.142:1.1+an2.142:1.5^speaker": "the Buddha (assumed)",
+  "an2.143:1.1+an2.143:1.5^speaker": "the Buddha (assumed)",
+  "an2.144:1.1+an2.144:1.5^speaker": "the Buddha (assumed)",
+  "an2.145:1.1+an2.145:1.5^speaker": "the Buddha (assumed)",
+  "an2.146:1.1+an2.146:1.5^speaker": "the Buddha (assumed)",
+  "an2.147:1.1+an2.147:1.5^speaker": "the Buddha (assumed)",
+  "an2.148:1.1+an2.148:1.5^speaker": "the Buddha (assumed)",
+  "an2.149:1.1+an2.149:1.5^speaker": "the Buddha (assumed)",
+  "an2.150:1.1+an2.150:1.5^speaker": "the Buddha (assumed)"
 }

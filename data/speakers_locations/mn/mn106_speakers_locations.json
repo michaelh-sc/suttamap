@@ -1,26 +1,25 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn106:1.4^speaker": "The Buddha",
-  "mn106:1.5^geographic_locations_here_and_before": [
-    "Kuru",
+  "mn106:1.4^speaker": "the Buddha",
+  "mn106:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Kammāsadhamma"
   ],
   "mn106:1.5^speaker": "The mendicants",
-  "mn106:1.5^where_here_and_before": [
+  "mn106:1.5^where_before_or_around_this_segment": [
     "The land of the Kurus near the Kuru town named Kammāsadamma"
   ],
-  "mn106:2.1+mn106:9.13^speaker": "The Buddha",
+  "mn106:2.1+mn106:9.13^speaker": "the Buddha",
   "mn106:2.1+mn106:9.13^who_else_mentioned": [
     "Māra"
   ],
   "mn106:10.2+mn106:10.5^speaker": "Ānanda",
-  "mn106:10.6^speaker": "The Buddha",
+  "mn106:10.6^speaker": "the Buddha",
   "mn106:10.7^speaker": "Ānanda",
-  "mn106:10.8+mn106:10.13^speaker": "The Buddha",
+  "mn106:10.8+mn106:10.13^speaker": "the Buddha",
   "mn106:11.1^speaker": "Ānanda",
-  "mn106:11.2^speaker": "The Buddha",
+  "mn106:11.2^speaker": "the Buddha",
   "mn106:11.3^speaker": "Ānanda",
-  "mn106:11.4+mn106:12.6^speaker": "The Buddha",
+  "mn106:11.4+mn106:12.6^speaker": "the Buddha",
   "mn106:11.4+mn106:12.6^who_else_mentioned": [
     "Ānanda"
   ],
@@ -28,21 +27,21 @@
   "mn106:13.1+mn106:13.3^who_else_mentioned": [
     "Buddha"
   ],
-  "mn106:13.4+mn106:15.2^speaker": "The Buddha",
+  "mn106:13.4+mn106:15.2^speaker": "the Buddha",
   "mn106:13.4+mn106:15.2^who_else_mentioned": [
     "Ananda",
     "Ānanda"
   ],
-  "mn106:13.4^geographic_locations_here_and_before": [
+  "mn106:13.4^event_dppn_headwords_before_or_around_this_segment": [
     "Kammāsadhamma"
   ],
-  "mn106:13.4^where_here_and_before": [
+  "mn106:13.4^where_before_or_around_this_segment": [
     "The land of the Kurus near the Kuru town named Kammāsadamma"
   ],
-  "mn106:13.4^who_around_here_and_before": [
+  "mn106:13.4^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "mn106^initial_geographic_location": [
+  "mn106^initial_location_dppn_headword": [
     "Kammāsadhamma"
   ],
   "mn106^where": "The land of the Kurus near the Kuru town named Kammāsadamma."

@@ -26,17 +26,17 @@
   "sn41.4:6.1+sn41.4:6.6^who_else_mentioned": [
     "Mahaka"
   ],
-  "sn41.4:6.7^geographic_locations_here_and_before": [
+  "sn41.4:6.7^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
   "sn41.4:6.7^speaker": "Mahaka",
-  "sn41.4:6.7^where_here_and_before": [
+  "sn41.4:6.7^where_before_or_around_this_segment": [
     "Macchikāsaṇḍa in the Wild Mango Grove"
   ],
-  "sn41.4:6.7^who_around_here_and_before": [
+  "sn41.4:6.7^who_present_before_or_around_this_segment": [
     "the senior mendicants"
   ],
-  "sn41.4^initial_geographic_location": [
+  "sn41.4^initial_location_dppn_headword": [
     "Macchikāsaṇḍa"
   ],
   "sn41.4^where": "Macchikāsaṇḍa in the Wild Mango Grove"

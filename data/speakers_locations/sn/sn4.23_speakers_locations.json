@@ -30,22 +30,22 @@
   "sn4.23:12.1+sn4.23:13.4^who_else_mentioned": [
     "Godhika"
   ],
-  "sn4.23:12.1^geographic_locations_here_and_before": [
+  "sn4.23:12.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha",
     "Isigili"
   ],
-  "sn4.23:12.1^where_here_and_before": [
+  "sn4.23:12.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground; the Black Rock on the slopes of Isigili"
   ],
-  "sn4.23:12.1^who_around_here_and_before": [
+  "sn4.23:12.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn4.23:12.1^who_mentioned_here_and_before": [
+  "sn4.23:12.1^who_mentioned_before_or_around_this_segment": [
     "Godhika"
   ],
-  "sn4.23^initial_geographic_location": [
+  "sn4.23^initial_location_dppn_headword": [
     "Rājagaha",
     "Isigili"
   ],

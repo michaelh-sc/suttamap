@@ -5,13 +5,13 @@
   "sn22.72:1.4+sn22.72:1.12^who_else_mentioned": [
     "Surādha"
   ],
-  "sn22.72:1.4^geographic_locations_here_and_before": [
+  "sn22.72:1.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.72:1.4^where_here_and_before": [
+  "sn22.72:1.4^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.72^initial_geographic_location": [
+  "sn22.72^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.72^where": "Sāvatthī"

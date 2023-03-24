@@ -8,17 +8,17 @@
   "sn52.4:2.1+sn52.4:2.7^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn52.4:2.1^geographic_locations_here_and_before": [
+  "sn52.4:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāketa"
   ],
-  "sn52.4:2.1^where_here_and_before": [
+  "sn52.4:2.1^where_before_or_around_this_segment": [
     "Sāketa",
     "in the Thorny Wood"
   ],
-  "sn52.4:2.1^who_around_here_and_before": [
+  "sn52.4:2.1^who_present_before_or_around_this_segment": [
     "Mahāmoggallāna"
   ],
-  "sn52.4^initial_geographic_location": [
+  "sn52.4^initial_location_dppn_headword": [
     "Sāketa"
   ],
   "sn52.4^where": "Sāketa, in the Thorny Wood"

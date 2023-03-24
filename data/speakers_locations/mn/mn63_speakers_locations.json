@@ -17,14 +17,14 @@
   "mn63:4.5+mn63:4.6^who_else_mentioned": [
     "Buddha"
   ],
-  "mn63:4.8^geographic_locations_here_and_before": [
+  "mn63:4.8^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn63:4.8^speaker": "Māluṅkya",
-  "mn63:4.8^where_here_and_before": [
+  "mn63:4.8^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "mn63:4.8^who_around_here_and_before": [
+  "mn63:4.8^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "mn63:4.9+mn63:10.5^speaker": "the Buddha",
@@ -32,7 +32,7 @@
     "Māluṅkyaputta",
     "Buddha"
   ],
-  "mn63^initial_geographic_location": [
+  "mn63^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn63^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn2.29:1.3^speaker": "The Buddha",
+  "sn2.29:1.3^speaker": "the Buddha",
   "sn2.29:1.3^who_else_mentioned": [
     "Sāriputta"
   ],
@@ -8,7 +8,7 @@
   "sn2.29:2.1+sn2.29:2.18^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn2.29:3.1+sn2.29:3.2^speaker": "The Buddha",
+  "sn2.29:3.1+sn2.29:3.2^speaker": "the Buddha",
   "sn2.29:3.1+sn2.29:3.2^who_else_mentioned": [
     "Sāriputta"
   ],
@@ -21,23 +21,23 @@
   "sn2.29:13.1+sn2.29:13.4^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn2.29:15.1+sn2.29:15.4^speaker": "The Buddha",
+  "sn2.29:15.1+sn2.29:15.4^speaker": "the Buddha",
   "sn2.29:15.1+sn2.29:15.4^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn2.29:15.1^geographic_locations_here_and_before": [
+  "sn2.29:15.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn2.29:15.1^where_here_and_before": [
+  "sn2.29:15.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn2.29:15.1^who_around_here_and_before": [
+  "sn2.29:15.1^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "sn2.29:15.1^who_mentioned_here_and_before": [
+  "sn2.29:15.1^who_mentioned_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn2.29^initial_geographic_location": [
+  "sn2.29^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn2.29^where": "Sāvatthī"

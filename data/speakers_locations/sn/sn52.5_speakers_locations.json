@@ -8,13 +8,13 @@
   "sn52.5:1.4+sn52.5:1.10^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn52.5:1.4^geographic_locations_here_and_before": [
+  "sn52.5:1.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sāketa"
   ],
-  "sn52.5:1.4^where_here_and_before": [
+  "sn52.5:1.4^where_before_or_around_this_segment": [
     "Sāketa"
   ],
-  "sn52.5^initial_geographic_location": [
+  "sn52.5^initial_location_dppn_headword": [
     "Sāketa"
   ],
   "sn52.5^where": "Sāketa"

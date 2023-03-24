@@ -70,19 +70,19 @@
     "Sandaka",
     "Buddha"
   ],
-  "mn76:35-42.1^geographic_locations_here_and_before": [
+  "mn76:35-42.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "mn76:35-42.1^where_here_and_before": [
+  "mn76:35-42.1^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery",
     "at the cave of the wavy leaf fig tree",
     "Devakata Pool"
   ],
-  "mn76:35-42.1^who_around_here_and_before": [
+  "mn76:35-42.1^who_present_before_or_around_this_segment": [
     "a large assembly of around five hundred wanderers"
   ],
-  "mn76:35-42.1^who_mentioned_here_and_before": [
+  "mn76:35-42.1^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
   "mn76:51.1^speaker": "Sandaka",
@@ -119,15 +119,15 @@
     "Makkhali Gosāla"
   ],
   "mn76:54.2+mn76:54.3^speaker": "Sandaka",
-  "mn76:54.2^who_around_here_and_before": [
+  "mn76:54.2^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "mn76:54.2^who_mentioned_here_and_before": [
+  "mn76:54.2^who_mentioned_before_or_around_this_segment": [
     "Nanda Vaccha",
     "Kisa Saṅkicca",
     "Makkhali Gosāla"
   ],
-  "mn76^initial_geographic_location": [
+  "mn76^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "mn76^where": "Kosambi, in Ghosita's Monastery, at the cave of the wavy leaf fig tree, Devakata Pool"

@@ -7,16 +7,16 @@
     "Buddha",
     "Saṅgha"
   ],
-  "sn42.1:3.2^geographic_locations_here_and_before": [
+  "sn42.1:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn42.1:3.2^where_here_and_before": [
+  "sn42.1:3.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn42.1:3.2^who_around_here_and_before": [
+  "sn42.1:3.2^who_present_before_or_around_this_segment": [
     "the Buddha (assumed)"
   ],
-  "sn42.1^initial_geographic_location": [
+  "sn42.1^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn42.1^where": "Sāvatthī"

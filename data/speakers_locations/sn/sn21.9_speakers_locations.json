@@ -6,23 +6,23 @@
   ],
   "sn21.9:1.4^speaker": "Tissa",
   "sn21.9:1.5+sn21.9:1.8^speaker": "the Buddha",
-  "sn21.9:3.1+sn21.9:3.4^speaker": "the Holy One, the Teacher",
+  "sn21.9:3.1+sn21.9:3.4^speaker": "the Buddha",
   "sn21.9:3.1+sn21.9:3.4^who_else_mentioned": [
     "Tissa"
   ],
-  "sn21.9:3.1^geographic_locations_here_and_before": [
+  "sn21.9:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn21.9:3.1^where_here_and_before": [
+  "sn21.9:3.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn21.9:3.1^who_around_here_and_before": [
+  "sn21.9:3.1^who_present_before_or_around_this_segment": [
     "Tissa"
   ],
-  "sn21.9:3.1^who_mentioned_here_and_before": [
+  "sn21.9:3.1^who_mentioned_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn21.9^initial_geographic_location": [
+  "sn21.9^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn21.9^where": "Sāvatthī"

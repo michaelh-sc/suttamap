@@ -1,52 +1,50 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn14.15:2.2^speaker": "The Buddha",
+  "sn14.15:2.2^speaker": "the Buddha",
   "sn14.15:2.2^who_else_mentioned": [
     "Sāriputta"
   ],
   "sn14.15:2.3^speaker": "The mendicants",
-  "sn14.15:2.4+sn14.15:2.5^speaker": "The Buddha",
+  "sn14.15:2.4+sn14.15:2.5^speaker": "the Buddha",
   "sn14.15:2.4+sn14.15:2.5^who_else_mentioned": [
     "Moggallāna"
   ],
   "sn14.15:2.6^speaker": "The mendicants",
-  "sn14.15:2.7+sn14.15:2.8^speaker": "The Buddha",
+  "sn14.15:2.7+sn14.15:2.8^speaker": "the Buddha",
   "sn14.15:2.7+sn14.15:2.8^who_else_mentioned": [
     "Kassapa"
   ],
   "sn14.15:2.9^speaker": "The mendicants",
-  "sn14.15:2.10+sn14.15:2.11^speaker": "The Buddha",
+  "sn14.15:2.10+sn14.15:2.11^speaker": "the Buddha",
   "sn14.15:2.10+sn14.15:2.11^who_else_mentioned": [
     "Anuruddha"
   ],
   "sn14.15:2.12^speaker": "The mendicants",
-  "sn14.15:2.13+sn14.15:2.14^speaker": "The Buddha",
+  "sn14.15:2.13+sn14.15:2.14^speaker": "the Buddha",
   "sn14.15:2.13+sn14.15:2.14^who_else_mentioned": [
     "Puṇṇa Mantāniputta"
   ],
   "sn14.15:2.15^speaker": "The mendicants",
-  "sn14.15:2.16+sn14.15:2.17^speaker": "The Buddha",
+  "sn14.15:2.16+sn14.15:2.17^speaker": "the Buddha",
   "sn14.15:2.16+sn14.15:2.17^who_else_mentioned": [
     "Upāli"
   ],
   "sn14.15:2.18^speaker": "The mendicants",
-  "sn14.15:2.19+sn14.15:2.20^speaker": "The Buddha",
+  "sn14.15:2.19+sn14.15:2.20^speaker": "the Buddha",
   "sn14.15:2.21^speaker": "The mendicants",
-  "sn14.15:2.22+sn14.15:2.23^speaker": "The Buddha",
+  "sn14.15:2.22+sn14.15:2.23^speaker": "the Buddha",
   "sn14.15:2.22+sn14.15:2.23^who_else_mentioned": [
     "Devadatta"
   ],
   "sn14.15:2.24^speaker": "The mendicants",
-  "sn14.15:2.25+sn14.15:5.3^speaker": "The Buddha",
-  "sn14.15:2.25^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "sn14.15:2.25+sn14.15:5.3^speaker": "the Buddha",
+  "sn14.15:2.25^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn14.15:2.25^where_here_and_before": [
-    "Rājagaha",
-    "on the Vulture's Peak Mountain"
+  "sn14.15:2.25^where_before_or_around_this_segment": [
+    "Rājagaha on the Vulture's Peak Mountain"
   ],
-  "sn14.15:2.25^who_around_here_and_before": [
+  "sn14.15:2.25^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Mahāmoggallāna",
     "Mahākassapa",
@@ -56,8 +54,7 @@
     "Ānanda",
     "Devadatta"
   ],
-  "sn14.15^initial_geographic_location": [
-    "Rājagaha",
+  "sn14.15^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn14.15^where": "Rājagaha, on the Vulture's Peak Mountain"

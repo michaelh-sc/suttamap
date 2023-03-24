@@ -1,37 +1,37 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn115:1.4^speaker": "The Buddha",
+  "mn115:1.4^speaker": "the Buddha",
   "mn115:1.5^speaker": "the mendicants",
-  "mn115:2.1+mn115:2.12^speaker": "The Buddha",
+  "mn115:2.1+mn115:2.12^speaker": "the Buddha",
   "mn115:3.2^speaker": "Ānanda",
-  "mn115:3.3+mn115:3.4^speaker": "The Buddha",
+  "mn115:3.3+mn115:3.4^speaker": "the Buddha",
   "mn115:4.1^speaker": "Ānanda",
-  "mn115:4.2+mn115:4.10^speaker": "The Buddha",
+  "mn115:4.2+mn115:4.10^speaker": "the Buddha",
   "mn115:5.1^speaker": "Ānanda",
-  "mn115:5.2+mn115:5.6^speaker": "The Buddha",
+  "mn115:5.2+mn115:5.6^speaker": "the Buddha",
   "mn115:6.1^speaker": "Ānanda",
-  "mn115:6.2+mn115:6.6^speaker": "The Buddha",
+  "mn115:6.2+mn115:6.6^speaker": "the Buddha",
   "mn115:7.1^speaker": "Ānanda",
-  "mn115:7.2+mn115:7.6^speaker": "The Buddha",
+  "mn115:7.2+mn115:7.6^speaker": "the Buddha",
   "mn115:8.1^speaker": "Ānanda",
-  "mn115:8.2+mn115:8.6^speaker": "The Buddha",
+  "mn115:8.2+mn115:8.6^speaker": "the Buddha",
   "mn115:9.1^speaker": "Ānanda",
-  "mn115:9.2+mn115:9.6^speaker": "The Buddha",
+  "mn115:9.2+mn115:9.6^speaker": "the Buddha",
   "mn115:10.1^speaker": "Ānanda",
-  "mn115:10.2+mn115:10.5^speaker": "The Buddha",
+  "mn115:10.2+mn115:10.5^speaker": "the Buddha",
   "mn115:11.1^speaker": "Ānanda",
-  "mn115:11.2+mn115:11.29^speaker": "The Buddha",
-  "mn115:12.1^geographic_locations_here_and_before": [
+  "mn115:11.2+mn115:11.29^speaker": "the Buddha",
+  "mn115:12.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn115:12.1^speaker": "Ānanda",
-  "mn115:12.1^where_here_and_before": [
+  "mn115:12.1^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "mn115:12.1^who_around_here_and_before": [
+  "mn115:12.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn115:12.2+mn115:19.11^speaker": "The Buddha",
+  "mn115:12.2+mn115:19.11^speaker": "the Buddha",
   "mn115:12.2+mn115:19.11^who_else_mentioned": [
     "Saṅgha",
     "Buddhas",
@@ -41,11 +41,11 @@
     "Brahmā"
   ],
   "mn115:20.2+mn115:20.3^speaker": "Ānanda",
-  "mn115:20.4^speaker": "The Buddha",
+  "mn115:20.4^speaker": "the Buddha",
   "mn115:20.4^who_else_mentioned": [
     "Ānanda"
   ],
-  "mn115^initial_geographic_location": [
+  "mn115^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn115^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

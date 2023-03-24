@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "dn3:1.2.3+dn3:1.2.8^speaker": "Pokkharasāti heard",
+  "dn3:1.2.3+dn3:1.2.8^speaker": "Pokkharasāti",
   "dn3:1.2.3+dn3:1.2.8^where_else_mentioned": [
     "Icchānaṅgala"
   ],
@@ -68,11 +68,26 @@
     "Sakyan",
     "Sakyans"
   ],
+  "dn3:1.12.3^speaker": "Ambaṭṭha",
   "dn3:1.12.9^speaker": "Ambaṭṭha",
   "dn3:1.13.1^speaker": "the Buddha",
+  "dn3:1.13.1^where_here_and_before": [
+    "Icchānaṅgala",
+    "a village of the Kosalan brahmins",
+    "a forest near Icchānaṅgala"
+  ],
+  "dn3:1.13.1^who_around_here_and_before": [
+    "the Saṅgha of around five hundred mendicants",
+    "several students",
+    "King Pasenadi of Kosala"
+  ],
   "dn3:1.13.1^who_else_mentioned": [
     "Ambaṭṭha",
     "Sakyans"
+  ],
+  "dn3:1.13.1^who_mentioned_here_and_before": [
+    "the Sakyans",
+    "the Kinsman"
   ],
   "dn3:1.13.2+dn3:1.13.5^speaker": "Ambaṭṭha",
   "dn3:1.13.2+dn3:1.13.5^where_else_mentioned": [
@@ -106,29 +121,12 @@
   "dn3:1.15.4^who_else_mentioned": [
     "Ambaṭṭha"
   ],
-  "dn3:1.15.5^geographic_locations_here_and_before": [
-    "Iccānaṅgala",
-    "Kapilavatthu"
-  ],
   "dn3:1.15.5^speaker": "Ambaṭṭha",
-  "dn3:1.15.5^where_here_and_before": [
-    "Icchānaṅgala",
-    "Ukkaṭṭhā",
-    "Kapilavatthu"
-  ],
-  "dn3:1.15.5^who_around_here_and_before": [
-    "the mendicants",
-    "the students"
-  ],
   "dn3:1.15.5^who_else_mentioned": [
     "Kaṇhāyana",
     "Gotama"
   ],
-  "dn3:1.15.5^who_mentioned_here_and_before": [
-    "King Pasenadi of Kosala",
-    "Pokkharasāti's teacher"
-  ],
-  "dn3:1.15.6+dn3:1.16.10^speaker": "the students",
+  "dn3:1.15.6+dn3:1.16.10^speaker": "the Buddha",
   "dn3:1.15.6+dn3:1.16.10^where_else_mentioned": [
     "Hatthinika",
     "Himalayas"
@@ -145,7 +143,7 @@
     "Black Boy",
     "Kaṇhāyanas"
   ],
-  "dn3:1.17.2+dn3:1.17.3^speaker": "the students",
+  "dn3:1.17.2+dn3:1.17.3^speaker": "students",
   "dn3:1.17.2+dn3:1.17.3^who_else_mentioned": [
     "Gotama",
     "Ambaṭṭha"
@@ -154,7 +152,7 @@
   "dn3:1.18.2+dn3:1.18.5^who_else_mentioned": [
     "Ambaṭṭha"
   ],
-  "dn3:1.19.1^speaker": "Ambaṭṭha",
+  "dn3:1.19.1^speaker": "students",
   "dn3:1.19.1^who_else_mentioned": [
     "Ambaṭṭha",
     "Gotama"
@@ -184,16 +182,26 @@
     "Gotama",
     "Kaṇhāyanas"
   ],
-  "dn3:1.22.2+dn3:1.22.3^speaker": "the students",
+  "dn3:1.22.2+dn3:1.22.3^speaker": "students",
   "dn3:1.22.2+dn3:1.22.3^who_else_mentioned": [
     "Ambaṭṭha",
     "Sakyan",
     "Sakyans",
     "Gotama"
   ],
+  "dn3:1.22.2^speaker": "students",
   "dn3:1.23.2^speaker": "the Buddha",
+  "dn3:1.23.2^who_around_here_and_before": [
+    "Pokkharasāti",
+    "students"
+  ],
   "dn3:1.23.2^who_else_mentioned": [
     "Ambaṭṭha"
+  ],
+  "dn3:1.23.2^who_mentioned_here_and_before": [
+    "Sakyans",
+    "Kaṇhāyanas",
+    "Vajirapāṇi"
   ],
   "dn3:1.23.4+dn3:1.23.22^speaker": "the Buddha",
   "dn3:1.23.4+dn3:1.23.22^who_else_mentioned": [
@@ -249,17 +257,38 @@
   "dn3:1.26.5^who_else_mentioned": [
     "Gotama"
   ],
-  "dn3:1.27.5^speaker": "Ambaṭṭha",
-  "dn3:1.27.6^speaker": "brahmins",
-  "dn3:1.27.7^speaker": "Ambaṭṭha",
-  "dn3:1.27.8^speaker": "brahmins",
-  "dn3:1.27.9^speaker": "Ambaṭṭha",
-  "dn3:1.27.10^speaker": "brahmins",
+  "dn3:1.26.6^speaker": "the Buddha",
+  "dn3:1.26.7^speaker": "Ambaṭṭha",
+  "dn3:1.26.7^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn3:1.26.8^speaker": "the Buddha",
+  "dn3:1.26.9^speaker": "Ambaṭṭha",
+  "dn3:1.26.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn3:1.26.10^speaker": "the Buddha",
+  "dn3:1.26.11^speaker": "Ambaṭṭha",
+  "dn3:1.27.1+dn3:1.27.3^speaker": "the Buddha",
+  "dn3:1.27.1+dn3:1.27.3^who_else_mentioned": [
+    "Ambaṭṭha"
+  ],
+  "dn3:1.27.4^speaker": "Ambaṭṭha",
+  "dn3:1.27.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn3:1.27.5^speaker": "the Buddha",
+  "dn3:1.27.6^speaker": "Ambaṭṭha",
+  "dn3:1.27.7^speaker": "the Buddha",
+  "dn3:1.27.8^speaker": "Ambaṭṭha",
+  "dn3:1.27.9^speaker": "the Buddha",
+  "dn3:1.27.10^speaker": "Ambaṭṭha",
   "dn3:1.27.11+dn3:1.28.11^speaker": "the Buddha",
   "dn3:1.27.11+dn3:1.28.11^who_else_mentioned": [
     "Ambaṭṭha",
     "Brahmā Sanaṅkumāra"
   ],
+  "dn3:1.27.11^speaker": "the Buddha",
   "dn3:2.1.1^speaker": "Ambaṭṭha",
   "dn3:2.1.1^who_else_mentioned": [
     "Gotama"
@@ -268,9 +297,18 @@
   "dn3:2.1.2+dn3:2.1.7^who_else_mentioned": [
     "Ambaṭṭha"
   ],
+  "dn3:2.1.2^speaker": "the Buddha",
   "dn3:2.2.1^speaker": "Ambaṭṭha",
+  "dn3:2.2.1^who_around_here_and_before": [
+    "students"
+  ],
   "dn3:2.2.1^who_else_mentioned": [
     "Gotama"
+  ],
+  "dn3:2.2.1^who_mentioned_here_and_before": [
+    "Black Boy (an eminent sage)",
+    "brahmins",
+    "aristocrats"
   ],
   "dn3:2.2.2+dn3:2.4.2^speaker": "the Buddha",
   "dn3:2.2.2+dn3:2.4.2^who_else_mentioned": [
@@ -364,14 +402,57 @@
   "dn3:2.10.12^who_else_mentioned": [
     "Gotama"
   ],
+  "dn3:2.10.13+dn3:2.10.14^speaker": "the Buddha",
+  "dn3:2.10.13+dn3:2.10.14^who_else_mentioned": [
+    "Ambaṭṭha"
+  ],
+  "dn3:2.12.2+dn3:2.12.4^speaker": "the Buddha",
+  "dn3:2.12.2+dn3:2.12.4^who_else_mentioned": [
+    "Ambaṭṭha"
+  ],
+  "dn3:2.12.2^speaker": "the Buddha",
+  "dn3:2.12.2^who_mentioned_here_and_before": [
+    "Pokkharasāti",
+    "King Pasenadi of Kosala",
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Bhāradvāja",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu"
+  ],
+  "dn3:2.12.8^speaker": "Ambaṭṭha",
+  "dn3:2.12.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn3:2.12.10^speaker": "Ambaṭṭha",
+  "dn3:2.12.11^speaker": "the Buddha",
+  "dn3:2.12.11^who_else_mentioned": [
+    "Ambaṭṭha"
+  ],
+  "dn3:2.14.2^speaker": "Pokkharasāti",
+  "dn3:2.14.2^who_else_mentioned": [
+    "Ambaṭṭha",
+    "Gotama"
+  ],
+  "dn3:2.14.3^speaker": "Ambaṭṭha",
+  "dn3:2.14.4^speaker": "Pokkharasāti",
+  "dn3:2.14.6+dn3:2.14.7^speaker": "Ambaṭṭha",
+  "dn3:2.14.6+dn3:2.14.7^who_else_mentioned": [
+    "Gotama"
+  ],
   "dn3:2.14.8^speaker": "Pokkharasāti",
   "dn3:2.14.9^speaker": "Ambaṭṭha",
-  "dn3:2.14.10^speaker": "Pokkharasāti",
+  "dn3:2.14.10^speaker": "Ambaṭṭha",
   "dn3:2.15.2+dn3:2.15.3^speaker": "Pokkharasāti",
   "dn3:2.15.2+dn3:2.15.3^who_else_mentioned": [
     "Gotama"
   ],
-  "dn3:2.16.2+dn3:2.16.3^speaker": "the brahmins",
+  "dn3:2.16.2+dn3:2.16.3^speaker": "those brahmins",
   "dn3:2.16.2+dn3:2.16.3^who_else_mentioned": [
     "Gotama"
   ],
@@ -411,6 +492,15 @@
     "Gotama"
   ],
   "dn3:2.21.7^speaker": "Pokkharasāti",
+  "dn3:2.21.7^where_here_and_before": [
+    "The forest near Icchānaṅgala",
+    "the home of Pokkharasāti",
+    "the monastery"
+  ],
+  "dn3:2.21.7^who_around_here_and_before": [
+    "the mendicant Saṅgha",
+    "Ambaṭṭha's students"
+  ],
   "dn3:2.22.2+dn3:2.22.7^speaker": "Pokkharasāti",
   "dn3:2.22.2+dn3:2.22.7^where_else_mentioned": [
     "Ukkaṭṭhā"
@@ -419,21 +509,12 @@
     "Gotama",
     "Saṅgha"
   ],
-  "dn3:2.22.8^geographic_locations_here_and_before": [
-    "Iccānaṅgala"
-  ],
   "dn3:2.22.8^speaker": "the Buddha",
-  "dn3:2.22.8^where_here_and_before": [
-    "Ukkaṭṭhā",
-    "the forest near Icchānaṅgala"
-  ],
-  "dn3:2.22.8^who_around_here_and_before": [
-    "Ambaṭṭha",
-    "the brahmins",
-    "the mendicant Saṅgha"
+  "dn3:2.22.8^who_mentioned_here_and_before": [
+    "Brahmin boys and girls"
   ],
   "dn3^initial_geographic_location": [
     "Iccānaṅgala"
   ],
-  "dn3^where": "Icchānaṅgala, Ukkaṭṭhā, Kapilavatthu"
+  "dn3^where": "Icchānaṅgala, a village of the Kosalan brahmins, and a forest near Icchānaṅgala"
 }

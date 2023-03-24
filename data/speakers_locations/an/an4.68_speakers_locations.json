@@ -4,19 +4,19 @@
   "an4.68:1.3+an4.68:6.4^who_else_mentioned": [
     "Devadatta"
   ],
-  "an4.68:1.3^geographic_locations_here_and_before": [
+  "an4.68:1.3^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "an4.68:1.3^where_here_and_before": [
+  "an4.68:1.3^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain near Rājagaha"
   ],
-  "an4.68:1.3^who_around_here_and_before": [
+  "an4.68:1.3^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an4.68:1.3^who_mentioned_here_and_before": [
+  "an4.68:1.3^who_mentioned_before_or_around_this_segment": [
     "Devadatta"
   ],
-  "an4.68^initial_geographic_location": [
+  "an4.68^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "an4.68^where": "Vulture's Peak Mountain, near Rājagaha"

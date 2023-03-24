@@ -5,13 +5,13 @@
     "Sāriputta"
   ],
   "sn22.130:2.1+sn22.130:2.7^speaker": "Reverend Sāriputta",
-  "sn22.130:2.1^geographic_locations_here_and_before": [
+  "sn22.130:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī"
   ],
-  "sn22.130:2.1^where_here_and_before": [
+  "sn22.130:2.1^where_before_or_around_this_segment": [
     "Benares"
   ],
-  "sn22.130^initial_geographic_location": [
+  "sn22.130^initial_location_dppn_headword": [
     "Bārānasī"
   ],
   "sn22.130^where": "Benares"

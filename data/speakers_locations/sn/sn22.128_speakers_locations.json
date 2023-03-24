@@ -5,18 +5,18 @@
     "Sāriputta"
   ],
   "sn22.128:2.1+sn22.128:2.7^speaker": "Sāriputta",
-  "sn22.128:2.1^geographic_locations_here_and_before": [
+  "sn22.128:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn22.128:2.1^where_here_and_before": [
+  "sn22.128:2.1^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "sn22.128:2.1^who_around_here_and_before": [
+  "sn22.128:2.1^who_present_before_or_around_this_segment": [
     "Mahākoṭṭhita"
   ],
-  "sn22.128^initial_geographic_location": [
+  "sn22.128^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

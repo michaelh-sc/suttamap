@@ -13,19 +13,19 @@
   "an4.48:3.2+an4.48:5.4^who_else_mentioned": [
     "Visākha"
   ],
-  "an4.48:3.2^geographic_locations_here_and_before": [
+  "an4.48:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an4.48:3.2^where_here_and_before": [
+  "an4.48:3.2^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "an4.48:3.2^who_around_here_and_before": [
+  "an4.48:3.2^who_present_before_or_around_this_segment": [
     "Visākha",
     "Pañcāli's son"
   ],
-  "an4.48^initial_geographic_location": [
+  "an4.48^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an4.48^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

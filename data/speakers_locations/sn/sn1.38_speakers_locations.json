@@ -27,21 +27,21 @@
   "sn1.38:8.2+sn1.38:8.3^speaker": "another deity",
   "sn1.38:9.1+sn1.38:11.4^speaker": "brahmins",
   "sn1.38:12.1+sn1.38:12.4^speaker": "another deity",
-  "sn1.38:12.1^geographic_locations_here_and_before": [
+  "sn1.38:12.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha",
     "Maddakucchi",
     "Isipatana"
   ],
-  "sn1.38:12.1^where_here_and_before": [
+  "sn1.38:12.1^where_before_or_around_this_segment": [
     "Rājagaha in the Maddakucchi deer park"
   ],
-  "sn1.38:12.1^who_around_here_and_before": [
-    "The Buddha"
+  "sn1.38:12.1^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "sn1.38:12.1^who_mentioned_here_and_before": [
+  "sn1.38:12.1^who_mentioned_before_or_around_this_segment": [
     "Death's domain"
   ],
-  "sn1.38^initial_geographic_location": [
+  "sn1.38^initial_location_dppn_headword": [
     "Rājagaha",
     "Maddakucchi",
     "Isipatana"

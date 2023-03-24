@@ -28,16 +28,16 @@
   "sn35.241:7.9+sn35.241:7.10^who_else_mentioned": [
     "Buddha"
   ],
-  "sn35.241:7.9^geographic_locations_here_and_before": [
+  "sn35.241:7.9^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "sn35.241:7.9^where_here_and_before": [
+  "sn35.241:7.9^where_before_or_around_this_segment": [
     "Kosambi on the bank of the Ganges river"
   ],
-  "sn35.241:7.9^who_around_here_and_before": [
+  "sn35.241:7.9^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn35.241^initial_geographic_location": [
+  "sn35.241^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "sn35.241^where": "Kosambi on the bank of the Ganges river"

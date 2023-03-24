@@ -30,18 +30,18 @@
     "Sāriputta"
   ],
   "sn22.1:8.1^speaker": "Sāriputta",
-  "sn22.1:8.2^geographic_locations_here_and_before": [
+  "sn22.1:8.2^event_dppn_headwords_before_or_around_this_segment": [
     "Susumāragiri"
   ],
   "sn22.1:8.2^speaker": "Nakula's father",
-  "sn22.1:8.2^where_here_and_before": [
+  "sn22.1:8.2^where_before_or_around_this_segment": [
     "the land of the Bhaggas on Crocodile Hill in the deer park at Bhesakaḷā's Wood"
   ],
-  "sn22.1:8.2^who_around_here_and_before": [
+  "sn22.1:8.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "sn22.1:9.1+sn22.1:18.5^speaker": "Sāriputta",
-  "sn22.1^initial_geographic_location": [
+  "sn22.1^initial_location_dppn_headword": [
     "Susumāragiri"
   ],
   "sn22.1^where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood."

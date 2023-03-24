@@ -17,17 +17,17 @@
   "sn35.234:6.3^speaker": "Ānanda",
   "sn35.234:6.4^speaker": "Udāyī",
   "sn35.234:6.5+sn35.234:7.5^speaker": "Ānanda",
-  "sn35.234:6.5^geographic_locations_here_and_before": [
+  "sn35.234:6.5^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "sn35.234:6.5^where_here_and_before": [
+  "sn35.234:6.5^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "sn35.234:6.5^who_around_here_and_before": [
+  "sn35.234:6.5^who_present_before_or_around_this_segment": [
     "Ghosita"
   ],
-  "sn35.234^initial_geographic_location": [
+  "sn35.234^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "sn35.234^where": "Kosambi, in Ghosita's Monastery"

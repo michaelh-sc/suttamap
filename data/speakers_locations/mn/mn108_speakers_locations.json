@@ -76,21 +76,21 @@
     "the Bamboo Grove"
   ],
   "mn108:25.4^speaker": "Vassakāra",
-  "mn108:25.5^geographic_locations_here_and_before": [
+  "mn108:25.5^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn108:25.5^speaker": "Ānanda",
-  "mn108:25.5^where_here_and_before": [
+  "mn108:25.5^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "mn108:25.5^who_around_here_and_before": [
+  "mn108:25.5^who_present_before_or_around_this_segment": [
     "Moggallāna the Guardian",
     "Vassakāra",
     "General Upananda"
   ],
-  "mn108:25.5^who_mentioned_here_and_before": [
+  "mn108:25.5^who_mentioned_before_or_around_this_segment": [
     "King Ajātasattu Vedehiputta of Magadha",
     "King Pajjota",
     "Buddha"
@@ -123,13 +123,13 @@
     "Buddha",
     "the Blessed One"
   ],
-  "mn108:29.3^where_here_and_before": [
+  "mn108:29.3^where_before_or_around_this_segment": [
     "Bamboo Grove"
   ],
-  "mn108:29.3^who_around_here_and_before": [
+  "mn108:29.3^who_present_before_or_around_this_segment": [
     "Moggallāna"
   ],
-  "mn108^initial_geographic_location": [
+  "mn108^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn108^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

@@ -12,13 +12,13 @@
   "sn55.21:2.1+sn55.21:3.8^who_else_mentioned": [
     "Mahānāma"
   ],
-  "sn55.21:2.1^geographic_locations_here_and_before": [
+  "sn55.21:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "sn55.21:2.1^where_here_and_before": [
+  "sn55.21:2.1^where_before_or_around_this_segment": [
     "Kapilavatthu in the Banyan Tree Monastery"
   ],
-  "sn55.21^initial_geographic_location": [
+  "sn55.21^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "sn55.21^where": "Kapilavatthu in the Banyan Tree Monastery"

@@ -8,20 +8,20 @@
     "Kinsman",
     "Sun"
   ],
-  "sn8.1:2.1^geographic_locations_here_and_before": [
+  "sn8.1:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Āḷavī"
   ],
-  "sn8.1:2.1^where_here_and_before": [
+  "sn8.1:2.1^where_before_or_around_this_segment": [
     "Āḷavī",
     "at the Aggāḷava Tree-shrine"
   ],
-  "sn8.1:2.1^who_around_here_and_before": [
+  "sn8.1:2.1^who_present_before_or_around_this_segment": [
     "Nigrodhakappa"
   ],
-  "sn8.1:2.1^who_mentioned_here_and_before": [
+  "sn8.1:2.1^who_mentioned_before_or_around_this_segment": [
     "Several women dressed in all their finery"
   ],
-  "sn8.1^initial_geographic_location": [
+  "sn8.1^initial_location_dppn_headword": [
     "Āḷavī"
   ],
   "sn8.1^where": "Āḷavī, at the Aggāḷava Tree-shrine"

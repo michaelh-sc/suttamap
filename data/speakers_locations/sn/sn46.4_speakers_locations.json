@@ -3,17 +3,17 @@
   "sn46.4:1.3^speaker": "Sāriputta",
   "sn46.4:1.4^speaker": "the mendicants",
   "sn46.4:2.1+sn46.4:3.11^speaker": "Sāriputta",
-  "sn46.4:2.1^geographic_locations_here_and_before": [
+  "sn46.4:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn46.4:2.1^where_here_and_before": [
+  "sn46.4:2.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "sn46.4:2.1^who_around_here_and_before": [
+  "sn46.4:2.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn46.4^initial_geographic_location": [
+  "sn46.4^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn46.4^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

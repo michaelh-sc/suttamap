@@ -3,16 +3,16 @@
   "sn17.30:1.2^speaker": "the Buddha",
   "sn17.30:1.4^speaker": "Ānanda",
   "sn17.30:1.5+sn17.30:1.10^speaker": "the Buddha",
-  "sn17.30:1.5^geographic_locations_here_and_before": [
+  "sn17.30:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn17.30:1.5^where_here_and_before": [
+  "sn17.30:1.5^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn17.30:1.5^who_around_here_and_before": [
+  "sn17.30:1.5^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "sn17.30^initial_geographic_location": [
+  "sn17.30^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn17.30^where": "Sāvatthī"

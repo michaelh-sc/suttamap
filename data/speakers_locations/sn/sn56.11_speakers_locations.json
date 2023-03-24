@@ -28,18 +28,18 @@
   "sn56.11:14.2^who_else_mentioned": [
     "Koṇḍañña"
   ],
-  "sn56.11:14.3^geographic_locations_here_and_before": [
+  "sn56.11:14.3^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn56.11:14.3^where_here_and_before": [
+  "sn56.11:14.3^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "sn56.11:14.3^who_around_here_and_before": [
+  "sn56.11:14.3^who_present_before_or_around_this_segment": [
     "the group of five mendicants"
   ],
-  "sn56.11^initial_geographic_location": [
+  "sn56.11^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

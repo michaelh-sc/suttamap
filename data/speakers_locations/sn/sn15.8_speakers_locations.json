@@ -12,13 +12,13 @@
   "sn15.8:3.2+sn15.8:3.3^who_else_mentioned": [
     "Gotama"
   ],
-  "sn15.8:3.2^geographic_locations_here_and_before": [
+  "sn15.8:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn15.8:3.2^where_here_and_before": [
+  "sn15.8:3.2^where_before_or_around_this_segment": [
     "Near Rājagaha in the Bamboo Grove"
   ],
-  "sn15.8^initial_geographic_location": [
+  "sn15.8^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn15.8^where": "Near Rājagaha, in the Bamboo Grove."

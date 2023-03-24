@@ -43,16 +43,16 @@
     "Tissa",
     "Buddha"
   ],
-  "sn22.84:8.12^geographic_locations_here_and_before": [
+  "sn22.84:8.12^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.84:8.12^where_here_and_before": [
+  "sn22.84:8.12^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.84:8.12^who_around_here_and_before": [
+  "sn22.84:8.12^who_present_before_or_around_this_segment": [
     "several mendicants"
   ],
-  "sn22.84^initial_geographic_location": [
+  "sn22.84^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.84^where": "Sāvatthī"

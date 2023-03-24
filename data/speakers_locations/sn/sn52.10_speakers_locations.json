@@ -5,16 +5,16 @@
     "Anuruddha"
   ],
   "sn52.10:2.2+sn52.10:2.8^speaker": "Anuruddha",
-  "sn52.10:2.2^geographic_locations_here_and_before": [
+  "sn52.10:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn52.10:2.2^where_here_and_before": [
+  "sn52.10:2.2^where_before_or_around_this_segment": [
     "Sāvatthī in the Dark Forest"
   ],
-  "sn52.10:2.2^who_around_here_and_before": [
+  "sn52.10:2.2^who_present_before_or_around_this_segment": [
     "Anuruddha"
   ],
-  "sn52.10^initial_geographic_location": [
+  "sn52.10^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn52.10^where": "Sāvatthī in the Dark Forest"

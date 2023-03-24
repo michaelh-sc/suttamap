@@ -72,14 +72,14 @@
   ],
   "an8.51:21.1+an8.51:23.3^speaker": "Ānanda",
   "an8.51:24.1+an8.51:24.2^speaker": "Mahāpajāpatī Gotamī",
-  "an8.51:25.2^geographic_locations_here_and_before": [
+  "an8.51:25.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
   "an8.51:25.2^speaker": "Ānanda",
-  "an8.51:25.2^where_here_and_before": [
+  "an8.51:25.2^where_before_or_around_this_segment": [
     "Kapilavatthu in the Banyan Tree Monastery"
   ],
-  "an8.51:25.2^who_around_here_and_before": [
+  "an8.51:25.2^who_present_before_or_around_this_segment": [
     "Sakyan ladies"
   ],
   "an8.51:25.2^who_else_mentioned": [
@@ -89,10 +89,10 @@
   "an8.51:26.1+an8.51:30.2^who_else_mentioned": [
     "the Realized One"
   ],
-  "an8.51:26.1^who_mentioned_here_and_before": [
+  "an8.51:26.1^who_mentioned_before_or_around_this_segment": [
     "Females"
   ],
-  "an8.51^initial_geographic_location": [
+  "an8.51^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "an8.51^where": "Kapilavatthu in the Banyan Tree Monastery"

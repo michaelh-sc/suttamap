@@ -30,20 +30,20 @@
     "Māra",
     "Buddha"
   ],
-  "sn8.8:8.1^geographic_locations_here_and_before": [
+  "sn8.8:8.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn8.8:8.1^where_here_and_before": [
+  "sn8.8:8.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "sn8.8:8.1^who_around_here_and_before": [
+  "sn8.8:8.1^who_present_before_or_around_this_segment": [
     "a large Saṅgha of 1,250 mendicants"
   ],
-  "sn8.8:8.1^who_mentioned_here_and_before": [
+  "sn8.8:8.1^who_mentioned_before_or_around_this_segment": [
     "Māra"
   ],
-  "sn8.8^initial_geographic_location": [
+  "sn8.8^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn8.8^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

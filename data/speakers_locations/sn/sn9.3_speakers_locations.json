@@ -4,14 +4,18 @@
   "sn9.3:2.1+sn9.3:4.4^who_else_mentioned": [
     "Kassapa"
   ],
-  "sn9.3:2.1^where_here_and_before": [
+  "sn9.3:2.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "sn9.3:2.1^where_before_or_around_this_segment": [
     "land of the Kosalans in a certain forest grove"
   ],
-  "sn9.3:2.1^who_around_here_and_before": [
+  "sn9.3:2.1^who_present_before_or_around_this_segment": [
     "Kassapagotta"
   ],
-  "sn9.3:2.1^who_mentioned_here_and_before": [
+  "sn9.3:2.1^who_mentioned_before_or_around_this_segment": [
     "tribal hunter"
   ],
+  "sn9.3^initial_location_dppn_headword": "Kosala",
   "sn9.3^where": "land of the Kosalans in a certain forest grove"
 }

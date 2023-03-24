@@ -7,23 +7,23 @@
   "sn21.10:2.6^speaker": "Senior",
   "sn21.10:2.7^speaker": "the Buddha",
   "sn21.10:2.8^speaker": "Senior",
-  "sn21.10:2.9^speaker": "The Buddha",
+  "sn21.10:2.9^speaker": "the Buddha",
   "sn21.10:2.10+sn21.10:2.11^speaker": "Senior",
-  "sn21.10:3.1+sn21.10:3.3^speaker": "The Buddha",
+  "sn21.10:3.1+sn21.10:3.3^speaker": "the Buddha",
   "sn21.10:3.4^speaker": "Senior",
   "sn21.10:3.5+sn21.10:3.7^speaker": "Senior",
-  "sn21.10:5.1+sn21.10:5.4^speaker": "The Buddha",
-  "sn21.10:5.1^geographic_locations_here_and_before": [
+  "sn21.10:5.1+sn21.10:5.4^speaker": "the Buddha",
+  "sn21.10:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn21.10:5.1^where_here_and_before": [
+  "sn21.10:5.1^where_before_or_around_this_segment": [
     "Bamboo Grove",
     "the squirrels' feeding ground near Rājagaha"
   ],
-  "sn21.10:5.1^who_around_here_and_before": [
+  "sn21.10:5.1^who_present_before_or_around_this_segment": [
     "A certain monk"
   ],
-  "sn21.10^initial_geographic_location": [
+  "sn21.10^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn21.10^where": "Bamboo Grove, the squirrels' feeding ground near Rājagaha"

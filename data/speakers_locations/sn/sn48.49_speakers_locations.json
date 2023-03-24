@@ -6,17 +6,17 @@
     "Piṇḍola Bhāradvāja"
   ],
   "sn48.49:3.2^speaker": "Piṇḍola Bhāradvāja",
-  "sn48.49:3.12^geographic_locations_here_and_before": [
+  "sn48.49:3.12^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
   "sn48.49:3.12^speaker": "Piṇḍola Bhāradvāja",
-  "sn48.49:3.12^where_here_and_before": [
+  "sn48.49:3.12^where_before_or_around_this_segment": [
     "Ghosita's Monastery near Kosambi"
   ],
-  "sn48.49:3.12^who_around_here_and_before": [
-    "The Buddha"
+  "sn48.49:3.12^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "sn48.49^initial_geographic_location": [
+  "sn48.49^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "sn48.49^where": "Ghosita's Monastery, near Kosambi"

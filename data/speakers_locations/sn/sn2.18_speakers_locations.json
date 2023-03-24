@@ -11,14 +11,14 @@
   "sn2.18:4.1+sn2.18:4.4^speaker": "the glorious god Kakudha",
   "sn2.18:5.1+sn2.18:5.4^speaker": "the Buddha",
   "sn2.18:6.1+sn2.18:6.4^speaker": "the glorious god Kakudha",
-  "sn2.18:6.1^geographic_locations_here_and_before": [
+  "sn2.18:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāketa",
     "Isipatana"
   ],
-  "sn2.18:6.1^where_here_and_before": [
+  "sn2.18:6.1^where_before_or_around_this_segment": [
     "Sāketa in the deer park at the Añjana Wood"
   ],
-  "sn2.18^initial_geographic_location": [
+  "sn2.18^initial_location_dppn_headword": [
     "Sāketa",
     "Isipatana"
   ],

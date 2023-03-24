@@ -30,10 +30,13 @@
   "dn29:38.5^speaker": "the Buddha",
   "dn29:41.3+dn29:41.5^speaker": "Upavāṇa",
   "dn29:41.6^speaker": "the Buddha",
-  "dn29:41.6^where_here_and_before": [
+  "dn29:41.6^event_dppn_headwords_before_or_around_this_segment": [
+    "Sākya"
+  ],
+  "dn29:41.6^where_before_or_around_this_segment": [
     "the land of the Sakyans in a stilt longhouse in a mango grove belonging to the Sakyan family named Vedhañña"
   ],
-  "dn29:41.6^who_around_here_and_before": [
+  "dn29:41.6^who_present_before_or_around_this_segment": [
     "the Buddha",
     "Ānanda",
     "Cunda",
@@ -42,10 +45,11 @@
   "dn29:41.6^who_else_mentioned": [
     "Upavāṇa"
   ],
-  "dn29:41.6^who_mentioned_here_and_before": [
+  "dn29:41.6^who_mentioned_before_or_around_this_segment": [
     "Nigaṇṭha Nātaputta",
     "Jain ascetics",
     "white-clothed lay disciples"
   ],
+  "dn29^initial_location_dppn_headword": "Sākya",
   "dn29^where": "the land of the Sakyans in a stilt longhouse in a mango grove belonging to the Sakyan family named Vedhañña"
 }

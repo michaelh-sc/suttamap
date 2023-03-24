@@ -16,14 +16,14 @@
     "Gotama"
   ],
   "an10.176:4.1^speaker": "the Buddha",
-  "an10.176:4.2^geographic_locations_here_and_before": [
+  "an10.176:4.2^event_dppn_headwords_before_or_around_this_segment": [
     "Pāvā"
   ],
   "an10.176:4.2^speaker": "Cunda the smith",
-  "an10.176:4.2^where_here_and_before": [
+  "an10.176:4.2^where_before_or_around_this_segment": [
     "Pāvā in Cunda the smith's mango grove"
   ],
-  "an10.176:4.2^who_mentioned_here_and_before": [
+  "an10.176:4.2^who_mentioned_before_or_around_this_segment": [
     "Western Brahmins"
   ],
   "an10.176:5.1+an10.176:44.1^speaker": "the Buddha",
@@ -34,10 +34,10 @@
   "an10.176:45.2+an10.176:45.3^who_else_mentioned": [
     "Buddha"
   ],
-  "an10.176:45.2^who_mentioned_here_and_before": [
+  "an10.176:45.2^who_mentioned_before_or_around_this_segment": [
     "Western Brahmins"
   ],
-  "an10.176^initial_geographic_location": [
+  "an10.176^initial_location_dppn_headword": [
     "Pāvā"
   ],
   "an10.176^where": "Pāvā in Cunda the smith's mango grove"

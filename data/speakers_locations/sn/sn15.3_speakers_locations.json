@@ -6,13 +6,13 @@
     "Buddha"
   ],
   "sn15.3:2.1+sn15.3:2.15^speaker": "the Buddha",
-  "sn15.3:2.1^geographic_locations_here_and_before": [
+  "sn15.3:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn15.3:2.1^where_here_and_before": [
+  "sn15.3:2.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn15.3^initial_geographic_location": [
+  "sn15.3^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn15.3^where": "Sāvatthī"

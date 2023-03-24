@@ -1,39 +1,39 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn116:1.4^speaker": "The Buddha",
+  "mn116:1.4^speaker": "the Buddha",
   "mn116:1.5^speaker": "the mendicants",
-  "mn116:2.1^speaker": "The Buddha",
+  "mn116:2.1^speaker": "the Buddha",
   "mn116:2.1^where_else_mentioned": [
     "Mount Vebhāra"
   ],
   "mn116:2.2^speaker": "the mendicants",
-  "mn116:2.3+mn116:2.4^speaker": "The Buddha",
+  "mn116:2.3+mn116:2.4^speaker": "the Buddha",
   "mn116:2.3+mn116:2.4^where_else_mentioned": [
     "Mount Paṇḍava"
   ],
   "mn116:2.5^speaker": "the mendicants",
-  "mn116:2.6+mn116:2.7^speaker": "The Buddha",
+  "mn116:2.6+mn116:2.7^speaker": "the Buddha",
   "mn116:2.6+mn116:2.7^where_else_mentioned": [
     "Mount Vepulla"
   ],
   "mn116:2.8^speaker": "the mendicants",
-  "mn116:2.9+mn116:2.10^speaker": "The Buddha",
+  "mn116:2.9+mn116:2.10^speaker": "the Buddha",
   "mn116:2.9+mn116:2.10^where_else_mentioned": [
     "Mount Vulture"
   ],
   "mn116:2.11^speaker": "the mendicants",
-  "mn116:2.12+mn116:2.13^speaker": "The Buddha",
+  "mn116:2.12+mn116:2.13^speaker": "the Buddha",
   "mn116:2.12+mn116:2.13^where_else_mentioned": [
     "Mount Isigili"
   ],
   "mn116:2.14^speaker": "the mendicants",
-  "mn116:3.1+mn116:3.10^speaker": "The Buddha",
+  "mn116:3.1+mn116:3.10^speaker": "the Buddha",
   "mn116:3.1+mn116:3.10^who_else_mentioned": [
     "Buddhas",
     "Isigili"
   ],
   "mn116:3.11^speaker": "the mendicants",
-  "mn116:4.1+mn116:7.4^speaker": "The Buddha",
+  "mn116:4.1+mn116:7.4^speaker": "the Buddha",
   "mn116:4.1+mn116:7.4^where_else_mentioned": [
     "Sumbha",
     "Subha",
@@ -131,21 +131,20 @@
     "Mānatthaddha",
     "the Buddha Kaṇha"
   ],
-  "mn116:4.1^geographic_locations_here_and_before": [
+  "mn116:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha",
     "Isigili"
   ],
-  "mn116:4.1^where_here_and_before": [
-    "Rājagaha",
-    "on the Isigili Mountain"
+  "mn116:4.1^where_before_or_around_this_segment": [
+    "Rājagaha on the Isigili Mountain"
   ],
-  "mn116:4.1^who_around_here_and_before": [
+  "mn116:4.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn116:4.1^who_mentioned_here_and_before": [
+  "mn116:4.1^who_mentioned_before_or_around_this_segment": [
     "Ariṭṭha"
   ],
-  "mn116^initial_geographic_location": [
+  "mn116^initial_location_dppn_headword": [
     "Rājagaha",
     "Isigili"
   ],

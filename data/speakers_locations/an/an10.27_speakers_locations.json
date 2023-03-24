@@ -17,21 +17,21 @@
     "Māras",
     "Brahmās"
   ],
-  "an10.27:9.1^geographic_locations_here_and_before": [
+  "an10.27:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an10.27:9.1^where_here_and_before": [
+  "an10.27:9.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "an10.27:9.1^who_around_here_and_before": [
+  "an10.27:9.1^who_present_before_or_around_this_segment": [
     "the wanderers"
   ],
-  "an10.27:9.1^who_mentioned_here_and_before": [
+  "an10.27:9.1^who_mentioned_before_or_around_this_segment": [
     "the ascetic Buddha"
   ],
-  "an10.27^initial_geographic_location": [
+  "an10.27^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an10.27^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

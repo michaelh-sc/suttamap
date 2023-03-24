@@ -105,19 +105,19 @@
   "mn99:13.9^speaker": "the Buddha",
   "mn99:13.10^speaker": "Subha",
   "mn99:13.11^speaker": "the Buddha",
-  "mn99:13.12^geographic_locations_here_and_before": [
+  "mn99:13.12^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī",
     "Jetavana"
   ],
   "mn99:13.12^speaker": "Subha",
-  "mn99:13.12^where_here_and_before": [
+  "mn99:13.12^where_before_or_around_this_segment": [
     "Sāvatthī in Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn99:13.12^who_around_here_and_before": [
+  "mn99:13.12^who_present_before_or_around_this_segment": [
     "the householder"
   ],
-  "mn99:13.12^who_mentioned_here_and_before": [
+  "mn99:13.12^who_mentioned_before_or_around_this_segment": [
     "Pokkharasāti Upamañña",
     "Subhaga Forest",
     "Caṅkī",
@@ -200,10 +200,10 @@
   ],
   "mn99:23.4^speaker": "the Buddha",
   "mn99:23.5^speaker": "Subha",
-  "mn99:23.5^where_here_and_before": [
+  "mn99:23.5^where_before_or_around_this_segment": [
     "Naḷakāra"
   ],
-  "mn99:23.5^who_mentioned_here_and_before": [
+  "mn99:23.5^who_mentioned_before_or_around_this_segment": [
     "Pokkharasāti",
     "Brahmā"
   ],
@@ -250,16 +250,16 @@
     "King Pasenadi",
     "Buddha"
   ],
-  "mn99:31.2^geographic_locations_here_and_before": [
+  "mn99:31.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "mn99:31.2^where_here_and_before": [
+  "mn99:31.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "mn99:31.2^who_mentioned_here_and_before": [
+  "mn99:31.2^who_mentioned_before_or_around_this_segment": [
     "King Pasenadi of Kosala"
   ],
-  "mn99^initial_geographic_location": [
+  "mn99^initial_location_dppn_headword": [
     "Sāvatthī",
     "Jetavana"
   ],

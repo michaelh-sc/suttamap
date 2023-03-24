@@ -10,13 +10,13 @@
   "an10.47:2.2+an10.47:2.9^who_else_mentioned": [
     "Mahāli"
   ],
-  "an10.47:2.2^geographic_locations_here_and_before": [
+  "an10.47:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an10.47:2.2^where_here_and_before": [
+  "an10.47:2.2^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "an10.47^initial_geographic_location": [
+  "an10.47^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an10.47^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

@@ -5,19 +5,19 @@
   "sn51.27:2.2+sn51.27:5.4^where_else_mentioned": [
     "Brahmā"
   ],
-  "sn51.27:2.2^geographic_locations_here_and_before": [
+  "sn51.27:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn51.27:2.2^where_here_and_before": [
+  "sn51.27:2.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn51.27:2.2^who_around_here_and_before": [
+  "sn51.27:2.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn51.27:2.2^who_mentioned_here_and_before": [
+  "sn51.27:2.2^who_mentioned_before_or_around_this_segment": [
     "a mendicant"
   ],
-  "sn51.27^initial_geographic_location": [
+  "sn51.27^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn51.27^where": "Sāvatthī"

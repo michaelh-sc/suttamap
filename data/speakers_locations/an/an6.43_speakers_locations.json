@@ -30,24 +30,24 @@
     "Māras",
     "Brahmās"
   ],
-  "an6.43:4.3^geographic_locations_here_and_before": [
+  "an6.43:4.3^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī",
     "Jetavana"
   ],
   "an6.43:4.3^speaker": "the Buddha",
-  "an6.43:4.3^where_here_and_before": [
+  "an6.43:4.3^where_before_or_around_this_segment": [
     "Sāvatthī in Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "an6.43:4.3^who_around_here_and_before": [
+  "an6.43:4.3^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "an6.43:4.3^who_mentioned_here_and_before": [
+  "an6.43:4.3^who_mentioned_before_or_around_this_segment": [
     "King Pasenadi",
     "White (the elephant)",
     "Udāyī"
   ],
-  "an6.43^initial_geographic_location": [
+  "an6.43^initial_location_dppn_headword": [
     "Sāvatthī",
     "Jetavana"
   ],

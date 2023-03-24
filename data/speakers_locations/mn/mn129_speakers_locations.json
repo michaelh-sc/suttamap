@@ -1,31 +1,31 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn129:1.4^speaker": "The Buddha",
+  "mn129:1.4^speaker": "the Buddha",
   "mn129:1.5^speaker": "the mendicants",
-  "mn129:2.1+mn129:7.4^speaker": "The Buddha",
+  "mn129:2.1+mn129:7.4^speaker": "the Buddha",
   "mn129:7.6^speaker": "one of the mendicants",
-  "mn129:8.1^speaker": "The Buddha",
-  "mn129:8.2+mn129:8.20^speaker": "The Buddha",
+  "mn129:8.1^speaker": "the Buddha",
+  "mn129:8.2+mn129:8.20^speaker": "the Buddha",
   "mn129:8.21^speaker": "one of the mendicants",
-  "mn129:9.2+mn129:9.3^speaker": "The Buddha",
+  "mn129:9.2+mn129:9.3^speaker": "the Buddha",
   "mn129:9.2+mn129:9.3^where_else_mentioned": [
     "Himalayas"
   ],
-  "mn129:9.4^geographic_locations_here_and_before": [
+  "mn129:9.4^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn129:9.4^speaker": "the mendicants",
   "mn129:9.4^where_else_mentioned": [
     "Himalayas"
   ],
-  "mn129:9.4^where_here_and_before": [
+  "mn129:9.4^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn129:9.4^who_around_here_and_before": [
+  "mn129:9.4^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn129:9.4^who_mentioned_here_and_before": [
+  "mn129:9.4^who_mentioned_before_or_around_this_segment": [
     "a bandit",
     "a criminal",
     "the king"
@@ -38,7 +38,7 @@
   "mn129:24.8+mn129:32.4^speaker": "the Buddha",
   "mn129:32.6^speaker": "one of the mendicants",
   "mn129:33.1^speaker": "the Buddha",
-  "mn129:33.1^who_mentioned_here_and_before": [
+  "mn129:33.1^who_mentioned_before_or_around_this_segment": [
     "That one-eyed turtle",
     "a fool who has fallen to the underworld"
   ],
@@ -59,14 +59,14 @@
     "Himalayas"
   ],
   "mn129:47.5+mn129:49.4^speaker": "the Buddha",
-  "mn129:47.5^who_around_here_and_before": [
+  "mn129:47.5^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn129:47.5^who_mentioned_here_and_before": [
+  "mn129:47.5^who_mentioned_before_or_around_this_segment": [
     "a wheel-turning monarch",
     "the Himalayas"
   ],
-  "mn129^initial_geographic_location": [
+  "mn129^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn129^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

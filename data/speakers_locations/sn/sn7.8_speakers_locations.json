@@ -11,22 +11,22 @@
   "sn7.8:8.1+sn7.8:9.4^who_else_mentioned": [
     "Buddhas"
   ],
-  "sn7.8:10.2^geographic_locations_here_and_before": [
+  "sn7.8:10.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn7.8:10.2^speaker": "Bhāradvāja the Fire-Worshiper",
-  "sn7.8:10.2^where_here_and_before": [
+  "sn7.8:10.2^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn7.8:10.2^who_around_here_and_before": [
-    "The Buddha"
+  "sn7.8:10.2^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
   "sn7.8:10.2^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.8^initial_geographic_location": [
+  "sn7.8^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn7.8^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

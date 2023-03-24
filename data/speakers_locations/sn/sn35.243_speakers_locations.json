@@ -19,14 +19,14 @@
   "sn35.243:3.9^speaker": "Mahāmoggallāna",
   "sn35.243:3.10^speaker": "the mendicants",
   "sn35.243:3.12+sn35.243:3.13^speaker": "Mahāmoggallāna",
-  "sn35.243:3.14^geographic_locations_here_and_before": [
+  "sn35.243:3.14^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
   "sn35.243:3.14^speaker": "Mahāmoggallāna",
-  "sn35.243:3.14^where_here_and_before": [
+  "sn35.243:3.14^where_before_or_around_this_segment": [
     "Kapilavatthu in the Banyan Tree Monastery"
   ],
-  "sn35.243:3.14^who_around_here_and_before": [
+  "sn35.243:3.14^who_present_before_or_around_this_segment": [
     "the Saṅgha of mendicants"
   ],
   "sn35.243:4.1+sn35.243:7.18^speaker": "Mahāmoggallāna",
@@ -37,10 +37,10 @@
   "sn35.243:8.2+sn35.243:8.3^who_else_mentioned": [
     "Moggallāna"
   ],
-  "sn35.243:8.2^who_around_here_and_before": [
+  "sn35.243:8.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn35.243^initial_geographic_location": [
+  "sn35.243^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "sn35.243^where": "Kapilavatthu in the Banyan Tree Monastery"

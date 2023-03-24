@@ -20,26 +20,26 @@
     "Saṅgha",
     "Buddha"
   ],
-  "sn7.1:10.3^geographic_locations_here_and_before": [
+  "sn7.1:10.3^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn7.1:10.3^speaker": "Bhāradvāja",
-  "sn7.1:10.3^where_here_and_before": [
+  "sn7.1:10.3^where_before_or_around_this_segment": [
     "Rājagaha",
     "Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn7.1:10.3^who_around_here_and_before": [
+  "sn7.1:10.3^who_present_before_or_around_this_segment": [
     "the Buddha",
     "the Saṅgha"
   ],
-  "sn7.1:10.3^who_mentioned_here_and_before": [
+  "sn7.1:10.3^who_mentioned_before_or_around_this_segment": [
     "Māras",
     "Brahmās",
     "gods",
     "humans"
   ],
-  "sn7.1^initial_geographic_location": [
+  "sn7.1^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn7.1^where": "Rājagaha, Bamboo Grove, the squirrels' feeding ground"

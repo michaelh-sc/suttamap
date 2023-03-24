@@ -6,16 +6,16 @@
     "Anuruddha"
   ],
   "sn52.2:4.1+sn52.2:7.4^speaker": "Anuruddha",
-  "sn52.2:4.1^geographic_locations_here_and_before": [
+  "sn52.2:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn52.2:4.1^where_here_and_before": [
+  "sn52.2:4.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn52.2:4.1^who_around_here_and_before": [
+  "sn52.2:4.1^who_present_before_or_around_this_segment": [
     "Mahāmoggallāna"
   ],
-  "sn52.2^initial_geographic_location": [
+  "sn52.2^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn52.2^where": "Sāvatthī"

@@ -4,10 +4,10 @@
   "an6.24:1.1+an6.24:1.4^where_else_mentioned": [
     "Himalaya"
   ],
-  "an6.24:1.1^who_around_here_and_before": [
+  "an6.24:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an6.24:1.1^who_mentioned_here_and_before": [
+  "an6.24:1.1^who_mentioned_before_or_around_this_segment": [
     "Himalaya",
     "the king of mountains"
   ]

@@ -24,7 +24,7 @@
     "the Buddha Vessabhū",
     "Koṇāgamana",
     "Kassapa",
-    "The Buddhas Vipassī",
+    "the Buddhas Vipassī",
     "Sikhī",
     "Vessabhū",
     "Koṇḍañña",
@@ -123,7 +123,7 @@
     "the Holy One",
     "Victor",
     "Flung",
-    "The Buddha Vipassī",
+    "the Buddha Vipassī",
     "Buddhas",
     "Saṅgha",
     "Wander",
@@ -138,17 +138,17 @@
     "Queen Māyā",
     "Atappa"
   ],
-  "dn14:1.16.1^geographic_locations_here_and_before": [
+  "dn14:1.16.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "dn14:1.16.1^where_here_and_before": [
+  "dn14:1.16.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "dn14:1.16.1^who_around_here_and_before": [
+  "dn14:1.16.1^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "dn14:1.16.1^who_mentioned_here_and_before": [
+  "dn14:1.16.1^who_mentioned_before_or_around_this_segment": [
     "deities"
   ],
   "dn14:3.4.3^speaker": "the Buddha Vipassī",
@@ -161,7 +161,7 @@
   "dn14:3.9.4^who_else_mentioned": [
     "Buddha"
   ],
-  "dn14^initial_geographic_location": [
+  "dn14^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "dn14^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

@@ -8,13 +8,13 @@
   ],
   "sn2.12:3.1^speaker": "the Buddha",
   "sn2.12:3.3+sn2.12:3.5^speaker": "the Buddha",
-  "sn2.12:3.3^where_here_and_before": [
+  "sn2.12:3.3^where_before_or_around_this_segment": [
     "the Buddha's presence"
   ],
-  "sn2.12:3.3^who_around_here_and_before": [
+  "sn2.12:3.3^who_present_before_or_around_this_segment": [
     "Vishnu"
   ],
-  "sn2.12:3.3^who_mentioned_here_and_before": [
+  "sn2.12:3.3^who_mentioned_before_or_around_this_segment": [
     "Manu"
   ],
   "sn2.12^where": "the Buddha's presence"

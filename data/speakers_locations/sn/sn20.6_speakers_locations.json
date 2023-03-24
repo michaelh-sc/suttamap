@@ -3,19 +3,19 @@
   "sn20.6:1.2+sn20.6:1.6^speaker": "the Buddha",
   "sn20.6:2.1+sn20.6:2.2^speaker": "the mendicants",
   "sn20.6:3.1+sn20.6:3.5^speaker": "the Buddha",
-  "sn20.6:3.1^geographic_locations_here_and_before": [
+  "sn20.6:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.6:3.1^where_here_and_before": [
+  "sn20.6:3.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.6:3.1^who_around_here_and_before": [
+  "sn20.6:3.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn20.6:3.1^who_mentioned_here_and_before": [
+  "sn20.6:3.1^who_mentioned_before_or_around_this_segment": [
     "Four well-trained expert archers"
   ],
-  "sn20.6^initial_geographic_location": [
+  "sn20.6^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn20.6^where": "Sāvatthī"

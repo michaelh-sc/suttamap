@@ -17,23 +17,23 @@
     "Gotama"
   ],
   "mn78:5.1+mn78:5.4^speaker": "Uggāhamāna",
-  "mn78:6.3^geographic_locations_here_and_before": [
+  "mn78:6.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn78:6.3^speaker": "Pañcakaṅga",
-  "mn78:6.3^where_here_and_before": [
+  "mn78:6.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Mallikā's single-halled monastery"
   ],
-  "mn78:6.3^who_around_here_and_before": [
+  "mn78:6.3^who_present_before_or_around_this_segment": [
     "Wanderers",
     "Mallikā"
   ],
   "mn78:6.3^who_else_mentioned": [
     "Buddha"
   ],
-  "mn78:6.3^who_mentioned_here_and_before": [
+  "mn78:6.3^who_mentioned_before_or_around_this_segment": [
     "Kings",
     "Bandits",
     "Ministers",
@@ -46,13 +46,13 @@
   "mn78:8.2+mn78:14.3^who_else_mentioned": [
     "Uggāhamāna"
   ],
-  "mn78:8.2^who_around_here_and_before": [
+  "mn78:8.2^who_present_before_or_around_this_segment": [
     "Uggāhamāna"
   ],
-  "mn78:8.2^who_mentioned_here_and_before": [
+  "mn78:8.2^who_mentioned_before_or_around_this_segment": [
     "a little baby boy"
   ],
-  "mn78^initial_geographic_location": [
+  "mn78^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn78^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Mallikā's single-halled monastery"

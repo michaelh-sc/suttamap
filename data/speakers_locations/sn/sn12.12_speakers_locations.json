@@ -1,31 +1,31 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn12.12:1.2+sn12.12:1.5^speaker": "The Buddha",
+  "sn12.12:1.2+sn12.12:1.5^speaker": "the Buddha",
   "sn12.12:2.2^speaker": "Phagguna of the Top-Knot",
-  "sn12.12:2.3^speaker": "The Buddha",
-  "sn12.12:2.4+sn12.12:2.11^speaker": "The Buddha",
+  "sn12.12:2.3^speaker": "the Buddha",
+  "sn12.12:2.4+sn12.12:2.11^speaker": "the Buddha",
   "sn12.12:3.1^speaker": "Phagguna of the Top-Knot",
-  "sn12.12:3.2^speaker": "The Buddha",
-  "sn12.12:3.3+sn12.12:3.10^speaker": "The Buddha",
+  "sn12.12:3.2^speaker": "the Buddha",
+  "sn12.12:3.3+sn12.12:3.10^speaker": "the Buddha",
   "sn12.12:4.1^speaker": "Phagguna of the Top-Knot",
-  "sn12.12:4.2^speaker": "The Buddha",
-  "sn12.12:4.3+sn12.12:4.10^speaker": "The Buddha",
+  "sn12.12:4.2^speaker": "the Buddha",
+  "sn12.12:4.3+sn12.12:4.10^speaker": "the Buddha",
   "sn12.12:5.1^speaker": "Phagguna of the Top-Knot",
-  "sn12.12:5.2^speaker": "The Buddha",
-  "sn12.12:5.3+sn12.12:5.10^speaker": "The Buddha",
+  "sn12.12:5.2^speaker": "the Buddha",
+  "sn12.12:5.3+sn12.12:5.10^speaker": "the Buddha",
   "sn12.12:6.1^speaker": "Phagguna of the Top-Knot",
-  "sn12.12:6.2^speaker": "The Buddha",
-  "sn12.12:6.3+sn12.12:7.8^speaker": "The Buddha",
-  "sn12.12:6.3^geographic_locations_here_and_before": [
+  "sn12.12:6.2^speaker": "the Buddha",
+  "sn12.12:6.3+sn12.12:7.8^speaker": "the Buddha",
+  "sn12.12:6.3^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.12:6.3^where_here_and_before": [
+  "sn12.12:6.3^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.12:6.3^who_around_here_and_before": [
+  "sn12.12:6.3^who_present_before_or_around_this_segment": [
     "Phagguna of the Top-Knot"
   ],
-  "sn12.12^initial_geographic_location": [
+  "sn12.12^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn12.12^where": "Sāvatthī"

@@ -1,50 +1,50 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "dn31:2.5^speaker": "The Buddha",
+  "dn31:2.5^speaker": "the Buddha",
   "dn31:2.7+dn31:2.10^speaker": "Sigālaka",
   "dn31:2.7+dn31:2.10^who_else_mentioned": [
     "Rājagaha"
   ],
-  "dn31:2.12^speaker": "The Buddha",
+  "dn31:2.12^speaker": "the Buddha",
   "dn31:2.13+dn31:2.14^speaker": "Sigālaka",
   "dn31:2.13+dn31:2.14^who_else_mentioned": [
     "the Noble One"
   ],
-  "dn31:2.15^speaker": "The Buddha",
+  "dn31:2.15^speaker": "the Buddha",
   "dn31:2.16^speaker": "Sigālaka",
-  "dn31:3.1+dn31:3.7^speaker": "The Buddha",
-  "dn31:4.1+dn31:4.4^speaker": "The Buddha",
+  "dn31:3.1+dn31:3.7^speaker": "the Buddha",
+  "dn31:4.1+dn31:4.4^speaker": "the Buddha",
   "dn31:5.1+dn31:5.4^speaker": "Sigālaka",
-  "dn31:6.1+dn31:6.8^speaker": "The Buddha",
+  "dn31:6.1+dn31:6.8^speaker": "the Buddha",
   "dn31:7.1+dn31:13.4^speaker": "Sigālaka",
-  "dn31:14.1+dn31:14.36^speaker": "The Buddha",
+  "dn31:14.1+dn31:14.36^speaker": "the Buddha",
   "dn31:15.1+dn31:19.3^speaker": "Sigālaka",
-  "dn31:20.1+dn31:20.8^speaker": "The Buddha",
+  "dn31:20.1+dn31:20.8^speaker": "the Buddha",
   "dn31:21.1+dn31:25.3^speaker": "Sigālaka",
-  "dn31:26.1+dn31:26.22^speaker": "The Buddha",
+  "dn31:26.1+dn31:26.22^speaker": "the Buddha",
   "dn31:27.1+dn31:33.6^speaker": "Sigālaka",
-  "dn31:34.1+dn31:34.34^speaker": "The Buddha",
+  "dn31:34.1+dn31:34.34^speaker": "the Buddha",
   "dn31:35.2+dn31:35.5^speaker": "Sigālaka",
   "dn31:35.2+dn31:35.5^who_else_mentioned": [
     "Buddha",
     "Saṅgha"
   ],
-  "dn31:35.2^geographic_locations_here_and_before": [
+  "dn31:35.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "dn31:35.2^where_here_and_before": [
+  "dn31:35.2^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "dn31:35.2^who_mentioned_here_and_before": [
+  "dn31:35.2^who_mentioned_before_or_around_this_segment": [
     "The householder's son",
     "the moon in the waxing fortnight",
     "four enemies disguised as friends",
     "four good-hearted friends",
     "parents"
   ],
-  "dn31^initial_geographic_location": [
+  "dn31^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "dn31^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

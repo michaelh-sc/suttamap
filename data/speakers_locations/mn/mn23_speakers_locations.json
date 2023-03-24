@@ -8,30 +8,30 @@
     "the Realized One"
   ],
   "mn23:3.10^speaker": "Kassapa the Prince",
-  "mn23:4.1+mn23:4.39^speaker": "The Buddha",
+  "mn23:4.1+mn23:4.39^speaker": "the Buddha",
   "mn23:4.1+mn23:4.39^who_else_mentioned": [
     "Buddha",
     "Sage",
     "Bullfrog"
   ],
-  "mn23:4.1^geographic_locations_here_and_before": [
+  "mn23:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn23:4.1^where_here_and_before": [
+  "mn23:4.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī",
     "Dark Forest"
   ],
-  "mn23:4.1^who_around_here_and_before": [
+  "mn23:4.1^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika's monastery"
   ],
-  "mn23:4.1^who_mentioned_here_and_before": [
+  "mn23:4.1^who_mentioned_before_or_around_this_segment": [
     "gods",
     "Māras",
     "Brahmās",
     "this population with its ascetics and brahmins and gods and humans"
   ],
-  "mn23^initial_geographic_location": [
+  "mn23^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn23^where": "Jeta's Grove, Sāvatthī, Dark Forest"

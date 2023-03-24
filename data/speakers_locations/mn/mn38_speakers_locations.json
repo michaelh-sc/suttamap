@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn38:2.2^speaker": "Sāti, the fisherman's son",
+  "mn38:2.2^speaker": "Sāti",
   "mn38:2.2^who_else_mentioned": [
     "Buddha"
   ],
@@ -74,15 +74,15 @@
   "mn38:10.6^speaker": "the mendicants",
   "mn38:11.1^speaker": "the Buddha",
   "mn38:11.2^speaker": "the mendicants",
-  "mn38:11.3^geographic_locations_here_and_before": [
+  "mn38:11.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn38:11.3^speaker": "the Buddha",
-  "mn38:11.3^where_here_and_before": [
+  "mn38:11.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī"
   ],
-  "mn38:11.3^who_around_here_and_before": [
+  "mn38:11.3^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika's monastery"
   ],
   "mn38:11.4^speaker": "the mendicants",
@@ -133,14 +133,14 @@
     "Māras",
     "Brahmās"
   ],
-  "mn38:25.1^who_around_here_and_before": [
+  "mn38:25.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn38:25.1^who_mentioned_here_and_before": [
+  "mn38:25.1^who_mentioned_before_or_around_this_segment": [
     "Sāti",
     "the fisherman's son"
   ],
-  "mn38^initial_geographic_location": [
+  "mn38^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn38^where": "Jeta's Grove, Sāvatthī"

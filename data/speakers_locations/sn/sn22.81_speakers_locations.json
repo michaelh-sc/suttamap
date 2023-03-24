@@ -8,34 +8,34 @@
   "sn22.81:3.5+sn22.81:3.6^who_else_mentioned": [
     "Buddha"
   ],
-  "sn22.81:4.4^geographic_locations_here_and_before": [
+  "sn22.81:4.4^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī",
     "Pālileyya"
   ],
   "sn22.81:4.4^speaker": "one of the monks",
-  "sn22.81:4.4^where_here_and_before": [
+  "sn22.81:4.4^where_before_or_around_this_segment": [
     "Kosambi",
     "Pārileyya"
   ],
-  "sn22.81:4.4^who_around_here_and_before": [
+  "sn22.81:4.4^who_present_before_or_around_this_segment": [
     "the Buddha",
     "Saṅgha"
   ],
-  "sn22.81:4.4^who_mentioned_here_and_before": [
+  "sn22.81:4.4^who_mentioned_before_or_around_this_segment": [
     "Ghosita"
   ],
   "sn22.81:4.6+sn22.81:12.19^speaker": "the Buddha",
-  "sn22.81:4.6^geographic_locations_here_and_before": [
+  "sn22.81:4.6^event_dppn_headwords_before_or_around_this_segment": [
     "Pālileyya"
   ],
-  "sn22.81:4.6^where_here_and_before": [
+  "sn22.81:4.6^where_before_or_around_this_segment": [
     "Pārileyya"
   ],
-  "sn22.81:4.6^who_around_here_and_before": [
+  "sn22.81:4.6^who_present_before_or_around_this_segment": [
     "Ānanda",
     "the mendicants"
   ],
-  "sn22.81^initial_geographic_location": [
+  "sn22.81^initial_location_dppn_headword": [
     "Kosambī",
     "Pālileyya"
   ],

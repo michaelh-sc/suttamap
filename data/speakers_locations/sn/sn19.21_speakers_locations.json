@@ -5,19 +5,19 @@
   "sn19.21:2.2+sn19.21:2.9^who_else_mentioned": [
     "Buddha Kassapa"
   ],
-  "sn19.21:2.2^geographic_locations_here_and_before": [
+  "sn19.21:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn19.21:2.2^where_here_and_before": [
+  "sn19.21:2.2^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain"
   ],
-  "sn19.21:2.2^who_around_here_and_before": [
+  "sn19.21:2.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn19.21:2.2^who_mentioned_here_and_before": [
+  "sn19.21:2.2^who_mentioned_before_or_around_this_segment": [
     "the novice nun"
   ],
-  "sn19.21^initial_geographic_location": [
+  "sn19.21^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn19.21^where": "Vulture's Peak Mountain"

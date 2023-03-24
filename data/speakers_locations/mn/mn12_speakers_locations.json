@@ -21,14 +21,14 @@
   "mn12:8.17^speaker": "the Buddha",
   "mn12:8.18^speaker": "the Buddha",
   "mn12:64.3+mn12:64.5^speaker": "Nāgasamāla",
-  "mn12:64.6^geographic_locations_here_and_before": [
+  "mn12:64.6^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
   "mn12:64.6^speaker": "the Buddha",
-  "mn12:64.6^where_here_and_before": [
+  "mn12:64.6^where_before_or_around_this_segment": [
     "Vesālī in a woodland grove behind the town"
   ],
-  "mn12:64.6^who_around_here_and_before": [
+  "mn12:64.6^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Nāgasamāla"
   ],
@@ -36,10 +36,10 @@
     "Nāgasamāla",
     "The Hair-raising"
   ],
-  "mn12:64.6^who_mentioned_here_and_before": [
+  "mn12:64.6^who_mentioned_before_or_around_this_segment": [
     "Sunakkhatta the Licchavi"
   ],
-  "mn12^initial_geographic_location": [
+  "mn12^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "mn12^where": "Vesālī in a woodland grove behind the town"

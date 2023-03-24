@@ -51,12 +51,12 @@
   "sn22.89:10.3^speaker": "senior mendicants",
   "sn22.89:10.4^speaker": "Khemaka",
   "sn22.89:10.5^speaker": "senior mendicants",
-  "sn22.89:10.5^where_here_and_before": [
+  "sn22.89:10.5^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery",
     "Jujube Tree Monastery"
   ],
-  "sn22.89:10.5^who_around_here_and_before": [
+  "sn22.89:10.5^who_present_before_or_around_this_segment": [
     "Dāsaka"
   ],
   "sn22.89:10.6+sn22.89:12.13^speaker": "Khemaka",
@@ -65,10 +65,10 @@
     "Khemaka",
     "Buddha"
   ],
-  "sn22.89:13.2^who_around_here_and_before": [
+  "sn22.89:13.2^who_present_before_or_around_this_segment": [
     "Khemaka"
   ],
-  "sn22.89^initial_geographic_location": [
+  "sn22.89^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "sn22.89^where": "Kosambi, in Ghosita's Monastery and Jujube Tree Monastery"

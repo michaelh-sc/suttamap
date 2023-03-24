@@ -56,15 +56,15 @@
   "mn22:8.9+mn22:13.2^who_else_mentioned": [
     "Ariṭṭha"
   ],
-  "mn22:13.3^geographic_locations_here_and_before": [
+  "mn22:13.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn22:13.3^speaker": "the mendicants",
-  "mn22:13.3^where_here_and_before": [
+  "mn22:13.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn22:13.3^who_around_here_and_before": [
+  "mn22:13.3^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika",
     "Ariṭtha",
     "the monk"
@@ -116,7 +116,7 @@
   ],
   "mn22:41.16+mn22:41.18^speaker": "the mendicants",
   "mn22:41.19+mn22:47.2^speaker": "the Buddha",
-  "mn22^initial_geographic_location": [
+  "mn22^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn22^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

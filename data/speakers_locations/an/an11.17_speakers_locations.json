@@ -4,10 +4,10 @@
   "an11.17:1.1+an11.17:28.1^who_else_mentioned": [
     "Saṅgha"
   ],
-  "an11.17:1.1^who_around_here_and_before": [
+  "an11.17:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an11.17:1.1^who_mentioned_here_and_before": [
+  "an11.17:1.1^who_mentioned_before_or_around_this_segment": [
     "Cowherd"
   ]
 }

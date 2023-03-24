@@ -11,19 +11,19 @@
     "Buddha",
     "Saṅgha"
   ],
-  "sn55.19:3.1^geographic_locations_here_and_before": [
+  "sn55.19:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn55.19:3.1^where_here_and_before": [
+  "sn55.19:3.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn55.19:3.1^who_around_here_and_before": [
+  "sn55.19:3.1^who_present_before_or_around_this_segment": [
     "the deities of the company of the Thirty-Three"
   ],
-  "sn55.19:3.1^who_mentioned_here_and_before": [
+  "sn55.19:3.1^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn55.19^initial_geographic_location": [
+  "sn55.19^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn55.19^where": "Sāvatthī"

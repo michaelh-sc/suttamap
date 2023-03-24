@@ -59,20 +59,20 @@
   "mn88:17.1^who_else_mentioned": [
     "Buddha"
   ],
-  "mn88:17.2^geographic_locations_here_and_before": [
+  "mn88:17.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī",
     "Jetavana"
   ],
   "mn88:17.2^speaker": "Ānanda",
-  "mn88:17.2^where_here_and_before": [
+  "mn88:17.2^where_before_or_around_this_segment": [
     "Sāvatthī in Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn88:17.2^who_around_here_and_before": [
+  "mn88:17.2^who_present_before_or_around_this_segment": [
     "Sirivaḍḍha",
     "man"
   ],
-  "mn88:17.2^who_mentioned_here_and_before": [
+  "mn88:17.2^who_mentioned_before_or_around_this_segment": [
     "Migāra's mother"
   ],
   "mn88:18.1+mn88:18.11^speaker": "King Pasenadi of Kosala",
@@ -90,15 +90,15 @@
   ],
   "mn88:20.3+mn88:20.4^speaker": "King Pasenadi of Kosala",
   "mn88:20.5^speaker": "Ānanda",
-  "mn88:22.2+mn88:22.3^speaker": "The Buddha",
+  "mn88:22.2+mn88:22.3^speaker": "the Buddha",
   "mn88:22.2+mn88:22.3^who_else_mentioned": [
     "King Pasenadi"
   ],
-  "mn88:22.2^who_around_here_and_before": [
-    "The Buddha",
+  "mn88:22.2^who_present_before_or_around_this_segment": [
+    "the Buddha",
     "mendicants"
   ],
-  "mn88^initial_geographic_location": [
+  "mn88^initial_location_dppn_headword": [
     "Sāvatthī",
     "Jetavana"
   ],

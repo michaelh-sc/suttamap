@@ -5,13 +5,13 @@
   "sn23.17:1.5+sn23.17:1.7^who_else_mentioned": [
     "Rādha"
   ],
-  "sn23.17:1.5^geographic_locations_here_and_before": [
+  "sn23.17:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn23.17:1.5^where_here_and_before": [
+  "sn23.17:1.5^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn23.17^initial_geographic_location": [
+  "sn23.17^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn23.17^where": "Sāvatthī"

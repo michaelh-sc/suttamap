@@ -6,16 +6,16 @@
     "Buddha",
     "Vipassī"
   ],
-  "sn12.4:1.2^geographic_locations_here_and_before": [
+  "sn12.4:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.4:1.2^where_here_and_before": [
+  "sn12.4:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.4:1.2^who_mentioned_here_and_before": [
+  "sn12.4:1.2^who_mentioned_before_or_around_this_segment": [
     "The seven Buddhas"
   ],
-  "sn12.4^initial_geographic_location": [
+  "sn12.4^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn12.4^where": "Sāvatthī"

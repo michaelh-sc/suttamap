@@ -64,26 +64,26 @@
     "the Wicked One",
     "Māra"
   ],
-  "mn26:4.10^geographic_locations_here_and_before": [
+  "mn26:4.10^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn26:4.10^where_here_and_before": [
+  "mn26:4.10^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "the Eastern Monastery",
     "the stilt longhouse of Migāra's mother",
     "the brahmin Rammaka's hermitage"
   ],
-  "mn26:4.10^who_around_here_and_before": [
+  "mn26:4.10^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "mn26:4.10^who_mentioned_here_and_before": [
+  "mn26:4.10^who_mentioned_before_or_around_this_segment": [
     "Āḷāra Kālāma",
     "Rāma"
   ],
   "mn26:15.9^speaker": "Āḷāra Kālāma",
   "mn26:16.9^speaker": "Rāma",
-  "mn26^initial_geographic_location": [
+  "mn26^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn26^where": "Jeta's Grove, Anāthapiṇḍika's monastery, the Eastern Monastery, the stilt longhouse of Migāra's mother, the brahmin Rammaka's hermitage"

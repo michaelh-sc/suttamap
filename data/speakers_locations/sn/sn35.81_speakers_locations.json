@@ -9,10 +9,10 @@
   "sn35.81:2.1+sn35.81:2.14^who_else_mentioned": [
     "Buddha"
   ],
-  "sn35.81:2.1^who_around_here_and_before": [
+  "sn35.81:2.1^who_present_before_or_around_this_segment": [
     "the Buddha (assumed)"
   ],
-  "sn35.81:2.1^who_mentioned_here_and_before": [
+  "sn35.81:2.1^who_mentioned_before_or_around_this_segment": [
     "wanderers who follow other paths"
   ]
 }

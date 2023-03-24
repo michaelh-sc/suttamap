@@ -1,8 +1,8 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn15.20:1.3^speaker": "The Buddha",
+  "sn15.20:1.3^speaker": "the Buddha",
   "sn15.20:1.4^speaker": "The mendicants",
-  "sn15.20:2.1+sn15.20:5.12^speaker": "The Buddha",
+  "sn15.20:2.1+sn15.20:5.12^speaker": "the Buddha",
   "sn15.20:2.1+sn15.20:5.12^where_else_mentioned": [
     "Mount Vepulla",
     "Vaṅkaka",
@@ -28,7 +28,7 @@
     "Sāriputta",
     "Moggallāna"
   ],
-  "sn15.20:7.1+sn15.20:8.4^speaker": "The Buddha",
+  "sn15.20:7.1+sn15.20:8.4^speaker": "the Buddha",
   "sn15.20:7.1+sn15.20:8.4^who_else_mentioned": [
     "Tivaras",
     "Supassa",
@@ -36,23 +36,21 @@
     "Vepulla",
     "Magadhans"
   ],
-  "sn15.20:7.1^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "sn15.20:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn15.20:7.1^where_here_and_before": [
+  "sn15.20:7.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "Vulture's Peak Mountain"
   ],
-  "sn15.20:7.1^who_around_here_and_before": [
+  "sn15.20:7.1^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "sn15.20:7.1^who_mentioned_here_and_before": [
+  "sn15.20:7.1^who_mentioned_before_or_around_this_segment": [
     "Pācīnavaṁsa",
     "Tivaras"
   ],
-  "sn15.20^initial_geographic_location": [
-    "Rājagaha",
+  "sn15.20^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn15.20^where": "Rājagaha, Vulture's Peak Mountain"

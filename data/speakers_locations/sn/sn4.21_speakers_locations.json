@@ -10,19 +10,19 @@
     "Māra"
   ],
   "sn4.21:4.1+sn4.21:4.4^speaker": "the Buddha",
-  "sn4.21:4.1^geographic_locations_here_and_before": [
+  "sn4.21:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Silāvatī"
   ],
-  "sn4.21:4.1^where_here_and_before": [
+  "sn4.21:4.1^where_before_or_around_this_segment": [
     "the land of the Sakyans near Silāvatī"
   ],
-  "sn4.21:4.1^who_around_here_and_before": [
+  "sn4.21:4.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn4.21:4.1^who_mentioned_here_and_before": [
+  "sn4.21:4.1^who_mentioned_before_or_around_this_segment": [
     "Māra the Wicked"
   ],
-  "sn4.21^initial_geographic_location": [
+  "sn4.21^initial_location_dppn_headword": [
     "Silāvatī"
   ],
   "sn4.21^where": "the land of the Sakyans near Silāvatī"

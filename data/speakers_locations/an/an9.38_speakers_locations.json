@@ -9,10 +9,10 @@
   "an9.38:3.1+an9.38:3.5^speaker": "the Buddha",
   "an9.38:3.6^speaker": "the brahmins",
   "an9.38:4.1+an9.38:10.2^speaker": "the Buddha",
-  "an9.38:4.1^who_around_here_and_before": [
+  "an9.38:4.1^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "an9.38:4.1^who_mentioned_here_and_before": [
+  "an9.38:4.1^who_mentioned_before_or_around_this_segment": [
     "Pūraṇa Kassapa"
   ]
 }

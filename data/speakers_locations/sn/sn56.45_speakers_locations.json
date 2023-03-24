@@ -13,16 +13,16 @@
   "sn56.45:3.5+sn56.45:4.1^who_else_mentioned": [
     "Ānanda"
   ],
-  "sn56.45:3.5^geographic_locations_here_and_before": [
+  "sn56.45:3.5^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "sn56.45:3.5^where_here_and_before": [
+  "sn56.45:3.5^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "sn56.45:3.5^who_around_here_and_before": [
+  "sn56.45:3.5^who_present_before_or_around_this_segment": [
     "Licchavi youths"
   ],
-  "sn56.45^initial_geographic_location": [
+  "sn56.45^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "sn56.45^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

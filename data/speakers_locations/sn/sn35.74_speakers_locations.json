@@ -27,14 +27,14 @@
   "sn35.74:18.1+sn35.74:18.2^speaker": "the Buddha",
   "sn35.74:19.1^speaker": "the mendicant",
   "sn35.74:20.1+sn35.74:20.3^speaker": "the Buddha",
-  "sn35.74:21.4^geographic_locations_here_and_before": [
+  "sn35.74:21.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn35.74:21.4^speaker": "the mendicant",
-  "sn35.74:21.4^where_here_and_before": [
+  "sn35.74:21.4^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn35.74^initial_geographic_location": [
+  "sn35.74^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn35.74^where": "Sāvatthī"

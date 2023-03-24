@@ -13,16 +13,13 @@
     "Sajjha",
     "Buddha"
   ],
-  "an9.8:3.1^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "an9.8:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "an9.8:3.1^where_here_and_before": [
-    "Rājagaha",
-    "on the Vulture's Peak Mountain"
+  "an9.8:3.1^where_before_or_around_this_segment": [
+    "Rājagaha on the Vulture's Peak Mountain"
   ],
-  "an9.8^initial_geographic_location": [
-    "Rājagaha",
+  "an9.8^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "an9.8^where": "Rājagaha, on the Vulture's Peak Mountain"

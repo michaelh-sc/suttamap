@@ -4,20 +4,20 @@
   "sn10.11:2.1+sn10.11:2.4^who_else_mentioned": [
     "Cīrā"
   ],
-  "sn10.11:2.1^geographic_locations_here_and_before": [
+  "sn10.11:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn10.11:2.1^where_here_and_before": [
+  "sn10.11:2.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn10.11:2.1^who_around_here_and_before": [
+  "sn10.11:2.1^who_present_before_or_around_this_segment": [
     "the Buddha",
     "the nun Cīrā",
     "a certain lay follower"
   ],
-  "sn10.11^initial_geographic_location": [
+  "sn10.11^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn10.11^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

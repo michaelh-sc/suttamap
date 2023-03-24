@@ -7,18 +7,18 @@
     "Māra"
   ],
   "sn5.3:5.1+sn5.3:6.4^speaker": "Kisāgotamī",
-  "sn5.3:7.1^geographic_locations_here_and_before": [
+  "sn5.3:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn5.3:7.1^speaker": "Māra the Wicked",
-  "sn5.3:7.1^where_here_and_before": [
+  "sn5.3:7.1^where_before_or_around_this_segment": [
     "Sāvatthī",
     "Dark Forest"
   ],
   "sn5.3:7.1^who_else_mentioned": [
     "Kisāgotamī"
   ],
-  "sn5.3^initial_geographic_location": [
+  "sn5.3^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn5.3^where": "Sāvatthī, Dark Forest"

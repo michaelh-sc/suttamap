@@ -8,17 +8,17 @@
   ],
   "an4.159:9.2+an4.159:9.3^speaker": "the nun",
   "an4.159:9.4+an4.159:9.6^speaker": "Ānanda",
-  "an4.159:9.4^geographic_locations_here_and_before": [
+  "an4.159:9.4^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "an4.159:9.4^where_here_and_before": [
+  "an4.159:9.4^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "an4.159:9.4^who_around_here_and_before": [
+  "an4.159:9.4^who_present_before_or_around_this_segment": [
     "Ghosita"
   ],
-  "an4.159^initial_geographic_location": [
+  "an4.159^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "an4.159^where": "Kosambi, in Ghosita's Monastery"

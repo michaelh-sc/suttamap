@@ -13,13 +13,16 @@
     "Buddha"
   ],
   "an8.22:3.5^speaker": "the mendicant",
-  "an8.22:3.5^where_here_and_before": [
+  "an8.22:3.5^event_dppn_headwords_before_or_around_this_segment": [
+    "Vajjī"
+  ],
+  "an8.22:3.5^where_before_or_around_this_segment": [
     "the land of the Vajjis at the village of Hatthi"
   ],
-  "an8.22:3.5^who_around_here_and_before": [
+  "an8.22:3.5^who_present_before_or_around_this_segment": [
     "the mendicant"
   ],
-  "an8.22:3.5^who_mentioned_here_and_before": [
+  "an8.22:3.5^who_mentioned_before_or_around_this_segment": [
     "Ugga of Hatthi"
   ],
   "an8.22:3.7+an8.22:11.3^speaker": "Ugga of Hatthi",
@@ -38,11 +41,12 @@
     "Ugga",
     "Ugga of Hatthi"
   ],
-  "an8.22:13.1^where_here_and_before": [
+  "an8.22:13.1^where_before_or_around_this_segment": [
     "Dragon's Park"
   ],
-  "an8.22:13.1^who_around_here_and_before": [
+  "an8.22:13.1^who_present_before_or_around_this_segment": [
     "the mendicant"
   ],
+  "an8.22^initial_location_dppn_headword": "Vajjī",
   "an8.22^where": "the land of the Vajjis at the village of Hatthi"
 }

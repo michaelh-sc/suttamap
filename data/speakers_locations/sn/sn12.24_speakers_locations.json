@@ -31,20 +31,20 @@
     "Ānanda",
     "Grasping"
   ],
-  "sn12.24:18.2^geographic_locations_here_and_before": [
+  "sn12.24:18.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn12.24:18.2^where_here_and_before": [
+  "sn12.24:18.2^where_before_or_around_this_segment": [
     "Near Rājagaha in the Bamboo Grove"
   ],
-  "sn12.24:18.2^who_around_here_and_before": [
+  "sn12.24:18.2^who_present_before_or_around_this_segment": [
     "the wanderers"
   ],
-  "sn12.24:18.2^who_mentioned_here_and_before": [
+  "sn12.24:18.2^who_mentioned_before_or_around_this_segment": [
     "ascetics",
     "brahmins"
   ],
-  "sn12.24^initial_geographic_location": [
+  "sn12.24^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn12.24^where": "Near Rājagaha, in the Bamboo Grove"

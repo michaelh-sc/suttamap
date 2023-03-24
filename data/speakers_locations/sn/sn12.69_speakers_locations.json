@@ -1,17 +1,17 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn12.69:1.4+sn12.69:2.2^speaker": "The Buddha",
-  "sn12.69:1.4^geographic_locations_here_and_before": [
+  "sn12.69:1.4+sn12.69:2.2^speaker": "the Buddha",
+  "sn12.69:1.4^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn12.69:1.4^where_here_and_before": [
+  "sn12.69:1.4^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "sn12.69:1.4^who_around_here_and_before": [
+  "sn12.69:1.4^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "sn12.69^initial_geographic_location": [
+  "sn12.69^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn12.69^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

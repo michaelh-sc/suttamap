@@ -5,29 +5,29 @@
     "Gotama"
   ],
   "sn4.12:3.1+sn4.12:3.4^speaker": "Māra the Wicked",
-  "sn4.12:4.1+sn4.12:4.4^speaker": "The Buddha",
+  "sn4.12:4.1+sn4.12:4.4^speaker": "the Buddha",
   "sn4.12:4.1+sn4.12:4.4^who_else_mentioned": [
     "The Realized One"
   ],
-  "sn4.12:5.1^geographic_locations_here_and_before": [
+  "sn4.12:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "sn4.12:5.1^speaker": "Māra the Wicked",
-  "sn4.12:5.1^where_here_and_before": [
+  "sn4.12:5.1^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "sn4.12:5.1^who_around_here_and_before": [
-    "The Buddha",
+  "sn4.12:5.1^who_present_before_or_around_this_segment": [
+    "the Buddha",
     "a large assembly"
   ],
   "sn4.12:5.1^who_else_mentioned": [
     "Buddha",
     "The Holy One"
   ],
-  "sn4.12:5.1^who_mentioned_here_and_before": [
+  "sn4.12:5.1^who_mentioned_before_or_around_this_segment": [
     "Great heroes"
   ],
-  "sn4.12^initial_geographic_location": [
+  "sn4.12^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn4.12^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

@@ -8,22 +8,22 @@
   "an4.22:1.1+an4.22:8.4^who_else_mentioned": [
     "Gotama"
   ],
-  "an4.22:1.5^geographic_locations_here_and_before": [
+  "an4.22:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Uruvelā"
   ],
   "an4.22:1.5^speaker": "the Buddha (assumed)",
-  "an4.22:1.5^where_here_and_before": [
+  "an4.22:1.5^where_before_or_around_this_segment": [
     "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River"
   ],
   "an4.22:1.5^who_else_mentioned": [
     "Gotama"
   ],
-  "an4.22:1.5^who_mentioned_here_and_before": [
+  "an4.22:1.5^who_mentioned_before_or_around_this_segment": [
     "old brahmins",
     "elderly brahmins",
     "senior brahmins"
   ],
-  "an4.22^initial_geographic_location": [
+  "an4.22^initial_location_dppn_headword": [
     "Uruvelā"
   ],
   "an4.22^where": "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River"

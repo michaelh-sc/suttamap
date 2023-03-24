@@ -1,24 +1,24 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn39:1.4^speaker": "The Buddha",
-  "mn39:1.5^geographic_locations_here_and_before": [
+  "mn39:1.4^speaker": "the Buddha",
+  "mn39:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Assapura"
   ],
   "mn39:1.5^speaker": "The mendicants",
-  "mn39:1.5^where_here_and_before": [
+  "mn39:1.5^where_before_or_around_this_segment": [
     "The land of the Aṅgas near the Aṅgan town named Assapura"
   ],
-  "mn39:2.1+mn39:29.3^speaker": "The Buddha",
-  "mn39:2.1^geographic_locations_here_and_before": [
+  "mn39:2.1+mn39:29.3^speaker": "the Buddha",
+  "mn39:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Assapura"
   ],
-  "mn39:2.1^where_here_and_before": [
+  "mn39:2.1^where_before_or_around_this_segment": [
     "The land of the Aṅgas near the Aṅgan town named Assapura"
   ],
-  "mn39:2.1^who_around_here_and_before": [
+  "mn39:2.1^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "mn39^initial_geographic_location": [
+  "mn39^initial_location_dppn_headword": [
     "Assapura"
   ],
   "mn39^where": "The land of the Aṅgas, near the Aṅgan town named Assapura."

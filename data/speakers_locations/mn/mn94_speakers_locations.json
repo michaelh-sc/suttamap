@@ -18,11 +18,11 @@
     "Udena"
   ],
   "mn94:9.1^speaker": "Udena",
-  "mn94:9.2^geographic_locations_here_and_before": [
+  "mn94:9.2^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī"
   ],
   "mn94:9.2^speaker": "Ghoṭamukha",
-  "mn94:9.2^where_here_and_before": [
+  "mn94:9.2^where_before_or_around_this_segment": [
     "Khemiya Mango Grove near Benares"
   ],
   "mn94:10.1+mn94:30.2^speaker": "Udena",
@@ -76,17 +76,17 @@
     "Saṅgha"
   ],
   "mn94:33.10^speaker": "Udena",
-  "mn94:33.10^where_here_and_before": [
+  "mn94:33.10^where_before_or_around_this_segment": [
     "Pāṭaliputta"
   ],
   "mn94:33.10^who_else_mentioned": [
     "Ghoṭamukhī"
   ],
-  "mn94:33.10^who_mentioned_here_and_before": [
-    "The Buddha",
+  "mn94:33.10^who_mentioned_before_or_around_this_segment": [
+    "the Buddha",
     "the king of Aṅga"
   ],
-  "mn94^initial_geographic_location": [
+  "mn94^initial_location_dppn_headword": [
     "Bārānasī"
   ],
   "mn94^where": "Khemiya Mango Grove near Benares"

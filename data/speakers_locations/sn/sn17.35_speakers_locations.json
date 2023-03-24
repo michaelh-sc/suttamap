@@ -5,22 +5,19 @@
     "Devadatta"
   ],
   "sn17.35:7.1+sn17.35:7.4^speaker": "the Holy One, the Teacher",
-  "sn17.35:7.1^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "sn17.35:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn17.35:7.1^where_here_and_before": [
-    "Rājagaha",
-    "on the Vulture's Peak Mountain"
+  "sn17.35:7.1^where_before_or_around_this_segment": [
+    "Rājagaha on the Vulture's Peak Mountain"
   ],
-  "sn17.35:7.1^who_around_here_and_before": [
+  "sn17.35:7.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn17.35:7.1^who_mentioned_here_and_before": [
+  "sn17.35:7.1^who_mentioned_before_or_around_this_segment": [
     "Devadatta"
   ],
-  "sn17.35^initial_geographic_location": [
-    "Rājagaha",
+  "sn17.35^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn17.35^where": "Rājagaha, on the Vulture's Peak Mountain"

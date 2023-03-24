@@ -7,19 +7,19 @@
   "sn16.9:1.2+sn16.9:15.2^who_else_mentioned": [
     "Kassapa"
   ],
-  "sn16.9:1.2^geographic_locations_here_and_before": [
+  "sn16.9:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn16.9:1.2^where_here_and_before": [
+  "sn16.9:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn16.9:1.2^who_around_here_and_before": [
+  "sn16.9:1.2^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn16.9:1.2^who_mentioned_here_and_before": [
+  "sn16.9:1.2^who_mentioned_before_or_around_this_segment": [
     "Kassapa"
   ],
-  "sn16.9^initial_geographic_location": [
+  "sn16.9^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn16.9^where": "Sāvatthī"

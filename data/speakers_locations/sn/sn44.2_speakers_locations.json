@@ -51,14 +51,14 @@
   "sn44.2:17.4+sn44.2:17.5^who_else_mentioned": [
     "Anurādha"
   ],
-  "sn44.2:17.6^geographic_locations_here_and_before": [
+  "sn44.2:17.6^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
   "sn44.2:17.6^speaker": "Anurādha",
-  "sn44.2:17.6^where_here_and_before": [
+  "sn44.2:17.6^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "sn44.2:17.6^who_around_here_and_before": [
+  "sn44.2:17.6^who_present_before_or_around_this_segment": [
     "wanderers"
   ],
   "sn44.2:17.7+sn44.2:17.9^speaker": "the Buddha",
@@ -68,10 +68,10 @@
   ],
   "sn44.2:17.11^speaker": "Anurādha",
   "sn44.2:17.12+sn44.2:17.13^speaker": "the Buddha",
-  "sn44.2:17.12^who_around_here_and_before": [
+  "sn44.2:17.12^who_present_before_or_around_this_segment": [
     "Anurādha"
   ],
-  "sn44.2^initial_geographic_location": [
+  "sn44.2^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "sn44.2^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

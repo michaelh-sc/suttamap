@@ -5,13 +5,13 @@
   "sn18.22:1.4+sn18.22:2.5^who_else_mentioned": [
     "Rāhula"
   ],
-  "sn18.22:1.4^geographic_locations_here_and_before": [
+  "sn18.22:1.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn18.22:1.4^where_here_and_before": [
+  "sn18.22:1.4^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn18.22^initial_geographic_location": [
+  "sn18.22^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn18.22^where": "Sāvatthī"

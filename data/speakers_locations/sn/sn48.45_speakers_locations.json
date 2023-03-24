@@ -1,21 +1,21 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn48.45:1.5^speaker": "a mendicant",
-  "sn48.45:2.1^geographic_locations_here_and_before": [
+  "sn48.45:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn48.45:2.1^speaker": "the Buddha (assumed)",
-  "sn48.45:2.1^where_here_and_before": [
+  "sn48.45:2.1^where_before_or_around_this_segment": [
     "Sāvatthī in the Eastern Monastery",
     "the stilt longhouse of Migāra's mother"
   ],
-  "sn48.45:2.1^who_around_here_and_before": [
+  "sn48.45:2.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "sn48.45:2.1^who_else_mentioned": [
     "Buddha"
   ],
-  "sn48.45^initial_geographic_location": [
+  "sn48.45^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn48.45^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"

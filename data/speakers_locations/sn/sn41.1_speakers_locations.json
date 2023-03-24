@@ -12,16 +12,16 @@
   "sn41.1:4.19+sn41.1:4.20^who_else_mentioned": [
     "Buddha"
   ],
-  "sn41.1:4.19^geographic_locations_here_and_before": [
+  "sn41.1:4.19^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
-  "sn41.1:4.19^where_here_and_before": [
+  "sn41.1:4.19^where_before_or_around_this_segment": [
     "Macchikāsaṇḍa in the Wild Mango Grove"
   ],
-  "sn41.1:4.19^who_around_here_and_before": [
+  "sn41.1:4.19^who_present_before_or_around_this_segment": [
     "senior mendicants"
   ],
-  "sn41.1^initial_geographic_location": [
+  "sn41.1^initial_location_dppn_headword": [
     "Macchikāsaṇḍa"
   ],
   "sn41.1^where": "Macchikāsaṇḍa in the Wild Mango Grove"

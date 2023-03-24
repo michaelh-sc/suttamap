@@ -20,18 +20,18 @@
   "sn22.123:4.2+sn22.123:4.4^who_else_mentioned": [
     "Koṭṭhita"
   ],
-  "sn22.123:4.2^geographic_locations_here_and_before": [
+  "sn22.123:4.2^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn22.123:4.2^where_here_and_before": [
+  "sn22.123:4.2^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "sn22.123:4.2^who_around_here_and_before": [
+  "sn22.123:4.2^who_present_before_or_around_this_segment": [
     "Mahākoṭṭhita"
   ],
-  "sn22.123^initial_geographic_location": [
+  "sn22.123^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

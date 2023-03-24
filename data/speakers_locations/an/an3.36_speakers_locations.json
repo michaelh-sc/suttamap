@@ -12,10 +12,10 @@
   "an3.36:4.3^speaker": "the Buddha (assumed)",
   "an3.36:7.3^speaker": "the Buddha (assumed)",
   "an3.36:11.3^speaker": "the Buddha (assumed)",
-  "an3.36:11.3^who_around_here_and_before": [
+  "an3.36:11.3^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an3.36:11.3^who_mentioned_here_and_before": [
+  "an3.36:11.3^who_mentioned_before_or_around_this_segment": [
     "Three messengers of the gods"
   ]
 }

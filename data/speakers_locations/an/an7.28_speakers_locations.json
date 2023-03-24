@@ -4,18 +4,18 @@
   "an7.28:1.4+an7.28:2.5^who_else_mentioned": [
     "Saṅgha"
   ],
-  "an7.28:1.4^geographic_locations_here_and_before": [
+  "an7.28:1.4^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an7.28:1.4^where_here_and_before": [
+  "an7.28:1.4^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "an7.28:1.4^who_around_here_and_before": [
+  "an7.28:1.4^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an7.28^initial_geographic_location": [
+  "an7.28^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an7.28^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

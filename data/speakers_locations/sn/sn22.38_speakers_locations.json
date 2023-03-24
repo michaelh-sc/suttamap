@@ -9,16 +9,16 @@
     "Ānanda"
   ],
   "sn22.38:5.1+sn22.38:7.9^speaker": "the Buddha",
-  "sn22.38:5.1^geographic_locations_here_and_before": [
+  "sn22.38:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.38:5.1^where_here_and_before": [
+  "sn22.38:5.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.38:5.1^who_around_here_and_before": [
+  "sn22.38:5.1^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "sn22.38^initial_geographic_location": [
+  "sn22.38^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.38^where": "Sāvatthī"

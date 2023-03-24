@@ -1,10 +1,10 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn64:1.4^speaker": "The Buddha",
+  "mn64:1.4^speaker": "the Buddha",
   "mn64:1.5^speaker": "the mendicants",
-  "mn64:2.1^speaker": "The Buddha",
+  "mn64:2.1^speaker": "the Buddha",
   "mn64:2.3^speaker": "Māluṅkyaputta",
-  "mn64:2.4^speaker": "The Buddha",
+  "mn64:2.4^speaker": "the Buddha",
   "mn64:2.5+mn64:2.10^speaker": "Māluṅkyaputta",
   "mn64:2.5+mn64:2.10^who_else_mentioned": [
     "Buddha"
@@ -14,36 +14,36 @@
   "mn64:4.2+mn64:4.3^who_else_mentioned": [
     "Buddha"
   ],
-  "mn64:4.4^speaker": "The Buddha",
+  "mn64:4.4^speaker": "the Buddha",
   "mn64:4.4^who_else_mentioned": [
     "Ānanda"
   ],
-  "mn64:4.5^geographic_locations_here_and_before": [
+  "mn64:4.5^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn64:4.5^speaker": "Ānanda",
-  "mn64:4.5^where_here_and_before": [
+  "mn64:4.5^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn64:4.5^who_around_here_and_before": [
+  "mn64:4.5^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "mn64:4.5^who_mentioned_here_and_before": [
+  "mn64:4.5^who_mentioned_before_or_around_this_segment": [
     "wanderers who follow other paths"
   ],
-  "mn64:5.1+mn64:15.5^speaker": "The Buddha",
+  "mn64:5.1+mn64:15.5^speaker": "the Buddha",
   "mn64:5.1+mn64:15.5^where_else_mentioned": [
     "Ganges"
   ],
   "mn64:16.1^speaker": "Ānanda",
-  "mn64:16.2^speaker": "The Buddha",
-  "mn64:16.2^who_mentioned_here_and_before": [
+  "mn64:16.2^speaker": "the Buddha",
+  "mn64:16.2^who_mentioned_before_or_around_this_segment": [
     "Uneducated ordinary person",
     "noble ones",
     "good persons"
   ],
-  "mn64^initial_geographic_location": [
+  "mn64^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn64^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

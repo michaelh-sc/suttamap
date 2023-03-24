@@ -7,7 +7,7 @@
   "an5.56:5.2^speaker": "the mendicant",
   "an5.56:5.4+an5.56:5.5^speaker": "the mendicant's pupil",
   "an5.56:6.1+an5.56:6.4^speaker": "the Buddha",
-  "an5.56:6.1^who_around_here_and_before": [
+  "an5.56:6.1^who_present_before_or_around_this_segment": [
     "the mendicant's mentor"
   ]
 }

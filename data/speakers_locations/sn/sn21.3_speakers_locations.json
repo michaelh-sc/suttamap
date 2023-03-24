@@ -41,22 +41,22 @@
     "Sāriputta",
     "Buddha"
   ],
-  "sn21.3:5.1^geographic_locations_here_and_before": [
+  "sn21.3:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn21.3:5.1^where_here_and_before": [
+  "sn21.3:5.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn21.3:5.1^who_around_here_and_before": [
-    "The Buddha"
+  "sn21.3:5.1^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "sn21.3:5.1^who_mentioned_here_and_before": [
+  "sn21.3:5.1^who_mentioned_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "sn21.3^initial_geographic_location": [
+  "sn21.3^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn21.3^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Bamboo Grove, the squirrels' feeding ground"

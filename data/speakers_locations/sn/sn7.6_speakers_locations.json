@@ -5,20 +5,20 @@
     "Gotama"
   ],
   "sn7.6:3.1+sn7.6:5.4^speaker": "the Buddha",
-  "sn7.6:6.2^geographic_locations_here_and_before": [
+  "sn7.6:6.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn7.6:6.2^speaker": "Bhāradvāja of the Matted Hair",
-  "sn7.6:6.2^where_here_and_before": [
+  "sn7.6:6.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn7.6:6.2^who_around_here_and_before": [
+  "sn7.6:6.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "sn7.6:6.2^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.6^initial_geographic_location": [
+  "sn7.6^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn7.6^where": "Sāvatthī"

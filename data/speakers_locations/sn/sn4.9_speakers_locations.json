@@ -1,23 +1,23 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn4.9:1.4^speaker": "The Buddha",
+  "sn4.9:1.4^speaker": "the Buddha",
   "sn4.9:1.5^speaker": "The mendicants",
-  "sn4.9:2.1+sn4.9:2.4^speaker": "The Buddha",
+  "sn4.9:2.1+sn4.9:2.4^speaker": "the Buddha",
   "sn4.9:4.1+sn4.9:4.4^speaker": "Māra the Wicked",
-  "sn4.9:5.1+sn4.9:5.4^speaker": "The Buddha",
-  "sn4.9:5.1^geographic_locations_here_and_before": [
+  "sn4.9:5.1+sn4.9:5.4^speaker": "the Buddha",
+  "sn4.9:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn4.9:5.1^where_here_and_before": [
+  "sn4.9:5.1^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "sn4.9:5.1^who_around_here_and_before": [
+  "sn4.9:5.1^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "sn4.9:5.1^who_mentioned_here_and_before": [
+  "sn4.9:5.1^who_mentioned_before_or_around_this_segment": [
     "Māra the Wicked"
   ],
-  "sn4.9^initial_geographic_location": [
+  "sn4.9^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn4.9^where": "Bamboo Grove, near Rājagaha"

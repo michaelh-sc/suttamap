@@ -5,29 +5,29 @@
     "Ānanda"
   ],
   "sn47.10:2.2+sn47.10:2.4^speaker": "Ānanda",
-  "sn47.10:2.2^geographic_locations_here_and_before": [
+  "sn47.10:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn47.10:2.2^where_here_and_before": [
+  "sn47.10:2.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn47.10:2.2^who_around_here_and_before": [
+  "sn47.10:2.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "sn47.10:5.1+sn47.10:9.3^speaker": "the Buddha",
   "sn47.10:5.1+sn47.10:9.3^who_else_mentioned": [
     "Ānanda"
   ],
-  "sn47.10:5.1^geographic_locations_here_and_before": [
+  "sn47.10:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn47.10:5.1^where_here_and_before": [
+  "sn47.10:5.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn47.10:5.1^who_around_here_and_before": [
+  "sn47.10:5.1^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "sn47.10^initial_geographic_location": [
+  "sn47.10^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn47.10^where": "Sāvatthī"

@@ -8,20 +8,20 @@
   "sn46.52:3.1+sn46.52:3.5^who_else_mentioned": [
     "Gotama"
   ],
-  "sn46.52:4.3^geographic_locations_here_and_before": [
+  "sn46.52:4.3^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn46.52:4.3^speaker": "the mendicants",
-  "sn46.52:4.3^where_here_and_before": [
+  "sn46.52:4.3^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn46.52:4.3^who_around_here_and_before": [
+  "sn46.52:4.3^who_present_before_or_around_this_segment": [
     "the wanderers"
   ],
   "sn46.52:4.3^who_else_mentioned": [
     "Buddha"
   ],
-  "sn46.52:4.3^who_mentioned_here_and_before": [
+  "sn46.52:4.3^who_mentioned_before_or_around_this_segment": [
     "the ascetic Buddha"
   ],
   "sn46.52:8.1+sn46.52:16.3^speaker": "the Buddha (assumed)",
@@ -29,13 +29,13 @@
     "Māras",
     "Brahmās"
   ],
-  "sn46.52:8.1^who_around_here_and_before": [
+  "sn46.52:8.1^who_present_before_or_around_this_segment": [
     "the wanderers who follow other paths"
   ],
-  "sn46.52:8.1^who_mentioned_here_and_before": [
+  "sn46.52:8.1^who_mentioned_before_or_around_this_segment": [
     "the seven awakening factors"
   ],
-  "sn46.52^initial_geographic_location": [
+  "sn46.52^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn46.52^where": "Sāvatthī"

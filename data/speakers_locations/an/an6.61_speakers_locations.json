@@ -19,21 +19,21 @@
   "an6.61:10.5+an6.61:12.1^speaker": "the senior mendicants",
   "an6.61:12.2^speaker": "the senior mendicants",
   "an6.61:12.4+an6.61:12.6^speaker": "the Buddha",
-  "an6.61:12.4^geographic_locations_here_and_before": [
+  "an6.61:12.4^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "an6.61:12.4^where_here_and_before": [
+  "an6.61:12.4^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "an6.61:12.4^who_around_here_and_before": [
+  "an6.61:12.4^who_present_before_or_around_this_segment": [
     "the senior mendicants"
   ],
-  "an6.61:12.4^who_mentioned_here_and_before": [
+  "an6.61:12.4^who_mentioned_before_or_around_this_segment": [
     "Metteyya"
   ],
-  "an6.61^initial_geographic_location": [
+  "an6.61^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

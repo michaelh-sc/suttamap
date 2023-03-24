@@ -64,19 +64,19 @@
   "mn35:10.1^who_else_mentioned": [
     "Gotama"
   ],
-  "mn35:10.2^geographic_locations_here_and_before": [
+  "mn35:10.2^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
   "mn35:10.2^speaker": "the Buddha",
-  "mn35:10.2^where_here_and_before": [
+  "mn35:10.2^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "mn35:10.2^who_around_here_and_before": [
+  "mn35:10.2^who_present_before_or_around_this_segment": [
     "Assaji",
     "some of the Licchavis",
     "some of the mendicants"
   ],
-  "mn35:10.2^who_mentioned_here_and_before": [
+  "mn35:10.2^who_mentioned_before_or_around_this_segment": [
     "Jain parents"
   ],
   "mn35:10.3+mn35:10.7^speaker": "Saccaka",
@@ -213,7 +213,7 @@
     "Vesālī",
     "Buddha"
   ],
-  "mn35:22.1^who_around_here_and_before": [
+  "mn35:22.1^who_present_before_or_around_this_segment": [
     "Vajirapāṇi"
   ],
   "mn35:23.2^speaker": "Licchavi Dummukha",
@@ -255,14 +255,14 @@
   "mn35:30.6+mn35:30.7^who_else_mentioned": [
     "Aggivessana"
   ],
-  "mn35:30.6^where_here_and_before": [
+  "mn35:30.6^where_before_or_around_this_segment": [
     "Saccaka's park"
   ],
-  "mn35:30.6^who_around_here_and_before": [
+  "mn35:30.6^who_present_before_or_around_this_segment": [
     "Saṅgha of mendicants",
     "Licchavis"
   ],
-  "mn35^initial_geographic_location": [
+  "mn35^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "mn35^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

@@ -17,16 +17,16 @@
     "I am Pasenadi",
     "Pasenadi"
   ],
-  "an10.30:3.1^geographic_locations_here_and_before": [
+  "an10.30:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "an10.30:3.1^speaker": "the Buddha",
-  "an10.30:3.1^where_here_and_before": [
+  "an10.30:3.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "an10.30:3.1^who_around_here_and_before": [
+  "an10.30:3.1^who_present_before_or_around_this_segment": [
     "several mendicants"
   ],
   "an10.30:3.2+an10.30:14.2^speaker": "King Pasenadi of Kosala",
@@ -34,13 +34,13 @@
     "Buddha"
   ],
   "an10.30:14.3^speaker": "the Buddha",
-  "an10.30:14.3^where_here_and_before": [
-    "The Buddha's dwelling"
+  "an10.30:14.3^where_before_or_around_this_segment": [
+    "the Buddha's dwelling"
   ],
-  "an10.30:14.3^who_around_here_and_before": [
+  "an10.30:14.3^who_present_before_or_around_this_segment": [
     "King Pasenadi of Kosala"
   ],
-  "an10.30^initial_geographic_location": [
+  "an10.30^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an10.30^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

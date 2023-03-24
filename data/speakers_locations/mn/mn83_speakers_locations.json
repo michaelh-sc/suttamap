@@ -25,21 +25,21 @@
     "Mātali",
     "Kaḷārajanaka"
   ],
-  "mn83:4.20^geographic_locations_here_and_before": [
+  "mn83:4.20^event_dppn_headwords_before_or_around_this_segment": [
     "Mithilā"
   ],
   "mn83:4.20^speaker": "Makhādeva",
-  "mn83:4.20^where_here_and_before": [
+  "mn83:4.20^where_before_or_around_this_segment": [
     "Mithilā in the Makhādeva Mango Grove"
   ],
-  "mn83:4.20^who_around_here_and_before": [
+  "mn83:4.20^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "mn83:4.20^who_mentioned_here_and_before": [
+  "mn83:4.20^who_mentioned_before_or_around_this_segment": [
     "Sakka",
     "lord of gods"
   ],
-  "mn83^initial_geographic_location": [
+  "mn83^initial_location_dppn_headword": [
     "Mithilā"
   ],
   "mn83^where": "Mithilā in the Makhādeva Mango Grove"

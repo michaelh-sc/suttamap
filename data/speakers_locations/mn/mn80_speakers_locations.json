@@ -71,21 +71,21 @@
     "Gotama"
   ],
   "mn80:15.3+mn80:15.5^speaker": "the Buddha",
-  "mn80:15.3^geographic_locations_here_and_before": [
+  "mn80:15.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn80:15.3^where_here_and_before": [
+  "mn80:15.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn80:15.3^who_around_here_and_before": [
+  "mn80:15.3^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "mn80:15.3^who_mentioned_here_and_before": [
+  "mn80:15.3^who_mentioned_before_or_around_this_segment": [
     "Kaccāna"
   ],
   "mn80:15.4^speaker": "Vekhanasa",
-  "mn80^initial_geographic_location": [
+  "mn80^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn80^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

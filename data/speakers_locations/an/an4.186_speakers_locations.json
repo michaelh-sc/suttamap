@@ -13,7 +13,7 @@
   "an4.186:7.1^speaker": "the mendicant",
   "an4.186:7.2+an4.186:7.3^speaker": "the mendicant",
   "an4.186:8.1+an4.186:8.8^speaker": "the Buddha",
-  "an4.186:8.1^who_around_here_and_before": [
+  "an4.186:8.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ]
 }

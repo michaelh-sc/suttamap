@@ -12,16 +12,16 @@
     "Byagghapajja",
     "Buddha"
   ],
-  "an8.54:2.1^geographic_locations_here_and_before": [
+  "an8.54:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kakkarapatta"
   ],
-  "an8.54:2.1^where_here_and_before": [
+  "an8.54:2.1^where_before_or_around_this_segment": [
     "The land of the Koliyans Kakkarapatta"
   ],
-  "an8.54:2.1^who_mentioned_here_and_before": [
+  "an8.54:2.1^who_mentioned_before_or_around_this_segment": [
     "Byagghapajja"
   ],
-  "an8.54^initial_geographic_location": [
+  "an8.54^initial_location_dppn_headword": [
     "Kakkarapatta"
   ],
   "an8.54^where": "The land of the Koliyans, Kakkarapatta"

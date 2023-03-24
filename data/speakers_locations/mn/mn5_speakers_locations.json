@@ -25,18 +25,18 @@
   "mn5:31.2^who_else_mentioned": [
     "Sāriputta"
   ],
-  "mn5:31.3^geographic_locations_here_and_before": [
+  "mn5:31.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn5:31.3^speaker": "Sāriputta",
-  "mn5:31.3^where_here_and_before": [
+  "mn5:31.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn5:31.3^who_around_here_and_before": [
+  "mn5:31.3^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn5:31.3^who_mentioned_here_and_before": [
+  "mn5:31.3^who_mentioned_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
   "mn5:31.4+mn5:33.3^speaker": "Mahāmoggallāna",
@@ -49,18 +49,18 @@
     "Paṇḍuputta",
     "Sāriputta"
   ],
-  "mn5:31.4^geographic_locations_here_and_before": [
+  "mn5:31.4^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "mn5:31.4^where_here_and_before": [
+  "mn5:31.4^where_before_or_around_this_segment": [
     "Rājagaha",
     "the Mountainfold"
   ],
-  "mn5:31.4^who_around_here_and_before": [
+  "mn5:31.4^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Mahāmoggallāna"
   ],
-  "mn5^initial_geographic_location": [
+  "mn5^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn5^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

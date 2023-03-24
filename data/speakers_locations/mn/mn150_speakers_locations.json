@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn150:2.2+mn150:2.7^speaker": "brahmins of Nagaravinda, householders of Nagaravinda",
+  "mn150:2.2+mn150:2.7^speaker": "brahmins of Nagaravinda and householders of Nagaravinda",
   "mn150:2.2+mn150:2.7^where_else_mentioned": [
     "Kosalans",
     "Nagaravinda"
@@ -15,27 +15,27 @@
   ],
   "mn150:4.1+mn150:6.9^speaker": "the Buddha",
   "mn150:6.3^speaker": "wanderers who follow another path",
-  "mn150:6.8^speaker": "brahmins of Nagaravinda, householders of Nagaravinda",
-  "mn150:7.2+mn150:7.5^speaker": "brahmins of Nagaravinda, householders of Nagaravinda",
+  "mn150:6.8^speaker": "brahmins of Nagaravinda and householders of Nagaravinda",
+  "mn150:7.2+mn150:7.5^speaker": "brahmins of Nagaravinda and householders of Nagaravinda",
   "mn150:7.2+mn150:7.5^who_else_mentioned": [
     "Gotama",
     "Saṅgha"
   ],
-  "mn150:7.2^geographic_locations_here_and_before": [
+  "mn150:7.2^event_dppn_headwords_before_or_around_this_segment": [
     "Nagaravinda"
   ],
-  "mn150:7.2^where_here_and_before": [
+  "mn150:7.2^where_before_or_around_this_segment": [
     "the land of the Kosalans",
     "Nagaravinda"
   ],
-  "mn150:7.2^who_around_here_and_before": [
+  "mn150:7.2^who_present_before_or_around_this_segment": [
     "the Buddha",
     "a large Saṅgha of mendicants"
   ],
-  "mn150:7.2^who_mentioned_here_and_before": [
+  "mn150:7.2^who_mentioned_before_or_around_this_segment": [
     "wanderers who follow another path"
   ],
-  "mn150^initial_geographic_location": [
+  "mn150^initial_location_dppn_headword": [
     "Nagaravinda"
   ],
   "mn150^where": "the land of the Kosalans, Nagaravinda"

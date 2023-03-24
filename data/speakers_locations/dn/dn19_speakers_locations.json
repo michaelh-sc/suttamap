@@ -5,30 +5,120 @@
   "dn19:1.5^who_else_mentioned": [
     "Pañcasikha"
   ],
+  "dn19:2.1+dn19:60.11^speaker": "Pañcasikha",
+  "dn19:2.1+dn19:60.11^where_else_mentioned": [
+    "Ganges",
+    "Yamuna"
+  ],
+  "dn19:2.1+dn19:60.11^who_else_mentioned": [
+    "Dhatara",
+    "Virūḷhaka",
+    "Virūpakkha",
+    "Vessavaṇa",
+    "Buddha",
+    "Sakka",
+    "Buddhas",
+    "the Blessed One",
+    "Brahmā",
+    "Brahmā Sanaṅkumāra",
+    "Great Brahmā",
+    "Pañcasikha",
+    "Disampati",
+    "Steward",
+    "Reṇu",
+    "Jotipāla",
+    "Prince Reṇu",
+    "the Steward Jotipāla",
+    "the Great Steward",
+    "King Disampati",
+    "King Reṇu",
+    "Great Steward",
+    "Kaliṅgas",
+    "Potana",
+    "Assakas",
+    "Mahissati",
+    "Avantis",
+    "Roruka",
+    "Sovīras",
+    "Videhas",
+    "Aṅgas",
+    "Brahmadatta",
+    "Vessabhū",
+    "Bharata",
+    "Dhataraṭ",
+    "Bhāratas",
+    "The Great Steward",
+    "O Brahmā",
+    "O Steward",
+    "Sirs"
+  ],
+  "dn19:2.1^geographic_locations_here_and_before": [
+    "Gijjhakūṭa",
+    "Rājagaha"
+  ],
+  "dn19:2.1^where_here_and_before": [
+    "Vulture's Peak Mountain",
+    "near Rājagaha"
+  ],
+  "dn19:2.1^who_around_here_and_before": [
+    "the gods of the Thirty-Three",
+    "King Disampati",
+    "Prince Reṇu",
+    "the man",
+    "Jotipāla",
+    "the six aristocrats",
+    "the Great Steward",
+    "the Steward"
+  ],
+  "dn19:2.1^who_mentioned_here_and_before": [
+    "Brahmā Sanaṅkumāra"
+  ],
   "dn19:29.8^speaker": "King Disampati",
   "dn19:29.8^who_else_mentioned": [
     "Steward"
   ],
-  "dn19:29.13^speaker": "Prince Reṇu",
-  "dn19:29.14^speaker": "the man",
-  "dn19:30.4^speaker": "the man",
+  "dn19:29.10^speaker": "Prince Reṇu",
+  "dn19:29.13^speaker": "King Disampati",
+  "dn19:29.14^speaker": "Prince Reṇu",
+  "dn19:30.2^speaker": "King Disampati",
+  "dn19:30.4^speaker": "Jotipāla",
+  "dn19:30.8^speaker": "King Disampati",
   "dn19:30.10^speaker": "Jotipāla",
   "dn19:31.5^speaker": "the six aristocrats",
   "dn19:31.5^who_else_mentioned": [
     "Steward",
     "a Great Steward"
   ],
+  "dn19:32.2+dn19:32.8^speaker": "Great Steward",
+  "dn19:32.2+dn19:32.8^who_else_mentioned": [
+    "King Disampati",
+    "Prince Reṇu"
+  ],
   "dn19:33.1^speaker": "the six aristocrats",
-  "dn19:34.10^speaker": "Prince Reṇu",
+  "dn19:33.7^speaker": "Prince Reṇu",
+  "dn19:34.5+dn19:34.9^speaker": "the Great Steward",
+  "dn19:34.5+dn19:34.9^who_else_mentioned": [
+    "King Disampati",
+    "Reṇu",
+    "Prince Reṇu",
+    "Disampati"
+  ],
+  "dn19:34.10^speaker": "the six aristocrats",
   "dn19:34.11^speaker": "the six aristocrats",
   "dn19:34.11^who_else_mentioned": [
     "King Disampati"
   ],
-  "dn19:34.14^speaker": "the Great Steward",
+  "dn19:34.12^speaker": "King Reṇu",
+  "dn19:34.14^speaker": "the six aristocrats",
   "dn19:34.14^who_else_mentioned": [
     "the Great Steward"
   ],
-  "dn19:35.4^speaker": "the man",
+  "dn19:35.2+dn19:35.3^speaker": "King Reṇu",
+  "dn19:35.2+dn19:35.3^who_else_mentioned": [
+    "Great Steward",
+    "Reṇu"
+  ],
+  "dn19:35.4^speaker": "one of the king's men",
   "dn19:35.8^speaker": "the Great Steward",
   "dn19:35.8^who_else_mentioned": [
     "Steward"
@@ -36,7 +126,7 @@
   "dn19:35.9^speaker": "the Great Steward",
   "dn19:36.12^speaker": "the six aristocrats",
   "dn19:37.5^speaker": "the Great Steward",
-  "dn19:38.2^speaker": "the six aristocrats",
+  "dn19:38.2^speaker": "the Great Steward",
   "dn19:38.2^who_else_mentioned": [
     "The Great Steward",
     "Brahmā"
@@ -56,7 +146,7 @@
   ],
   "dn19:49.5^speaker": "the six aristocrats",
   "dn19:49.14^speaker": "the six aristocrats",
-  "dn19:50.1^speaker": "the six aristocrats",
+  "dn19:50.1^speaker": "the Steward",
   "dn19:50.1^who_else_mentioned": [
     "Steward"
   ],
@@ -66,30 +156,9 @@
   "dn19:56.15^who_else_mentioned": [
     "Steward"
   ],
-  "dn19:58.7^geographic_locations_here_and_before": [
-    "Gijjhakūṭa"
-  ],
   "dn19:58.7^speaker": "Pañcasikha",
-  "dn19:58.7^where_here_and_before": [
-    "Vulture's Peak Mountain near Rājagaha"
-  ],
-  "dn19:58.7^who_around_here_and_before": [
-    "the gods of the Thirty-Three",
-    "brahmins",
-    "ladies",
-    "King Reṇu",
-    "Prince Reṇu",
-    "the man",
-    "Jotipāla",
-    "the six aristocrats",
-    "the Great Steward"
-  ],
   "dn19:58.7^who_else_mentioned": [
     "the Great Steward"
-  ],
-  "dn19:58.7^who_mentioned_here_and_before": [
-    "King Disampati",
-    "Brahmā Sanaṅkumāra"
   ],
   "dn19:61.1+dn19:62.5^speaker": "the Buddha",
   "dn19:61.1+dn19:62.5^where_else_mentioned": [
@@ -104,10 +173,11 @@
   ],
   "dn19:61.1^who_mentioned_here_and_before": [
     "Great Steward",
-    "high priest"
+    "high priest for the seven"
   ],
   "dn19^initial_geographic_location": [
-    "Gijjhakūṭa"
+    "Gijjhakūṭa",
+    "Rājagaha"
   ],
   "dn19^where": "Vulture's Peak Mountain, near Rājagaha"
 }

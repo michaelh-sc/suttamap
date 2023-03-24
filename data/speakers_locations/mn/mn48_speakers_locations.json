@@ -4,18 +4,18 @@
   "mn48:4.5^speaker": "that monk",
   "mn48:4.6^speaker": "those monks",
   "mn48:4.9^speaker": "those monks",
-  "mn48:5.3^geographic_locations_here_and_before": [
+  "mn48:5.3^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
   "mn48:5.3^speaker": "those monks",
-  "mn48:5.3^where_here_and_before": [
+  "mn48:5.3^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "mn48:5.3^who_around_here_and_before": [
+  "mn48:5.3^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "mn48^initial_geographic_location": [
+  "mn48^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "mn48^where": "Kosambi, in Ghosita's Monastery"

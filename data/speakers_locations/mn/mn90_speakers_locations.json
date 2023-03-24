@@ -65,22 +65,22 @@
     "Buddha"
   ],
   "mn90:12.6+mn90:12.12^speaker": "the Buddha",
-  "mn90:12.13^geographic_locations_here_and_before": [
+  "mn90:12.13^event_dppn_headwords_before_or_around_this_segment": [
     "Isipatana",
     "Kaṇṇakatthala"
   ],
   "mn90:12.13^speaker": "King Pasenadi of Kosala",
-  "mn90:12.13^where_here_and_before": [
+  "mn90:12.13^where_before_or_around_this_segment": [
     "Ujuñña",
     "deer park at Kaṇṇakatthala"
   ],
-  "mn90:12.13^who_around_here_and_before": [
+  "mn90:12.13^who_present_before_or_around_this_segment": [
     "Somā (Sakulā's sister)",
     "Sakulā (Somā's sister)",
     "General Viḍūḍabha",
     "Sañjaya"
   ],
-  "mn90^initial_geographic_location": [
+  "mn90^initial_location_dppn_headword": [
     "Isipatana",
     "Kaṇṇakatthala"
   ],

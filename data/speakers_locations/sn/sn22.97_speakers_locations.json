@@ -7,13 +7,13 @@
   "sn22.97:6.4+sn22.97:6.7^speaker": "the Buddha",
   "sn22.97:6.8^speaker": "that mendicant",
   "sn22.97:6.9+sn22.97:6.11^speaker": "the Buddha",
-  "sn22.97:6.9^geographic_locations_here_and_before": [
+  "sn22.97:6.9^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.97:6.9^where_here_and_before": [
+  "sn22.97:6.9^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.97^initial_geographic_location": [
+  "sn22.97^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.97^where": "Sāvatthī"

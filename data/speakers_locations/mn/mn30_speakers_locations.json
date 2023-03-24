@@ -11,22 +11,22 @@
     "Ajita Kesakambala"
   ],
   "mn30:2.6+mn30:2.9^speaker": "the Buddha",
-  "mn30:2.10^geographic_locations_here_and_before": [
+  "mn30:2.10^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn30:2.10^speaker": "Piṅgalakoccha",
-  "mn30:2.10^where_here_and_before": [
+  "mn30:2.10^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn30:2.10^who_around_here_and_before": [
+  "mn30:2.10^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "mn30:2.10^who_mentioned_here_and_before": [
+  "mn30:2.10^who_mentioned_before_or_around_this_segment": [
     "ascetics",
     "brahmins"
   ],
-  "mn30^initial_geographic_location": [
+  "mn30^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn30^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

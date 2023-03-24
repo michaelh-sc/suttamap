@@ -21,20 +21,20 @@
     "Saṅgha",
     "Buddha"
   ],
-  "sn7.2:9.3^geographic_locations_here_and_before": [
+  "sn7.2:9.3^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn7.2:9.3^speaker": "Bhāradvāja the Rude",
-  "sn7.2:9.3^where_here_and_before": [
+  "sn7.2:9.3^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn7.2:9.3^who_around_here_and_before": [
+  "sn7.2:9.3^who_present_before_or_around_this_segment": [
     "the king",
     "the king's retinue"
   ],
-  "sn7.2^initial_geographic_location": [
+  "sn7.2^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn7.2^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

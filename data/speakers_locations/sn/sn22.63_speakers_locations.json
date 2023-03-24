@@ -19,21 +19,21 @@
   "sn22.63:3.1+sn22.63:3.10^who_else_mentioned": [
     "Māra"
   ],
-  "sn22.63:4.3^geographic_locations_here_and_before": [
+  "sn22.63:4.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "sn22.63:4.3^speaker": "the mendicant",
-  "sn22.63:4.3^where_here_and_before": [
+  "sn22.63:4.3^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "sn22.63:4.3^who_around_here_and_before": [
+  "sn22.63:4.3^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn22.63:4.3^who_mentioned_here_and_before": [
+  "sn22.63:4.3^who_mentioned_before_or_around_this_segment": [
     "Māra"
   ],
-  "sn22.63^initial_geographic_location": [
+  "sn22.63^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn22.63^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

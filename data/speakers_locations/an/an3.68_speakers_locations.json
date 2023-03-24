@@ -8,7 +8,7 @@
   "an3.68:1.9^speaker": "the Buddha (assumed)",
   "an3.68:1.10^speaker": "the mendicants",
   "an3.68:2.1+an3.68:8.4^speaker": "the Buddha (assumed)",
-  "an3.68:2.1^who_mentioned_here_and_before": [
+  "an3.68:2.1^who_mentioned_before_or_around_this_segment": [
     "Wanderers who follow other paths"
   ]
 }

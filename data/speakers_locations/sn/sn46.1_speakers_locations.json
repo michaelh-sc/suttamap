@@ -4,13 +4,13 @@
   "sn46.1:1.2+sn46.1:1.13^where_else_mentioned": [
     "Himalayas"
   ],
-  "sn46.1:1.2^geographic_locations_here_and_before": [
+  "sn46.1:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn46.1:1.2^where_here_and_before": [
+  "sn46.1:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn46.1^initial_geographic_location": [
+  "sn46.1^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn46.1^where": "Sāvatthī"

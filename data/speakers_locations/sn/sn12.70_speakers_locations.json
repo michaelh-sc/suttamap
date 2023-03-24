@@ -34,21 +34,21 @@
   "sn12.70:6.2^speaker": "the mendicants",
   "sn12.70:7.1+sn12.70:7.17^speaker": "Susīma",
   "sn12.70:7.18^speaker": "the mendicants",
-  "sn12.70:8.1^geographic_locations_here_and_before": [
+  "sn12.70:8.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn12.70:8.1^speaker": "Susīma",
-  "sn12.70:8.1^where_here_and_before": [
+  "sn12.70:8.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn12.70:8.1^who_around_here_and_before": [
+  "sn12.70:8.1^who_present_before_or_around_this_segment": [
     "Ānanda",
     "the wanderers",
     "the mendicants"
   ],
-  "sn12.70:8.1^who_mentioned_here_and_before": [
+  "sn12.70:8.1^who_mentioned_before_or_around_this_segment": [
     "Brahmā"
   ],
   "sn12.70:8.2^speaker": "the mendicants",
@@ -90,7 +90,7 @@
   "sn12.70:15.17^speaker": "the mendicants",
   "sn12.70:15.18^speaker": "Susīma",
   "sn12.70:15.19^speaker": "the mendicants",
-  "sn12.70:15.19^who_around_here_and_before": [
+  "sn12.70:15.19^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "sn12.70:15.20^speaker": "the Buddha",
@@ -144,12 +144,12 @@
     "Susīma"
   ],
   "sn12.70:28.9^speaker": "Susīma",
-  "sn12.70:28.9^who_around_here_and_before": [
+  "sn12.70:28.9^who_present_before_or_around_this_segment": [
     "the Buddha",
     "the mendicants"
   ],
   "sn12.70:29.1+sn12.70:29.4^speaker": "the Buddha",
-  "sn12.70^initial_geographic_location": [
+  "sn12.70^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn12.70^where": "Rājagaha, Bamboo Grove, the squirrels' feeding ground"

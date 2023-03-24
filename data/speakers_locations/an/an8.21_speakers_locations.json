@@ -25,19 +25,19 @@
     "Ugga",
     "Vesālī"
   ],
-  "an8.21:13.1^geographic_locations_here_and_before": [
+  "an8.21:13.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an8.21:13.1^where_here_and_before": [
+  "an8.21:13.1^where_before_or_around_this_segment": [
     "Great Wood near Vesālī"
   ],
-  "an8.21:13.1^who_around_here_and_before": [
+  "an8.21:13.1^who_present_before_or_around_this_segment": [
     "the mendicant"
   ],
-  "an8.21:13.1^who_mentioned_here_and_before": [
+  "an8.21:13.1^who_mentioned_before_or_around_this_segment": [
     "Ugga of Vesālī"
   ],
-  "an8.21^initial_geographic_location": [
+  "an8.21^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an8.21^where": "Great Wood, near Vesālī"

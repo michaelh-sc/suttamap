@@ -5,10 +5,10 @@
     "Gotama",
     "Buddha"
   ],
-  "sn35.152:1.1^who_around_here_and_before": [
+  "sn35.152:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn35.152:1.1^who_mentioned_here_and_before": [
+  "sn35.152:1.1^who_mentioned_before_or_around_this_segment": [
     "Wanderers who follow another path"
   ]
 }

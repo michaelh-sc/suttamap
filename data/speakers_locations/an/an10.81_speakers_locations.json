@@ -5,13 +5,13 @@
   "an10.81:2.1+an10.81:2.14^who_else_mentioned": [
     "Bāhuna"
   ],
-  "an10.81:2.1^geographic_locations_here_and_before": [
+  "an10.81:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Campā"
   ],
-  "an10.81:2.1^where_here_and_before": [
+  "an10.81:2.1^where_before_or_around_this_segment": [
     "Campā on the banks of the Gaggarā Lotus Pond"
   ],
-  "an10.81^initial_geographic_location": [
+  "an10.81^initial_location_dppn_headword": [
     "Campā"
   ],
   "an10.81^where": "Campā on the banks of the Gaggarā Lotus Pond"

@@ -8,18 +8,18 @@
     "Vāsava"
   ],
   "sn11.5:6.4^speaker": "Sakka",
-  "sn11.5:8.2^geographic_locations_here_and_before": [
+  "sn11.5:8.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn11.5:8.2^speaker": "Sakka",
-  "sn11.5:8.2^where_here_and_before": [
+  "sn11.5:8.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn11.5:8.2^who_mentioned_here_and_before": [
+  "sn11.5:8.2^who_mentioned_before_or_around_this_segment": [
     "Gods",
     "Demons"
   ],
-  "sn11.5^initial_geographic_location": [
+  "sn11.5^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn11.5^where": "Sāvatthī"

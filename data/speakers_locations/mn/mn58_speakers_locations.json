@@ -51,23 +51,23 @@
   "mn58:12.2+mn58:12.3^who_else_mentioned": [
     "Gotama"
   ],
-  "mn58:12.2^geographic_locations_here_and_before": [
+  "mn58:12.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "mn58:12.2^where_here_and_before": [
+  "mn58:12.2^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "mn58:12.2^who_around_here_and_before": [
+  "mn58:12.2^who_present_before_or_around_this_segment": [
     "the Buddha",
     "Prince Abhaya",
     "a little baby boy"
   ],
-  "mn58:12.2^who_mentioned_here_and_before": [
+  "mn58:12.2^who_mentioned_before_or_around_this_segment": [
     "Devadatta"
   ],
-  "mn58^initial_geographic_location": [
+  "mn58^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn58^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

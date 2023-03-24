@@ -4,13 +4,13 @@
   "an3.84:1.5+an3.84:1.6^speaker": "the Buddha",
   "an3.84:1.7^speaker": "the monk",
   "an3.84:1.9+an3.84:2.2^speaker": "the Buddha",
-  "an3.84:1.9^geographic_locations_here_and_before": [
+  "an3.84:1.9^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an3.84:1.9^where_here_and_before": [
+  "an3.84:1.9^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "an3.84^initial_geographic_location": [
+  "an3.84^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an3.84^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

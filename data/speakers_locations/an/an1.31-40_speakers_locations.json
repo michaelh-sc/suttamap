@@ -10,7 +10,7 @@
   "an1.38:1.1+an1.38:1.2^speaker": "the Buddha (assumed)",
   "an1.39:1.1+an1.39:1.2^speaker": "the Buddha (assumed)",
   "an1.40:1.1+an1.40:1.2^speaker": "the Buddha (assumed)",
-  "an1.40:1.1^who_around_here_and_before": [
+  "an1.40:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ]
 }

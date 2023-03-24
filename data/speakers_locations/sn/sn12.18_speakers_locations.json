@@ -4,49 +4,49 @@
   "sn12.18:2.1^who_else_mentioned": [
     "Gotama"
   ],
-  "sn12.18:2.2^speaker": "The Buddha",
+  "sn12.18:2.2^speaker": "the Buddha",
   "sn12.18:2.2^who_else_mentioned": [
     "Timbaruka"
   ],
   "sn12.18:2.3^speaker": "The wanderer Timbaruka",
-  "sn12.18:2.4^speaker": "The Buddha",
+  "sn12.18:2.4^speaker": "the Buddha",
   "sn12.18:2.4^who_else_mentioned": [
     "Timbaruka"
   ],
   "sn12.18:2.5^speaker": "The wanderer Timbaruka",
-  "sn12.18:2.6^speaker": "The Buddha",
+  "sn12.18:2.6^speaker": "the Buddha",
   "sn12.18:2.6^who_else_mentioned": [
     "Timbaruka"
   ],
   "sn12.18:2.7^speaker": "The wanderer Timbaruka",
-  "sn12.18:2.8^speaker": "The Buddha",
+  "sn12.18:2.8^speaker": "the Buddha",
   "sn12.18:2.8^who_else_mentioned": [
     "Timbaruka"
   ],
   "sn12.18:2.9^speaker": "The wanderer Timbaruka",
-  "sn12.18:2.10+sn12.18:2.11^speaker": "The Buddha",
+  "sn12.18:2.10+sn12.18:2.11^speaker": "the Buddha",
   "sn12.18:2.12^speaker": "The wanderer Timbaruka",
   "sn12.18:2.12^who_else_mentioned": [
     "Gotama"
   ],
-  "sn12.18:2.13+sn12.18:2.15^speaker": "The Buddha",
+  "sn12.18:2.13+sn12.18:2.15^speaker": "the Buddha",
   "sn12.18:3.1+sn12.18:3.11^speaker": "The wanderer Timbaruka",
   "sn12.18:3.1+sn12.18:3.11^who_else_mentioned": [
     "Gotama"
   ],
-  "sn12.18:4.1+sn12.18:4.9^speaker": "The Buddha",
+  "sn12.18:4.1+sn12.18:4.9^speaker": "the Buddha",
   "sn12.18:5.2+sn12.18:5.4^speaker": "The wanderer Timbaruka",
   "sn12.18:5.2+sn12.18:5.4^who_else_mentioned": [
     "Gotama",
     "Saṅgha"
   ],
-  "sn12.18:5.2^geographic_locations_here_and_before": [
+  "sn12.18:5.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.18:5.2^where_here_and_before": [
+  "sn12.18:5.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.18^initial_geographic_location": [
+  "sn12.18^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn12.18^where": "Sāvatthī"

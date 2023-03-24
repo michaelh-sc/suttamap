@@ -6,17 +6,17 @@
     "Bhañña",
     "Ukkalā"
   ],
-  "sn22.62:1.2^geographic_locations_here_and_before": [
+  "sn22.62:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.62:1.2^where_here_and_before": [
+  "sn22.62:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.62:1.2^who_mentioned_here_and_before": [
+  "sn22.62:1.2^who_mentioned_before_or_around_this_segment": [
     "Sensible ascetics",
     "Sensitive brahmins"
   ],
-  "sn22.62^initial_geographic_location": [
+  "sn22.62^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.62^where": "Sāvatthī"

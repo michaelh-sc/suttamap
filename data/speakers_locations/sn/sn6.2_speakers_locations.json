@@ -17,16 +17,16 @@
     "Buddhas",
     "Buddha"
   ],
-  "sn6.2:8.1^geographic_locations_here_and_before": [
+  "sn6.2:8.1^event_dppn_headwords_before_or_around_this_segment": [
     "Uruvelā"
   ],
-  "sn6.2:8.1^where_here_and_before": [
+  "sn6.2:8.1^where_before_or_around_this_segment": [
     "Uruvelā at the root of the goatherd's banyan tree on the bank of the Nerañjarā River"
   ],
-  "sn6.2:8.1^who_mentioned_here_and_before": [
+  "sn6.2:8.1^who_mentioned_before_or_around_this_segment": [
     "All Buddhas in the past"
   ],
-  "sn6.2^initial_geographic_location": [
+  "sn6.2^initial_location_dppn_headword": [
     "Uruvelā"
   ],
   "sn6.2^where": "Uruvelā at the root of the goatherd's banyan tree on the bank of the Nerañjarā River"

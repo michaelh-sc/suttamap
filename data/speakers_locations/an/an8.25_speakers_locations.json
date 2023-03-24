@@ -13,13 +13,13 @@
   "an8.25:3.2+an8.25:3.10^speaker": "the Buddha",
   "an8.25:4.1^speaker": "Mahānāma the Sakyan",
   "an8.25:4.2+an8.25:4.10^speaker": "the Buddha",
-  "an8.25:4.2^geographic_locations_here_and_before": [
+  "an8.25:4.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "an8.25:4.2^where_here_and_before": [
+  "an8.25:4.2^where_before_or_around_this_segment": [
     "Kapilavatthu in the Banyan Tree Monastery"
   ],
-  "an8.25^initial_geographic_location": [
+  "an8.25^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "an8.25^where": "Kapilavatthu in the Banyan Tree Monastery"

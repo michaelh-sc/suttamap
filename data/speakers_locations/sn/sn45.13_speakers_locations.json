@@ -5,13 +5,13 @@
   "sn45.13:2.1+sn45.13:2.2^who_else_mentioned": [
     "Mendicant"
   ],
-  "sn45.13:2.1^geographic_locations_here_and_before": [
+  "sn45.13:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn45.13:2.1^where_here_and_before": [
+  "sn45.13:2.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn45.13^initial_geographic_location": [
+  "sn45.13^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn45.13^where": "Sāvatthī"

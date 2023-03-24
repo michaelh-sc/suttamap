@@ -5,18 +5,18 @@
     "Anuruddha"
   ],
   "sn52.11:2.2+sn52.11:2.9^speaker": "Anuruddha",
-  "sn52.11:2.2^geographic_locations_here_and_before": [
+  "sn52.11:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn52.11:2.2^where_here_and_before": [
+  "sn52.11:2.2^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "sn52.11:2.2^who_around_here_and_before": [
+  "sn52.11:2.2^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "sn52.11^initial_geographic_location": [
+  "sn52.11^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn52.11^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

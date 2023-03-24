@@ -22,17 +22,16 @@
     "Saṅgha"
   ],
   "sn48.58:3.4+sn48.58:3.5^speaker": "the Buddha",
-  "sn48.58:3.4^geographic_locations_here_and_before": [
+  "sn48.58:3.4^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn48.58:3.4^where_here_and_before": [
-    "Vulture's Peak Mountain in the Boar's Cave",
-    "near Rājagaha"
+  "sn48.58:3.4^where_before_or_around_this_segment": [
+    "Vulture's Peak Mountain in the Boar's Cave near Rājagaha"
   ],
-  "sn48.58:3.4^who_around_here_and_before": [
+  "sn48.58:3.4^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn48.58^initial_geographic_location": [
+  "sn48.58^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn48.58^where": "Vulture's Peak Mountain in the Boar's Cave, near Rājagaha"

@@ -16,16 +16,16 @@
     "Anuruddha",
     "Saṅgha"
   ],
-  "an4.243:2.1^geographic_locations_here_and_before": [
+  "an4.243:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "an4.243:2.1^where_here_and_before": [
+  "an4.243:2.1^where_before_or_around_this_segment": [
     "Ghosita's Monastery near Kosambi"
   ],
-  "an4.243:2.1^who_around_here_and_before": [
+  "an4.243:2.1^who_present_before_or_around_this_segment": [
     "Anuruddha"
   ],
-  "an4.243^initial_geographic_location": [
+  "an4.243^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "an4.243^where": "Ghosita's Monastery, near Kosambi"

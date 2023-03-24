@@ -5,17 +5,17 @@
     "Ajātasattu"
   ],
   "sn3.15:7.1+sn3.15:9.6^speaker": "the Buddha",
-  "sn3.15:7.1^geographic_locations_here_and_before": [
+  "sn3.15:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kāsi"
   ],
-  "sn3.15:7.1^where_here_and_before": [
+  "sn3.15:7.1^where_before_or_around_this_segment": [
     "Kāsi"
   ],
-  "sn3.15:7.1^who_around_here_and_before": [
+  "sn3.15:7.1^who_present_before_or_around_this_segment": [
     "King Ajātasattu Vedehiputta",
     "several mendicants"
   ],
-  "sn3.15^initial_geographic_location": [
+  "sn3.15^initial_location_dppn_headword": [
     "Kāsi"
   ],
   "sn3.15^where": "Kāsi"

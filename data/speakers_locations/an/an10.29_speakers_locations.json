@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an10.29:1.1+an10.29:21.5^speaker": "The Buddha (assumed)",
+  "an10.29:1.1+an10.29:21.5^speaker": "the Buddha (assumed)",
   "an10.29:1.1+an10.29:21.5^where_else_mentioned": [
     "Kosala",
     "Great Kings"
@@ -14,7 +14,7 @@
     "Brahmā",
     "Gotama"
   ],
-  "an10.29:1.1^who_mentioned_here_and_before": [
+  "an10.29:1.1^who_mentioned_before_or_around_this_segment": [
     "King Pasenadi of Kosala"
   ]
 }

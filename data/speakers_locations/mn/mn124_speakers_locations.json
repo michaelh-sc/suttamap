@@ -44,20 +44,20 @@
   "mn124:40.3^who_else_mentioned": [
     "Bakkula"
   ],
-  "mn124:41.2^geographic_locations_here_and_before": [
+  "mn124:41.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn124:41.2^speaker": "Kassapa",
-  "mn124:41.2^where_here_and_before": [
+  "mn124:41.2^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "mn124:41.2^who_around_here_and_before": [
+  "mn124:41.2^who_present_before_or_around_this_segment": [
     "Saṅgha"
   ],
   "mn124:41.2^who_else_mentioned": [
     "Bakkula"
   ],
-  "mn124^initial_geographic_location": [
+  "mn124^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn124^where": "Bamboo Grove, near Rājagaha"

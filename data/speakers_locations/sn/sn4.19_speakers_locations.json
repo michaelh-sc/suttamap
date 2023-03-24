@@ -19,16 +19,16 @@
   "sn4.19:5.1+sn4.19:5.4^who_else_mentioned": [
     "Wicked One"
   ],
-  "sn4.19:5.1^geographic_locations_here_and_before": [
+  "sn4.19:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn4.19:5.1^where_here_and_before": [
+  "sn4.19:5.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn4.19:5.1^who_around_here_and_before": [
+  "sn4.19:5.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn4.19^initial_geographic_location": [
+  "sn4.19^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn4.19^where": "Sāvatthī"

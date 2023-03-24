@@ -5,8 +5,8 @@
     "Buddhas"
   ],
   "mn123:2.6+mn123:2.7^speaker": "Ānanda",
-  "mn123:2.11^speaker": "The Buddha",
-  "mn123:2.19^speaker": "The Buddha",
+  "mn123:2.11^speaker": "the Buddha",
+  "mn123:2.19^speaker": "the Buddha",
   "mn123:2.19^who_else_mentioned": [
     "Ānanda"
   ],
@@ -22,7 +22,7 @@
   "mn123:17.2^speaker": "Four deities",
   "mn123:20.2^speaker": "Being intent on awakening",
   "mn123:21.4^speaker": "Sentient beings",
-  "mn123:22.1+mn123:22.5^speaker": "The Buddha",
+  "mn123:22.1+mn123:22.5^speaker": "the Buddha",
   "mn123:22.1+mn123:22.5^who_else_mentioned": [
     "Ānanda"
   ],
@@ -30,24 +30,24 @@
   "mn123:23.1+mn123:23.4^who_else_mentioned": [
     "Buddha"
   ],
-  "mn123:23.1^geographic_locations_here_and_before": [
+  "mn123:23.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn123:23.1^where_here_and_before": [
+  "mn123:23.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn123:23.1^who_around_here_and_before": [
+  "mn123:23.1^who_present_before_or_around_this_segment": [
     "Several senior mendicants",
     "Ānanda"
   ],
-  "mn123:23.1^who_mentioned_here_and_before": [
+  "mn123:23.1^who_mentioned_before_or_around_this_segment": [
     "Sentient beings",
     "Four deities",
     "Being intent on awakening",
     "Someone with good eyesight"
   ],
-  "mn123^initial_geographic_location": [
+  "mn123^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn123^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

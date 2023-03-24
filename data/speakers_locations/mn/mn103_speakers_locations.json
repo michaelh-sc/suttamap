@@ -1,32 +1,32 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn103:1.4^speaker": "The Buddha",
+  "mn103:1.4^speaker": "the Buddha",
   "mn103:1.5^speaker": "The mendicants",
-  "mn103:2.1+mn103:2.2^speaker": "The Buddha",
+  "mn103:2.1+mn103:2.2^speaker": "the Buddha",
   "mn103:2.1+mn103:2.2^who_else_mentioned": [
     "Gotama"
   ],
   "mn103:2.3^speaker": "The mendicants",
-  "mn103:2.5+mn103:2.8^speaker": "The Buddha",
+  "mn103:2.5+mn103:2.8^speaker": "the Buddha",
   "mn103:2.9+mn103:2.11^speaker": "The mendicants",
   "mn103:2.9+mn103:2.11^who_else_mentioned": [
     "Buddha"
   ],
-  "mn103:2.12+mn103:17.6^speaker": "The Buddha",
+  "mn103:2.12+mn103:17.6^speaker": "the Buddha",
   "mn103:2.12+mn103:17.6^who_else_mentioned": [
     "Ascetic",
     "Buddha"
   ],
-  "mn103:2.12^where_here_and_before": [
+  "mn103:2.12^where_before_or_around_this_segment": [
     "Near Kusināra in the Forest of Offerings"
   ],
-  "mn103:2.12^geographic_locations_here_and_before": [
+  "mn103:2.12^event_dppn_headwords_before_or_around_this_segment": [
     "Kusinārā"
   ],
-  "mn103:2.12^who_around_here_and_before": [
+  "mn103:2.12^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "mn103^initial_geographic_location": [
+  "mn103^initial_location_dppn_headword": [
     "Kusinārā"
   ],
   "mn103^where": "Near Kusināra, in the Forest of Offerings"

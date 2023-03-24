@@ -18,16 +18,16 @@
   "an5.58:5.2+an5.58:15.4^who_else_mentioned": [
     "Mahānāma"
   ],
-  "an5.58:5.2^geographic_locations_here_and_before": [
+  "an5.58:5.2^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an5.58:5.2^where_here_and_before": [
+  "an5.58:5.2^where_before_or_around_this_segment": [
     "Great Wood near Vesālī"
   ],
-  "an5.58:5.2^who_around_here_and_before": [
+  "an5.58:5.2^who_present_before_or_around_this_segment": [
     "Licchavi youths"
   ],
-  "an5.58^initial_geographic_location": [
+  "an5.58^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an5.58^where": "Great Wood near Vesālī"

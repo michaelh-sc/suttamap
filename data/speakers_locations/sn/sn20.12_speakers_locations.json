@@ -6,16 +6,16 @@
   "sn20.12:1.4+sn20.12:1.8^who_else_mentioned": [
     "Sakyan"
   ],
-  "sn20.12:1.4^geographic_locations_here_and_before": [
+  "sn20.12:1.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.12:1.4^where_here_and_before": [
+  "sn20.12:1.4^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.12:1.4^who_mentioned_here_and_before": [
+  "sn20.12:1.4^who_mentioned_before_or_around_this_segment": [
     "a certain person who claims to be a follower of the Sakyan son"
   ],
-  "sn20.12^initial_geographic_location": [
+  "sn20.12^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn20.12^where": "Sāvatthī"

@@ -9,14 +9,14 @@
   "sn48.53:2.2+sn48.53:7.4^who_else_mentioned": [
     "Buddha"
   ],
-  "sn48.53:2.2^geographic_locations_here_and_before": [
+  "sn48.53:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "sn48.53:2.2^where_here_and_before": [
+  "sn48.53:2.2^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "sn48.53^initial_geographic_location": [
+  "sn48.53^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "sn48.53^where": "Kosambi, in Ghosita's Monastery"

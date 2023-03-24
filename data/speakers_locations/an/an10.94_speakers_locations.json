@@ -29,21 +29,21 @@
     "Buddha"
   ],
   "an10.94:7.1+an10.94:12.2^speaker": "the Buddha",
-  "an10.94:14.2^geographic_locations_here_and_before": [
+  "an10.94:14.2^event_dppn_headwords_before_or_around_this_segment": [
     "Campā"
   ],
   "an10.94:14.2^speaker": "the Buddha",
-  "an10.94:14.2^where_here_and_before": [
+  "an10.94:14.2^where_before_or_around_this_segment": [
     "Campā on the banks of the Gaggarā Lotus Pond"
   ],
-  "an10.94:14.2^who_around_here_and_before": [
+  "an10.94:14.2^who_present_before_or_around_this_segment": [
     "Vajjiyamāhita",
     "the wanderers who follow other paths"
   ],
   "an10.94:14.2^who_else_mentioned": [
     "Vajjiyamāhita"
   ],
-  "an10.94^initial_geographic_location": [
+  "an10.94^initial_location_dppn_headword": [
     "Campā"
   ],
   "an10.94^where": "Campā on the banks of the Gaggarā Lotus Pond"

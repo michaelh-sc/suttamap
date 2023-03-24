@@ -21,17 +21,17 @@
   "dn20:4.9^speaker": "the mendicants",
   "dn20:5.1+dn20:5.8^speaker": "the Buddha",
   "dn20:5.13+dn20:5.14^speaker": "the Buddha",
-  "dn20:5.13^geographic_locations_here_and_before": [
+  "dn20:5.13^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "dn20:5.13^where_here_and_before": [
+  "dn20:5.13^where_before_or_around_this_segment": [
     "Kapilavatthu in the Great Wood"
   ],
-  "dn20:5.13^who_around_here_and_before": [
+  "dn20:5.13^who_present_before_or_around_this_segment": [
     "a large Saṅgha of around five hundred mendicants",
     "most of the deities from ten solar systems"
   ],
-  "dn20:5.13^who_mentioned_here_and_before": [
+  "dn20:5.13^who_mentioned_before_or_around_this_segment": [
     "Seer"
   ],
   "dn20:6.13+dn20:20.12^speaker": "the Seer",
@@ -145,15 +145,15 @@
     "Māra"
   ],
   "dn20:22.11+dn20:22.14^speaker": "the Buddha",
-  "dn20:22.11^who_around_here_and_before": [
+  "dn20:22.11^who_present_before_or_around_this_segment": [
     "the disciples",
     "the gods",
     "the Brahmās"
   ],
-  "dn20:22.11^who_mentioned_here_and_before": [
+  "dn20:22.11^who_mentioned_before_or_around_this_segment": [
     "Hārita"
   ],
-  "dn20^initial_geographic_location": [
+  "dn20^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "dn20^where": "Kapilavatthu in the Great Wood"

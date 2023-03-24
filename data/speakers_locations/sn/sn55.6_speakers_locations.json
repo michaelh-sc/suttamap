@@ -41,19 +41,19 @@
   "sn55.6:18.9+sn55.6:18.10^who_else_mentioned": [
     "Buddha"
   ],
-  "sn55.6:18.9^geographic_locations_here_and_before": [
+  "sn55.6:18.9^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn55.6:18.9^where_here_and_before": [
+  "sn55.6:18.9^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn55.6:18.9^who_around_here_and_before": [
+  "sn55.6:18.9^who_present_before_or_around_this_segment": [
     "the person posted on the road"
   ],
-  "sn55.6:18.9^who_mentioned_here_and_before": [
+  "sn55.6:18.9^who_mentioned_before_or_around_this_segment": [
     "King Pasenadi of Kosala"
   ],
-  "sn55.6^initial_geographic_location": [
+  "sn55.6^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn55.6^where": "Sāvatthī"

@@ -27,15 +27,15 @@
     "Ānanda",
     "Joy"
   ],
-  "an11.1:10.2^geographic_locations_here_and_before": [
+  "an11.1:10.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an11.1:10.2^where_here_and_before": [
+  "an11.1:10.2^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "an11.1^initial_geographic_location": [
+  "an11.1^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an11.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

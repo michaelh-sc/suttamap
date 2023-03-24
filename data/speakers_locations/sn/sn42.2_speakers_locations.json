@@ -16,16 +16,16 @@
     "Buddha",
     "Saṅgha"
   ],
-  "sn42.2:3.4^geographic_locations_here_and_before": [
+  "sn42.2:3.4^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn42.2:3.4^where_here_and_before": [
+  "sn42.2:3.4^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "sn42.2:3.4^who_mentioned_here_and_before": [
+  "sn42.2:3.4^who_mentioned_before_or_around_this_segment": [
     "Dancers of the past"
   ],
-  "sn42.2^initial_geographic_location": [
+  "sn42.2^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn42.2^where": "Bamboo Grove, near Rājagaha"

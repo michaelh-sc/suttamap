@@ -64,23 +64,23 @@
   "sn22.87:8.35^speaker": "the monks",
   "sn22.87:10.4^speaker": "the monks",
   "sn22.87:11.3^speaker": "the Buddha",
-  "sn22.87:11.4^geographic_locations_here_and_before": [
+  "sn22.87:11.4^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn22.87:11.4^speaker": "the monks",
-  "sn22.87:11.4^where_here_and_before": [
+  "sn22.87:11.4^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn22.87:11.4^who_around_here_and_before": [
+  "sn22.87:11.4^who_present_before_or_around_this_segment": [
     "Māra the Wicked",
     "two glorious deities"
   ],
-  "sn22.87:11.4^who_mentioned_here_and_before": [
+  "sn22.87:11.4^who_mentioned_before_or_around_this_segment": [
     "Isigili"
   ],
-  "sn22.87^initial_geographic_location": [
+  "sn22.87^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn22.87^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

@@ -34,23 +34,23 @@
   "mn86:10.1+mn86:10.5^who_else_mentioned": [
     "Aṅgulimāla"
   ],
-  "mn86:11.1^geographic_locations_here_and_before": [
+  "mn86:11.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn86:11.1^speaker": "the Buddha",
-  "mn86:11.1^where_here_and_before": [
+  "mn86:11.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "mn86:11.1^who_around_here_and_before": [
+  "mn86:11.1^who_present_before_or_around_this_segment": [
     "King Pasenadi",
     "Aṅgulimāla"
   ],
   "mn86:11.1^who_else_mentioned": [
     "Aṅgulimāla"
   ],
-  "mn86:11.1^who_mentioned_here_and_before": [
+  "mn86:11.1^who_mentioned_before_or_around_this_segment": [
     "King Seniya Bimbisāra of Magadha",
     "Licchavis of Vesālī"
   ],
@@ -87,33 +87,33 @@
   ],
   "mn86:15.7^speaker": "Aṅgulimāla",
   "mn86:15.8^speaker": "Aṅgulimāla",
-  "mn86:16.2^geographic_locations_here_and_before": [
+  "mn86:16.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "mn86:16.2^speaker": "Aṅgulimāla",
-  "mn86:16.2^where_here_and_before": [
+  "mn86:16.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "mn86:16.2^who_around_here_and_before": [
+  "mn86:16.2^who_present_before_or_around_this_segment": [
     "King Pasenadi",
     "Aṅgulimāla"
   ],
-  "mn86:16.2^who_mentioned_here_and_before": [
+  "mn86:16.2^who_mentioned_before_or_around_this_segment": [
     "Gagga",
     "Mantāṇī"
   ],
-  "mn86:17.6+mn86:17.7^speaker": "The Buddha",
+  "mn86:17.6+mn86:17.7^speaker": "the Buddha",
   "mn86:18.3+mn86:18.66^speaker": "Aṅgulimāla",
   "mn86:18.3+mn86:18.66^who_else_mentioned": [
     "Buddha"
   ],
-  "mn86:18.3^geographic_locations_here_and_before": [
+  "mn86:18.3^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "mn86:18.3^where_here_and_before": [
+  "mn86:18.3^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "mn86^initial_geographic_location": [
+  "mn86^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn86^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

@@ -22,21 +22,21 @@
     "Buddha",
     "Koṇḍañña"
   ],
-  "sn8.9:3.1^geographic_locations_here_and_before": [
+  "sn8.9:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn8.9:3.1^where_here_and_before": [
+  "sn8.9:3.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn8.9:3.1^who_around_here_and_before": [
+  "sn8.9:3.1^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn8.9:3.1^who_mentioned_here_and_before": [
+  "sn8.9:3.1^who_mentioned_before_or_around_this_segment": [
     "Koṇḍañña Who Understood"
   ],
-  "sn8.9^initial_geographic_location": [
+  "sn8.9^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn8.9^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

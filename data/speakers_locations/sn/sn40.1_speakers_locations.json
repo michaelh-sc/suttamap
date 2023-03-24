@@ -7,21 +7,21 @@
     "Buddha",
     "Moggallāna"
   ],
-  "sn40.1:2.2^geographic_locations_here_and_before": [
+  "sn40.1:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "sn40.1:2.2^speaker": "Mahāmoggallāna",
-  "sn40.1:2.2^where_here_and_before": [
+  "sn40.1:2.2^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "sn40.1:2.2^who_around_here_and_before": [
+  "sn40.1:2.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn40.1:2.2^who_mentioned_here_and_before": [
+  "sn40.1:2.2^who_mentioned_before_or_around_this_segment": [
     "the Teacher"
   ],
-  "sn40.1^initial_geographic_location": [
+  "sn40.1^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn40.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

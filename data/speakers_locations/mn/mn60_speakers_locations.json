@@ -16,44 +16,44 @@
   "mn60:4.1^speaker": "the Buddha",
   "mn60:4.2^speaker": "brahmins of Sālā and householders of Sālā",
   "mn60:4.3+mn60:6.5^speaker": "the Buddha",
-  "mn60:6.6^geographic_locations_here_and_before": [
+  "mn60:6.6^event_dppn_headwords_before_or_around_this_segment": [
     "Sālā"
   ],
   "mn60:6.6^speaker": "brahmins of Sālā and householders of Sālā",
-  "mn60:6.6^where_here_and_before": [
+  "mn60:6.6^where_before_or_around_this_segment": [
     "the land of the Kosalans Sālā"
   ],
-  "mn60:6.6^who_around_here_and_before": [
+  "mn60:6.6^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
   "mn60:7.1+mn60:14.8^speaker": "the Buddha",
   "mn60:7.1+mn60:14.8^where_else_mentioned": [
     "Ganges"
   ],
-  "mn60:14.9^geographic_locations_here_and_before": [
+  "mn60:14.9^event_dppn_headwords_before_or_around_this_segment": [
     "Sālā"
   ],
   "mn60:14.9^speaker": "brahmins of Sālā and householders of Sālā",
-  "mn60:14.9^where_here_and_before": [
+  "mn60:14.9^where_before_or_around_this_segment": [
     "Sālā"
   ],
-  "mn60:14.9^who_mentioned_here_and_before": [
+  "mn60:14.9^who_mentioned_before_or_around_this_segment": [
     "ascetics",
     "brahmins"
   ],
   "mn60:15.1+mn60:22.10^speaker": "the Buddha",
-  "mn60:22.11^geographic_locations_here_and_before": [
+  "mn60:22.11^event_dppn_headwords_before_or_around_this_segment": [
     "Sālā"
   ],
   "mn60:22.11^speaker": "brahmins and householders of Sālā",
-  "mn60:22.11^where_here_and_before": [
+  "mn60:22.11^where_before_or_around_this_segment": [
     "Sālā"
   ],
   "mn60:23.1+mn60:30.5^speaker": "the Buddha",
   "mn60:30.6^speaker": "brahmins of Sālā and householders of Sālā",
   "mn60:31.1+mn60:33.5^speaker": "the Buddha",
   "mn60:33.6^speaker": "brahmins of Sālā and householders of Sālā",
-  "mn60^initial_geographic_location": [
+  "mn60^initial_location_dppn_headword": [
     "Sālā"
   ],
   "mn60^where": "the land of the Kosalans, Sālā"

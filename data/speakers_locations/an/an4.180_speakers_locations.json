@@ -3,11 +3,11 @@
   "an4.180:1.3^speaker": "the Buddha (assumed)",
   "an4.180:1.4^speaker": "the mendicants",
   "an4.180:1.6+an4.180:1.7^speaker": "the Buddha (assumed)",
-  "an4.180:1.8^geographic_locations_here_and_before": [
+  "an4.180:1.8^event_dppn_headwords_before_or_around_this_segment": [
     "Bhoganagara"
   ],
   "an4.180:1.8^speaker": "the mendicants",
-  "an4.180:1.8^where_here_and_before": [
+  "an4.180:1.8^where_before_or_around_this_segment": [
     "near the city of Bhoga at the Ānanda Tree-shrine"
   ],
   "an4.180:2.1+an4.180:9.11^speaker": "the Buddha (assumed)",
@@ -15,7 +15,7 @@
     "Buddha",
     "Saṅgha"
   ],
-  "an4.180^initial_geographic_location": [
+  "an4.180^initial_location_dppn_headword": [
     "Bhoganagara"
   ],
   "an4.180^where": "near the city of Bhoga, at the Ānanda Tree-shrine"

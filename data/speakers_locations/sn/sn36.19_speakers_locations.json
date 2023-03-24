@@ -29,11 +29,11 @@
   "sn36.19:3.7+sn36.19:3.8^who_else_mentioned": [
     "Buddha"
   ],
-  "sn36.19:3.7^who_around_here_and_before": [
+  "sn36.19:3.7^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "sn36.19:3.7^who_mentioned_here_and_before": [
-    "The Buddha"
+  "sn36.19:3.7^who_mentioned_before_or_around_this_segment": [
+    "the Buddha"
   ],
   "sn36.19:5.1+sn36.19:16.6^speaker": "the Buddha",
   "sn36.19:5.1+sn36.19:16.6^who_else_mentioned": [
@@ -43,7 +43,7 @@
     "Buddha",
     "The Realized One"
   ],
-  "sn36.19:5.1^who_around_here_and_before": [
+  "sn36.19:5.1^who_present_before_or_around_this_segment": [
     "Ānanda"
   ]
 }

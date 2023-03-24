@@ -36,18 +36,18 @@
     "Mahākaccāna"
   ],
   "mn18:14.1^speaker": "the mendicants",
-  "mn18:14.2^geographic_locations_here_and_before": [
+  "mn18:14.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
   "mn18:14.2^speaker": "Mahākaccāna",
-  "mn18:14.2^where_here_and_before": [
+  "mn18:14.2^where_before_or_around_this_segment": [
     "Kapilavatthu in the Banyan Tree Monastery",
     "Great Wood"
   ],
-  "mn18:14.2^who_around_here_and_before": [
+  "mn18:14.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "mn18:14.2^who_mentioned_here_and_before": [
+  "mn18:14.2^who_mentioned_before_or_around_this_segment": [
     "Māras",
     "Brahmās"
   ],
@@ -66,17 +66,17 @@
   ],
   "mn18:22.2+mn18:22.4^speaker": "Ānanda",
   "mn18:22.5^speaker": "the Buddha",
-  "mn18:22.5^who_around_here_and_before": [
+  "mn18:22.5^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
   "mn18:22.5^who_else_mentioned": [
     "Ānanda"
   ],
-  "mn18:22.5^who_mentioned_here_and_before": [
+  "mn18:22.5^who_mentioned_before_or_around_this_segment": [
     "Mahākaccāna",
     "Ānanda"
   ],
-  "mn18^initial_geographic_location": [
+  "mn18^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "mn18^where": "Kapilavatthu in the Banyan Tree Monastery, Great Wood"

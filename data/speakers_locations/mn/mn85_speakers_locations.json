@@ -54,16 +54,16 @@
     "Prince"
   ],
   "mn85:18.7+mn85:18.10^speaker": "the Buddha",
-  "mn85:18.7^geographic_locations_here_and_before": [
+  "mn85:18.7^event_dppn_headwords_before_or_around_this_segment": [
     "Susumāragiri"
   ],
-  "mn85:18.7^where_here_and_before": [
+  "mn85:18.7^where_before_or_around_this_segment": [
     "the land of the Bhaggas on Crocodile Hill in the deer park at Bhesakaḷā's Wood"
   ],
-  "mn85:18.7^who_around_here_and_before": [
+  "mn85:18.7^who_present_before_or_around_this_segment": [
     "Saṅgha of mendicants"
   ],
-  "mn85:18.7^who_mentioned_here_and_before": [
+  "mn85:18.7^who_mentioned_before_or_around_this_segment": [
     "Āḷāra Kālāma",
     "Rāma"
   ],
@@ -140,10 +140,10 @@
     "Saṅgha",
     "this Prince Bodhi"
   ],
-  "mn85:61.5^who_around_here_and_before": [
+  "mn85:61.5^who_present_before_or_around_this_segment": [
     "Sañjikāputta"
   ],
-  "mn85^initial_geographic_location": [
+  "mn85^initial_location_dppn_headword": [
     "Susumāragiri"
   ],
   "mn85^where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood"

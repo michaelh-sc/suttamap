@@ -6,17 +6,16 @@
     "Buddha",
     "Saṅgha"
   ],
-  "an8.48:2.1^geographic_locations_here_and_before": [
-    "Isipatana"
+  "an8.48:2.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Susumāragiri"
   ],
-  "an8.48:2.1^where_here_and_before": [
-    "the land of the Bhaggas on Crocodile Hill",
-    "in the deer park at Bhesakaḷā's Wood"
+  "an8.48:2.1^where_before_or_around_this_segment": [
+    "the land of the Bhaggas on Crocodile Hill in the deer park at Bhesakaḷā's Wood"
   ],
-  "an8.48:2.1^who_around_here_and_before": [
+  "an8.48:2.1^who_present_before_or_around_this_segment": [
     "Nakula's mother"
   ],
-  "an8.48^initial_geographic_location": [
+  "an8.48^initial_location_dppn_headword": [
     "Susumāragiri"
   ],
   "an8.48^where": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood"

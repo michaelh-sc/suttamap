@@ -1,3 +1,19 @@
-{
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming."
+{ "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an2.163:1.1+an2.163:1.4": "the Buddha (assumed)",
+  "an2.164:1.1+an2.164:1.4": "the Buddha (assumed)",
+  "an2.165:1.1+an2.165:1.4": "the Buddha (assumed)",
+  "an2.166:1.1+an2.166:1.4": "the Buddha (assumed)",
+  "an2.167:1.1+an2.167:1.4": "the Buddha (assumed)",
+  "an2.168:1.1+an2.168:1.4": "the Buddha (assumed)",
+  "an2.169:1.1+an2.169:1.4": "the Buddha (assumed)",
+  "an2.170:1.1+an2.170:1.4": "the Buddha (assumed)",
+  "an2.171:1.1+an2.171:1.4": "the Buddha (assumed)",
+  "an2.172:1.1+an2.172:1.4": "the Buddha (assumed)",
+  "an2.173:1.1+an2.173:1.4": "the Buddha (assumed)",
+  "an2.174:1.1+an2.174:1.4": "the Buddha (assumed)",
+  "an2.175:1.1+an2.175:1.4": "the Buddha (assumed)",
+  "an2.176:1.1+an2.176:1.4": "the Buddha (assumed)",
+  "an2.177:1.1+an2.177:1.4": "the Buddha (assumed)",
+  "an2.178:1.1+an2.178:1.4": "the Buddha (assumed)",
+  "an2.179:1.1+an2.179:1.4": "the Buddha (assumed)"
 }

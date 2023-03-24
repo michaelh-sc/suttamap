@@ -8,16 +8,16 @@
   "an10.26:4.1+an10.26:6.5^who_else_mentioned": [
     "Buddha"
   ],
-  "an10.26:4.1^geographic_locations_here_and_before": [
+  "an10.26:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Avanti"
   ],
-  "an10.26:4.1^where_here_and_before": [
+  "an10.26:4.1^where_before_or_around_this_segment": [
     "The land of the Avantis near Kuraraghara on Steep Mountain"
   ],
-  "an10.26:4.1^who_mentioned_here_and_before": [
-    "The Buddha"
+  "an10.26:4.1^who_mentioned_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "an10.26^initial_geographic_location": [
+  "an10.26^initial_location_dppn_headword": [
     "Avanti"
   ],
   "an10.26^where": "The land of the Avantis near Kuraraghara on Steep Mountain"

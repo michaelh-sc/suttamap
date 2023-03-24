@@ -8,14 +8,14 @@
   "an4.80:2.2+an4.80:2.6^where_else_mentioned": [
     "Persia"
   ],
-  "an4.80:2.2^geographic_locations_here_and_before": [
+  "an4.80:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "an4.80:2.2^where_here_and_before": [
+  "an4.80:2.2^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "an4.80^initial_geographic_location": [
+  "an4.80^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "an4.80^where": "Kosambi, in Ghosita's Monastery"

@@ -4,10 +4,10 @@
   "an5.135:1.1+an5.135:4.13^who_else_mentioned": [
     "Buddha"
   ],
-  "an5.135:1.1^who_around_here_and_before": [
+  "an5.135:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an5.135:1.1^who_mentioned_here_and_before": [
+  "an5.135:1.1^who_mentioned_before_or_around_this_segment": [
     "an anointed aristocratic king's eldest son"
   ]
 }

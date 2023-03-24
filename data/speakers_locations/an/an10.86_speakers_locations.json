@@ -6,18 +6,18 @@
   "an10.86:2.2^speaker": "Mahākassapa",
   "an10.86:3.3^speaker": "Mahākassapa",
   "an10.86:5.3^speaker": "Mahākassapa",
-  "an10.86:6.4^geographic_locations_here_and_before": [
+  "an10.86:6.4^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "an10.86:6.4^speaker": "Mahākassapa",
-  "an10.86:6.4^where_here_and_before": [
+  "an10.86:6.4^where_before_or_around_this_segment": [
     "Bamboo Grove",
     "Rājagaha"
   ],
-  "an10.86:6.4^who_around_here_and_before": [
+  "an10.86:6.4^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "an10.86^initial_geographic_location": [
+  "an10.86^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "an10.86^where": "Bamboo Grove, Rājagaha"

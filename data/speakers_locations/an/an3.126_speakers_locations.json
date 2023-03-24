@@ -61,19 +61,19 @@
     "Buddha",
     "Mahānāma"
   ],
-  "an3.126:7.2^geographic_locations_here_and_before": [
+  "an3.126:7.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "an3.126:7.2^where_here_and_before": [
+  "an3.126:7.2^where_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "an3.126:7.2^who_around_here_and_before": [
+  "an3.126:7.2^who_present_before_or_around_this_segment": [
     "Mahānāma"
   ],
-  "an3.126:7.2^who_mentioned_here_and_before": [
+  "an3.126:7.2^who_mentioned_before_or_around_this_segment": [
     "Bharaṇḍu"
   ],
-  "an3.126^initial_geographic_location": [
+  "an3.126^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "an3.126^where": "Kapilavatthu"

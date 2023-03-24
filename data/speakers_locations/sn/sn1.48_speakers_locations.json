@@ -7,13 +7,13 @@
   "sn1.48:1.1+sn1.48:4.4^who_else_mentioned": [
     "Saṅgha"
   ],
-  "sn1.48:1.1^geographic_locations_here_and_before": [
+  "sn1.48:1.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn1.48:1.1^where_here_and_before": [
+  "sn1.48:1.1^where_before_or_around_this_segment": [
     "Jeta's Grove"
   ],
-  "sn1.48^initial_geographic_location": [
+  "sn1.48^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn1.48^where": "Jeta's Grove"

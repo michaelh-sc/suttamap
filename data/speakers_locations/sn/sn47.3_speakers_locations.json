@@ -11,17 +11,17 @@
     "the Holy One"
   ],
   "sn47.3:1.6+sn47.3:2.14^speaker": "the Buddha",
-  "sn47.3:3.3^geographic_locations_here_and_before": [
+  "sn47.3:3.3^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "sn47.3:3.3^speaker": "the mendicant",
-  "sn47.3:3.3^where_here_and_before": [
+  "sn47.3:3.3^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "sn47.3:3.3^who_around_here_and_before": [
+  "sn47.3:3.3^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn47.3^initial_geographic_location": [
+  "sn47.3^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn47.3^where": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī"

@@ -4,11 +4,11 @@
   "an6.21:3.9+an6.21:4.2^speaker": "the Buddha",
   "an6.21:4.3^speaker": "the mendicants",
   "an6.21:4.5+an6.21:5.1^speaker": "the Buddha",
-  "an6.21:4.5^where_here_and_before": [
+  "an6.21:4.5^where_before_or_around_this_segment": [
     "the little village of Sāma",
     "by a lotus pond"
   ],
-  "an6.21:4.5^who_around_here_and_before": [
+  "an6.21:4.5^who_present_before_or_around_this_segment": [
     "the Sakyans"
   ],
   "an6.21^where": "the little village of Sāma, by a lotus pond"

@@ -5,16 +5,16 @@
   "sn3.4:1.16^speaker": "King Pasenadi",
   "sn3.4:2.1^speaker": "the Buddha",
   "sn3.4:3.1+sn3.4:6.4^speaker": "the Buddha",
-  "sn3.4:3.1^geographic_locations_here_and_before": [
+  "sn3.4:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn3.4:3.1^where_here_and_before": [
+  "sn3.4:3.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn3.4:3.1^who_around_here_and_before": [
+  "sn3.4:3.1^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn3.4^initial_geographic_location": [
+  "sn3.4^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn3.4^where": "Sāvatthī"

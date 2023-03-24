@@ -87,18 +87,18 @@
   "sn22.85:14.1+sn22.85:15.11^who_else_mentioned": [
     "Yamaka"
   ],
-  "sn22.85:15.12^geographic_locations_here_and_before": [
+  "sn22.85:15.12^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "sn22.85:15.12^speaker": "Yamaka",
-  "sn22.85:15.12^where_here_and_before": [
+  "sn22.85:15.12^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery in Sāvatthī"
   ],
-  "sn22.85:15.12^who_around_here_and_before": [
+  "sn22.85:15.12^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn22.85:15.12^who_mentioned_here_and_before": [
+  "sn22.85:15.12^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
   "sn22.85:15.13+sn22.85:28.6^speaker": "Sāriputta",
@@ -106,15 +106,15 @@
   "sn22.85:28.7+sn22.85:28.8^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn22.85:28.7^who_around_here_and_before": [
+  "sn22.85:28.7^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn22.85:28.7^who_mentioned_here_and_before": [
+  "sn22.85:28.7^who_mentioned_before_or_around_this_segment": [
     "uneducated ordinary person",
     "noble ones",
     "good persons"
   ],
-  "sn22.85^initial_geographic_location": [
+  "sn22.85^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn22.85^where": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī"

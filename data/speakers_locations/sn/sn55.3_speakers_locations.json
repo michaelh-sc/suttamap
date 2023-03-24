@@ -42,17 +42,17 @@
   "sn55.3:5.6+sn55.3:5.7^who_else_mentioned": [
     "Dīghāvu"
   ],
-  "sn55.3:5.6^geographic_locations_here_and_before": [
+  "sn55.3:5.6^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn55.3:5.6^where_here_and_before": [
+  "sn55.3:5.6^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "sn55.3:5.6^who_around_here_and_before": [
+  "sn55.3:5.6^who_present_before_or_around_this_segment": [
     "Jotika",
     "the mendicants"
   ],
-  "sn55.3^initial_geographic_location": [
+  "sn55.3^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn55.3^where": "Bamboo Grove, near Rājagaha"

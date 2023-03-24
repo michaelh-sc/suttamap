@@ -1,25 +1,25 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn7.4:2.1+sn7.4:2.4^speaker": "the Buddha",
-  "sn7.4:3.2^geographic_locations_here_and_before": [
+  "sn7.4:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn7.4:3.2^speaker": "the brahmin Bhāradvāja the Bitter",
-  "sn7.4:3.2^where_here_and_before": [
+  "sn7.4:3.2^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn7.4:3.2^who_around_here_and_before": [
+  "sn7.4:3.2^who_present_before_or_around_this_segment": [
     "the brahmin Bhāradvāja the Bitter"
   ],
   "sn7.4:3.2^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.4:3.2^who_mentioned_here_and_before": [
+  "sn7.4:3.2^who_mentioned_before_or_around_this_segment": [
     "a brahmin of the Bhāradvāja clan"
   ],
-  "sn7.4^initial_geographic_location": [
+  "sn7.4^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn7.4^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground."

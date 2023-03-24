@@ -9,18 +9,18 @@
     "Buddha",
     "Saṅgha"
   ],
-  "sn55.13:1.5^geographic_locations_here_and_before": [
+  "sn55.13:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn55.13:1.5^where_here_and_before": [
+  "sn55.13:1.5^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery in Sāvatthī"
   ],
-  "sn55.13:1.5^who_around_here_and_before": [
+  "sn55.13:1.5^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Ānanda"
   ],
-  "sn55.13^initial_geographic_location": [
+  "sn55.13^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn55.13^where": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī"

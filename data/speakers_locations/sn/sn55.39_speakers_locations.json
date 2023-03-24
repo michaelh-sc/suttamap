@@ -12,16 +12,16 @@
   "sn55.39:3.7+sn55.39:3.8^who_else_mentioned": [
     "Godhā"
   ],
-  "sn55.39:3.7^geographic_locations_here_and_before": [
+  "sn55.39:3.7^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "sn55.39:3.7^where_here_and_before": [
+  "sn55.39:3.7^where_before_or_around_this_segment": [
     "Kapilavatthu in the Banyan Tree Monastery"
   ],
-  "sn55.39:3.7^who_around_here_and_before": [
+  "sn55.39:3.7^who_present_before_or_around_this_segment": [
     "Kāḷigodhā"
   ],
-  "sn55.39^initial_geographic_location": [
+  "sn55.39^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "sn55.39^where": "Kapilavatthu in the Banyan Tree Monastery"

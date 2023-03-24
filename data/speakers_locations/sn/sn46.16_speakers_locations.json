@@ -12,16 +12,16 @@
   "sn46.16:2.5+sn46.16:2.6^who_else_mentioned": [
     "Cunda"
   ],
-  "sn46.16:2.5^geographic_locations_here_and_before": [
+  "sn46.16:2.5^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn46.16:2.5^where_here_and_before": [
+  "sn46.16:2.5^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "sn46.16:2.5^who_around_here_and_before": [
+  "sn46.16:2.5^who_present_before_or_around_this_segment": [
     "Mahācunda"
   ],
-  "sn46.16^initial_geographic_location": [
+  "sn46.16^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn46.16^where": "Bamboo Grove, near Rājagaha"

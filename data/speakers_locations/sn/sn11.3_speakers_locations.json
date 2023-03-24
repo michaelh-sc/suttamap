@@ -1,8 +1,8 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn11.3:1.3^speaker": "The Buddha",
+  "sn11.3:1.3^speaker": "the Buddha",
   "sn11.3:1.4^speaker": "The mendicants",
-  "sn11.3:2.1+sn11.3:12.2^speaker": "The Buddha",
+  "sn11.3:2.1+sn11.3:12.2^speaker": "the Buddha",
   "sn11.3:2.1+sn11.3:12.2^where_else_mentioned": [
     "Pajāpati"
   ],
@@ -17,20 +17,20 @@
     "Buddha",
     "Saṅgha"
   ],
-  "sn11.3:13.1^geographic_locations_here_and_before": [
+  "sn11.3:13.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn11.3:13.1^where_here_and_before": [
+  "sn11.3:13.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn11.3:13.1^who_around_here_and_before": [
+  "sn11.3:13.1^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "sn11.3:13.1^who_mentioned_here_and_before": [
+  "sn11.3:13.1^who_mentioned_before_or_around_this_segment": [
     "The gods",
     "the demons"
   ],
-  "sn11.3^initial_geographic_location": [
+  "sn11.3^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn11.3^where": "Sāvatthī"

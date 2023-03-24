@@ -50,18 +50,18 @@
   "sn12.67:8.1+sn12.67:9.16^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn12.67:8.1^geographic_locations_here_and_before": [
+  "sn12.67:8.1^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn12.67:8.1^where_here_and_before": [
+  "sn12.67:8.1^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "sn12.67:8.1^who_around_here_and_before": [
+  "sn12.67:8.1^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn12.67^initial_geographic_location": [
+  "sn12.67^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

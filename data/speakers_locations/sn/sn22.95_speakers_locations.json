@@ -4,20 +4,20 @@
   "sn22.95:2.1+sn22.95:7.3^where_else_mentioned": [
     "Ganges"
   ],
-  "sn22.95:9.1+sn22.95:15.4^speaker": "the Holy One, the Teacher",
+  "sn22.95:9.1+sn22.95:15.4^speaker": "the Buddha",
   "sn22.95:9.1+sn22.95:15.4^who_else_mentioned": [
     "Kinsman"
   ],
-  "sn22.95:9.1^geographic_locations_here_and_before": [
+  "sn22.95:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Ayujjhā"
   ],
-  "sn22.95:9.1^where_here_and_before": [
+  "sn22.95:9.1^where_before_or_around_this_segment": [
     "near Ayojjhā on the bank of the Ganges river"
   ],
-  "sn22.95:9.1^who_around_here_and_before": [
+  "sn22.95:9.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn22.95^initial_geographic_location": [
+  "sn22.95^initial_location_dppn_headword": [
     "Ayujjhā"
   ],
   "sn22.95^where": "near Ayojjhā on the bank of the Ganges river"

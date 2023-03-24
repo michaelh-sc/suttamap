@@ -22,16 +22,16 @@
     "Ānanda",
     "Buddha"
   ],
-  "an9.37:4.2^geographic_locations_here_and_before": [
+  "an9.37:4.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "an9.37:4.2^where_here_and_before": [
+  "an9.37:4.2^where_before_or_around_this_segment": [
     "Ghosita's Monastery near Kosambi"
   ],
-  "an9.37:4.2^who_around_here_and_before": [
+  "an9.37:4.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "an9.37^initial_geographic_location": [
+  "an9.37^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "an9.37^where": "Ghosita's Monastery, Kosambi"

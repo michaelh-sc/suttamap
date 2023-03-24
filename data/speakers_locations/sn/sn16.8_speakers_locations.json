@@ -9,20 +9,20 @@
   "sn16.8:2.2+sn16.8:7.7^who_else_mentioned": [
     "Kassapa"
   ],
-  "sn16.8:2.2^geographic_locations_here_and_before": [
+  "sn16.8:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn16.8:2.2^where_here_and_before": [
+  "sn16.8:2.2^where_before_or_around_this_segment": [
     "Near Rājagaha",
     "in the squirrels' feeding ground"
   ],
-  "sn16.8:2.2^who_around_here_and_before": [
+  "sn16.8:2.2^who_present_before_or_around_this_segment": [
     "Mahākassapa"
   ],
-  "sn16.8:2.2^who_mentioned_here_and_before": [
+  "sn16.8:2.2^who_mentioned_before_or_around_this_segment": [
     "senior mendicants"
   ],
-  "sn16.8^initial_geographic_location": [
+  "sn16.8^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn16.8^where": "Near Rājagaha, in the squirrels' feeding ground."

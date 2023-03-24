@@ -83,25 +83,22 @@
     "Vajjis",
     "King Ajātasattu"
   ],
-  "an7.22:12.5^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "an7.22:12.5^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
   "an7.22:12.5^speaker": "the Buddha",
-  "an7.22:12.5^where_here_and_before": [
-    "Rājagaha",
-    "on the Vulture's Peak Mountain"
+  "an7.22:12.5^where_before_or_around_this_segment": [
+    "Rājagaha on the Vulture's Peak Mountain"
   ],
-  "an7.22:12.5^who_around_here_and_before": [
+  "an7.22:12.5^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "an7.22:12.5^who_mentioned_here_and_before": [
+  "an7.22:12.5^who_mentioned_before_or_around_this_segment": [
     "Vajjis",
     "King Ajātasattu Vedehiputta of Māgadha",
     "Vassakāra the brahmin minister of Māgadha"
   ],
-  "an7.22^initial_geographic_location": [
-    "Rājagaha",
+  "an7.22^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "an7.22^where": "Rājagaha, on the Vulture's Peak Mountain"

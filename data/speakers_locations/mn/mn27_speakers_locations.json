@@ -41,18 +41,18 @@
     "Gotama"
   ],
   "mn27:9.5+mn27:9.7^speaker": "the Buddha",
-  "mn27:9.8^geographic_locations_here_and_before": [
+  "mn27:9.8^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn27:9.8^speaker": "Jāṇussoṇi",
-  "mn27:9.8^where_here_and_before": [
+  "mn27:9.8^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī"
   ],
-  "mn27:9.8^who_around_here_and_before": [
+  "mn27:9.8^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika's monastery"
   ],
-  "mn27:9.8^who_mentioned_here_and_before": [
+  "mn27:9.8^who_mentioned_before_or_around_this_segment": [
     "the ascetic Buddha"
   ],
   "mn27:10.1+mn27:26.7^speaker": "the Buddha",
@@ -68,7 +68,7 @@
     "Gotama",
     "Saṅgha"
   ],
-  "mn27^initial_geographic_location": [
+  "mn27^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn27^where": "Jeta's Grove, Sāvatthī"

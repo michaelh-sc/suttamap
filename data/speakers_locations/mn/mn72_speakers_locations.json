@@ -107,11 +107,11 @@
   ],
   "mn72:19.9+mn72:19.10^speaker": "Vacchagotta",
   "mn72:19.11+mn72:19.12^speaker": "Vacchagotta",
-  "mn72:19.13^geographic_locations_here_and_before": [
+  "mn72:19.13^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn72:19.13^speaker": "Vacchagotta",
-  "mn72:19.13^where_here_and_before": [
+  "mn72:19.13^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
   "mn72:19.13^who_else_mentioned": [
@@ -133,10 +133,10 @@
   "mn72:21.2+mn72:22.2^who_else_mentioned": [
     "Gotama"
   ],
-  "mn72:21.2^who_around_here_and_before": [
+  "mn72:21.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "mn72^initial_geographic_location": [
+  "mn72^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn72^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

@@ -24,19 +24,19 @@
   "sn55.53:4.7+sn55.53:4.8^who_else_mentioned": [
     "Dhammadinna"
   ],
-  "sn55.53:4.7^geographic_locations_here_and_before": [
+  "sn55.53:4.7^event_dppn_headwords_before_or_around_this_segment": [
     "Isipatana"
   ],
-  "sn55.53:4.7^where_here_and_before": [
+  "sn55.53:4.7^where_before_or_around_this_segment": [
     "deer park at Isipatana near Benares"
   ],
-  "sn55.53:4.7^who_around_here_and_before": [
+  "sn55.53:4.7^who_present_before_or_around_this_segment": [
     "five hundred lay followers"
   ],
-  "sn55.53:4.7^who_mentioned_here_and_before": [
+  "sn55.53:4.7^who_mentioned_before_or_around_this_segment": [
     "Kāsi"
   ],
-  "sn55.53^initial_geographic_location": [
+  "sn55.53^initial_location_dppn_headword": [
     "Isipatana"
   ],
   "sn55.53^where": "deer park at Isipatana, near Benares"

@@ -4,17 +4,17 @@
   "sn11.24:2.1+sn11.24:4.6^who_else_mentioned": [
     "Sakka"
   ],
-  "sn11.24:2.1^geographic_locations_here_and_before": [
+  "sn11.24:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn11.24:2.1^where_here_and_before": [
+  "sn11.24:2.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn11.24:2.1^who_around_here_and_before": [
+  "sn11.24:2.1^who_present_before_or_around_this_segment": [
     "the two mendicants",
     "several mendicants"
   ],
-  "sn11.24^initial_geographic_location": [
+  "sn11.24^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn11.24^where": "Sāvatthī"

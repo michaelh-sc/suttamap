@@ -8,11 +8,11 @@
   "sn22.3:4.1+sn22.3:17.4^who_else_mentioned": [
     "Buddha"
   ],
-  "sn22.3:4.1^where_here_and_before": [
+  "sn22.3:4.1^where_before_or_around_this_segment": [
     "The land of the Avantis near Kuraraghara on Steep Mountain"
   ],
-  "sn22.3:4.1^who_mentioned_here_and_before": [
-    "The Buddha"
+  "sn22.3:4.1^who_mentioned_before_or_around_this_segment": [
+    "the Buddha"
   ],
   "sn22.3^where": "The land of the Avantis near Kuraraghara on Steep Mountain"
 }

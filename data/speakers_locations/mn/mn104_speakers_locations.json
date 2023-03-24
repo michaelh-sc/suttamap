@@ -32,21 +32,21 @@
   "mn104:22.3+mn104:22.4^who_else_mentioned": [
     "Ānanda"
   ],
-  "mn104:22.3^geographic_locations_here_and_before": [
+  "mn104:22.3^event_dppn_headwords_before_or_around_this_segment": [
     "Pāvā"
   ],
-  "mn104:22.3^where_here_and_before": [
+  "mn104:22.3^where_before_or_around_this_segment": [
     "Sāma village near the village of Pāvā"
   ],
-  "mn104:22.3^who_around_here_and_before": [
+  "mn104:22.3^who_present_before_or_around_this_segment": [
     "Cunda",
     "the Jain ascetics",
     "the Nigaṇṭha Nātaputta's white-clothed lay disciples"
   ],
-  "mn104:22.3^who_mentioned_here_and_before": [
+  "mn104:22.3^who_mentioned_before_or_around_this_segment": [
     "the Nigaṇṭha Nātaputta"
   ],
-  "mn104^initial_geographic_location": [
+  "mn104^initial_location_dppn_headword": [
     "Pāvā"
   ],
   "mn104^where": "Sāma village near the village of Pāvā"

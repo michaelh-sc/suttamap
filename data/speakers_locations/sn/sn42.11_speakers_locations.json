@@ -39,17 +39,17 @@
   ],
   "sn42.11:5.3^speaker": "Bhadraka the village chief",
   "sn42.11:5.4+sn42.11:5.6^speaker": "the Buddha",
-  "sn42.11:5.4^geographic_locations_here_and_before": [
+  "sn42.11:5.4^event_dppn_headwords_before_or_around_this_segment": [
     "Uruvelakappa"
   ],
-  "sn42.11:5.4^where_here_and_before": [
+  "sn42.11:5.4^where_before_or_around_this_segment": [
     "The land of the Mallas near the Mallian town called Uruvelakappa"
   ],
-  "sn42.11:5.4^who_mentioned_here_and_before": [
+  "sn42.11:5.4^who_mentioned_before_or_around_this_segment": [
     "Ciravāsi",
     "Ciravāsi's mother"
   ],
-  "sn42.11^initial_geographic_location": [
+  "sn42.11^initial_location_dppn_headword": [
     "Uruvelakappa"
   ],
   "sn42.11^where": "The land of the Mallas, near the Mallian town called Uruvelakappa"

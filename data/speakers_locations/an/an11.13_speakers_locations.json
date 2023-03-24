@@ -14,18 +14,18 @@
     "Nandiya",
     "Buddha"
   ],
-  "an11.13:5.1^geographic_locations_here_and_before": [
+  "an11.13:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "an11.13:5.1^where_here_and_before": [
+  "an11.13:5.1^where_before_or_around_this_segment": [
     "Banyan Tree Monastery",
     "Kapilavatthu",
     "land of the Sakyans"
   ],
-  "an11.13:5.1^who_around_here_and_before": [
+  "an11.13:5.1^who_present_before_or_around_this_segment": [
     "several mendicants"
   ],
-  "an11.13^initial_geographic_location": [
+  "an11.13^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "an11.13^where": "Banyan Tree Monastery, Kapilavatthu, land of the Sakyans"

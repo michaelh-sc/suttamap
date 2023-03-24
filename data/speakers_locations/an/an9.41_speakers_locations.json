@@ -16,13 +16,13 @@
     "Māras",
     "Brahmās"
   ],
-  "an9.41:7.1^geographic_locations_here_and_before": [
+  "an9.41:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Uruvelakappa"
   ],
-  "an9.41:7.1^where_here_and_before": [
+  "an9.41:7.1^where_before_or_around_this_segment": [
     "the land of the Mallas near the Mallian town named Uruvelakappa"
   ],
-  "an9.41:7.1^who_around_here_and_before": [
+  "an9.41:7.1^who_present_before_or_around_this_segment": [
     "Ānanda",
     "Tapussa"
   ],
@@ -30,7 +30,7 @@
   "an9.41:11.2^speaker": "the Buddha",
   "an9.41:12.2^speaker": "the Buddha",
   "an9.41:13.2^speaker": "the Buddha",
-  "an9.41^initial_geographic_location": [
+  "an9.41^initial_location_dppn_headword": [
     "Uruvelakappa"
   ],
   "an9.41^where": "the land of the Mallas, near the Mallian town named Uruvelakappa"

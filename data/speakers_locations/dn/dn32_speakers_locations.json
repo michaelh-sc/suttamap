@@ -4,20 +4,20 @@
   "dn32:2.2+dn32:2.15^who_else_mentioned": [
     "Buddha"
   ],
-  "dn32:2.2^geographic_locations_here_and_before": [
+  "dn32:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "dn32:2.2^where_here_and_before": [
+  "dn32:2.2^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain near Rājagaha"
   ],
-  "dn32:2.2^who_around_here_and_before": [
+  "dn32:2.2^who_present_before_or_around_this_segment": [
     "Four Great Kings",
     "spirits",
     "fairies",
     "goblins",
     "dragons"
   ],
-  "dn32:2.2^who_mentioned_here_and_before": [
+  "dn32:2.2^who_mentioned_before_or_around_this_segment": [
     "monks",
     "nuns",
     "laymen",
@@ -68,17 +68,18 @@
     "Vessavaṇa",
     "Bhagalavatī"
   ],
+  "dn32:8.1+dn32:11.2^speaker": "Great King Vessavaṇa",
   "dn32:11.3^speaker": "the Buddha",
   "dn32:13.1+dn32:13.4^speaker": "the Buddha",
-  "dn32:13.1^where_here_and_before": [
+  "dn32:13.1^where_before_or_around_this_segment": [
     "the Buddha's presence"
   ],
-  "dn32:13.1^who_around_here_and_before": [
+  "dn32:13.1^who_present_before_or_around_this_segment": [
     "spirits",
     "Four Great Kings",
     "mendicants"
   ],
-  "dn32:13.1^who_mentioned_here_and_before": [
+  "dn32:13.1^who_mentioned_before_or_around_this_segment": [
     "Indra",
     "Soma",
     "Varuṇa",
@@ -122,7 +123,7 @@
     "Dīgha",
     "Serīsaka"
   ],
-  "dn32^initial_geographic_location": [
+  "dn32^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "dn32^where": "Vulture's Peak Mountain, near Rājagaha"

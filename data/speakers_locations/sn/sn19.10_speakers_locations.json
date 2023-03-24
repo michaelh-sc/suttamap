@@ -4,20 +4,20 @@
   "sn19.10:1.1+sn19.10:1.5^where_else_mentioned": [
     "Vulture’s Peak Mountain"
   ],
-  "sn19.10:1.6^geographic_locations_here_and_before": [
+  "sn19.10:1.6^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
   "sn19.10:1.6^speaker": "the Buddha",
   "sn19.10:1.6^where_else_mentioned": [
     "Rājagaha"
   ],
-  "sn19.10:1.6^where_here_and_before": [
+  "sn19.10:1.6^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain in Rājagaha"
   ],
-  "sn19.10:1.6^who_mentioned_here_and_before": [
+  "sn19.10:1.6^who_mentioned_before_or_around_this_segment": [
     "a man with testicles as big as pots"
   ],
-  "sn19.10^initial_geographic_location": [
+  "sn19.10^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn19.10^where": "Vulture's Peak Mountain in Rājagaha"

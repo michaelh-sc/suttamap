@@ -5,13 +5,13 @@
     "Sāriputta"
   ],
   "sn22.129:2.1+sn22.129:2.7^speaker": "Sāriputta",
-  "sn22.129:2.1^geographic_locations_here_and_before": [
+  "sn22.129:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī"
   ],
-  "sn22.129:2.1^where_here_and_before": [
+  "sn22.129:2.1^where_before_or_around_this_segment": [
     "Benares"
   ],
-  "sn22.129^initial_geographic_location": [
+  "sn22.129^initial_location_dppn_headword": [
     "Bārānasī"
   ],
   "sn22.129^where": "Benares"

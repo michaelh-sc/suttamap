@@ -8,13 +8,13 @@
   "sn15.5:2.3+sn15.5:2.11^who_else_mentioned": [
     "Kāsī"
   ],
-  "sn15.5:2.3^geographic_locations_here_and_before": [
+  "sn15.5:2.3^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn15.5:2.3^where_here_and_before": [
+  "sn15.5:2.3^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn15.5^initial_geographic_location": [
+  "sn15.5^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn15.5^where": "Sāvatthī"

@@ -4,19 +4,19 @@
   "sn20.7:1.2+sn20.7:2.5^who_else_mentioned": [
     "Dasārahas"
   ],
-  "sn20.7:1.2^geographic_locations_here_and_before": [
+  "sn20.7:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.7:1.2^where_here_and_before": [
+  "sn20.7:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn20.7:1.2^who_around_here_and_before": [
+  "sn20.7:1.2^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "sn20.7:1.2^who_mentioned_here_and_before": [
+  "sn20.7:1.2^who_mentioned_before_or_around_this_segment": [
     "Dasārahas"
   ],
-  "sn20.7^initial_geographic_location": [
+  "sn20.7^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn20.7^where": "Sāvatthī"

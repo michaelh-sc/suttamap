@@ -11,24 +11,24 @@
     "Yama",
     "Māra"
   ],
-  "sn5.7:6.1^geographic_locations_here_and_before": [
+  "sn5.7:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn5.7:6.1^speaker": "Māra the Wicked",
-  "sn5.7:6.1^where_here_and_before": [
+  "sn5.7:6.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn5.7:6.1^who_around_here_and_before": [
+  "sn5.7:6.1^who_present_before_or_around_this_segment": [
     "Upacālā"
   ],
   "sn5.7:6.1^who_else_mentioned": [
     "Upacālā"
   ],
-  "sn5.7:6.1^who_mentioned_here_and_before": [
+  "sn5.7:6.1^who_mentioned_before_or_around_this_segment": [
     "Gods of the Thirty-Three",
     "Gods of Yama"
   ],
-  "sn5.7^initial_geographic_location": [
+  "sn5.7^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn5.7^where": "Sāvatthī"

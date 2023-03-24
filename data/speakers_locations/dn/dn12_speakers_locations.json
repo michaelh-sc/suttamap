@@ -102,14 +102,14 @@
   "dn12:11.11^speaker": "the Buddha",
   "dn12:11.12^speaker": "Lohicca",
   "dn12:11.13^speaker": "the Buddha",
-  "dn12:11.14^geographic_locations_here_and_before": [
+  "dn12:11.14^event_dppn_headwords_before_or_around_this_segment": [
     "Sālavatikā"
   ],
   "dn12:11.14^speaker": "Lohicca",
-  "dn12:11.14^where_here_and_before": [
+  "dn12:11.14^where_before_or_around_this_segment": [
     "Sālavatikā"
   ],
-  "dn12:11.14^who_around_here_and_before": [
+  "dn12:11.14^who_present_before_or_around_this_segment": [
     "the Buddha",
     "a large Saṅgha of five hundred mendicants",
     "Rosika",
@@ -141,7 +141,7 @@
     "Gotama",
     "Saṅgha"
   ],
-  "dn12^initial_geographic_location": [
+  "dn12^initial_location_dppn_headword": [
     "Sālavatikā"
   ],
   "dn12^where": "Sālavatikā"

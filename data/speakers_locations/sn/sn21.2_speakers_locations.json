@@ -12,19 +12,19 @@
   "sn21.2:3.6+sn21.2:3.7^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn21.2:3.6^geographic_locations_here_and_before": [
+  "sn21.2:3.6^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn21.2:3.6^where_here_and_before": [
+  "sn21.2:3.6^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn21.2:3.6^who_around_here_and_before": [
+  "sn21.2:3.6^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "sn21.2:3.6^who_mentioned_here_and_before": [
+  "sn21.2:3.6^who_mentioned_before_or_around_this_segment": [
     "The Teacher"
   ],
-  "sn21.2^initial_geographic_location": [
+  "sn21.2^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn21.2^where": "Sāvatthī"

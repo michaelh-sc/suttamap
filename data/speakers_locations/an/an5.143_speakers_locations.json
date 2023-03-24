@@ -30,16 +30,16 @@
     "Licchavis",
     "Buddha"
   ],
-  "an5.143:5.1^geographic_locations_here_and_before": [
+  "an5.143:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an5.143:5.1^where_here_and_before": [
+  "an5.143:5.1^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "an5.143:5.1^who_around_here_and_before": [
+  "an5.143:5.1^who_present_before_or_around_this_segment": [
     "the man"
   ],
-  "an5.143^initial_geographic_location": [
+  "an5.143^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an5.143^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

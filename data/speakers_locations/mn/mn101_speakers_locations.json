@@ -1,8 +1,8 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn101:2.1^speaker": "The Buddha",
+  "mn101:2.1^speaker": "the Buddha",
   "mn101:2.2^speaker": "The mendicants",
-  "mn101:2.4+mn101:24.4^speaker": "The Buddha",
+  "mn101:2.4+mn101:24.4^speaker": "the Buddha",
   "mn101:2.4+mn101:24.4^who_else_mentioned": [
     "Jain",
     "Nāṭaputta",
@@ -10,30 +10,30 @@
     "Gotama"
   ],
   "mn101:10.3^speaker": "Jain ascetics",
-  "mn101:13.4^speaker": "The Buddha",
-  "mn101:15.4^speaker": "The Buddha",
+  "mn101:13.4^speaker": "the Buddha",
+  "mn101:15.4^speaker": "the Buddha",
   "mn101:24.5+mn101:24.7^speaker": "The mendicants",
-  "mn101:25.1+mn101:25.8^speaker": "The Buddha",
+  "mn101:25.1+mn101:25.8^speaker": "the Buddha",
   "mn101:25.9+mn101:25.11^speaker": "The mendicants",
-  "mn101:26.1+mn101:46.24^speaker": "The Buddha",
+  "mn101:26.1+mn101:46.24^speaker": "the Buddha",
   "mn101:26.1+mn101:46.24^who_else_mentioned": [
     "Buddha",
     "Māras",
     "Brahmās"
   ],
-  "mn101:26.1^geographic_locations_here_and_before": [
+  "mn101:26.1^event_dppn_headwords_before_or_around_this_segment": [
     "Devadaha"
   ],
-  "mn101:26.1^where_here_and_before": [
+  "mn101:26.1^where_before_or_around_this_segment": [
     "The land of the Sakyans near the Sakyan town named Devadaha"
   ],
-  "mn101:26.1^who_around_here_and_before": [
+  "mn101:26.1^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "mn101:26.1^who_mentioned_here_and_before": [
+  "mn101:26.1^who_mentioned_before_or_around_this_segment": [
     "Jain ascetics"
   ],
-  "mn101^initial_geographic_location": [
+  "mn101^initial_location_dppn_headword": [
     "Devadaha"
   ],
   "mn101^where": "The land of the Sakyans, near the Sakyan town named Devadaha."

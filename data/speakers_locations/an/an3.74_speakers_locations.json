@@ -20,20 +20,20 @@
   "an3.74:5.3+an3.74:5.4^who_else_mentioned": [
     "Ānanda"
   ],
-  "an3.74:5.3^geographic_locations_here_and_before": [
+  "an3.74:5.3^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an3.74:5.3^where_here_and_before": [
+  "an3.74:5.3^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "an3.74:5.3^who_around_here_and_before": [
+  "an3.74:5.3^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "an3.74:5.3^who_mentioned_here_and_before": [
+  "an3.74:5.3^who_mentioned_before_or_around_this_segment": [
     "Jain leader Nāṭaputta",
     "the Buddha"
   ],
-  "an3.74^initial_geographic_location": [
+  "an3.74^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an3.74^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

@@ -6,19 +6,19 @@
     "the Blessed One",
     "Buddha"
   ],
-  "an4.194:2.1^geographic_locations_here_and_before": [
+  "an4.194:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāmuga"
   ],
-  "an4.194:2.1^where_here_and_before": [
+  "an4.194:2.1^where_before_or_around_this_segment": [
     "the land of the Koliyans Sāpūga"
   ],
-  "an4.194:2.1^who_around_here_and_before": [
+  "an4.194:2.1^who_present_before_or_around_this_segment": [
     "Koliyans from Sāpūga"
   ],
-  "an4.194:2.1^who_mentioned_here_and_before": [
+  "an4.194:2.1^who_mentioned_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "an4.194^initial_geographic_location": [
+  "an4.194^initial_location_dppn_headword": [
     "Sāmuga"
   ],
   "an4.194^where": "the land of the Koliyans, Sāpūga"

@@ -20,8 +20,12 @@
   "sn7.11:11.2+sn7.11:11.3^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.11:11.2^where_here_and_before": [
+  "sn7.11:11.2^geographical_locations_before_or_around_this_segment": [
+    "Ekanāḷā"
+  ],
+  "sn7.11:11.2^where_before_or_around_this_segment": [
     "the land of the Magadhans in the Southern Hills near the brahmin village of Ekanāḷa"
   ],
+  "sn7.11^initial_location_dppn_headword": "Ekanāḷā",
   "sn7.11^where": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekanāḷa"
 }

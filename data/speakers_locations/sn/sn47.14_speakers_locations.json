@@ -9,20 +9,20 @@
   "sn47.14:2.2+sn47.14:3.7^who_else_mentioned": [
     "Buddhas"
   ],
-  "sn47.14:2.2^geographic_locations_here_and_before": [
+  "sn47.14:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Ukkacelā"
   ],
-  "sn47.14:2.2^where_here_and_before": [
+  "sn47.14:2.2^where_before_or_around_this_segment": [
     "the land of the Vajjīs near Ukkacelā on the bank of the Ganges river"
   ],
-  "sn47.14:2.2^who_around_here_and_before": [
+  "sn47.14:2.2^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "sn47.14:2.2^who_mentioned_here_and_before": [
+  "sn47.14:2.2^who_mentioned_before_or_around_this_segment": [
     "Sāriputta",
     "Moggallāna"
   ],
-  "sn47.14^initial_geographic_location": [
+  "sn47.14^initial_location_dppn_headword": [
     "Ukkacelā"
   ],
   "sn47.14^where": "the land of the Vajjīs near Ukkacelā on the bank of the Ganges river"

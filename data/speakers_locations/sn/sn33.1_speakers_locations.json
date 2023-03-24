@@ -5,16 +5,16 @@
     "Gotama"
   ],
   "sn33.1:1.6+sn33.1:1.10^speaker": "the Buddha",
-  "sn33.1:1.6^geographic_locations_here_and_before": [
+  "sn33.1:1.6^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn33.1:1.6^where_here_and_before": [
+  "sn33.1:1.6^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "sn33.1:1.6^who_around_here_and_before": [
+  "sn33.1:1.6^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "sn33.1^initial_geographic_location": [
+  "sn33.1^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn33.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī"

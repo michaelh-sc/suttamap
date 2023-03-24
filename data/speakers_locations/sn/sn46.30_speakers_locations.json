@@ -9,8 +9,12 @@
   "sn46.30:5.1+sn46.30:5.3^who_else_mentioned": [
     "Udāyī"
   ],
-  "sn46.30:5.1^where_here_and_before": [
+  "sn46.30:5.1^geographical_locations_before_or_around_this_segment": [
+    "Sumbha"
+  ],
+  "sn46.30:5.1^where_before_or_around_this_segment": [
     "the land of the Sumbhas near the town of the Sumbhas called Sedaka"
   ],
+  "sn46.30^initial_location_dppn_headword": "Sumbha",
   "sn46.30^where": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka"
 }

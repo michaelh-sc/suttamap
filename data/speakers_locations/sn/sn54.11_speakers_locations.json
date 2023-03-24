@@ -6,16 +6,16 @@
   "sn54.11:2.2+sn54.11:4.3^who_else_mentioned": [
     "Gotama"
   ],
-  "sn54.11:2.2^geographic_locations_here_and_before": [
+  "sn54.11:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Iccānaṅgala"
   ],
-  "sn54.11:2.2^where_here_and_before": [
+  "sn54.11:2.2^where_before_or_around_this_segment": [
     "a forest near Icchānaṅgala"
   ],
-  "sn54.11:2.2^who_around_here_and_before": [
+  "sn54.11:2.2^who_present_before_or_around_this_segment": [
     "the one who brought the almsfood"
   ],
-  "sn54.11^initial_geographic_location": [
+  "sn54.11^initial_location_dppn_headword": [
     "Iccānaṅgala"
   ],
   "sn54.11^where": "a forest near Icchānaṅgala"

@@ -10,16 +10,16 @@
   "sn39.1-15:3.1^speaker": "the wanderer Sāmaṇḍaka",
   "sn39.1-15:3.2+sn39.1-15:3.4^speaker": "Sāriputta",
   "sn39.1-15:3.5+sn39.1-15:3.6^speaker": "the wanderer Sāmaṇḍaka",
-  "sn39.1-15:3.5^geographic_locations_here_and_before": [
+  "sn39.1-15:3.5^event_dppn_headwords_before_or_around_this_segment": [
     "Ukkacelā"
   ],
-  "sn39.1-15:3.5^where_here_and_before": [
+  "sn39.1-15:3.5^where_before_or_around_this_segment": [
     "the land of the Vajjis near Ukkacelā on the bank of the Ganges river"
   ],
-  "sn39.1-15:3.5^who_around_here_and_before": [
+  "sn39.1-15:3.5^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn39.1-15^initial_geographic_location": [
+  "sn39.1-15^initial_location_dppn_headword": [
     "Ukkacelā"
   ],
   "sn39.1-15^where": "the land of the Vajjis near Ukkacelā on the bank of the Ganges river"

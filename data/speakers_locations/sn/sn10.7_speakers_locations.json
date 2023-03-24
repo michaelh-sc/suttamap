@@ -22,20 +22,20 @@
     "Buddha",
     "Uttarā"
   ],
-  "sn10.7:9.1^geographic_locations_here_and_before": [
+  "sn10.7:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn10.7:9.1^where_here_and_before": [
+  "sn10.7:9.1^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "sn10.7:9.1^who_around_here_and_before": [
-    "The Buddha",
+  "sn10.7:9.1^who_present_before_or_around_this_segment": [
+    "the Buddha",
     "the mendicants"
   ],
-  "sn10.7:9.1^who_mentioned_here_and_before": [
+  "sn10.7:9.1^who_mentioned_before_or_around_this_segment": [
     "Uttarā"
   ],
-  "sn10.7^initial_geographic_location": [
+  "sn10.7^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn10.7^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

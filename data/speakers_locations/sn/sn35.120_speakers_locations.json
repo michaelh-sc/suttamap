@@ -5,17 +5,17 @@
     "Sāriputta"
   ],
   "sn35.120:2.1+sn35.120:5.9^speaker": "Sāriputta",
-  "sn35.120:2.1^geographic_locations_here_and_before": [
+  "sn35.120:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn35.120:2.1^where_here_and_before": [
+  "sn35.120:2.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī"
   ],
-  "sn35.120:2.1^who_around_here_and_before": [
+  "sn35.120:2.1^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika's monastery"
   ],
-  "sn35.120^initial_geographic_location": [
+  "sn35.120^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn35.120^where": "Jeta's Grove, Sāvatthī"

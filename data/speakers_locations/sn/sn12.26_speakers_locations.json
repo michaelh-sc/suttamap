@@ -8,17 +8,17 @@
   "sn12.26:3.1+sn12.26:5.4^who_else_mentioned": [
     "Upavāṇa"
   ],
-  "sn12.26:3.1^geographic_locations_here_and_before": [
+  "sn12.26:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.26:3.1^where_here_and_before": [
+  "sn12.26:3.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.26:3.1^who_mentioned_here_and_before": [
+  "sn12.26:3.1^who_mentioned_before_or_around_this_segment": [
     "Ascetics",
     "Brahmins"
   ],
-  "sn12.26^initial_geographic_location": [
+  "sn12.26^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn12.26^where": "Sāvatthī"

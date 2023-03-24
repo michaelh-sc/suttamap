@@ -31,16 +31,16 @@
   "sn41.2:4.4+sn41.2:4.5^who_else_mentioned": [
     "Isidatta"
   ],
-  "sn41.2:4.4^geographic_locations_here_and_before": [
+  "sn41.2:4.4^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
-  "sn41.2:4.4^where_here_and_before": [
+  "sn41.2:4.4^where_before_or_around_this_segment": [
     "Macchikāsaṇḍa in the Wild Mango Grove"
   ],
-  "sn41.2:4.4^who_around_here_and_before": [
+  "sn41.2:4.4^who_present_before_or_around_this_segment": [
     "senior mendicants"
   ],
-  "sn41.2^initial_geographic_location": [
+  "sn41.2^initial_location_dppn_headword": [
     "Macchikāsaṇḍa"
   ],
   "sn41.2^where": "Macchikāsaṇḍa in the Wild Mango Grove"

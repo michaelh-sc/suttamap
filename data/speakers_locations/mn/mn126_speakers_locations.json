@@ -14,22 +14,22 @@
   "mn126:5.1^who_else_mentioned": [
     "Bhūmija"
   ],
-  "mn126:7.25^geographic_locations_here_and_before": [
+  "mn126:7.25^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn126:7.25^speaker": "Bhūmija",
-  "mn126:7.25^where_here_and_before": [
+  "mn126:7.25^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "mn126:7.25^who_around_here_and_before": [
-    "The Buddha"
+  "mn126:7.25^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
   "mn126:7.25^who_else_mentioned": [
     "Buddha"
   ],
-  "mn126:7.25^who_mentioned_here_and_before": [
+  "mn126:7.25^who_mentioned_before_or_around_this_segment": [
     "Other ascetics",
     "other brahmins"
   ],
@@ -39,13 +39,13 @@
     "Prince Jayasena"
   ],
   "mn126:19.2^speaker": "Bhūmija",
-  "mn126:19.2^who_around_here_and_before": [
+  "mn126:19.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "mn126:19.2^who_else_mentioned": [
     "Buddha"
   ],
-  "mn126^initial_geographic_location": [
+  "mn126^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn126^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

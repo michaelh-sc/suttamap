@@ -1,8 +1,8 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn141:1.4^speaker": "The Buddha",
+  "mn141:1.4^speaker": "the Buddha",
   "mn141:1.5^speaker": "The mendicants",
-  "mn141:2.1+mn141:5.7^speaker": "The Buddha",
+  "mn141:2.1+mn141:5.7^speaker": "the Buddha",
   "mn141:2.1+mn141:5.7^where_else_mentioned": [
     "Isipatana"
   ],
@@ -14,18 +14,18 @@
     "Sāriputta"
   ],
   "mn141:7.2^speaker": "Sāriputta",
-  "mn141:7.3^geographic_locations_here_and_before": [
+  "mn141:7.3^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
   "mn141:7.3^speaker": "The mendicants",
-  "mn141:7.3^where_here_and_before": [
+  "mn141:7.3^where_before_or_around_this_segment": [
     "Near Benares in the deer park at Isipatana"
   ],
-  "mn141:7.3^who_around_here_and_before": [
+  "mn141:7.3^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "mn141:7.3^who_mentioned_here_and_before": [
+  "mn141:7.3^who_mentioned_before_or_around_this_segment": [
     "Māra",
     "Brahmā"
   ],
@@ -38,24 +38,24 @@
     "Māra",
     "Brahmā"
   ],
-  "mn141:8.1^geographic_locations_here_and_before": [
+  "mn141:8.1^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "mn141:8.1^where_here_and_before": [
+  "mn141:8.1^where_before_or_around_this_segment": [
     "Near Benares in the deer park at Isipatana"
   ],
-  "mn141:8.1^who_around_here_and_before": [
-    "The Buddha"
+  "mn141:8.1^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "mn141:8.1^who_mentioned_here_and_before": [
+  "mn141:8.1^who_mentioned_before_or_around_this_segment": [
     "Ascetic",
     "Brahmin",
     "God",
     "Māra",
     "Brahmā"
   ],
-  "mn141^initial_geographic_location": [
+  "mn141^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

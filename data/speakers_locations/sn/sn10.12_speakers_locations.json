@@ -1,45 +1,45 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn10.12:1.4^speaker": "The native spirit Āḷavaka",
-  "sn10.12:1.5^speaker": "The Buddha",
+  "sn10.12:1.5^speaker": "the Buddha",
   "sn10.12:1.6^speaker": "The native spirit Āḷavaka",
-  "sn10.12:1.7^speaker": "The Buddha",
+  "sn10.12:1.7^speaker": "the Buddha",
   "sn10.12:1.9^speaker": "The native spirit Āḷavaka",
-  "sn10.12:1.10^speaker": "The Buddha",
+  "sn10.12:1.10^speaker": "the Buddha",
   "sn10.12:1.11^speaker": "The native spirit Āḷavaka",
-  "sn10.12:1.12^speaker": "The Buddha",
+  "sn10.12:1.12^speaker": "the Buddha",
   "sn10.12:1.14^speaker": "The native spirit Āḷavaka",
-  "sn10.12:1.15^speaker": "The Buddha",
+  "sn10.12:1.15^speaker": "the Buddha",
   "sn10.12:1.16^speaker": "The native spirit Āḷavaka",
-  "sn10.12:1.17^speaker": "The Buddha",
+  "sn10.12:1.17^speaker": "the Buddha",
   "sn10.12:1.19^speaker": "The native spirit Āḷavaka",
-  "sn10.12:1.20+sn10.12:1.21^speaker": "The Buddha",
+  "sn10.12:1.20+sn10.12:1.21^speaker": "the Buddha",
   "sn10.12:1.22+sn10.12:1.23^speaker": "The native spirit Āḷavaka",
   "sn10.12:1.22+sn10.12:1.23^where_else_mentioned": [
     "Ganges"
   ],
-  "sn10.12:1.24+sn10.12:1.25^speaker": "The Buddha",
+  "sn10.12:1.24+sn10.12:1.25^speaker": "the Buddha",
   "sn10.12:1.24+sn10.12:1.25^who_else_mentioned": [
     "Māras",
     "Brahmās"
   ],
   "sn10.12:2.1+sn10.12:2.4^speaker": "The native spirit Āḷavaka",
-  "sn10.12:3.1+sn10.12:3.4^speaker": "The Buddha",
+  "sn10.12:3.1+sn10.12:3.4^speaker": "the Buddha",
   "sn10.12:4.1+sn10.12:4.4^speaker": "The native spirit Āḷavaka",
-  "sn10.12:5.1+sn10.12:5.4^speaker": "The Buddha",
+  "sn10.12:5.1+sn10.12:5.4^speaker": "the Buddha",
   "sn10.12:6.1+sn10.12:6.6^speaker": "The native spirit Āḷavaka",
-  "sn10.12:7.1+sn10.12:10.4^speaker": "The Buddha",
+  "sn10.12:7.1+sn10.12:10.4^speaker": "the Buddha",
   "sn10.12:11.1+sn10.12:13.4^speaker": "The native spirit Āḷavaka",
   "sn10.12:11.1+sn10.12:13.4^who_else_mentioned": [
     "Buddha"
   ],
-  "sn10.12:11.1^geographic_locations_here_and_before": [
+  "sn10.12:11.1^event_dppn_headwords_before_or_around_this_segment": [
     "Āḷavī"
   ],
-  "sn10.12:11.1^where_here_and_before": [
+  "sn10.12:11.1^where_before_or_around_this_segment": [
     "Āḷavī in the haunt of the native spirit Āḷavaka"
   ],
-  "sn10.12:11.1^who_mentioned_here_and_before": [
+  "sn10.12:11.1^who_mentioned_before_or_around_this_segment": [
     "gods",
     "Māras",
     "Brahmās",
@@ -48,7 +48,7 @@
     "gods",
     "humans"
   ],
-  "sn10.12^initial_geographic_location": [
+  "sn10.12^initial_location_dppn_headword": [
     "Āḷavī"
   ],
   "sn10.12^where": "Āḷavī in the haunt of the native spirit Āḷavaka"

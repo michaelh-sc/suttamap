@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "dn24:1.1.5+dn24:1.1.6^speaker": "The Buddha",
+  "dn24:1.1.5+dn24:1.1.6^speaker": "the Buddha",
   "dn24:1.1.5+dn24:1.1.6^where_else_mentioned": [
     "Anupiya"
   ],
@@ -52,17 +52,17 @@
     "Begetter"
   ],
   "dn24:1.3.6^speaker": "Sunakkhatta the Licchavi",
-  "dn24:1.3.9^speaker": "The Buddha",
+  "dn24:1.3.9^speaker": "the Buddha",
   "dn24:1.3.9^who_else_mentioned": [
     "Buddha"
   ],
   "dn24:1.4.3^speaker": "Sunakkhatta the Licchavi",
-  "dn24:1.4.6^speaker": "The Buddha",
+  "dn24:1.4.6^speaker": "the Buddha",
   "dn24:1.4.6^who_else_mentioned": [
     "Buddha"
   ],
   "dn24:1.5.3^speaker": "Sunakkhatta the Licchavi",
-  "dn24:1.5.6^speaker": "The Buddha",
+  "dn24:1.5.6^speaker": "the Buddha",
   "dn24:1.5.6^who_else_mentioned": [
     "Buddha"
   ],
@@ -70,11 +70,11 @@
   "dn24:1.6.2^who_else_mentioned": [
     "Buddha"
   ],
-  "dn24:1.6.5^speaker": "The Buddha",
+  "dn24:1.6.5^speaker": "the Buddha",
   "dn24:1.6.5^who_else_mentioned": [
     "Buddha"
   ],
-  "dn24:1.6.8^speaker": "The Buddha",
+  "dn24:1.6.8^speaker": "the Buddha",
   "dn24:1.6.8^who_else_mentioned": [
     "The Saṅgha of the Buddha"
   ],
@@ -83,7 +83,7 @@
   "dn24:1.10.9^who_else_mentioned": [
     "Buddha"
   ],
-  "dn24:1.14.11^speaker": "The Buddha",
+  "dn24:1.14.11^speaker": "the Buddha",
   "dn24:1.14.11^who_else_mentioned": [
     "Buddha"
   ],
@@ -96,7 +96,7 @@
   "dn24:2.10.6^speaker": "The jackal",
   "dn24:2.11.3^speaker": "The naked ascetic Pāṭikaputta",
   "dn24:2.12.6^speaker": "The naked ascetic Pāṭikaputta",
-  "dn24:2.13.10^speaker": "The Buddha",
+  "dn24:2.13.10^speaker": "the Buddha",
   "dn24:2.13.10^who_else_mentioned": [
     "Buddha"
   ],
@@ -104,12 +104,12 @@
   "dn24:2.18.9^speaker": "Brahmā",
   "dn24:2.19.9^speaker": "Brahmā",
   "dn24:2.20.9^speaker": "Brahmā",
-  "dn24:2.21.4^speaker": "The Buddha",
+  "dn24:2.21.4^speaker": "the Buddha",
   "dn24:2.21.9+dn24:2.21.10^speaker": "Bhaggava",
   "dn24:2.21.9+dn24:2.21.10^who_else_mentioned": [
     "Buddha"
   ],
-  "dn24:2.21.11+dn24:2.21.12^speaker": "The Buddha",
+  "dn24:2.21.11+dn24:2.21.12^speaker": "the Buddha",
   "dn24:2.21.11+dn24:2.21.12^who_else_mentioned": [
     "Bhaggava"
   ],
@@ -117,7 +117,7 @@
   "dn24:2.21.13+dn24:2.21.14^who_else_mentioned": [
     "Buddha"
   ],
-  "dn24^initial_geographic_location": [
+  "dn24^initial_location_dppn_headword": [
     "Anupiya"
   ],
   "dn24^where": "the Mallian town named Anupiya"

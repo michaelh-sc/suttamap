@@ -3,14 +3,14 @@
   "sn48.41:2.2+sn48.41:2.4^speaker": "Ānanda",
   "sn48.41:3.1+sn48.41:3.4^speaker": "the Buddha",
   "sn48.41:5.1+sn48.41:6.4^speaker": "the Buddha",
-  "sn48.41:5.1^geographic_locations_here_and_before": [
+  "sn48.41:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn48.41:5.1^where_here_and_before": [
+  "sn48.41:5.1^where_before_or_around_this_segment": [
     "Sāvatthī in the Eastern Monastery",
     "the stilt longhouse of Migāra's mother"
   ],
-  "sn48.41^initial_geographic_location": [
+  "sn48.41^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn48.41^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"

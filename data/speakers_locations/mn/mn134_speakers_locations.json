@@ -26,25 +26,25 @@
   "mn134:7.1+mn134:8-13.1^who_else_mentioned": [
     "Death"
   ],
-  "mn134:7.1^geographic_locations_here_and_before": [
+  "mn134:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana",
     "Sāvatthī",
     "Kapilavatthu"
   ],
-  "mn134:7.1^where_here_and_before": [
+  "mn134:7.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī",
     "Kapilavatthu",
     "Banyan Tree Monastery",
     "Shady Orchid Tree"
   ],
-  "mn134:7.1^who_around_here_and_before": [
+  "mn134:7.1^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "mn134:7.1^who_mentioned_here_and_before": [
+  "mn134:7.1^who_mentioned_before_or_around_this_segment": [
     "gods of the Thirty-Three"
   ],
-  "mn134^initial_geographic_location": [
+  "mn134^initial_location_dppn_headword": [
     "Jetavana",
     "Sāvatthī",
     "Kapilavatthu"

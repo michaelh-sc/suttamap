@@ -19,16 +19,16 @@
     "Buddha",
     "Saṅgha"
   ],
-  "an8.46:10.1^geographic_locations_here_and_before": [
+  "an8.46:10.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "an8.46:10.1^where_here_and_before": [
+  "an8.46:10.1^where_before_or_around_this_segment": [
     "Ghosita's Monastery near Kosambi"
   ],
-  "an8.46:10.1^who_around_here_and_before": [
+  "an8.46:10.1^who_present_before_or_around_this_segment": [
     "Anuruddha"
   ],
-  "an8.46^initial_geographic_location": [
+  "an8.46^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "an8.46^where": "Ghosita's Monastery, near Kosambi"

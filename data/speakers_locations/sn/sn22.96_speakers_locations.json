@@ -11,16 +11,16 @@
     "Thundercloud",
     "Queen Subhaddā"
   ],
-  "sn22.96:2.2^geographic_locations_here_and_before": [
+  "sn22.96:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.96:2.2^where_here_and_before": [
+  "sn22.96:2.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.96:2.2^who_around_here_and_before": [
+  "sn22.96:2.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn22.96^initial_geographic_location": [
+  "sn22.96^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.96^where": "Sāvatthī"

@@ -23,14 +23,14 @@
     "Gotama"
   ],
   "mn41:6.3^speaker": "the Buddha",
-  "mn41:6.4^geographic_locations_here_and_before": [
+  "mn41:6.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sālā"
   ],
   "mn41:6.4^speaker": "brahmins of Sālā and householders of Sālā",
-  "mn41:6.4^where_here_and_before": [
+  "mn41:6.4^where_before_or_around_this_segment": [
     "the land of the Kosalans Sālā village"
   ],
-  "mn41:6.4^who_around_here_and_before": [
+  "mn41:6.4^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
   "mn41:7.1+mn41:43.5^speaker": "the Buddha",
@@ -39,16 +39,16 @@
     "Gotama",
     "Saṅgha"
   ],
-  "mn41:44.2^geographic_locations_here_and_before": [
+  "mn41:44.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sālā"
   ],
-  "mn41:44.2^where_here_and_before": [
+  "mn41:44.2^where_before_or_around_this_segment": [
     "Sālā"
   ],
-  "mn41:44.2^who_around_here_and_before": [
+  "mn41:44.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "mn41^initial_geographic_location": [
+  "mn41^initial_location_dppn_headword": [
     "Sālā"
   ],
   "mn41^where": "the land of the Kosalans, Sālā village"

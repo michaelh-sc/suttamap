@@ -53,17 +53,17 @@
   "an6.62:12.8+an6.62:13.2^who_else_mentioned": [
     "Ānanda"
   ],
-  "an6.62:12.8^geographic_locations_here_and_before": [
+  "an6.62:12.8^event_dppn_headwords_before_or_around_this_segment": [
     "Daṇḍakappaka"
   ],
-  "an6.62:12.8^where_here_and_before": [
+  "an6.62:12.8^where_before_or_around_this_segment": [
     "Daṇḍakappaka",
     "Kosalans"
   ],
-  "an6.62:12.8^who_around_here_and_before": [
+  "an6.62:12.8^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "an6.62^initial_geographic_location": [
+  "an6.62^initial_location_dppn_headword": [
     "Daṇḍakappaka"
   ],
   "an6.62^where": "Daṇḍakappaka, Kosalans"

@@ -10,10 +10,10 @@
   ],
   "sn38.15:1.6^speaker": "Reverend Sāriputta",
   "sn38.15:1.7^speaker": "the Buddha",
-  "sn38.15:1.7^who_around_here_and_before": [
+  "sn38.15:1.7^who_present_before_or_around_this_segment": [
     "Reverend Sāriputta"
   ],
-  "sn38.15:1.7^who_mentioned_here_and_before": [
-    "The Buddha"
+  "sn38.15:1.7^who_mentioned_before_or_around_this_segment": [
+    "the Buddha"
   ]
 }

@@ -14,21 +14,21 @@
   "sn1.37:9.1+sn1.37:9.4^who_else_mentioned": [
     "Buddha"
   ],
-  "sn1.37:9.1^geographic_locations_here_and_before": [
+  "sn1.37:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "sn1.37:9.1^where_here_and_before": [
+  "sn1.37:9.1^where_before_or_around_this_segment": [
     "Kapilavatthu in the Great Wood"
   ],
-  "sn1.37:9.1^who_around_here_and_before": [
+  "sn1.37:9.1^who_present_before_or_around_this_segment": [
     "the Buddha",
     "the Saṅgha of mendicants",
     "most of the deities from ten solar systems"
   ],
-  "sn1.37:9.1^who_mentioned_here_and_before": [
+  "sn1.37:9.1^who_mentioned_before_or_around_this_segment": [
     "the young dragons"
   ],
-  "sn1.37^initial_geographic_location": [
+  "sn1.37^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "sn1.37^where": "Kapilavatthu in the Great Wood"

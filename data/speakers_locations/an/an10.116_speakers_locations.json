@@ -12,10 +12,10 @@
   "an10.116:4.1^speaker": "the Buddha",
   "an10.116:4.2^speaker": "the mendicants",
   "an10.116:5.1+an10.116:12.4^speaker": "the Buddha",
-  "an10.116:5.1^who_around_here_and_before": [
+  "an10.116:5.1^who_present_before_or_around_this_segment": [
     "wanderer Ajita"
   ],
-  "an10.116:5.1^who_mentioned_here_and_before": [
+  "an10.116:5.1^who_mentioned_before_or_around_this_segment": [
     "The Philosopher"
   ]
 }

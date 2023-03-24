@@ -6,15 +6,15 @@
   "sn2.5:3.3+sn2.5:4.4^where_else_mentioned": [
     "Dāmali"
   ],
-  "sn2.5:3.3^geographic_locations_here_and_before": [
+  "sn2.5:3.3^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī",
     "Jetavana"
   ],
-  "sn2.5:3.3^where_here_and_before": [
+  "sn2.5:3.3^where_before_or_around_this_segment": [
     "Sāvatthī",
     "Jeta's Grove"
   ],
-  "sn2.5^initial_geographic_location": [
+  "sn2.5^initial_location_dppn_headword": [
     "Sāvatthī",
     "Jetavana"
   ],

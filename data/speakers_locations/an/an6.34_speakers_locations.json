@@ -29,17 +29,17 @@
     "Buddha",
     "Saṅgha"
   ],
-  "an6.34:6.2^geographic_locations_here_and_before": [
+  "an6.34:6.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an6.34:6.2^where_here_and_before": [
+  "an6.34:6.2^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "an6.34:6.2^who_around_here_and_before": [
+  "an6.34:6.2^who_present_before_or_around_this_segment": [
     "Mahāmoggallāna"
   ],
-  "an6.34^initial_geographic_location": [
+  "an6.34^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an6.34^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

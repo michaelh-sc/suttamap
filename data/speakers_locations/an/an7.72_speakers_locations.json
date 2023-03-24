@@ -12,10 +12,13 @@
   "an7.72:9.3+an7.72:9.4^speaker": "the mendicants",
   "an7.72:10.1+an7.72:11.2^speaker": "the Buddha (assumed)",
   "an7.72:11.3^speaker": "the mendicants",
-  "an7.72:11.3^where_here_and_before": [
+  "an7.72:11.3^event_dppn_headwords_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "an7.72:11.3^where_before_or_around_this_segment": [
     "the land of the Kosalans"
   ],
-  "an7.72:11.3^who_around_here_and_before": [
+  "an7.72:11.3^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
   "an7.72:12.1+an7.72:13.2^speaker": "the Buddha (assumed)",
@@ -24,8 +27,9 @@
   "an7.72:15.3^speaker": "the mendicants",
   "an7.72:16.1+an7.72:17.6^speaker": "the Buddha (assumed)",
   "an7.72:18.4^speaker": "sixty mendicants",
-  "an7.72:18.4^who_around_here_and_before": [
+  "an7.72:18.4^who_present_before_or_around_this_segment": [
     "sixty monks"
   ],
+  "an7.72^initial_location_dppn_headword": "Kosala",
   "an7.72^where": "the land of the Kosalans"
 }

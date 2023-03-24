@@ -84,12 +84,12 @@
     "Buddha",
     "Pasenadi"
   ],
-  "mn24:13.1^geographic_locations_here_and_before": [
+  "mn24:13.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha",
     "Sāvatthī",
     "Jetavana"
   ],
-  "mn24:13.1^where_here_and_before": [
+  "mn24:13.1^where_before_or_around_this_segment": [
     "Rājagaha",
     "Bamboo Grove",
     "Sāvatthī",
@@ -97,12 +97,12 @@
     "Anāthapiṇḍika's monastery",
     "Dark Forest"
   ],
-  "mn24:13.1^who_around_here_and_before": [
+  "mn24:13.1^who_present_before_or_around_this_segment": [
     "the Buddha",
     "the mendicants",
     "Puṇṇa Mantāṇiputta"
   ],
-  "mn24:13.1^who_mentioned_here_and_before": [
+  "mn24:13.1^who_mentioned_before_or_around_this_segment": [
     "King Pasenadi"
   ],
   "mn24:14.15+mn24:14.26^speaker": "Sāriputta",
@@ -137,11 +137,11 @@
   "mn24:17.5+mn24:17.12^who_else_mentioned": [
     "Sāriputta"
   ],
-  "mn24:17.5^who_mentioned_here_and_before": [
+  "mn24:17.5^who_mentioned_before_or_around_this_segment": [
     "King Pasenadi",
     "the Buddha"
   ],
-  "mn24^initial_geographic_location": [
+  "mn24^initial_location_dppn_headword": [
     "Rājagaha",
     "Sāvatthī",
     "Jetavana"

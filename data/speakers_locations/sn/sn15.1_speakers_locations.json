@@ -1,21 +1,21 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn15.1:1.4^speaker": "The Buddha",
+  "sn15.1:1.4^speaker": "the Buddha",
   "sn15.1:1.5^speaker": "The mendicants",
-  "sn15.1:1.7+sn15.1:1.15^speaker": "The Buddha",
+  "sn15.1:1.7+sn15.1:1.15^speaker": "the Buddha",
   "sn15.1:1.7+sn15.1:1.15^where_else_mentioned": [
     "India"
   ],
-  "sn15.1:1.7^geographic_locations_here_and_before": [
+  "sn15.1:1.7^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn15.1:1.7^where_here_and_before": [
+  "sn15.1:1.7^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "sn15.1:1.7^who_around_here_and_before": [
+  "sn15.1:1.7^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "sn15.1^initial_geographic_location": [
+  "sn15.1^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn15.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

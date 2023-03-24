@@ -7,16 +7,16 @@
     "Māra"
   ],
   "sn5.1:4.1+sn5.1:5.4^speaker": "the nun Āḷavikā",
-  "sn5.1:6.1^geographic_locations_here_and_before": [
+  "sn5.1:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "sn5.1:6.1^speaker": "Māra the Wicked",
-  "sn5.1:6.1^where_here_and_before": [
+  "sn5.1:6.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "sn5.1^initial_geographic_location": [
+  "sn5.1^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn5.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

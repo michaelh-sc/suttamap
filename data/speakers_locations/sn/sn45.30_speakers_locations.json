@@ -8,13 +8,13 @@
   "sn45.30:1.6+sn45.30:1.18^who_else_mentioned": [
     "Uttiya"
   ],
-  "sn45.30:1.6^geographic_locations_here_and_before": [
+  "sn45.30:1.6^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn45.30:1.6^where_here_and_before": [
+  "sn45.30:1.6^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn45.30^initial_geographic_location": [
+  "sn45.30^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn45.30^where": "Sāvatthī"

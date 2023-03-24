@@ -5,16 +5,16 @@
   "sn28.9:1.6+sn28.9:1.8^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn28.9:1.6^geographic_locations_here_and_before": [
+  "sn28.9:1.6^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn28.9:1.6^where_here_and_before": [
+  "sn28.9:1.6^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn28.9:1.6^who_around_here_and_before": [
+  "sn28.9:1.6^who_present_before_or_around_this_segment": [
     "the Buddha (assumed)"
   ],
-  "sn28.9^initial_geographic_location": [
+  "sn28.9^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn28.9^where": "Sāvatthī"

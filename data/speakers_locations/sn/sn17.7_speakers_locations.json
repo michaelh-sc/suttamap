@@ -4,13 +4,13 @@
   "sn17.7:1.2+sn17.7:2.2^who_else_mentioned": [
     "Arrow"
   ],
-  "sn17.7:1.2^geographic_locations_here_and_before": [
+  "sn17.7:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn17.7:1.2^where_here_and_before": [
+  "sn17.7:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn17.7^initial_geographic_location": [
+  "sn17.7^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn17.7^where": "Sāvatthī"

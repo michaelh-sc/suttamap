@@ -7,14 +7,14 @@
     "Purāṇa",
     "Isidatta"
   ],
-  "an10.75:3.2^geographic_locations_here_and_before": [
+  "an10.75:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "an10.75:3.2^speaker": "Ānanda",
-  "an10.75:3.2^where_here_and_before": [
+  "an10.75:3.2^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "an10.75:3.2^who_around_here_and_before": [
+  "an10.75:3.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "an10.75:3.2^who_else_mentioned": [
@@ -26,16 +26,16 @@
     "Ānanda",
     "Isidatta"
   ],
-  "an10.75:8.1^where_here_and_before": [
+  "an10.75:8.1^where_before_or_around_this_segment": [
     "at Migasālā's home"
   ],
-  "an10.75:8.1^who_around_here_and_before": [
+  "an10.75:8.1^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "an10.75:8.1^who_mentioned_here_and_before": [
+  "an10.75:8.1^who_mentioned_before_or_around_this_segment": [
     "the laywoman Migasālā"
   ],
-  "an10.75^initial_geographic_location": [
+  "an10.75^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an10.75^where": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī"

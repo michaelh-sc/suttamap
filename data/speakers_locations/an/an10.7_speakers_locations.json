@@ -22,17 +22,17 @@
     "Sāriputta"
   ],
   "an10.7:5.2+an10.7:5.5^speaker": "Sāriputta",
-  "an10.7:5.2^geographic_locations_here_and_before": [
+  "an10.7:5.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "an10.7:5.2^where_here_and_before": [
+  "an10.7:5.2^where_before_or_around_this_segment": [
     "Sāvatthī in the Dark Forest"
   ],
-  "an10.7:5.2^who_around_here_and_before": [
+  "an10.7:5.2^who_present_before_or_around_this_segment": [
     "Ānanda",
     "Sāriputta"
   ],
-  "an10.7^initial_geographic_location": [
+  "an10.7^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "an10.7^where": "Sāvatthī in the Dark Forest"

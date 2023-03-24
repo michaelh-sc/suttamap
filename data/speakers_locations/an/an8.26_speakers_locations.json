@@ -13,14 +13,14 @@
   "an8.26:3.2+an8.26:3.4^speaker": "the Buddha",
   "an8.26:4.1^speaker": "Jīvaka Komārabhacca",
   "an8.26:4.2+an8.26:4.10^speaker": "the Buddha",
-  "an8.26:4.2^geographic_locations_here_and_before": [
+  "an8.26:4.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "an8.26:4.2^where_here_and_before": [
+  "an8.26:4.2^where_before_or_around_this_segment": [
     "Jīvaka's Mango Grove",
     "Rājagaha"
   ],
-  "an8.26^initial_geographic_location": [
+  "an8.26^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "an8.26^where": "Jīvaka's Mango Grove, Rājagaha"

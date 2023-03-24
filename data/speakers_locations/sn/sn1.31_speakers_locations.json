@@ -8,20 +8,20 @@
   "sn1.31:12.1+sn1.31:12.4^speaker": "another deity",
   "sn1.31:13.2^speaker": "another deity",
   "sn1.31:14.1+sn1.31:15.4^speaker": "the Buddha",
-  "sn1.31:14.1^geographic_locations_here_and_before": [
+  "sn1.31:14.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn1.31:14.1^where_here_and_before": [
+  "sn1.31:14.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's Monastery"
   ],
-  "sn1.31:14.1^who_around_here_and_before": [
+  "sn1.31:14.1^who_present_before_or_around_this_segment": [
     "several glorious deities of the Satullapa Group"
   ],
-  "sn1.31:14.1^who_mentioned_here_and_before": [
+  "sn1.31:14.1^who_mentioned_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "sn1.31^initial_geographic_location": [
+  "sn1.31^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn1.31^where": "Jeta's Grove, Anāthapiṇḍika's Monastery"

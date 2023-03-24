@@ -28,24 +28,24 @@
   "an3.21:8.2+an3.21:8.4^who_else_mentioned": [
     "Buddha"
   ],
-  "an3.21:8.5^speaker": "Saviṭṭha, Mahākoṭṭhita",
+  "an3.21:8.5^speaker": "Saviṭṭha and Mahākoṭṭhita",
   "an3.21:9.1+an3.21:12.2^speaker": "the Buddha",
   "an3.21:9.1+an3.21:12.2^who_else_mentioned": [
     "Sāriputta"
   ],
-  "an3.21:9.1^geographic_locations_here_and_before": [
+  "an3.21:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an3.21:9.1^where_here_and_before": [
+  "an3.21:9.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery in Sāvatthī"
   ],
-  "an3.21:9.1^who_around_here_and_before": [
+  "an3.21:9.1^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Saviṭṭha",
     "Mahākoṭṭhita"
   ],
-  "an3.21^initial_geographic_location": [
+  "an3.21^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an3.21^where": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī"

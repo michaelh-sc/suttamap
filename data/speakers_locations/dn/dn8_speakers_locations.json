@@ -18,25 +18,44 @@
   "dn8:16.2^who_else_mentioned": [
     "Gotama"
   ],
+  "dn8:17.2^speaker": "Kassapa",
+  "dn8:17.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn8:17.3^speaker": "the Buddha",
   "dn8:18.2^speaker": "Kassapa",
   "dn8:18.2^who_else_mentioned": [
     "Gotama"
   ],
+  "dn8:18.3+dn8:23.4^speaker": "the Buddha",
+  "dn8:23.1^where_before_or_around_this_segment": [
+    "Rājagaha"
+  ],
+  "dn8:18.3+dn8:23.4^who_else_mentioned": [
+    "Realized One",
+    "Gotama",
+    "Kassapa"
+  ],
+  "dn8:23.5+dn8:23.10^speaker": "Kassapa",
+  "dn8:24.1+dn8:24.2^speaker": "the Buddha",
+  "dn8:24.1+dn8:24.2^who_else_mentioned": [
+    "Kassapa"
+  ],
   "dn8:24.3^speaker": "Kassapa",
-  "dn8:24.6^geographic_locations_here_and_before": [
+  "dn8:24.6^event_dppn_headwords_before_or_around_this_segment": [
     "Isipatana",
     "Kaṇṇakatthala"
   ],
   "dn8:24.6^speaker": "the Buddha",
-  "dn8:24.6^where_here_and_before": [
+  "dn8:24.6^where_before_or_around_this_segment": [
     "Ujuñña",
     "in the deer park at Kaṇṇakatthala"
   ],
-  "dn8:24.6^who_mentioned_here_and_before": [
+  "dn8:24.6^who_mentioned_before_or_around_this_segment": [
     "ascetics",
     "brahmins"
   ],
-  "dn8^initial_geographic_location": [
+  "dn8^initial_location_dppn_headword": [
     "Isipatana",
     "Kaṇṇakatthala"
   ],

@@ -21,20 +21,20 @@
   "mn68:7.10+mn68:8.3^who_else_mentioned": [
     "Anuruddha"
   ],
-  "mn68:8.4^geographic_locations_here_and_before": [
+  "mn68:8.4^event_dppn_headwords_before_or_around_this_segment": [
     "Naḷakapāna"
   ],
   "mn68:8.4^speaker": "Anuruddha and friends",
-  "mn68:8.4^where_here_and_before": [
+  "mn68:8.4^where_before_or_around_this_segment": [
     "the land of the Kosalans near Naḷakapāna in the Parrot Tree grove"
   ],
-  "mn68:8.4^who_around_here_and_before": [
+  "mn68:8.4^who_present_before_or_around_this_segment": [
     "the mendicant Saṅgha"
   ],
   "mn68:8.4^who_else_mentioned": [
     "Buddha"
   ],
-  "mn68:8.4^who_mentioned_here_and_before": [
+  "mn68:8.4^who_mentioned_before_or_around_this_segment": [
     "Anuruddha",
     "Bhaddiya",
     "Kimbila",
@@ -47,11 +47,11 @@
   "mn68:9.1+mn68:24.5^who_else_mentioned": [
     "Buddha"
   ],
-  "mn68:9.1^who_around_here_and_before": [
+  "mn68:9.1^who_present_before_or_around_this_segment": [
     "Anuruddha",
     "Anuruddha's friends"
   ],
-  "mn68^initial_geographic_location": [
+  "mn68^initial_location_dppn_headword": [
     "Naḷakapāna"
   ],
   "mn68^where": "the land of the Kosalans near Naḷakapāna in the Parrot Tree grove"

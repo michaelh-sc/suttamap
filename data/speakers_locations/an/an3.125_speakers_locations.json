@@ -8,17 +8,17 @@
     "Buddha",
     "Saṅgha"
   ],
-  "an3.125:2.1^geographic_locations_here_and_before": [
+  "an3.125:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an3.125:2.1^where_here_and_before": [
+  "an3.125:2.1^where_before_or_around_this_segment": [
     "Vesālī",
     "at the Buddhaka Tree-shrine"
   ],
-  "an3.125:2.1^who_around_here_and_before": [
+  "an3.125:2.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "an3.125^initial_geographic_location": [
+  "an3.125^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an3.125^where": "Vesālī, at the Buddhaka Tree-shrine"

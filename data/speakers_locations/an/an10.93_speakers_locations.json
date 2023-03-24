@@ -43,22 +43,22 @@
   "an10.93:13.1+an10.93:13.3^speaker": "the wanderers",
   "an10.93:14.1+an10.93:14.4^speaker": "Anāthapiṇḍika",
   "an10.93:15.3+an10.93:15.4^speaker": "the Buddha",
-  "an10.93:17.2^geographic_locations_here_and_before": [
+  "an10.93:17.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "an10.93:17.2^speaker": "the Buddha",
-  "an10.93:17.2^where_here_and_before": [
+  "an10.93:17.2^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "an10.93:17.2^who_around_here_and_before": [
+  "an10.93:17.2^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika",
     "the mendicants"
   ],
   "an10.93:17.2^who_else_mentioned": [
     "Anāthapiṇḍika"
   ],
-  "an10.93^initial_geographic_location": [
+  "an10.93^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an10.93^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

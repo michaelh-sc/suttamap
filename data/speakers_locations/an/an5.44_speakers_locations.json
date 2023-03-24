@@ -26,18 +26,18 @@
   ],
   "an5.44:11.6^speaker": "Ugga",
   "an5.44:12.1+an5.44:13.4^speaker": "the Buddha",
-  "an5.44:12.1^where_here_and_before": [
+  "an5.44:12.1^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof",
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "an5.44:12.1^who_around_here_and_before": [
+  "an5.44:12.1^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "an5.44:12.1^who_mentioned_here_and_before": [
+  "an5.44:12.1^who_mentioned_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "an5.44^initial_geographic_location": [
+  "an5.44^initial_location_dppn_headword": [
     "Vesāli",
     "Jetavana"
   ],

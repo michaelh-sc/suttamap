@@ -20,13 +20,13 @@
   "sn22.159:2.16+sn22.159:2.17^speaker": "the Buddha",
   "sn22.159:2.18^speaker": "Ānanda",
   "sn22.159:2.19+sn22.159:2.20^speaker": "the Buddha",
-  "sn22.159:2.19^geographic_locations_here_and_before": [
+  "sn22.159:2.19^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.159:2.19^where_here_and_before": [
+  "sn22.159:2.19^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.159^initial_geographic_location": [
+  "sn22.159^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.159^where": "Sāvatthī"

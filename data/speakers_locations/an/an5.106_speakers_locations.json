@@ -10,13 +10,13 @@
   "an5.106:5.2+an5.106:5.7^speaker": "the Buddha",
   "an5.106:6.1^speaker": "Ānanda",
   "an5.106:6.2+an5.106:7.1^speaker": "the Buddha",
-  "an5.106:6.2^geographic_locations_here_and_before": [
+  "an5.106:6.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "an5.106:6.2^where_here_and_before": [
+  "an5.106:6.2^where_before_or_around_this_segment": [
     "Ghosita's Monastery near Kosambi"
   ],
-  "an5.106^initial_geographic_location": [
+  "an5.106^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "an5.106^where": "Ghosita's Monastery, near Kosambi"

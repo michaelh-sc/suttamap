@@ -16,18 +16,18 @@
   "an8.24:2.3+an8.24:2.13^who_else_mentioned": [
     "Hatthaka of Āḷavī"
   ],
-  "an8.24:2.3^geographic_locations_here_and_before": [
+  "an8.24:2.3^event_dppn_headwords_before_or_around_this_segment": [
     "Āḷavī"
   ],
-  "an8.24:2.3^where_here_and_before": [
+  "an8.24:2.3^where_before_or_around_this_segment": [
     "Āḷavī",
     "at the Aggāḷava Tree-shrine"
   ],
-  "an8.24:2.3^who_around_here_and_before": [
+  "an8.24:2.3^who_present_before_or_around_this_segment": [
     "Hatthaka of Āḷavī",
     "five hundred lay followers"
   ],
-  "an8.24^initial_geographic_location": [
+  "an8.24^initial_location_dppn_headword": [
     "Āḷavī"
   ],
   "an8.24^where": "Āḷavī, at the Aggāḷava Tree-shrine"

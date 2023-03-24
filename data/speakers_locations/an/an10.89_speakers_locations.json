@@ -83,21 +83,21 @@
     "Moggallāna"
   ],
   "an10.89:16.1+an10.89:19.4^speaker": "the Buddha",
-  "an10.89:16.1^geographic_locations_here_and_before": [
+  "an10.89:16.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an10.89:16.1^where_here_and_before": [
+  "an10.89:16.1^where_before_or_around_this_segment": [
     "Jeta's Grove"
   ],
-  "an10.89:16.1^who_around_here_and_before": [
+  "an10.89:16.1^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Moggallāna"
   ],
-  "an10.89:16.1^who_mentioned_here_and_before": [
+  "an10.89:16.1^who_mentioned_before_or_around_this_segment": [
     "Tudu the independent brahmā",
     "Brahmā Sahampati"
   ],
-  "an10.89^initial_geographic_location": [
+  "an10.89^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an10.89^where": "Jeta's Grove"

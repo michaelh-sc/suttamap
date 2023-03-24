@@ -45,16 +45,16 @@
     "Jain",
     "Buddha"
   ],
-  "an4.195:13.2^geographic_locations_here_and_before": [
+  "an4.195:13.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "an4.195:13.2^where_here_and_before": [
+  "an4.195:13.2^where_before_or_around_this_segment": [
     "Kapilavatthu in the Banyan Tree Monastery"
   ],
-  "an4.195:13.2^who_around_here_and_before": [
+  "an4.195:13.2^who_present_before_or_around_this_segment": [
     "Mahāmoggallāna"
   ],
-  "an4.195^initial_geographic_location": [
+  "an4.195^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "an4.195^where": "Kapilavatthu in the Banyan Tree Monastery"

@@ -32,11 +32,11 @@
     "Mahāmoggallāna",
     "Buddha"
   ],
-  "sn6.5:11.2^where_here_and_before": [
+  "sn6.5:11.2^where_before_or_around_this_segment": [
     "Sāvatthī",
     "the Brahmā realm"
   ],
-  "sn6.5:11.2^who_around_here_and_before": [
+  "sn6.5:11.2^who_present_before_or_around_this_segment": [
     "the Buddha",
     "Mahāmoggallāna",
     "Mahākassapa",
@@ -44,13 +44,13 @@
     "Anuruddha",
     "the Brahmā's retinue member"
   ],
-  "sn6.5:11.2^who_mentioned_here_and_before": [
+  "sn6.5:11.2^who_mentioned_before_or_around_this_segment": [
     "Moggallāna",
     "Kassapa",
     "Kappina",
     "Anuruddha"
   ],
-  "sn6.5^initial_geographic_location": [
+  "sn6.5^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn6.5^where": "Sāvatthī and the Brahmā realm"

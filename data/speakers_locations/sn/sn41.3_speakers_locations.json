@@ -26,17 +26,17 @@
     "Isidatta"
   ],
   "sn41.3:7.9^speaker": "Isidatta",
-  "sn41.3:7.13^geographic_locations_here_and_before": [
+  "sn41.3:7.13^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
   "sn41.3:7.13^speaker": "the senior venerable",
-  "sn41.3:7.13^where_here_and_before": [
+  "sn41.3:7.13^where_before_or_around_this_segment": [
     "Macchikāsaṇḍa in the Wild Mango Grove"
   ],
-  "sn41.3:7.13^who_around_here_and_before": [
+  "sn41.3:7.13^who_present_before_or_around_this_segment": [
     "several senior mendicants"
   ],
-  "sn41.3^initial_geographic_location": [
+  "sn41.3^initial_location_dppn_headword": [
     "Macchikāsaṇḍa"
   ],
   "sn41.3^where": "Macchikāsaṇḍa in the Wild Mango Grove"

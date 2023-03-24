@@ -1,22 +1,22 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn14.18:1.2+sn14.18:6.4^speaker": "The Buddha",
+  "sn14.18:1.2+sn14.18:6.4^speaker": "the Buddha",
   "sn14.18:1.2+sn14.18:6.4^who_else_mentioned": [
     "Mendicants"
   ],
-  "sn14.18:1.2^geographic_locations_here_and_before": [
+  "sn14.18:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn14.18:1.2^where_here_and_before": [
+  "sn14.18:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn14.18:1.2^who_around_here_and_before": [
+  "sn14.18:1.2^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn14.18:1.2^who_mentioned_here_and_before": [
+  "sn14.18:1.2^who_mentioned_before_or_around_this_segment": [
     "Sentient beings"
   ],
-  "sn14.18^initial_geographic_location": [
+  "sn14.18^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn14.18^where": "Sāvatthī"

@@ -20,19 +20,19 @@
   "sn6.1:10.1+sn6.1:10.4^who_else_mentioned": [
     "Brahmā"
   ],
-  "sn6.1:10.1^geographic_locations_here_and_before": [
+  "sn6.1:10.1^event_dppn_headwords_before_or_around_this_segment": [
     "Uruvelā"
   ],
-  "sn6.1:10.1^where_here_and_before": [
+  "sn6.1:10.1^where_before_or_around_this_segment": [
     "Uruvelā at the root of the goatherd's banyan tree on the bank of the Nerañjarā River"
   ],
-  "sn6.1:10.1^who_around_here_and_before": [
+  "sn6.1:10.1^who_present_before_or_around_this_segment": [
     "Brahmā Sahampati"
   ],
-  "sn6.1:10.1^who_mentioned_here_and_before": [
+  "sn6.1:10.1^who_mentioned_before_or_around_this_segment": [
     "Magadhans"
   ],
-  "sn6.1^initial_geographic_location": [
+  "sn6.1^initial_location_dppn_headword": [
     "Uruvelā"
   ],
   "sn6.1^where": "Uruvelā at the root of the goatherd's banyan tree on the bank of the Nerañjarā River"

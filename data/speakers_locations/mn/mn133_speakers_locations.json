@@ -9,9 +9,9 @@
   "mn133:2.6+mn133:2.7^speaker": "Samiddhi",
   "mn133:2.8+mn133:2.12^speaker": "Glorious deity",
   "mn133:4.15^speaker": "Samiddhi",
-  "mn133:4.16^speaker": "The Buddha",
+  "mn133:4.16^speaker": "the Buddha",
   "mn133:4.17^speaker": "Samiddhi",
-  "mn133:5.1+mn133:5.16^speaker": "The Buddha",
+  "mn133:5.1+mn133:5.16^speaker": "the Buddha",
   "mn133:5.1+mn133:5.16^who_else_mentioned": [
     "Death"
   ],
@@ -38,18 +38,18 @@
     "Mahākaccāna"
   ],
   "mn133:11.1^speaker": "Mahākaccāna",
-  "mn133:11.2^geographic_locations_here_and_before": [
+  "mn133:11.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn133:11.2^speaker": "Mendicants",
-  "mn133:11.2^where_here_and_before": [
+  "mn133:11.2^where_before_or_around_this_segment": [
     "Rājagaha in the Hot Springs Monastery"
   ],
-  "mn133:11.2^who_around_here_and_before": [
+  "mn133:11.2^who_present_before_or_around_this_segment": [
     "Samiddhi",
     "Mendicants"
   ],
-  "mn133:11.2^who_mentioned_here_and_before": [
+  "mn133:11.2^who_mentioned_before_or_around_this_segment": [
     "Glorious deity"
   ],
   "mn133:12.1+mn133:19.8^speaker": "Mahākaccāna",
@@ -61,14 +61,14 @@
   "mn133:20.31^who_else_mentioned": [
     "Mahākaccāna"
   ],
-  "mn133:21.1+mn133:21.3^speaker": "The Buddha",
+  "mn133:21.1+mn133:21.3^speaker": "the Buddha",
   "mn133:21.1+mn133:21.3^who_else_mentioned": [
     "Mahākaccāna"
   ],
-  "mn133:21.1^who_around_here_and_before": [
-    "The Buddha"
+  "mn133:21.1^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "mn133^initial_geographic_location": [
+  "mn133^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn133^where": "Rājagaha in the Hot Springs Monastery"

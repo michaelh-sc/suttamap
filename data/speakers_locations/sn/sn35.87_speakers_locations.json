@@ -72,26 +72,24 @@
     "Channa",
     "Sāriputta"
   ],
-  "sn35.87:13.7^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "sn35.87:13.7^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn35.87:13.7^where_here_and_before": [
+  "sn35.87:13.7^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground",
     "Vulture's Peak Mountain"
   ],
-  "sn35.87:13.7^who_around_here_and_before": [
+  "sn35.87:13.7^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Mahācunda",
     "Channa"
   ],
-  "sn35.87:13.7^who_mentioned_here_and_before": [
+  "sn35.87:13.7^who_mentioned_before_or_around_this_segment": [
     "Vajjian village named Pubbavijjhana"
   ],
-  "sn35.87^initial_geographic_location": [
-    "Rājagaha",
+  "sn35.87^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn35.87^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground, Vulture's Peak Mountain"

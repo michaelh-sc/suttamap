@@ -4,11 +4,15 @@
   "sn9.5:2.1+sn9.5:2.4^who_else_mentioned": [
     "Gotama"
   ],
-  "sn9.5:2.1^where_here_and_before": [
+  "sn9.5:2.1^geographical_locations_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "sn9.5:2.1^where_before_or_around_this_segment": [
     "the land of the Kosalans in a certain forest grove"
   ],
-  "sn9.5:2.1^who_around_here_and_before": [
+  "sn9.5:2.1^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
+  "sn9.5^initial_location_dppn_headword": "Kosala",
   "sn9.5^where": "the land of the Kosalans in a certain forest grove"
 }

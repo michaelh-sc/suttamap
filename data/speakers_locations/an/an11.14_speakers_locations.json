@@ -23,7 +23,7 @@
     "Subhūti"
   ],
   "an11.14:3.2^speaker": "Subhūti",
-  "an11.14:3.2^who_around_here_and_before": [
+  "an11.14:3.2^who_present_before_or_around_this_segment": [
     "Saddha",
     "the layman Sudatta"
   ],
@@ -37,7 +37,7 @@
     "Subhūti",
     "Saddha"
   ],
-  "an11.14:27.1^who_around_here_and_before": [
+  "an11.14:27.1^who_present_before_or_around_this_segment": [
     "Saddha"
   ]
 }

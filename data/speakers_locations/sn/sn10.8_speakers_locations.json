@@ -7,7 +7,7 @@
   "sn10.8:2.1+sn10.8:3.4^speaker": "The invisible spirit Sivaka",
   "sn10.8:6.3+sn10.8:6.4^speaker": "The invisible spirit Sivaka",
   "sn10.8:9.3+sn10.8:9.4^speaker": "The invisible spirit Sivaka",
-  "sn10.8:11.5^speaker": "The Buddha",
+  "sn10.8:11.5^speaker": "the Buddha",
   "sn10.8:11.5^who_else_mentioned": [
     "Sudatta"
   ],
@@ -19,17 +19,17 @@
   "sn10.8:11.7^who_else_mentioned": [
     "Buddha"
   ],
-  "sn10.8:12.1+sn10.8:13.4^speaker": "The Buddha",
-  "sn10.8:12.1^geographic_locations_here_and_before": [
+  "sn10.8:12.1+sn10.8:13.4^speaker": "the Buddha",
+  "sn10.8:12.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn10.8:12.1^where_here_and_before": [
+  "sn10.8:12.1^where_before_or_around_this_segment": [
     "Rājagaha in the Cool Grove"
   ],
-  "sn10.8:12.1^who_around_here_and_before": [
+  "sn10.8:12.1^who_present_before_or_around_this_segment": [
     "The invisible spirit Sivaka"
   ],
-  "sn10.8^initial_geographic_location": [
+  "sn10.8^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn10.8^where": "Rājagaha in the Cool Grove"

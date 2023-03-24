@@ -61,14 +61,14 @@
   "mn75:9.5+mn75:9.11^who_else_mentioned": [
     "Māgaṇḍiya"
   ],
-  "mn75:9.12^geographic_locations_here_and_before": [
+  "mn75:9.12^event_dppn_headwords_before_or_around_this_segment": [
     "Kammāsadhamma"
   ],
   "mn75:9.12^speaker": "the wanderer Māgaṇḍiya",
-  "mn75:9.12^where_here_and_before": [
+  "mn75:9.12^where_before_or_around_this_segment": [
     "the land of the Kurus near the Kuru town named Kammāsadamma"
   ],
-  "mn75:9.12^who_around_here_and_before": [
+  "mn75:9.12^who_present_before_or_around_this_segment": [
     "the brahmin of the Bhāradvāja clan"
   ],
   "mn75:9.12^who_else_mentioned": [
@@ -159,7 +159,7 @@
   "mn75:23.3+mn75:24.9^who_else_mentioned": [
     "Māgaṇḍiya"
   ],
-  "mn75:23.3^who_mentioned_here_and_before": [
+  "mn75:23.3^who_mentioned_before_or_around_this_segment": [
     "a doctor",
     "a sighted person",
     "a person affected by leprosy",
@@ -191,7 +191,7 @@
   ],
   "mn75:27.3^speaker": "the wanderer Māgaṇḍiya",
   "mn75:28.3^speaker": "Māgaṇḍiya",
-  "mn75^initial_geographic_location": [
+  "mn75^initial_location_dppn_headword": [
     "Kammāsadhamma"
   ],
   "mn75^where": "the land of the Kurus near the Kuru town named Kammāsadamma"

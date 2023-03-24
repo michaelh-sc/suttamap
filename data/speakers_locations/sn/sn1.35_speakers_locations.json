@@ -14,16 +14,16 @@
     "The Realized One",
     "Buddha"
   ],
-  "sn1.35:10.1^geographic_locations_here_and_before": [
+  "sn1.35:10.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn1.35:10.1^where_here_and_before": [
+  "sn1.35:10.1^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "sn1.35:10.1^who_around_here_and_before": [
-    "The Buddha"
+  "sn1.35:10.1^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "sn1.35^initial_geographic_location": [
+  "sn1.35^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn1.35^where": "Jeta's Grove, Anāthapiṇḍika's Monastery near Sāvatthī"

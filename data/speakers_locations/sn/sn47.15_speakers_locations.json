@@ -8,14 +8,14 @@
   "sn47.15:1.4+sn47.15:2.6^where_else_mentioned": [
     "Bāhiya"
   ],
-  "sn47.15:3.3^geographic_locations_here_and_before": [
+  "sn47.15:3.3^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn47.15:3.3^speaker": "Bāhiya",
-  "sn47.15:3.3^where_here_and_before": [
+  "sn47.15:3.3^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn47.15^initial_geographic_location": [
+  "sn47.15^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn47.15^where": "Sāvatthī"

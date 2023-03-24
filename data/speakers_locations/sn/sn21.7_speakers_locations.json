@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn21.7:2.3^speaker": "The Buddha",
+  "sn21.7:2.3^speaker": "the Buddha",
   "sn21.7:2.3^who_else_mentioned": [
     "Mendicants"
   ],
@@ -9,26 +9,26 @@
     "Venerable Visākha",
     "Pañcāli"
   ],
-  "sn21.7:3.2+sn21.7:3.3^speaker": "The Buddha",
+  "sn21.7:3.2+sn21.7:3.3^speaker": "the Buddha",
   "sn21.7:3.2+sn21.7:3.3^who_else_mentioned": [
     "Visākha"
   ],
-  "sn21.7:5.1+sn21.7:6.4^speaker": "The Buddha",
-  "sn21.7:5.1^geographic_locations_here_and_before": [
+  "sn21.7:5.1+sn21.7:6.4^speaker": "the Buddha",
+  "sn21.7:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "sn21.7:5.1^where_here_and_before": [
+  "sn21.7:5.1^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "sn21.7:5.1^who_around_here_and_before": [
+  "sn21.7:5.1^who_present_before_or_around_this_segment": [
     "Visākha",
     "Pañcāli's son"
   ],
-  "sn21.7:5.1^who_mentioned_here_and_before": [
+  "sn21.7:5.1^who_mentioned_before_or_around_this_segment": [
     "Astute person",
     "fools"
   ],
-  "sn21.7^initial_geographic_location": [
+  "sn21.7^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "sn21.7^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

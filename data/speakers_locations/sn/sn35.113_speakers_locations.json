@@ -7,10 +7,10 @@
   ],
   "sn35.113:3.5^speaker": "the monk",
   "sn35.113:3.6+sn35.113:3.9^speaker": "the Buddha",
-  "sn35.113:3.6^where_here_and_before": [
+  "sn35.113:3.6^where_before_or_around_this_segment": [
     "Nādika in the brick house"
   ],
-  "sn35.113:3.6^who_around_here_and_before": [
+  "sn35.113:3.6^who_present_before_or_around_this_segment": [
     "a certain monk"
   ],
   "sn35.113^where": "Nādika in the brick house"

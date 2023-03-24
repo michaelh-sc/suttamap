@@ -21,19 +21,17 @@
   "an6.54:7.3^who_else_mentioned": [
     "Brahmin Dhammika"
   ],
-  "an6.54:7.4^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "an6.54:7.4^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
   "an6.54:7.4^speaker": "Dhammika",
-  "an6.54:7.4^where_here_and_before": [
-    "Rājagaha",
-    "on the Vulture's Peak Mountain"
+  "an6.54:7.4^where_before_or_around_this_segment": [
+    "Rājagaha on the Vulture's Peak Mountain"
   ],
-  "an6.54:7.4^who_around_here_and_before": [
+  "an6.54:7.4^who_present_before_or_around_this_segment": [
     "visiting mendicants"
   ],
-  "an6.54:7.4^who_mentioned_here_and_before": [
+  "an6.54:7.4^who_mentioned_before_or_around_this_segment": [
     "Saṅgha"
   ],
   "an6.54:7.5+an6.54:13.2^speaker": "the Buddha",
@@ -68,18 +66,17 @@
     "Buddha",
     "Saṅgha"
   ],
-  "an6.54:19.4^geographic_locations_here_and_before": [
+  "an6.54:19.4^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "an6.54:19.4^where_here_and_before": [
+  "an6.54:19.4^where_before_or_around_this_segment": [
     "Vulture's Peak",
     "Rājagaha"
   ],
-  "an6.54:19.4^who_mentioned_here_and_before": [
+  "an6.54:19.4^who_mentioned_before_or_around_this_segment": [
     "Sunetta"
   ],
-  "an6.54^initial_geographic_location": [
-    "Rājagaha",
+  "an6.54^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "an6.54^where": "Rājagaha, on the Vulture's Peak Mountain"

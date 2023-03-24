@@ -43,16 +43,16 @@
   ],
   "mn125:9.15^speaker": "the Buddha",
   "mn125:9.17^speaker": "the Buddha",
-  "mn125:11.2^geographic_locations_here_and_before": [
+  "mn125:11.2^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn125:11.2^speaker": "Aciravata",
-  "mn125:11.2^where_here_and_before": [
+  "mn125:11.2^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "mn125:11.2^who_around_here_and_before": [
+  "mn125:11.2^who_present_before_or_around_this_segment": [
     "Prince Jayasena"
   ],
   "mn125:11.2^who_else_mentioned": [
@@ -65,13 +65,13 @@
     "Māras",
     "Brahmās"
   ],
-  "mn125:12.1^who_around_here_and_before": [
+  "mn125:12.1^who_present_before_or_around_this_segment": [
     "Aggivessana"
   ],
-  "mn125:12.1^who_mentioned_here_and_before": [
+  "mn125:12.1^who_mentioned_before_or_around_this_segment": [
     "Prince Jayasena"
   ],
-  "mn125^initial_geographic_location": [
+  "mn125^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn125^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

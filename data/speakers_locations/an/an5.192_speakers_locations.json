@@ -35,7 +35,7 @@
   ],
   "an5.192:4.3^speaker": "the Buddha",
   "an5.192:4.4^speaker": "Doṇa the brahmin",
-  "an5.192:4.4^who_mentioned_here_and_before": [
+  "an5.192:4.4^who_mentioned_before_or_around_this_segment": [
     "Aṭṭhaka",
     "Vāmaka",
     "Vāmadeva",
@@ -68,7 +68,7 @@
   "an5.192:16.1+an5.192:16.2^who_else_mentioned": [
     "Gotama"
   ],
-  "an5.192:16.1^who_mentioned_here_and_before": [
+  "an5.192:16.1^who_mentioned_before_or_around_this_segment": [
     "Brahmā"
   ]
 }

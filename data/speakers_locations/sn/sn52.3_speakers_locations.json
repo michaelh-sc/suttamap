@@ -5,16 +5,16 @@
     "Anuruddha"
   ],
   "sn52.3:2.1+sn52.3:2.8^speaker": "Anuruddha",
-  "sn52.3:2.1^geographic_locations_here_and_before": [
+  "sn52.3:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sutanu"
   ],
-  "sn52.3:2.1^where_here_and_before": [
+  "sn52.3:2.1^where_before_or_around_this_segment": [
     "the bank of the Sutanu"
   ],
-  "sn52.3:2.1^who_around_here_and_before": [
+  "sn52.3:2.1^who_present_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn52.3^initial_geographic_location": [
+  "sn52.3^initial_location_dppn_headword": [
     "Sutanu"
   ],
   "sn52.3^where": "the bank of the Sutanu"

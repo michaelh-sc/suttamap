@@ -9,13 +9,13 @@
   "sn35.129:1.5+sn35.129:1.23^who_else_mentioned": [
     "Buddha"
   ],
-  "sn35.129:1.5^geographic_locations_here_and_before": [
+  "sn35.129:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "sn35.129:1.5^where_here_and_before": [
+  "sn35.129:1.5^where_before_or_around_this_segment": [
     "Ghosita's Monastery near Kosambi"
   ],
-  "sn35.129^initial_geographic_location": [
+  "sn35.129^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "sn35.129^where": "Ghosita's Monastery, Kosambi"

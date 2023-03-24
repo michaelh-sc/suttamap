@@ -11,23 +11,23 @@
     "Buddha"
   ],
   "sn3.11:9.1+sn3.11:10.4^speaker": "the Buddha",
-  "sn3.11:9.1^geographic_locations_here_and_before": [
+  "sn3.11:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn3.11:9.1^where_here_and_before": [
+  "sn3.11:9.1^where_before_or_around_this_segment": [
     "Sāvatthī in the Eastern Monastery"
   ],
-  "sn3.11:9.1^who_around_here_and_before": [
+  "sn3.11:9.1^who_present_before_or_around_this_segment": [
     "seven matted-hair ascetics",
     "seven Jain ascetics",
     "seven naked ascetics",
     "seven one-cloth ascetics",
     "seven wanderers"
   ],
-  "sn3.11:9.1^who_mentioned_here_and_before": [
+  "sn3.11:9.1^who_mentioned_before_or_around_this_segment": [
     "Migāra's mother"
   ],
-  "sn3.11^initial_geographic_location": [
+  "sn3.11^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn3.11^where": "Sāvatthī in the Eastern Monastery"

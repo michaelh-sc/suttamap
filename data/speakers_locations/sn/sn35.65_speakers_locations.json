@@ -11,16 +11,16 @@
   "sn35.65:2.1+sn35.65:3.6^who_else_mentioned": [
     "Māra"
   ],
-  "sn35.65:2.1^geographic_locations_here_and_before": [
+  "sn35.65:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn35.65:2.1^where_here_and_before": [
+  "sn35.65:2.1^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "sn35.65:2.1^who_mentioned_here_and_before": [
+  "sn35.65:2.1^who_mentioned_before_or_around_this_segment": [
     "Māra"
   ],
-  "sn35.65^initial_geographic_location": [
+  "sn35.65^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn35.65^where": "Bamboo Grove, near Rājagaha"

@@ -9,13 +9,13 @@
     "Rādha",
     "Māra"
   ],
-  "sn23.12:1.5^geographic_locations_here_and_before": [
+  "sn23.12:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn23.12:1.5^where_here_and_before": [
+  "sn23.12:1.5^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn23.12^initial_geographic_location": [
+  "sn23.12^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn23.12^where": "Sāvatthī"

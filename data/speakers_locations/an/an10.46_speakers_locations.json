@@ -36,17 +36,17 @@
   "an10.46:7.1+an10.46:12.10^who_else_mentioned": [
     "Sakyans"
   ],
-  "an10.46:12.11^geographic_locations_here_and_before": [
+  "an10.46:12.11^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
   "an10.46:12.11^speaker": "Sakyan lay followers",
-  "an10.46:12.11^where_here_and_before": [
+  "an10.46:12.11^where_before_or_around_this_segment": [
     "Kapilavatthu in the Banyan Tree Monastery"
   ],
-  "an10.46:12.11^who_around_here_and_before": [
+  "an10.46:12.11^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "an10.46^initial_geographic_location": [
+  "an10.46^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "an10.46^where": "Kapilavatthu in the Banyan Tree Monastery"

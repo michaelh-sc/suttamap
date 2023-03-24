@@ -10,10 +10,10 @@
   "an3.40:2.11^speaker": "the Buddha (assumed)",
   "an3.40:2.15^speaker": "the Buddha (assumed)",
   "an3.40:3.6^speaker": "the Buddha (assumed)",
-  "an3.40:3.6^who_around_here_and_before": [
+  "an3.40:3.6^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an3.40:3.6^who_mentioned_here_and_before": [
+  "an3.40:3.6^who_mentioned_before_or_around_this_segment": [
     "sage"
   ]
 }

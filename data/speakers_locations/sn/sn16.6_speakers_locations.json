@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn16.6:1.3+sn16.6:1.6^speaker": "The Buddha",
+  "sn16.6:1.3+sn16.6:1.6^speaker": "the Buddha",
   "sn16.6:1.3+sn16.6:1.6^who_else_mentioned": [
     "Kassapa"
   ],
@@ -19,27 +19,27 @@
   "sn16.6:3.4^speaker": "The monk",
   "sn16.6:3.5^speaker": "The monk",
   "sn16.6:4.1^speaker": "Bhaṇḍa and Abhiñjika",
-  "sn16.6:4.2+sn16.6:4.3^speaker": "The Buddha",
+  "sn16.6:4.2+sn16.6:4.3^speaker": "the Buddha",
   "sn16.6:4.4^speaker": "Bhaṇḍa and Abhiñjika",
-  "sn16.6:4.5+sn16.6:4.7^speaker": "The Buddha",
+  "sn16.6:4.5+sn16.6:4.7^speaker": "the Buddha",
   "sn16.6:4.8^speaker": "Bhaṇḍa and Abhiñjika",
-  "sn16.6:4.9+sn16.6:4.10^speaker": "The Buddha",
+  "sn16.6:4.9+sn16.6:4.10^speaker": "the Buddha",
   "sn16.6:5.2+sn16.6:5.4^speaker": "Bhaṇḍa and Abhiñjika",
-  "sn16.6:6.1+sn16.6:6.4^speaker": "The Buddha",
-  "sn16.6:6.1^geographic_locations_here_and_before": [
+  "sn16.6:6.1+sn16.6:6.4^speaker": "the Buddha",
+  "sn16.6:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn16.6:6.1^where_here_and_before": [
+  "sn16.6:6.1^where_before_or_around_this_segment": [
     "Near Rājagaha in the Bamboo Grove"
   ],
-  "sn16.6:6.1^who_around_here_and_before": [
+  "sn16.6:6.1^who_present_before_or_around_this_segment": [
     "Mahākassapa"
   ],
-  "sn16.6:6.1^who_mentioned_here_and_before": [
+  "sn16.6:6.1^who_mentioned_before_or_around_this_segment": [
     "Ānanda",
     "Anuruddha"
   ],
-  "sn16.6^initial_geographic_location": [
+  "sn16.6^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn16.6^where": "Near Rājagaha, in the Bamboo Grove"

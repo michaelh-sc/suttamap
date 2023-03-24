@@ -10,7 +10,7 @@
   "an11.21:4.1^speaker": "Sāriputta",
   "an11.21:5.1^speaker": "the mendicants",
   "an11.21:6.1+an11.21:6.3^speaker": "Sāriputta",
-  "an11.21:6.1^who_around_here_and_before": [
+  "an11.21:6.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ]
 }

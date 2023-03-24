@@ -5,18 +5,18 @@
   "mn8:3.4+mn8:17.3^who_else_mentioned": [
     "Cunda"
   ],
-  "mn8:17.8^geographic_locations_here_and_before": [
+  "mn8:17.8^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn8:17.8^speaker": "the Buddha",
-  "mn8:17.8^where_here_and_before": [
+  "mn8:17.8^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī"
   ],
-  "mn8:17.8^who_around_here_and_before": [
+  "mn8:17.8^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "mn8^initial_geographic_location": [
+  "mn8^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn8^where": "Jeta's Grove, Sāvatthī"

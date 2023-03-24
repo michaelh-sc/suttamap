@@ -5,20 +5,20 @@
     "Sāriputta"
   ],
   "sn48.50:2.1+sn48.50:6.4^speaker": "Sāriputta",
-  "sn48.50:7.2^geographic_locations_here_and_before": [
+  "sn48.50:7.2^event_dppn_headwords_before_or_around_this_segment": [
     "Āpaṇa"
   ],
   "sn48.50:7.2^speaker": "the Buddha",
-  "sn48.50:7.2^where_here_and_before": [
+  "sn48.50:7.2^where_before_or_around_this_segment": [
     "the land of the Aṅgas near the Aṅgan town called Āpaṇa"
   ],
-  "sn48.50:7.2^who_around_here_and_before": [
+  "sn48.50:7.2^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
   "sn48.50:7.2^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn48.50^initial_geographic_location": [
+  "sn48.50^initial_location_dppn_headword": [
     "Āpaṇa"
   ],
   "sn48.50^where": "the land of the Aṅgas, near the Aṅgan town called Āpaṇa"

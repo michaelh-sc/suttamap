@@ -1,15 +1,15 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn10:1.4^speaker": "The Buddha",
-  "mn10:1.5^geographic_locations_here_and_before": [
+  "mn10:1.4^speaker": "the Buddha",
+  "mn10:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Kammāsadhamma"
   ],
   "mn10:1.5^speaker": "The mendicants",
-  "mn10:1.5^where_here_and_before": [
+  "mn10:1.5^where_before_or_around_this_segment": [
     "The land of the Kurus near the Kuru town named Kammāsadamma"
   ],
-  "mn10:2.1+mn10:47.2^speaker": "The Buddha",
-  "mn10^initial_geographic_location": [
+  "mn10:2.1+mn10:47.2^speaker": "the Buddha",
+  "mn10^initial_location_dppn_headword": [
     "Kammāsadhamma"
   ],
   "mn10^where": "The land of the Kurus near the Kuru town named Kammāsadamma."

@@ -4,16 +4,16 @@
   "an6.33:1.1+an6.33:2.6^who_else_mentioned": [
     "Saṅgha"
   ],
-  "an6.33:1.1^geographic_locations_here_and_before": [
+  "an6.33:1.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an6.33:1.1^where_here_and_before": [
+  "an6.33:1.1^where_before_or_around_this_segment": [
     "Jeta's Grove"
   ],
-  "an6.33:1.1^who_around_here_and_before": [
+  "an6.33:1.1^who_present_before_or_around_this_segment": [
     "a glorious deity"
   ],
-  "an6.33^initial_geographic_location": [
+  "an6.33^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an6.33^where": "Jeta's Grove"

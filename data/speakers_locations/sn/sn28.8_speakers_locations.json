@@ -1,16 +1,16 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn28.8:1.3^geographic_locations_here_and_before": [
+  "sn28.8:1.3^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn28.8:1.3^speaker": "Ānanda",
-  "sn28.8:1.3^where_here_and_before": [
+  "sn28.8:1.3^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn28.8:1.3^who_around_here_and_before": [
+  "sn28.8:1.3^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn28.8^initial_geographic_location": [
+  "sn28.8^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn28.8^where": "Sāvatthī"

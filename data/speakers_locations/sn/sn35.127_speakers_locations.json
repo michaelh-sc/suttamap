@@ -30,17 +30,17 @@
     "Buddha",
     "Saṅgha"
   ],
-  "sn35.127:5.1^geographic_locations_here_and_before": [
+  "sn35.127:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "sn35.127:5.1^where_here_and_before": [
+  "sn35.127:5.1^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "sn35.127:5.1^who_around_here_and_before": [
+  "sn35.127:5.1^who_present_before_or_around_this_segment": [
     "Piṇḍola Bhāradvāja"
   ],
-  "sn35.127^initial_geographic_location": [
+  "sn35.127^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "sn35.127^where": "Kosambi, in Ghosita's Monastery"

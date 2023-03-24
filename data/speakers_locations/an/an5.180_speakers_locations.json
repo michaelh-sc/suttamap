@@ -15,11 +15,15 @@
     "Buddha",
     "Gavesī"
   ],
-  "an5.180:3.1^where_here_and_before": [
+  "an5.180:3.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "an5.180:3.1^where_before_or_around_this_segment": [
     "the land of the Kosalans"
   ],
-  "an5.180:3.1^who_around_here_and_before": [
+  "an5.180:3.1^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
+  "an5.180^initial_location_dppn_headword": "Kosala",
   "an5.180^where": "the land of the Kosalans"
 }

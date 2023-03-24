@@ -5,11 +5,15 @@
   ],
   "an9.26:1.6^speaker": "Devadatta",
   "an9.26:1.6^where_here_and_before": [
-    "Bamboo Grove near Rājagaha"
+    "Bamboo Grove",
+    "near Rājagaha"
   ],
   "an9.26:1.6^who_around_here_and_before": [
-    "the Buddha",
+    "Candikāputta",
     "mendicants"
+  ],
+  "an9.26:1.6^who_mentioned_here_and_before": [
+    "the Buddha (assumed)"
   ],
   "an9.26^initial_geographic_location": [
     "Rājagaha"

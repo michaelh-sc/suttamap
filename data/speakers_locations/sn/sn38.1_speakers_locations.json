@@ -10,16 +10,16 @@
   "sn38.1:2.7^speaker": "Jambukhādaka",
   "sn38.1:2.8+sn38.1:2.10^speaker": "Sāriputta",
   "sn38.1:2.11+sn38.1:2.12^speaker": "Jambukhādaka",
-  "sn38.1:2.11^geographic_locations_here_and_before": [
+  "sn38.1:2.11^event_dppn_headwords_before_or_around_this_segment": [
     "Nāḷandā"
   ],
-  "sn38.1:2.11^where_here_and_before": [
+  "sn38.1:2.11^where_before_or_around_this_segment": [
     "the land of the Magadhans near the little village of Nālaka"
   ],
-  "sn38.1:2.11^who_around_here_and_before": [
+  "sn38.1:2.11^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn38.1^initial_geographic_location": [
+  "sn38.1^initial_location_dppn_headword": [
     "Nāḷandā"
   ],
   "sn38.1^where": "the land of the Magadhans near the little village of Nālaka"

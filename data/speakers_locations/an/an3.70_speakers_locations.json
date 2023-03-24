@@ -30,18 +30,18 @@
     "Brahmā",
     "Saṅgha"
   ],
-  "an3.70:3.11^geographic_locations_here_and_before": [
+  "an3.70:3.11^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "an3.70:3.11^speaker": "the Buddha",
-  "an3.70:3.11^where_here_and_before": [
+  "an3.70:3.11^where_before_or_around_this_segment": [
     "Sāvatthī in the Eastern Monastery",
     "the stilt longhouse of Migāra's mother"
   ],
-  "an3.70:3.11^who_around_here_and_before": [
+  "an3.70:3.11^who_present_before_or_around_this_segment": [
     "Visākhā"
   ],
-  "an3.70^initial_geographic_location": [
+  "an3.70^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "an3.70^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"

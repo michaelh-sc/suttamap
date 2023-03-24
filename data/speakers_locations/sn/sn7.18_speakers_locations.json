@@ -10,14 +10,18 @@
   "sn7.18:7.2+sn7.18:7.3^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.18:7.2^where_here_and_before": [
+  "sn7.18:7.2^geographical_locations_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "sn7.18:7.2^where_before_or_around_this_segment": [
     "land of the Kosalans in a certain forest grove"
   ],
-  "sn7.18:7.2^who_around_here_and_before": [
+  "sn7.18:7.2^who_present_before_or_around_this_segment": [
     "students of Bhāradvāja"
   ],
-  "sn7.18:7.2^who_mentioned_here_and_before": [
+  "sn7.18:7.2^who_mentioned_before_or_around_this_segment": [
     "Brahmā"
   ],
+  "sn7.18^initial_location_dppn_headword": "Kosala",
   "sn7.18^where": "land of the Kosalans in a certain forest grove"
 }

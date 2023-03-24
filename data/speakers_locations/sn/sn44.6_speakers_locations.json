@@ -41,15 +41,15 @@
     "Buddha"
   ],
   "sn44.6:7.2+sn44.6:7.3^speaker": "Mahākoṭṭhita",
-  "sn44.6:7.2^geographic_locations_here_and_before": [
+  "sn44.6:7.2^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn44.6:7.2^where_here_and_before": [
+  "sn44.6:7.2^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "sn44.6^initial_geographic_location": [
+  "sn44.6^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

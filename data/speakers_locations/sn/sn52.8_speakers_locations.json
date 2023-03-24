@@ -9,21 +9,21 @@
     "Ganges"
   ],
   "sn52.8:2.1+sn52.8:3.9^speaker": "Anuruddha",
-  "sn52.8:2.1^geographic_locations_here_and_before": [
+  "sn52.8:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn52.8:2.1^where_here_and_before": [
+  "sn52.8:2.1^where_before_or_around_this_segment": [
     "Sāvatthī in the frankincense-tree hut"
   ],
-  "sn52.8:2.1^who_around_here_and_before": [
+  "sn52.8:2.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn52.8:2.1^who_mentioned_here_and_before": [
+  "sn52.8:2.1^who_mentioned_before_or_around_this_segment": [
     "rulers or their ministers",
     "friends or colleagues",
     "relatives or family"
   ],
-  "sn52.8^initial_geographic_location": [
+  "sn52.8^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn52.8^where": "Sāvatthī in the frankincense-tree hut"

@@ -6,16 +6,16 @@
     "Buddha"
   ],
   "sn48.43:3.1+sn48.43:6.9^speaker": "the Buddha (assumed)",
-  "sn48.43:3.1^geographic_locations_here_and_before": [
+  "sn48.43:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāketa"
   ],
-  "sn48.43:3.1^where_here_and_before": [
+  "sn48.43:3.1^where_before_or_around_this_segment": [
     "Sāketa in the deer part at the Añjana Wood"
   ],
-  "sn48.43:3.1^who_around_here_and_before": [
+  "sn48.43:3.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn48.43^initial_geographic_location": [
+  "sn48.43^initial_location_dppn_headword": [
     "Sāketa"
   ],
   "sn48.43^where": "Sāketa in the deer part at the Añjana Wood"

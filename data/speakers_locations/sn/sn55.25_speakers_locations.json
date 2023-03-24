@@ -5,16 +5,16 @@
     "Buddha",
     "Sarakāni"
   ],
-  "sn55.25:1.6^geographic_locations_here_and_before": [
+  "sn55.25:1.6^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "sn55.25:1.6^where_here_and_before": [
+  "sn55.25:1.6^where_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "sn55.25:1.6^who_around_here_and_before": [
-    "The Buddha"
+  "sn55.25:1.6^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "sn55.25:1.6^who_mentioned_here_and_before": [
+  "sn55.25:1.6^who_mentioned_before_or_around_this_segment": [
     "Sarakāni the Sakyan"
   ],
   "sn55.25:3.1+sn55.25:10.2^speaker": "the Buddha",
@@ -41,13 +41,13 @@
     "Buddha",
     "Mahānāma"
   ],
-  "sn55.25:11.5^who_around_here_and_before": [
+  "sn55.25:11.5^who_present_before_or_around_this_segment": [
     "Mahānāma the Sakyan"
   ],
-  "sn55.25:11.5^who_mentioned_here_and_before": [
+  "sn55.25:11.5^who_mentioned_before_or_around_this_segment": [
     "Sarakāni the Sakyan"
   ],
-  "sn55.25^initial_geographic_location": [
+  "sn55.25^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "sn55.25^where": "Kapilavatthu"

@@ -14,14 +14,14 @@
   "an4.36:4.1+an4.36:6.4^who_else_mentioned": [
     "Buddha"
   ],
-  "an4.36:4.1^geographic_locations_here_and_before": [
+  "an4.36:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Setabyā"
   ],
-  "an4.36:4.1^where_here_and_before": [
+  "an4.36:4.1^where_before_or_around_this_segment": [
     "Ukkaṭṭhā",
     "Setavyā"
   ],
-  "an4.36^initial_geographic_location": [
+  "an4.36^initial_location_dppn_headword": [
     "Setabyā"
   ],
   "an4.36^where": "Ukkaṭṭhā, Setavyā"

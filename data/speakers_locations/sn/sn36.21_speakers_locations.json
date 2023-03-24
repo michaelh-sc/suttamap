@@ -11,16 +11,16 @@
     "Gotama"
   ],
   "sn36.21:5.1+sn36.21:5.4^speaker": "the Buddha",
-  "sn36.21:5.1^geographic_locations_here_and_before": [
+  "sn36.21:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn36.21:5.1^where_here_and_before": [
+  "sn36.21:5.1^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "sn36.21:5.1^who_around_here_and_before": [
+  "sn36.21:5.1^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn36.21^initial_geographic_location": [
+  "sn36.21^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn36.21^where": "Bamboo Grove, near Rājagaha"

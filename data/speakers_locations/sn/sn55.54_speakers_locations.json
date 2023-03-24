@@ -12,16 +12,16 @@
     "Mahānāma",
     "Yama"
   ],
-  "sn55.54:2.1^geographic_locations_here_and_before": [
+  "sn55.54:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "sn55.54:2.1^where_here_and_before": [
+  "sn55.54:2.1^where_before_or_around_this_segment": [
     "Kapilavatthu in the Banyan Tree Monastery"
   ],
-  "sn55.54:2.1^who_around_here_and_before": [
+  "sn55.54:2.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn55.54^initial_geographic_location": [
+  "sn55.54^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "sn55.54^where": "Kapilavatthu in the Banyan Tree Monastery"

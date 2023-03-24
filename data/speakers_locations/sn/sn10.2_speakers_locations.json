@@ -5,16 +5,16 @@
   "sn10.2:3.1+sn10.2:4.4^who_else_mentioned": [
     "Sakka"
   ],
-  "sn10.2:3.1^geographic_locations_here_and_before": [
+  "sn10.2:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn10.2:3.1^where_here_and_before": [
+  "sn10.2:3.1^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain near Rājagaha"
   ],
-  "sn10.2:3.1^who_around_here_and_before": [
-    "The Buddha"
+  "sn10.2:3.1^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "sn10.2^initial_geographic_location": [
+  "sn10.2^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn10.2^where": "Vulture's Peak Mountain, near Rājagaha"

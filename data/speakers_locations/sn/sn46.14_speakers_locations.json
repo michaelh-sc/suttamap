@@ -10,13 +10,13 @@
     "Kassapa"
   ],
   "sn46.14:3.5+sn46.14:3.6^speaker": "Mahākassapa",
-  "sn46.14:3.5^geographic_locations_here_and_before": [
+  "sn46.14:3.5^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn46.14:3.5^where_here_and_before": [
+  "sn46.14:3.5^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "sn46.14^initial_geographic_location": [
+  "sn46.14^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn46.14^where": "Bamboo Grove, near Rājagaha"

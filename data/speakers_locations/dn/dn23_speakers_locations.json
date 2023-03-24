@@ -67,20 +67,20 @@
   "dn23:8.8+dn23:8.21^speaker": "Pāyāsi",
   "dn23:8.13^speaker": "Kassapa the Prince",
   "dn23:9.1+dn23:9.26^speaker": "Kassapa the Prince",
-  "dn23:9.1^geographic_locations_here_and_before": [
+  "dn23:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Setabyā"
   ],
-  "dn23:9.1^where_here_and_before": [
+  "dn23:9.1^where_before_or_around_this_segment": [
     "Setavyā",
     "grove of Indian Rosewood to the north of Setavyā"
   ],
-  "dn23:9.1^who_around_here_and_before": [
+  "dn23:9.1^who_present_before_or_around_this_segment": [
     "a large Saṅgha of five hundred mendicants",
     "brahmins of Setavyā",
     "householders of Setavyā",
     "Pāyāsi's steward"
   ],
-  "dn23:9.1^who_mentioned_here_and_before": [
+  "dn23:9.1^who_mentioned_before_or_around_this_segment": [
     "King Pasenadi of Kosala"
   ],
   "dn23:9.27+dn23:9.29^speaker": "Pāyāsi",
@@ -236,20 +236,26 @@
   "dn23:32.20^speaker": "Uttara",
   "dn23:33.3^speaker": "Gavampati",
   "dn23:33.4^speaker": "Pāyāsi",
-  "dn23:33.4^where_here_and_before": [
+  "dn23:33.4^where_before_or_around_this_segment": [
     "an empty acacia palace"
   ],
-  "dn23:33.4^who_around_here_and_before": [
+  "dn23:33.4^who_present_before_or_around_this_segment": [
     "Kassapa",
     "Gavampati"
   ],
   "dn23:33.4^who_else_mentioned": [
     "Pāyāsi"
   ],
-  "dn23:33.4^who_mentioned_here_and_before": [
+  "dn23:33.4^who_mentioned_before_or_around_this_segment": [
     "Uttara"
   ],
-  "dn23^initial_geographic_location": [
+  "dn23:33.5+dn23:33.6^speaker": "Gavampati",
+  "dn23:33.7+dn23:33.9^speaker": "Pāyāsi",
+  "dn23:33.10^speaker": "Gavampati",
+  "dn23:33.11+dn23:33.16^speaker": "Pāyāsi",
+  "dn23:33.11^who_present_before_or_around_this_segment": "Kassapa the Prince, brahmin student named Uttara, Pāyāsi, Gavampati",
+  "before^dn23:33.11^who_mentioned_before_or_around_this_segment": "gods of the Four Great Kings, gods of the Thirty-Three",
+  "dn23^initial_location_dppn_headword": [
     "Setabyā"
   ],
   "dn23^where": "Setavyā, grove of Indian Rosewood to the north of Setavyā"

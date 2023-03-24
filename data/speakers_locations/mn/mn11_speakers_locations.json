@@ -1,37 +1,37 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn11:1.4^speaker": "The Buddha",
-  "mn11:1.5^geographic_locations_here_and_before": [
+  "mn11:1.4^speaker": "the Buddha",
+  "mn11:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn11:1.5^speaker": "The mendicants",
-  "mn11:1.5^where_here_and_before": [
+  "mn11:1.5^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn11:1.5^who_mentioned_here_and_before": [
+  "mn11:1.5^who_mentioned_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "mn11:2.1+mn11:17.3^speaker": "The Buddha",
+  "mn11:2.1+mn11:17.3^speaker": "the Buddha",
   "mn11:2.1+mn11:17.3^who_else_mentioned": [
     "the Blessed One",
     "Buddha",
     "The Realized One"
   ],
-  "mn11:2.1^geographic_locations_here_and_before": [
+  "mn11:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn11:2.1^where_here_and_before": [
+  "mn11:2.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn11:2.1^who_around_here_and_before": [
+  "mn11:2.1^who_present_before_or_around_this_segment": [
     "The mendicants"
   ],
-  "mn11:2.1^who_mentioned_here_and_before": [
+  "mn11:2.1^who_mentioned_before_or_around_this_segment": [
     "Other sects"
   ],
-  "mn11^initial_geographic_location": [
+  "mn11^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn11^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

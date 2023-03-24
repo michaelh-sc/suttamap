@@ -18,14 +18,14 @@
   "dn7:4.6+dn7:5.3^speaker": "the Buddha",
   "dn7:5.4^speaker": "the wanderer Muṇḍiya and Jāliya the pupil of Dārupattika",
   "dn7:5.6+dn7:5.8^speaker": "the Buddha",
-  "dn7:5.6^geographic_locations_here_and_before": [
+  "dn7:5.6^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "dn7:5.6^where_here_and_before": [
+  "dn7:5.6^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "dn7^initial_geographic_location": [
+  "dn7^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "dn7^where": "Kosambi, in Ghosita's Monastery"

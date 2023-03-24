@@ -1,14 +1,14 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn14.16:1.2+sn14.16:7.11^speaker": "the Buddha",
-  "sn14.16:9.1+sn14.16:11.4^speaker": "the Holy One, the Teacher",
-  "sn14.16:9.1^geographic_locations_here_and_before": [
+  "sn14.16:9.1+sn14.16:11.4^speaker": "the Buddha",
+  "sn14.16:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn14.16:9.1^where_here_and_before": [
+  "sn14.16:9.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn14.16^initial_geographic_location": [
+  "sn14.16^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn14.16^where": "Sāvatthī"

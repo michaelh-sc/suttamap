@@ -29,17 +29,17 @@
   "an5.31:9.1+an5.31:13.4^who_else_mentioned": [
     "Buddha"
   ],
-  "an5.31:9.1^geographic_locations_here_and_before": [
+  "an5.31:9.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an5.31:9.1^where_here_and_before": [
+  "an5.31:9.1^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "an5.31:9.1^who_around_here_and_before": [
+  "an5.31:9.1^who_present_before_or_around_this_segment": [
     "five hundred chariots",
     "five hundred royal maidens"
   ],
-  "an5.31^initial_geographic_location": [
+  "an5.31^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an5.31^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

@@ -44,21 +44,21 @@
     "Saṅgha",
     "Kassapa"
   ],
-  "sn16.10:8.1^geographic_locations_here_and_before": [
+  "sn16.10:8.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn16.10:8.1^where_here_and_before": [
+  "sn16.10:8.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "sn16.10:8.1^who_around_here_and_before": [
+  "sn16.10:8.1^who_present_before_or_around_this_segment": [
     "Ānanda",
     "Thullatissā"
   ],
-  "sn16.10:8.1^who_mentioned_here_and_before": [
-    "The Buddha"
+  "sn16.10:8.1^who_mentioned_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "sn16.10^initial_geographic_location": [
+  "sn16.10^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn16.10^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

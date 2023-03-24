@@ -13,19 +13,19 @@
   "sn4.16:4.1+sn4.16:5.4^who_else_mentioned": [
     "Māra"
   ],
-  "sn4.16:4.1^geographic_locations_here_and_before": [
+  "sn4.16:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn4.16:4.1^where_here_and_before": [
+  "sn4.16:4.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn4.16:4.1^who_around_here_and_before": [
+  "sn4.16:4.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn4.16:4.1^who_mentioned_here_and_before": [
+  "sn4.16:4.1^who_mentioned_before_or_around_this_segment": [
     "Māra the Wicked"
   ],
-  "sn4.16^initial_geographic_location": [
+  "sn4.16^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn4.16^where": "Sāvatthī"

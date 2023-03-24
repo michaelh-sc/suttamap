@@ -4,12 +4,12 @@
   "sn7.9:1.8^speaker": "Brahmin Bhāradvāja of Sundarika",
   "sn7.9:1.10+sn7.9:1.11^speaker": "Brahmin Bhāradvāja of Sundarika",
   "sn7.9:2.2^speaker": "Brahmin Bhāradvāja of Sundarika",
-  "sn7.9:3.1+sn7.9:4.4^speaker": "The Buddha",
+  "sn7.9:3.1+sn7.9:4.4^speaker": "the Buddha",
   "sn7.9:5.1+sn7.9:6.2^speaker": "Brahmin Bhāradvāja of Sundarika",
   "sn7.9:5.1+sn7.9:6.2^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.9:7.1+sn7.9:8.4^speaker": "The Buddha",
+  "sn7.9:7.1+sn7.9:8.4^speaker": "the Buddha",
   "sn7.9:7.1+sn7.9:8.4^who_else_mentioned": [
     "Buddhas"
   ],
@@ -17,23 +17,23 @@
   "sn7.9:9.1^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.9:9.2+sn7.9:9.3^speaker": "The Buddha",
+  "sn7.9:9.2+sn7.9:9.3^speaker": "the Buddha",
   "sn7.9:9.2+sn7.9:9.3^who_else_mentioned": [
     "Māras",
     "Brahmās"
   ],
-  "sn7.9:12.1+sn7.9:16.4^speaker": "The Buddha",
+  "sn7.9:12.1+sn7.9:16.4^speaker": "the Buddha",
   "sn7.9:17.2^speaker": "Brahmin Bhāradvāja of Sundarika",
-  "sn7.9:17.2^where_here_and_before": [
+  "sn7.9:17.2^where_before_or_around_this_segment": [
     "Kosalan lands on the bank of the Sundarika river"
   ],
-  "sn7.9:17.2^who_around_here_and_before": [
-    "The Buddha"
+  "sn7.9:17.2^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
   "sn7.9:17.2^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.9:17.2^who_mentioned_here_and_before": [
+  "sn7.9:17.2^who_mentioned_before_or_around_this_segment": [
     "Māras",
     "Brahmās",
     "ascetics",

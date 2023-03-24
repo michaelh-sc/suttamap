@@ -47,14 +47,14 @@
   "mn57:6.9^who_else_mentioned": [
     "Puṇṇa"
   ],
-  "mn57:6.10^geographic_locations_here_and_before": [
+  "mn57:6.10^event_dppn_headwords_before_or_around_this_segment": [
     "Haliddavasana"
   ],
   "mn57:6.10^speaker": "Puṇṇa Koliyaputta",
-  "mn57:6.10^where_here_and_before": [
+  "mn57:6.10^where_before_or_around_this_segment": [
     "The land of the Koliyans Haliddavasana"
   ],
-  "mn57:6.10^who_around_here_and_before": [
+  "mn57:6.10^who_present_before_or_around_this_segment": [
     "Seniya"
   ],
   "mn57:7.1+mn57:11.4^speaker": "the Buddha",
@@ -76,13 +76,13 @@
   ],
   "mn57:14.3^speaker": "Seniya",
   "mn57:15.3^speaker": "Seniya",
-  "mn57:15.3^who_around_here_and_before": [
+  "mn57:15.3^who_present_before_or_around_this_segment": [
     "Puṇṇa Koliyaputta"
   ],
-  "mn57:15.3^who_mentioned_here_and_before": [
+  "mn57:15.3^who_mentioned_before_or_around_this_segment": [
     "the naked ascetic Seniya"
   ],
-  "mn57^initial_geographic_location": [
+  "mn57^initial_location_dppn_headword": [
     "Haliddavasana"
   ],
   "mn57^where": "The land of the Koliyans, Haliddavasana"

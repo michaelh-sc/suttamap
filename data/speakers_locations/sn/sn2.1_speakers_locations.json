@@ -9,16 +9,16 @@
     "Kassapa"
   ],
   "sn2.1:2.1+sn2.1:2.4^speaker": "the god Kassapa",
-  "sn2.1:2.1^geographic_locations_here_and_before": [
+  "sn2.1:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn2.1:2.1^where_here_and_before": [
+  "sn2.1:2.1^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "sn2.1:2.1^who_around_here_and_before": [
+  "sn2.1:2.1^who_present_before_or_around_this_segment": [
     "the teacher"
   ],
-  "sn2.1^initial_geographic_location": [
+  "sn2.1^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn2.1^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

@@ -4,13 +4,13 @@
   "sn45.14:1.2+sn45.14:1.5^who_else_mentioned": [
     "Buddha"
   ],
-  "sn45.14:1.2^geographic_locations_here_and_before": [
+  "sn45.14:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn45.14:1.2^where_here_and_before": [
+  "sn45.14:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn45.14^initial_geographic_location": [
+  "sn45.14^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn45.14^where": "Sāvatthī"

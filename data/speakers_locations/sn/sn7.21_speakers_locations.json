@@ -7,31 +7,31 @@
   "sn7.21:1.5+sn7.21:1.6^who_else_mentioned": [
     "Saṅgārava"
   ],
-  "sn7.21:2.4^speaker": "The Buddha",
+  "sn7.21:2.4^speaker": "the Buddha",
   "sn7.21:2.5^speaker": "Saṅgārava",
   "sn7.21:2.5^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.21:2.6^speaker": "The Buddha",
+  "sn7.21:2.6^speaker": "the Buddha",
   "sn7.21:2.7+sn7.21:2.8^speaker": "Saṅgārava",
   "sn7.21:2.7+sn7.21:2.8^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.21:3.1+sn7.21:3.4^speaker": "The Buddha",
+  "sn7.21:3.1+sn7.21:3.4^speaker": "the Buddha",
   "sn7.21:4.2+sn7.21:4.3^speaker": "Saṅgārava",
   "sn7.21:4.2+sn7.21:4.3^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.21:4.2^geographic_locations_here_and_before": [
+  "sn7.21:4.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn7.21:4.2^where_here_and_before": [
+  "sn7.21:4.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn7.21:4.2^who_around_here_and_before": [
+  "sn7.21:4.2^who_present_before_or_around_this_segment": [
     "Ānanda"
   ],
-  "sn7.21^initial_geographic_location": [
+  "sn7.21^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn7.21^where": "Sāvatthī"

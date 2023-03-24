@@ -71,10 +71,10 @@
   "mn67:13.6+mn67:13.7^who_else_mentioned": [
     "Moggallāna"
   ],
-  "mn67:13.6^where_here_and_before": [
+  "mn67:13.6^where_before_or_around_this_segment": [
     "Cātumā in a myrobalan grove"
   ],
-  "mn67:13.6^who_around_here_and_before": [
+  "mn67:13.6^who_present_before_or_around_this_segment": [
     "Ānanda",
     "Sāriputta",
     "Moggallāna",
@@ -83,11 +83,11 @@
     "Mahāmoggallāna"
   ],
   "mn67:14.2+mn67:20.1^speaker": "the Buddha",
-  "mn67:14.2^who_around_here_and_before": [
+  "mn67:14.2^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "the mendicants"
   ],
-  "mn67:14.2^who_mentioned_here_and_before": [
+  "mn67:14.2^who_mentioned_before_or_around_this_segment": [
     "Saṅgha"
   ],
   "mn67^where": "Cātumā in a myrobalan grove"

@@ -36,14 +36,14 @@
     "Gotama",
     "Saṅgha"
   ],
-  "mn107:15.2^geographic_locations_here_and_before": [
+  "mn107:15.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "mn107:15.2^where_here_and_before": [
+  "mn107:15.2^where_before_or_around_this_segment": [
     "Sāvatthī in the Eastern Monastery",
     "the stilt longhouse of Migāra's mother"
   ],
-  "mn107^initial_geographic_location": [
+  "mn107^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "mn107^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"

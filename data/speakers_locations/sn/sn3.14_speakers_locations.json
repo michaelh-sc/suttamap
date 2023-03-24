@@ -1,26 +1,26 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn3.14:4.1+sn3.14:4.3^speaker": "The Buddha",
+  "sn3.14:4.1+sn3.14:4.3^speaker": "the Buddha",
   "sn3.14:4.1+sn3.14:4.3^who_else_mentioned": [
     "Ajātasattu",
     "Pasenadi",
     "King Pasenadi"
   ],
-  "sn3.14:5.1+sn3.14:5.4^speaker": "The Buddha",
-  "sn3.14:5.1^geographic_locations_here_and_before": [
+  "sn3.14:5.1+sn3.14:5.4^speaker": "the Buddha",
+  "sn3.14:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn3.14:5.1^where_here_and_before": [
+  "sn3.14:5.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn3.14:5.1^who_around_here_and_before": [
+  "sn3.14:5.1^who_present_before_or_around_this_segment": [
     "Several mendicants"
   ],
-  "sn3.14:5.1^who_mentioned_here_and_before": [
+  "sn3.14:5.1^who_mentioned_before_or_around_this_segment": [
     "King Ajātasattu",
     "King Pasenadi"
   ],
-  "sn3.14^initial_geographic_location": [
+  "sn3.14^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn3.14^where": "Sāvatthī"

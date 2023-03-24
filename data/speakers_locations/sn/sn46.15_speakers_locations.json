@@ -10,13 +10,13 @@
     "Moggallāna"
   ],
   "sn46.15:3.5+sn46.15:3.6^speaker": "Mahāmoggallāna",
-  "sn46.15:3.5^geographic_locations_here_and_before": [
+  "sn46.15:3.5^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn46.15:3.5^where_here_and_before": [
+  "sn46.15:3.5^where_before_or_around_this_segment": [
     "Bamboo Grove near Rājagaha"
   ],
-  "sn46.15^initial_geographic_location": [
+  "sn46.15^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn46.15^where": "Bamboo Grove, near Rājagaha"

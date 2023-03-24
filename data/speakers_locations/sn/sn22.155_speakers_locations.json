@@ -14,16 +14,16 @@
   "sn22.155:1.21^speaker": "the Buddha (assumed)",
   "sn22.155:1.22^speaker": "Mendicants",
   "sn22.155:1.23+sn22.155:1.24^speaker": "the Buddha",
-  "sn22.155:1.23^geographic_locations_here_and_before": [
+  "sn22.155:1.23^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.155:1.23^where_here_and_before": [
+  "sn22.155:1.23^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.155:1.23^who_around_here_and_before": [
+  "sn22.155:1.23^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn22.155^initial_geographic_location": [
+  "sn22.155^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.155^where": "Sāvatthī"

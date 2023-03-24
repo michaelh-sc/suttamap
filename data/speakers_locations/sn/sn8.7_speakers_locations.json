@@ -21,20 +21,20 @@
     "the Blessed One",
     "Kinsman"
   ],
-  "sn8.7:6.1^geographic_locations_here_and_before": [
+  "sn8.7:6.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn8.7:6.1^where_here_and_before": [
+  "sn8.7:6.1^where_before_or_around_this_segment": [
     "Sāvatthī in the Eastern Monastery",
     "the stilt longhouse of Migāra's mother"
   ],
-  "sn8.7:6.1^who_around_here_and_before": [
+  "sn8.7:6.1^who_present_before_or_around_this_segment": [
     "a large Saṅgha of around five hundred monks"
   ],
-  "sn8.7:6.1^who_mentioned_here_and_before": [
+  "sn8.7:6.1^who_mentioned_before_or_around_this_segment": [
     "Migāra's mother"
   ],
-  "sn8.7^initial_geographic_location": [
+  "sn8.7^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn8.7^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"

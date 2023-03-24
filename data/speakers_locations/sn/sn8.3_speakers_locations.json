@@ -5,20 +5,20 @@
   "sn8.3:2.1+sn8.3:5.4^who_else_mentioned": [
     "Gotama"
   ],
-  "sn8.3:2.1^geographic_locations_here_and_before": [
+  "sn8.3:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Āḷavī"
   ],
-  "sn8.3:2.1^where_here_and_before": [
+  "sn8.3:2.1^where_before_or_around_this_segment": [
     "Āḷavī",
     "at the Aggāḷava Tree-shrine"
   ],
-  "sn8.3:2.1^who_around_here_and_before": [
+  "sn8.3:2.1^who_present_before_or_around_this_segment": [
     "Nigrodhakappa"
   ],
-  "sn8.3:2.1^who_mentioned_here_and_before": [
+  "sn8.3:2.1^who_mentioned_before_or_around_this_segment": [
     "Buddha"
   ],
-  "sn8.3^initial_geographic_location": [
+  "sn8.3^initial_location_dppn_headword": [
     "Āḷavī"
   ],
   "sn8.3^where": "Āḷavī, at the Aggāḷava Tree-shrine"

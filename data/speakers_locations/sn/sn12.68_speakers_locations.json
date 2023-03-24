@@ -67,14 +67,14 @@
     "Saviṭṭha",
     "Nārada"
   ],
-  "sn12.68:14.3^geographic_locations_here_and_before": [
+  "sn12.68:14.3^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
   "sn12.68:14.3^speaker": "Saviṭṭha",
-  "sn12.68:14.3^where_here_and_before": [
+  "sn12.68:14.3^where_before_or_around_this_segment": [
     "Kosambī in Ghosita's monastery"
   ],
-  "sn12.68:14.3^who_around_here_and_before": [
+  "sn12.68:14.3^who_present_before_or_around_this_segment": [
     "Musīla",
     "Nārada",
     "Ānanda"
@@ -83,10 +83,10 @@
     "Ānanda",
     "Nārada"
   ],
-  "sn12.68:14.3^who_mentioned_here_and_before": [
+  "sn12.68:14.3^who_mentioned_before_or_around_this_segment": [
     "Ghosita"
   ],
-  "sn12.68^initial_geographic_location": [
+  "sn12.68^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "sn12.68^where": "Kosambī in Ghosita's monastery"

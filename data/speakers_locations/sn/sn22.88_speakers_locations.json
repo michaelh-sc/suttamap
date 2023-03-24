@@ -30,21 +30,21 @@
   "sn22.88:4.3^speaker": "Assaji",
   "sn22.88:4.4^speaker": "the Buddha",
   "sn22.88:4.5+sn22.88:5.4^speaker": "the Buddha",
-  "sn22.88:4.5^geographic_locations_here_and_before": [
+  "sn22.88:4.5^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
-  "sn22.88:4.5^where_here_and_before": [
+  "sn22.88:4.5^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "sn22.88:4.5^who_around_here_and_before": [
+  "sn22.88:4.5^who_present_before_or_around_this_segment": [
     "the carers"
   ],
-  "sn22.88:4.5^who_mentioned_here_and_before": [
+  "sn22.88:4.5^who_mentioned_before_or_around_this_segment": [
     "Kassapa"
   ],
-  "sn22.88^initial_geographic_location": [
+  "sn22.88^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "sn22.88^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

@@ -105,17 +105,17 @@
   "mn56:5.6^speaker": "Nigaṇṭha Nātaputta",
   "mn56:5.7^speaker": "Dīgha Tapassī",
   "mn56:5.8^speaker": "Nigaṇṭha Nātaputta",
-  "mn56:5.8^where_here_and_before": [
+  "mn56:5.8^where_before_or_around_this_segment": [
     "Nālandā in Pāvārika's mango grove"
   ],
-  "mn56:5.8^geographical_locations_here_and_before": [
+  "mn56:5.8^geographical_locations_before_or_around_this_segment": [
     "Nāḷandā"
   ],
-  "mn56:5.8^who_around_here_and_before": [
+  "mn56:5.8^who_present_before_or_around_this_segment": [
     "a large assembly of Jain ascetics",
     "a large assembly of laypeople of Bālaka headed by Upāli"
   ],
-  "mn56:5.8^who_mentioned_here_and_before": [
+  "mn56:5.8^who_mentioned_before_or_around_this_segment": [
     "Pāvārika"
   ],
   "mn56:6.2+mn56:6.5^speaker": "Nigaṇṭha Nātaputta",
@@ -221,17 +221,17 @@
   "mn56:13.10+mn56:13.11^speaker": "the householder Upāli",
   "mn56:13.12+mn56:13.17^speaker": "the Buddha",
   "mn56:13.18+mn56:13.19^speaker": "the householder Upāli",
-  "mn56:13.18^geographic_locations_here_and_before": [
+  "mn56:13.18^event_dppn_headwords_before_or_around_this_segment": [
     "Nāḷandā"
   ],
-  "mn56:13.18^where_here_and_before": [
+  "mn56:13.18^where_before_or_around_this_segment": [
     "Nāḷandā"
   ],
-  "mn56:13.18^who_around_here_and_before": [
+  "mn56:13.18^who_present_before_or_around_this_segment": [
     "Dīgha Tapassī",
     "the householder Upāli"
   ],
-  "mn56:13.18^who_mentioned_here_and_before": [
+  "mn56:13.18^who_mentioned_before_or_around_this_segment": [
     "gods called mind-bound"
   ],
   "mn56:13.20+mn56:13.22^speaker": "the Buddha",
@@ -323,10 +323,10 @@
     "Gotama"
   ],
   "mn56:20.13^speaker": "Nigaṇṭha Nātaputta",
-  "mn56:20.13^where_here_and_before": [
+  "mn56:20.13^where_before_or_around_this_segment": [
     "Upāli's home"
   ],
-  "mn56:20.13^who_around_here_and_before": [
+  "mn56:20.13^who_present_before_or_around_this_segment": [
     "the gatekeeper"
   ],
   "mn56:20.13^who_else_mentioned": [
@@ -334,7 +334,7 @@
     "Upāli",
     "Gotama"
   ],
-  "mn56:20.13^who_mentioned_here_and_before": [
+  "mn56:20.13^who_mentioned_before_or_around_this_segment": [
     "Jain monks",
     "Jain nuns"
   ],
@@ -406,14 +406,14 @@
   "mn56:28.1+mn56:28.3^who_else_mentioned": [
     "Nigaṇṭha Nātaputta"
   ],
-  "mn56:28.1^where_here_and_before": [
+  "mn56:28.1^where_before_or_around_this_segment": [
     "Upāli's home"
   ],
-  "mn56:28.1^who_around_here_and_before": [
+  "mn56:28.1^who_present_before_or_around_this_segment": [
     "Jain ascetics",
     "Gatekeeper"
   ],
-  "mn56:28.1^who_mentioned_here_and_before": [
+  "mn56:28.1^who_mentioned_before_or_around_this_segment": [
     "Dīgha Tapassī",
     "Buddha",
     "Rattapāṇi"
@@ -431,10 +431,10 @@
   "mn56:30.2+mn56:30.4^who_else_mentioned": [
     "Buddha"
   ],
-  "mn56:30.2^who_around_here_and_before": [
+  "mn56:30.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "mn56:30.2^who_mentioned_here_and_before": [
+  "mn56:30.2^who_mentioned_before_or_around_this_segment": [
     "a garland-maker or their apprentice"
   ],
   "mn56^initial_geographical_location": "Nāḷandā",

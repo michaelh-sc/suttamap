@@ -1,11 +1,11 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "dn21:1.1.5^speaker": "Sakka, lord of gods",
+  "dn21:1.1.5^speaker": "Sakka lord of Gods",
   "dn21:1.1.5^who_else_mentioned": [
     "the Blessed One",
     "Buddha"
   ],
-  "dn21:1.1.8+dn21:1.1.9^speaker": "Sakka, lord of gods",
+  "dn21:1.1.8+dn21:1.1.9^speaker": "Sakka lord of Gods",
   "dn21:1.1.8+dn21:1.1.9^where_else_mentioned": [
     "Magadhans",
     "the Indasāla cave"
@@ -15,7 +15,7 @@
     "Blessed One"
   ],
   "dn21:1.1.10^speaker": "the gods of the Thirty-Three",
-  "dn21:1.2.2+dn21:1.2.3^speaker": "Sakka, lord of gods",
+  "dn21:1.2.2+dn21:1.2.3^speaker": "Sakka lord of Gods",
   "dn21:1.2.2+dn21:1.2.3^where_else_mentioned": [
     "Magadhans",
     "the Indasāla cave"
@@ -31,7 +31,7 @@
     "Mount Vediyaka",
     "Ambasaṇḍā"
   ],
-  "dn21:1.4.2+dn21:1.4.3^speaker": "Sakka, lord of gods",
+  "dn21:1.4.2+dn21:1.4.3^speaker": "Sakka lord of Gods",
   "dn21:1.4.2+dn21:1.4.3^who_else_mentioned": [
     "Pañcasikha",
     "Buddha"
@@ -62,7 +62,7 @@
     "Suriyavacchasā",
     "Buddha"
   ],
-  "dn21:1.8.2^speaker": "Sakka, lord of gods",
+  "dn21:1.8.2^speaker": "Sakka lord of Gods",
   "dn21:1.8.2^who_else_mentioned": [
     "Pañcasikha",
     "Buddha"
@@ -88,7 +88,7 @@
   "dn21:1.9.3^who_else_mentioned": [
     "Kosiya"
   ],
-  "dn21:1.9.4+dn21:1.10.11^speaker": "Sakka, lord of gods",
+  "dn21:1.9.4+dn21:1.10.11^speaker": "Sakka lord of Gods",
   "dn21:1.9.4+dn21:1.10.11^where_else_mentioned": [
     "Sāvatthī"
   ],
@@ -98,12 +98,12 @@
     "Bhūjati",
     "Sakka"
   ],
-  "dn21:1.10.4^speaker": "Sakka, lord of gods",
+  "dn21:1.10.4^speaker": "Sakka lord of Gods",
   "dn21:1.10.4^who_else_mentioned": [
     "Sakka"
   ],
   "dn21:1.10.12+dn21:1.10.13^speaker": "the fairy Pañcasikha",
-  "dn21:1.11.1+dn21:1.12.76^speaker": "Sakka, lord of gods",
+  "dn21:1.11.1+dn21:1.12.76^speaker": "Sakka lord of Gods",
   "dn21:1.11.1+dn21:1.12.76^where_else_mentioned": [
     "Kapilavatthu"
   ],
@@ -123,13 +123,13 @@
     "the Sakyan Sage"
   ],
   "dn21:1.13.2+dn21:1.13.3^speaker": "the Buddha",
-  "dn21:1.13.2^geographic_locations_here_and_before": [
+  "dn21:1.13.2^event_dppn_headwords_before_or_around_this_segment": [
     "Ambasaṇḍā",
     "Rājagaha",
     "Vediyaka",
     "Uruvelā"
   ],
-  "dn21:1.13.2^where_here_and_before": [
+  "dn21:1.13.2^where_before_or_around_this_segment": [
     "the land of the Magadhans",
     "east of Rājagaha",
     "Ambasaṇḍā",
@@ -139,11 +139,11 @@
     "goatherd's banyan tree",
     "Nerañjarā River"
   ],
-  "dn21:1.13.2^who_around_here_and_before": [
+  "dn21:1.13.2^who_present_before_or_around_this_segment": [
     "the gods of the Thirty-Three",
     "the fairy Pañcasikha"
   ],
-  "dn21:1.13.2^who_mentioned_here_and_before": [
+  "dn21:1.13.2^who_mentioned_before_or_around_this_segment": [
     "Suriyavaccasā",
     "Kosiya"
   ],
@@ -242,22 +242,22 @@
   ],
   "dn21:2.10.10^speaker": "Sakka",
   "dn21:2.10.13^speaker": "the Buddha",
-  "dn21:2.10.13^where_here_and_before": [
+  "dn21:2.10.13^where_before_or_around_this_segment": [
     "wilderness",
     "in remote lodgings"
   ],
-  "dn21:2.10.13^who_around_here_and_before": [
+  "dn21:2.10.13^who_present_before_or_around_this_segment": [
     "Pañcasikha",
     "Bhaddā Suriyavaccasā"
   ],
   "dn21:2.10.13^who_else_mentioned": [
     "Sakka"
   ],
-  "dn21:2.10.13^who_mentioned_here_and_before": [
+  "dn21:2.10.13^who_mentioned_before_or_around_this_segment": [
     "other ascetics",
     "other brahmins"
   ],
-  "dn21^initial_geographic_location": [
+  "dn21^initial_location_dppn_headword": [
     "Ambasaṇḍā"
   ],
   "dn21^where": "the land of the Magadhans, east of Rājagaha, Ambasaṇḍā, Mount Vediyaka, Indasāla cave, Uruvelā, goatherd's banyan tree, Nerañjarā River"

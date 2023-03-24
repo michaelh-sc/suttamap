@@ -1,11 +1,11 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn62:3.2^speaker": "The Buddha",
+  "mn62:3.2^speaker": "the Buddha",
   "mn62:3.2^who_else_mentioned": [
     "Rāhula"
   ],
   "mn62:3.3^speaker": "Rāhula",
-  "mn62:3.4^speaker": "The Buddha",
+  "mn62:3.4^speaker": "the Buddha",
   "mn62:3.4^who_else_mentioned": [
     "Rāhula"
   ],
@@ -14,16 +14,16 @@
     "Buddha"
   ],
   "mn62:5.3+mn62:5.4^speaker": "Sāriputta",
-  "mn62:7.1^geographic_locations_here_and_before": [
+  "mn62:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "mn62:7.1^speaker": "Rāhula",
-  "mn62:7.1^where_here_and_before": [
+  "mn62:7.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "mn62:7.1^who_around_here_and_before": [
+  "mn62:7.1^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Anāthapiṇḍika"
   ],
@@ -31,10 +31,10 @@
   "mn62:8.1+mn62:30.2^where_else_mentioned": [
     "Rāhula"
   ],
-  "mn62:8.1^who_around_here_and_before": [
+  "mn62:8.1^who_present_before_or_around_this_segment": [
     "Rāhula"
   ],
-  "mn62^initial_geographic_location": [
+  "mn62^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn62^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

@@ -1,10 +1,10 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "an6.20:1.3+an6.20:8.1^speaker": "the Buddha (assumed)",
-  "an6.20:1.3^where_here_and_before": [
+  "an6.20:1.3^where_before_or_around_this_segment": [
     "Nādika in the brick house"
   ],
-  "an6.20:1.3^who_around_here_and_before": [
+  "an6.20:1.3^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "an6.20^where": "Nādika in the brick house"

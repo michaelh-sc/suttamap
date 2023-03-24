@@ -19,11 +19,11 @@
   ],
   "sn55.7:3.1+sn55.7:3.2^speaker": "the Buddha",
   "sn55.7:3.3^speaker": "brahmins of Bamboo Gate and householders of Bamboo Gate",
-  "sn55.7:3.3^where_here_and_before": [
+  "sn55.7:3.3^where_before_or_around_this_segment": [
     "the land of the Kosalans",
     "Bamboo Gate"
   ],
-  "sn55.7:3.3^who_around_here_and_before": [
+  "sn55.7:3.3^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
   "sn55.7:4.1+sn55.7:11.7^speaker": "the Buddha",
@@ -32,11 +32,12 @@
     "Gotama",
     "Saṅgha"
   ],
-  "sn55.7:12.2^where_here_and_before": [
+  "sn55.7:12.2^where_before_or_around_this_segment": [
     "Bamboo Gate"
   ],
-  "sn55.7:12.2^who_around_here_and_before": [
+  "sn55.7:12.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
+  "sn55.7^initial_location_dppn_headword": "Kosala",
   "sn55.7^where": "the land of the Kosalans, Bamboo Gate"
 }

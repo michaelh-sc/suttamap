@@ -65,17 +65,17 @@
   "mn145:8.4+mn145:8.5^who_else_mentioned": [
     "Puṇṇa"
   ],
-  "mn145:8.4^geographic_locations_here_and_before": [
+  "mn145:8.4^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn145:8.4^where_here_and_before": [
+  "mn145:8.4^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī"
   ],
-  "mn145:8.4^who_around_here_and_before": [
+  "mn145:8.4^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "mn145^initial_geographic_location": [
+  "mn145^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn145^where": "Jeta's Grove, Sāvatthī"

@@ -72,14 +72,14 @@
     "Kāsi"
   ],
   "mn87:28.5+mn87:28.6^speaker": "Queen Mallikā",
-  "mn87:28.5^geographic_locations_here_and_before": [
+  "mn87:28.5^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn87:28.5^where_here_and_before": [
+  "mn87:28.5^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn87:28.5^who_around_here_and_before": [
+  "mn87:28.5^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika",
     "Princess Vajirī"
   ],
@@ -97,10 +97,10 @@
   "mn87:29.5+mn87:29.7^who_else_mentioned": [
     "Buddha"
   ],
-  "mn87:29.5^who_around_here_and_before": [
-    "The Buddha"
+  "mn87:29.5^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "mn87^initial_geographic_location": [
+  "mn87^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn87^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

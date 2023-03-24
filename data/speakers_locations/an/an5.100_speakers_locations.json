@@ -10,17 +10,17 @@
     "Moggallāna",
     "Kakudha"
   ],
-  "an5.100:5.3^geographic_locations_here_and_before": [
+  "an5.100:5.3^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
   "an5.100:5.3^speaker": "Mahāmoggallāna",
-  "an5.100:5.3^where_here_and_before": [
+  "an5.100:5.3^where_before_or_around_this_segment": [
     "Ghosita's Monastery near Kosambi"
   ],
-  "an5.100:5.3^who_around_here_and_before": [
+  "an5.100:5.3^who_present_before_or_around_this_segment": [
     "Mahāmoggallāna"
   ],
-  "an5.100:5.3^who_mentioned_here_and_before": [
+  "an5.100:5.3^who_mentioned_before_or_around_this_segment": [
     "Devadatta"
   ],
   "an5.100:5.5+an5.100:11.10^speaker": "the Buddha",
@@ -29,13 +29,13 @@
     "Moggallāna",
     "Devadatta"
   ],
-  "an5.100:5.5^who_around_here_and_before": [
+  "an5.100:5.5^who_present_before_or_around_this_segment": [
     "Mahāmoggallāna"
   ],
-  "an5.100:5.5^who_mentioned_here_and_before": [
+  "an5.100:5.5^who_mentioned_before_or_around_this_segment": [
     "Kakudha"
   ],
-  "an5.100^initial_geographic_location": [
+  "an5.100^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "an5.100^where": "Ghosita's Monastery, near Kosambi"

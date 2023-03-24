@@ -17,16 +17,16 @@
   "an6.69:4.1+an6.69:4.13^who_else_mentioned": [
     "Saṅgha"
   ],
-  "an6.69:4.1^geographic_locations_here_and_before": [
+  "an6.69:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an6.69:4.1^where_here_and_before": [
+  "an6.69:4.1^where_before_or_around_this_segment": [
     "Jeta's Grove"
   ],
-  "an6.69:4.1^who_around_here_and_before": [
+  "an6.69:4.1^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "an6.69^initial_geographic_location": [
+  "an6.69^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an6.69^where": "Jeta's Grove"

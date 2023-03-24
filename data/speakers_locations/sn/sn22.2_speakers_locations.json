@@ -1,12 +1,12 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn22.2:1.4^speaker": "Several mendicants",
-  "sn22.2:2.1^speaker": "The Buddha",
+  "sn22.2:2.1^speaker": "the Buddha",
   "sn22.2:2.1^who_else_mentioned": [
     "Sāriputta"
   ],
   "sn22.2:2.2^speaker": "Several mendicants",
-  "sn22.2:2.3+sn22.2:2.4^speaker": "The Buddha",
+  "sn22.2:2.3+sn22.2:2.4^speaker": "the Buddha",
   "sn22.2:2.3+sn22.2:2.4^who_else_mentioned": [
     "Sāriputta"
   ],
@@ -16,18 +16,18 @@
     "Sāriputta"
   ],
   "sn22.2:5.3^speaker": "Sāriputta",
-  "sn22.2:5.4^geographic_locations_here_and_before": [
+  "sn22.2:5.4^event_dppn_headwords_before_or_around_this_segment": [
     "Devadaha"
   ],
   "sn22.2:5.4^speaker": "Several mendicants",
-  "sn22.2:5.4^where_here_and_before": [
+  "sn22.2:5.4^where_before_or_around_this_segment": [
     "The land of the Sakyans",
     "Devadaha"
   ],
-  "sn22.2:5.4^who_around_here_and_before": [
+  "sn22.2:5.4^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn22.2^initial_geographic_location": [
+  "sn22.2^initial_location_dppn_headword": [
     "Devadaha"
   ],
   "sn22.2^where": "The land of the Sakyans, Devadaha"

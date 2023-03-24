@@ -22,20 +22,20 @@
   ],
   "an5.170:3.4^speaker": "Bhaddaji",
   "an5.170:4.1+an5.170:4.5^speaker": "Ānanda",
-  "an5.170:4.1^geographic_locations_here_and_before": [
+  "an5.170:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "an5.170:4.1^where_here_and_before": [
+  "an5.170:4.1^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "an5.170:4.1^who_around_here_and_before": [
+  "an5.170:4.1^who_present_before_or_around_this_segment": [
     "Bhaddaji"
   ],
-  "an5.170:4.1^who_mentioned_here_and_before": [
+  "an5.170:4.1^who_mentioned_before_or_around_this_segment": [
     "Brahmā"
   ],
-  "an5.170^initial_geographic_location": [
+  "an5.170^initial_location_dppn_headword": [
     "Kosambī"
   ],
   "an5.170^where": "Kosambi, in Ghosita's Monastery"

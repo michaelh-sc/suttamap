@@ -8,17 +8,17 @@
   "sn13.9:2.1+sn13.9:2.3^where_else_mentioned": [
     "Himalayas"
   ],
-  "sn13.9:2.4^geographic_locations_here_and_before": [
+  "sn13.9:2.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn13.9:2.4^speaker": "the Buddha",
-  "sn13.9:2.4^where_here_and_before": [
+  "sn13.9:2.4^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn13.9:2.4^who_around_here_and_before": [
+  "sn13.9:2.4^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "sn13.9^initial_geographic_location": [
+  "sn13.9^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn13.9^where": "Sāvatthī"

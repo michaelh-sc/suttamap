@@ -14,20 +14,20 @@
     "Sāriputta",
     "Akaniṭṭha"
   ],
-  "an9.12:4.1^geographic_locations_here_and_before": [
+  "an9.12:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an9.12:4.1^where_here_and_before": [
+  "an9.12:4.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī"
   ],
-  "an9.12:4.1^who_around_here_and_before": [
+  "an9.12:4.1^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika's monastery"
   ],
-  "an9.12:4.1^who_mentioned_here_and_before": [
+  "an9.12:4.1^who_mentioned_before_or_around_this_segment": [
     "the wanderers who follow other paths"
   ],
-  "an9.12^initial_geographic_location": [
+  "an9.12^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an9.12^where": "Jeta's Grove, Sāvatthī"

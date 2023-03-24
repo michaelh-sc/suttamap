@@ -4,21 +4,21 @@
   "sn10.6:2.1+sn10.6:3.4^who_else_mentioned": [
     "Piyaṅkara"
   ],
-  "sn10.6:2.1^geographic_locations_here_and_before": [
+  "sn10.6:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn10.6:2.1^where_here_and_before": [
+  "sn10.6:2.1^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "sn10.6:2.1^who_around_here_and_before": [
+  "sn10.6:2.1^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Anuruddha"
   ],
-  "sn10.6:2.1^who_mentioned_here_and_before": [
+  "sn10.6:2.1^who_mentioned_before_or_around_this_segment": [
     "Piyaṅkara"
   ],
-  "sn10.6^initial_geographic_location": [
+  "sn10.6^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn10.6^where": "Jeta's Grove, Anāthapiṇḍika's monastery"

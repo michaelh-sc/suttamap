@@ -19,16 +19,16 @@
     "Mount Vulture",
     "Peak"
   ],
-  "sn46.56:7.3^geographic_locations_here_and_before": [
+  "sn46.56:7.3^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "sn46.56:7.3^where_here_and_before": [
+  "sn46.56:7.3^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain near Rājagaha"
   ],
-  "sn46.56:7.3^who_mentioned_here_and_before": [
+  "sn46.56:7.3^who_mentioned_before_or_around_this_segment": [
     "Pūraṇa Kassapa"
   ],
-  "sn46.56^initial_geographic_location": [
+  "sn46.56^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "sn46.56^where": "Vulture's Peak Mountain, near Rājagaha"

@@ -7,14 +7,18 @@
   "sn9.6:5.1+sn9.6:6.4^who_else_mentioned": [
     "Penelope"
   ],
-  "sn9.6:5.1^where_here_and_before": [
+  "sn9.6:5.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "sn9.6:5.1^where_before_or_around_this_segment": [
     "The land of the Kosalans in a certain forest grove"
   ],
-  "sn9.6:5.1^who_around_here_and_before": [
+  "sn9.6:5.1^who_present_before_or_around_this_segment": [
     "Anuruddha"
   ],
-  "sn9.6:5.1^who_mentioned_here_and_before": [
+  "sn9.6:5.1^who_mentioned_before_or_around_this_segment": [
     "The glorious host of the Thirty-Three"
   ],
+  "sn9.6^initial_location_dppn_headword": "Kosala",
   "sn9.6^where": "The land of the Kosalans in a certain forest grove"
 }

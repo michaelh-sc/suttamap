@@ -1,3 +1,83 @@
 {
-  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming."
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an2.98:1.1+an2.98:1.4^speaker": "the Buddha (assumed)",
+  "an2.98:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.99:1.1+an2.99:1.4^speaker": "the Buddha (assumed)",
+  "an2.100:1.1+an2.100:1.4^speaker": "the Buddha (assumed)",
+  "an2.100:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.100:1.1^who_mentioned_here_and_before": [
+    "Two fools"
+  ],
+  "an2.101:1.1+an2.101:1.4^speaker": "the Buddha (assumed)",
+  "an2.101:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.101:1.1^who_mentioned_here_and_before": [
+    "Two who are astute"
+  ],
+  "an2.102:1.1+an2.102:1.4^speaker": "the Buddha (assumed)",
+  "an2.102:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.103:1.1+an2.103:1.4^speaker": "the Buddha (assumed)",
+  "an2.103:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.104:1.1+an2.104:1.4^speaker": "the Buddha (assumed)",
+  "an2.104:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.104:1.1^who_mentioned_here_and_before": [
+    "Two fools"
+  ],
+  "an2.105:1.1+an2.105:1.4^speaker": "the Buddha (assumed)",
+  "an2.106:1.1+an2.106:1.4^speaker": "the Buddha (assumed)",
+  "an2.106:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.107:1.1+an2.107:1.4^speaker": "the Buddha (assumed)",
+  "an2.107:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.108:1.1+an2.108:1.4^speaker": "the Buddha (assumed)",
+  "an2.108:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.109:1.1+an2.109:1.4^speaker": "the Buddha (assumed)",
+  "an2.109:1.1^who_around_here_and_before": [
+    "Mendicants"
+  ],
+  "an2.110:1.1+an2.110:1.4^speaker": "the Buddha (assumed)",
+  "an2.110:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.111:1.1+an2.111:1.4^speaker": "the Buddha (assumed)",
+  "an2.111:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.112:1.1+an2.112:1.4^speaker": "the Buddha (assumed)",
+  "an2.112:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.113:1.1+an2.113:1.4^speaker": "the Buddha (assumed)",
+  "an2.113:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.114:1.1+an2.114:1.4^speaker": "the Buddha (assumed)",
+  "an2.114:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.115:1.1+an2.115:1.4^speaker": "the Buddha (assumed)",
+  "an2.115:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ],
+  "an2.116:1.1+an2.116:1.4^speaker": "the Buddha (assumed)",
+  "an2.117:1.1+an2.117:1.4^speaker": "the Buddha (assumed)",
+  "an2.117:1.1^who_around_here_and_before": [
+    "Mendicants (assumed)"
+  ]
 }

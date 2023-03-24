@@ -17,19 +17,23 @@
   "sn4.18:3.1+sn4.18:4.4^who_else_mentioned": [
     "Māra"
   ],
+  "sn4.18:5.1^geographical_locations_before_or_around_this_segment": [
+    "Pañcasāla"
+  ],
   "sn4.18:5.1^speaker": "Māra the Wicked",
-  "sn4.18:5.1^where_here_and_before": [
+  "sn4.18:5.1^where_before_or_around_this_segment": [
     "the land of the Magadhans near the brahmin village of Pañcasālā"
   ],
-  "sn4.18:5.1^who_around_here_and_before": [
+  "sn4.18:5.1^who_present_before_or_around_this_segment": [
     "the young women"
   ],
   "sn4.18:5.1^who_else_mentioned": [
     "Buddha",
     "The Holy One"
   ],
-  "sn4.18:5.1^who_mentioned_here_and_before": [
+  "sn4.18:5.1^who_mentioned_before_or_around_this_segment": [
     "gods of streaming radiance"
   ],
+  "sn4.18^initial_location_dppn_headword": "Pañcasāla",
   "sn4.18^where": "the land of the Magadhans near the brahmin village of Pañcasālā"
 }

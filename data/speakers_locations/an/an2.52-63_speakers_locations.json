@@ -5,7 +5,7 @@
     "The Realized One",
     "Buddha"
   ],
-  "an2.52:1.1^who_around_here_and_before": [
+  "an2.52:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "an2.53:1.1+an2.53:1.4^speaker": "the Buddha (assumed)",
@@ -13,7 +13,7 @@
     "The Realized One",
     "Buddha"
   ],
-  "an2.53:1.1^who_around_here_and_before": [
+  "an2.53:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "an2.54:1.1+an2.54:1.4^speaker": "the Buddha (assumed)",
@@ -21,7 +21,7 @@
     "The Realized One",
     "Buddha"
   ],
-  "an2.54:1.1^who_around_here_and_before": [
+  "an2.54:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "an2.55:1.1+an2.55:1.4^speaker": "the Buddha (assumed)",
@@ -29,7 +29,7 @@
     "The Realized One",
     "Buddha"
   ],
-  "an2.55:1.1^who_mentioned_here_and_before": [
+  "an2.55:1.1^who_mentioned_before_or_around_this_segment": [
     "two people who are worthy of a monument"
   ],
   "an2.56:1.1+an2.56:1.4^speaker": "the Buddha (assumed)",
@@ -38,19 +38,19 @@
     "The Realized One",
     "Buddha"
   ],
-  "an2.56:1.1^who_around_here_and_before": [
+  "an2.56:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "an2.57:1.1+an2.57:1.4^speaker": "the Buddha (assumed)",
-  "an2.57:1.1^who_around_here_and_before": [
+  "an2.57:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "an2.58:1.1+an2.58:1.4^speaker": "the Buddha (assumed)",
-  "an2.58:1.1^who_around_here_and_before": [
+  "an2.58:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "an2.59:1.1+an2.59:1.4^speaker": "the Buddha (assumed)",
-  "an2.59:1.1^who_around_here_and_before": [
+  "an2.59:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "an2.60:1.1+an2.60:1.4^speaker": "Fauns",
@@ -58,7 +58,7 @@
     "Fauns"
   ],
   "an2.61:1.1+an2.61:1.4^speaker": "the Buddha (assumed)",
-  "an2.61:1.1^who_around_here_and_before": [
+  "an2.61:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
   "an2.62:1.1+an2.62:1.2^speaker": "the Buddha (assumed)",
@@ -67,5 +67,6 @@
   "an2.62:2.5^speaker": "the Buddha (assumed)",
   "an2.62:2.10^speaker": "the Buddha (assumed)",
   "an2.62:3.5^speaker": "the Buddha (assumed)",
-  "an2.62:3.10^speaker": "the Buddha (assumed)"
+  "an2.62:3.10^speaker": "the Buddha (assumed)",
+  "an2.63:1.1+an2.63:2.2^speaker": "the Buddha (assumed)"
 }

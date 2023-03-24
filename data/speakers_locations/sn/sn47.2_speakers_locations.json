@@ -3,14 +3,14 @@
   "sn47.2:1.3^speaker": "the Buddha (assumed)",
   "sn47.2:1.4^speaker": "the mendicants",
   "sn47.2:2.1+sn47.2:3.5^speaker": "the Buddha (assumed)",
-  "sn47.2:2.1^geographic_locations_here_and_before": [
+  "sn47.2:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "sn47.2:2.1^where_here_and_before": [
+  "sn47.2:2.1^where_before_or_around_this_segment": [
     "Vesālī",
     "in Ambapālī's Wood"
   ],
-  "sn47.2^initial_geographic_location": [
+  "sn47.2^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "sn47.2^where": "Vesālī, in Ambapālī's Wood"

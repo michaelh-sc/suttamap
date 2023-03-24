@@ -5,13 +5,13 @@
   "sn47.11:1.5+sn47.11:2.10^who_else_mentioned": [
     "Sāriputta"
   ],
-  "sn47.11:1.5^geographic_locations_here_and_before": [
+  "sn47.11:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn47.11:1.5^where_here_and_before": [
+  "sn47.11:1.5^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn47.11^initial_geographic_location": [
+  "sn47.11^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn47.11^where": "Sāvatthī"

@@ -3,7 +3,7 @@
   "an10.108:1.1+an10.108:2.2^speaker": "the Buddha (assumed)",
   "an10.108:2.3^speaker": "the mendicants",
   "an10.108:3.1+an10.108:6.4^speaker": "the Buddha (assumed)",
-  "an10.108:3.1^who_mentioned_here_and_before": [
+  "an10.108:3.1^who_mentioned_before_or_around_this_segment": [
     "Sentient beings"
   ]
 }

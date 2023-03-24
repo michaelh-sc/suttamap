@@ -39,13 +39,13 @@
   "mn96:17.2+mn96:17.3^who_else_mentioned": [
     "Gotama"
   ],
-  "mn96:17.2^geographic_locations_here_and_before": [
+  "mn96:17.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn96:17.2^where_here_and_before": [
+  "mn96:17.2^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "mn96^initial_geographic_location": [
+  "mn96^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "mn96^where": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī"

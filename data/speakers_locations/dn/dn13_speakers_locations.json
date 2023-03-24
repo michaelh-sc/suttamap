@@ -123,23 +123,23 @@
     "Brahmā",
     "Vāseṭṭha"
   ],
-  "dn13:14.12^geographic_locations_here_and_before": [
+  "dn13:14.12^event_dppn_headwords_before_or_around_this_segment": [
     "Manasākaṭa",
     "Aciravatī"
   ],
   "dn13:14.12^speaker": "Vāseṭṭha",
-  "dn13:14.12^where_here_and_before": [
+  "dn13:14.12^where_before_or_around_this_segment": [
     "Manasākaṭa",
     "a village of the Kosalan brahmins",
     "on a bank of the river Aciravatī to the north of Manasākaṭa"
   ],
-  "dn13:14.12^who_around_here_and_before": [
+  "dn13:14.12^who_present_before_or_around_this_segment": [
     "a large Saṅgha of five hundred mendicants"
   ],
   "dn13:14.12^who_else_mentioned": [
     "Gotama"
   ],
-  "dn13:14.12^who_mentioned_here_and_before": [
+  "dn13:14.12^who_mentioned_before_or_around_this_segment": [
     "Caṅkī",
     "Tārukkha",
     "Pokkharasāti",
@@ -201,7 +201,7 @@
     "Vāseṭṭha"
   ],
   "dn13:22.6^speaker": "Vāseṭṭha",
-  "dn13:22.6^who_mentioned_here_and_before": [
+  "dn13:22.6^who_mentioned_before_or_around_this_segment": [
     "Aṭṭhaka",
     "Vāmaka",
     "Vāmadeva",
@@ -344,20 +344,69 @@
   "dn13:39.4^who_else_mentioned": [
     "Vāseṭṭha"
   ],
-  "dn13:39.5^geographic_locations_here_and_before": [
+  "dn13:39.5^event_dppn_headwords_before_or_around_this_segment": [
     "Manasākaṭa"
   ],
   "dn13:39.5^speaker": "Vāseṭṭha",
-  "dn13:39.5^where_here_and_before": [
+  "dn13:39.5^where_before_or_around_this_segment": [
     "Manasākaṭa"
   ],
-  "dn13:39.5^who_mentioned_here_and_before": [
+  "dn13:39.5^who_mentioned_before_or_around_this_segment": [
     "Brahmā"
   ],
-  "dn13:40+-dn13:75.4^speaker": "the Buddha",
-  "dn13^initial_geographic_location": [
-    "Manasākaṭa",
-    "Aciravatī"
+  "dn13:40+dn13:75.4^speaker": "the Buddha",
+  "dn13:40-75.2+dn13:80.2^speaker": "the Buddha",
+  "dn13:40-75.2+dn13:80.2^who_else_mentioned": [
+    "Buddha",
+    "Brahmā",
+    "Vāseṭṭha"
+  ],
+  "dn13:80.3^speaker": "Vāseṭṭha",
+  "dn13:80.4^speaker": "the Buddha",
+  "dn13:80.5^speaker": "Vāseṭṭha",
+  "dn13:80.6^speaker": "the Buddha",
+  "dn13:80.7^speaker": "Vāseṭṭha",
+  "dn13:80.8^speaker": "the Buddha",
+  "dn13:80.9^speaker": "Vāseṭṭha",
+  "dn13:80.10^speaker": "the Buddha",
+  "dn13:80.11^speaker": "Vāseṭṭha",
+  "dn13:81.1+dn13:81.2^speaker": "Vāseṭṭha",
+  "dn13:81.1+dn13:81.2^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "dn13:81.3^speaker": "Vāseṭṭha",
+  "dn13:81.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:81.4+dn13:81.8^speaker": "the Buddha",
+  "dn13:81.4+dn13:81.8^who_else_mentioned": [
+    "Vāseṭṭha",
+    "Brahmā"
+  ],
+  "dn13:81.9^speaker": "Vāseṭṭha",
+  "dn13:81.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "dn13:81.10^speaker": "the Buddha",
+  "dn13:81.10^who_else_mentioned": [
+    "Vāseṭṭha"
+  ],
+  "dn13:82.2+dn13:82.5^speaker": "Vāseṭṭha and Bhāradvāja",
+  "dn13:82.2+dn13:82.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "dn13:82.2^where_here_and_before": [
+    "The exact location is not provided in the given text"
+  ],
+  "dn13:82.2^who_around_here_and_before": [
+    "Bhāradvāja"
+  ],
+  "dn13:82.2^who_mentioned_here_and_before": [
+    "Brahmā"
+  ],
+  "dn13^initial_location_dppn_headword": [
+    "Manasākaṭa"
   ],
   "dn13^where": "Manasākaṭa, a village of the Kosalan brahmins, on a bank of the river Aciravatī to the north of Manasākaṭa"
 }

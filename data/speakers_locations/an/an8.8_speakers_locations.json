@@ -15,16 +15,16 @@
     "Devadatta",
     "Mendicants"
   ],
-  "an8.8:3.3^geographic_locations_here_and_before": [
+  "an8.8:3.3^event_dppn_headwords_before_or_around_this_segment": [
     "Vaṭajālikāyaṁ"
   ],
-  "an8.8:3.3^where_here_and_before": [
+  "an8.8:3.3^where_before_or_around_this_segment": [
     "Saṅkheyyaka Mountain in the Mahisa region near Dhavajālikā"
   ],
-  "an8.8:3.3^who_around_here_and_before": [
+  "an8.8:3.3^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an8.8:3.3^who_mentioned_here_and_before": [
+  "an8.8:3.3^who_mentioned_before_or_around_this_segment": [
     "Sakka",
     "lord of gods"
   ],
@@ -35,7 +35,7 @@
     "Buddha"
   ],
   "an8.8:6.6^speaker": "Uttara",
-  "an8.8^initial_geographic_location": [
+  "an8.8^initial_location_dppn_headword": [
     "Vaṭajālikāyaṁ"
   ],
   "an8.8^where": "Saṅkheyyaka Mountain in the Mahisa region near Dhavajālikā"

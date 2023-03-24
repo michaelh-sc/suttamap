@@ -2,14 +2,14 @@
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn9.9:2.1+sn9.9:2.4^speaker": "the Vajjian mendicant",
   "sn9.9:4.1+sn9.9:4.4^speaker": "the deity haunting the forest",
-  "sn9.9:4.1^geographic_locations_here_and_before": [
+  "sn9.9:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "sn9.9:4.1^where_here_and_before": [
+  "sn9.9:4.1^where_before_or_around_this_segment": [
     "Vesālī",
     "in a certain forest grove"
   ],
-  "sn9.9^initial_geographic_location": [
+  "sn9.9^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "sn9.9^where": "Vesālī, in a certain forest grove"

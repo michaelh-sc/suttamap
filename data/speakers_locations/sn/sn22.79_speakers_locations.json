@@ -11,11 +11,11 @@
   "sn22.79:11.14^speaker": "the Buddha (assumed)",
   "sn22.79:11.15^speaker": "the mendicants",
   "sn22.79:11.16+sn22.79:11.17^speaker": "the Buddha (assumed)",
-  "sn22.79:11.18^geographic_locations_here_and_before": [
+  "sn22.79:11.18^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn22.79:11.18^speaker": "the mendicants",
-  "sn22.79:11.18^where_here_and_before": [
+  "sn22.79:11.18^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn22.79:11.19+sn22.79:15.4^speaker": "the Buddha (assumed)",
@@ -24,7 +24,7 @@
     "Brahmā",
     "Pajāpati"
   ],
-  "sn22.79^initial_geographic_location": [
+  "sn22.79^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.79^where": "Sāvatthī"

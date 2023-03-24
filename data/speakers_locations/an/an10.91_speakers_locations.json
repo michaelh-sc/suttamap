@@ -1,26 +1,26 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "an10.91:2.1+an10.91:23.1^speaker": "the Buddha",
-  "an10.91:2.1^geographic_locations_here_and_before": [
+  "an10.91:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an10.91:2.1^where_here_and_before": [
+  "an10.91:2.1^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "an10.91:2.1^who_around_here_and_before": [
+  "an10.91:2.1^who_present_before_or_around_this_segment": [
     "the householder Anāthapiṇḍika"
   ],
-  "an10.91^initial_geographic_location": [
+  "an10.91^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an10.91^where": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
-  "the speaker^geographic_locations_here_and_before": [
+  "the speaker^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "the speaker^where_here_and_before": [
+  "the speaker^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],
-  "the speaker^who_around_here_and_before": [
+  "the speaker^who_present_before_or_around_this_segment": [
     "the householder Anāthapiṇḍika"
   ]
 }

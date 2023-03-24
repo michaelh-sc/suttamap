@@ -57,19 +57,19 @@
   "mn79:9.4^speaker": "the Buddha",
   "mn79:9.6^speaker": "Sakuludāyī",
   "mn79:9.7^speaker": "the Buddha",
-  "mn79:9.8^geographic_locations_here_and_before": [
+  "mn79:9.8^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "mn79:9.8^speaker": "Sakuludāyī",
-  "mn79:9.8^where_here_and_before": [
+  "mn79:9.8^where_before_or_around_this_segment": [
     "Rājagaha",
     "in the Bamboo Grove",
     "the squirrels' feeding ground"
   ],
-  "mn79:9.8^who_around_here_and_before": [
+  "mn79:9.8^who_present_before_or_around_this_segment": [
     "a large assembly of wanderers"
   ],
-  "mn79:9.8^who_mentioned_here_and_before": [
+  "mn79:9.8^who_mentioned_before_or_around_this_segment": [
     "Nigaṭṭha Nātaputta"
   ],
   "mn79:10.1+mn79:10.15^speaker": "the Buddha",
@@ -180,7 +180,7 @@
     "Udāyī"
   ],
   "mn79:28.4^speaker": "Sakuludāyī",
-  "mn79:28.4^who_around_here_and_before": [
+  "mn79:28.4^who_present_before_or_around_this_segment": [
     "wanderers"
   ],
   "mn79:29-36.1+mn79:44.5^speaker": "the Buddha",
@@ -197,10 +197,10 @@
     "Udāyī",
     "Gotama"
   ],
-  "mn79:46.2^who_around_here_and_before": [
+  "mn79:46.2^who_present_before_or_around_this_segment": [
     "Sakuludāyī's assembly"
   ],
-  "mn79^initial_geographic_location": [
+  "mn79^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "mn79^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"

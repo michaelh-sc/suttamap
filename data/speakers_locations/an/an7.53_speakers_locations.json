@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an7.53:1.3^speaker": "Laywoman Veḷukaṇṭakī, Nanda's mother",
+  "an7.53:1.3^speaker": "Laywoman Veḷukaṇṭakī Nanda's mother",
   "an7.53:1.3^who_else_mentioned": [
     "The Way to the Beyond"
   ],
@@ -10,7 +10,7 @@
   "an7.53:3.5^who_else_mentioned": [
     "Vessavaṇa"
   ],
-  "an7.53:3.6^speaker": "Laywoman Veḷukaṇṭakī, Nanda's mother",
+  "an7.53:3.6^speaker": "Laywoman Veḷukaṇṭakī Nanda's mother",
   "an7.53:4.4+an7.53:4.5^speaker": "Man",
   "an7.53:4.4+an7.53:4.5^who_else_mentioned": [
     "Saṅgha",
@@ -25,7 +25,7 @@
     "Nanda",
     "Saṅgha"
   ],
-  "an7.53:6.1+an7.53:6.10^speaker": "Laywoman Veḷukaṇṭakī, Nanda's mother",
+  "an7.53:6.1+an7.53:6.10^speaker": "Laywoman Veḷukaṇṭakī Nanda's mother",
   "an7.53:6.1+an7.53:6.10^where_else_mentioned": [
     "Veḷukaṇṭa"
   ],
@@ -38,7 +38,7 @@
     "Nanda",
     "Vessavaṇa"
   ],
-  "an7.53:8.1+an7.53:8.5^speaker": "Laywoman Veḷukaṇṭakī, Nanda's mother",
+  "an7.53:8.1+an7.53:8.5^speaker": "Laywoman Veḷukaṇṭakī Nanda's mother",
   "an7.53:8.1+an7.53:8.5^who_else_mentioned": [
     "Nanda"
   ],
@@ -46,39 +46,39 @@
   "an7.53:8.6+an7.53:8.7^who_else_mentioned": [
     "Nanda"
   ],
-  "an7.53:9.1+an7.53:9.5^speaker": "Laywoman Veḷukaṇṭakī, Nanda's mother",
+  "an7.53:9.1+an7.53:9.5^speaker": "Laywoman Veḷukaṇṭakī Nanda's mother",
   "an7.53:9.6+an7.53:9.7^speaker": "Sāriputta",
   "an7.53:9.6+an7.53:9.7^who_else_mentioned": [
     "Nanda"
   ],
-  "an7.53:10.1+an7.53:10.3^speaker": "Laywoman Veḷukaṇṭakī, Nanda's mother",
+  "an7.53:10.1+an7.53:10.3^speaker": "Laywoman Veḷukaṇṭakī Nanda's mother",
   "an7.53:10.4+an7.53:10.5^speaker": "Sāriputta",
   "an7.53:10.4+an7.53:10.5^who_else_mentioned": [
     "Nanda"
   ],
-  "an7.53:11.1+an7.53:11.3^speaker": "Laywoman Veḷukaṇṭakī, Nanda's mother",
+  "an7.53:11.1+an7.53:11.3^speaker": "Laywoman Veḷukaṇṭakī Nanda's mother",
   "an7.53:11.4^speaker": "Sāriputta",
   "an7.53:11.4^who_else_mentioned": [
     "Nanda"
   ],
-  "an7.53:12.1+an7.53:12.6^speaker": "Laywoman Veḷukaṇṭakī, Nanda's mother",
+  "an7.53:12.1+an7.53:12.6^speaker": "Laywoman Veḷukaṇṭakī Nanda's mother",
   "an7.53:12.7^speaker": "Sāriputta",
   "an7.53:12.7^who_else_mentioned": [
     "Nanda"
   ],
-  "an7.53:13.1+an7.53:13.3^speaker": "Laywoman Veḷukaṇṭakī, Nanda's mother",
+  "an7.53:13.1+an7.53:13.3^speaker": "Laywoman Veḷukaṇṭakī Nanda's mother",
   "an7.53:13.1+an7.53:13.3^who_else_mentioned": [
     "Buddha"
   ],
-  "an7.53:13.4^geographic_locations_here_and_before": [
+  "an7.53:13.4^event_dppn_headwords_before_or_around_this_segment": [
     "Veḷukaṇḍa"
   ],
   "an7.53:13.4^speaker": "Sāriputta",
-  "an7.53:13.4^where_here_and_before": [
+  "an7.53:13.4^where_before_or_around_this_segment": [
     "Southern Hills",
     "Veḷukaṇṭa"
   ],
-  "an7.53:13.4^who_around_here_and_before": [
+  "an7.53:13.4^who_present_before_or_around_this_segment": [
     "Mahāmoggallāna",
     "a large Saṅgha of mendicants",
     "Vessavaṇa",
@@ -87,10 +87,10 @@
   "an7.53:13.4^who_else_mentioned": [
     "Nanda"
   ],
-  "an7.53:13.4^who_mentioned_here_and_before": [
+  "an7.53:13.4^who_mentioned_before_or_around_this_segment": [
     "Nanda"
   ],
-  "an7.53^initial_geographic_location": [
+  "an7.53^initial_location_dppn_headword": [
     "Veḷukaṇḍa"
   ],
   "an7.53^where": "Southern Hills, Veḷukaṇṭa"

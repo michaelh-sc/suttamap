@@ -37,19 +37,19 @@
   "an7.56:13.1+an7.56:13.6^who_else_mentioned": [
     "Moggallāna"
   ],
-  "an7.56:13.1^geographic_locations_here_and_before": [
+  "an7.56:13.1^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "an7.56:13.1^where_here_and_before": [
+  "an7.56:13.1^where_before_or_around_this_segment": [
     "Vulture's Peak Mountain near Rājagaha"
   ],
-  "an7.56:13.1^who_around_here_and_before": [
+  "an7.56:13.1^who_present_before_or_around_this_segment": [
     "Mahāmoggallāna"
   ],
-  "an7.56:13.1^who_mentioned_here_and_before": [
+  "an7.56:13.1^who_mentioned_before_or_around_this_segment": [
     "Tissa the Brahmā"
   ],
-  "an7.56^initial_geographic_location": [
+  "an7.56^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "an7.56^where": "Vulture's Peak Mountain, near Rājagaha"

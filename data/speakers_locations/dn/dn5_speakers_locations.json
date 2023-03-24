@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "dn5:2.2+dn5:2.7^speaker": "brahmins of Khāṇumataka, householders of Khāṇumataka",
+  "dn5:2.2+dn5:2.7^speaker": "brahmins of Khāṇumataka and householders of Khāṇumataka",
   "dn5:2.2+dn5:2.7^where_else_mentioned": [
     "Khāṇumataka"
   ],
@@ -79,16 +79,16 @@
   "dn5:9.8^speaker": "Kūṭadanta",
   "dn5:10.6^speaker": "King Mahāvijita",
   "dn5:11.5^speaker": "King Mahāvijita",
-  "dn5:12.2^geographic_locations_here_and_before": [
+  "dn5:12.2^event_dppn_headwords_before_or_around_this_segment": [
     "Khāṇumata",
     "Ambalaṭṭhikā"
   ],
   "dn5:12.2^speaker": "King Mahāvijita",
-  "dn5:12.2^where_here_and_before": [
+  "dn5:12.2^where_before_or_around_this_segment": [
     "Khāṇumata",
     "Ambalaṭṭhikā"
   ],
-  "dn5:12.2^who_around_here_and_before": [
+  "dn5:12.2^who_present_before_or_around_this_segment": [
     "brahmin high priest",
     "steward",
     "brahmins",
@@ -99,21 +99,21 @@
     "well-to-do brahmins",
     "well-off householders"
   ],
-  "dn5:12.2^who_mentioned_here_and_before": [
+  "dn5:12.2^who_mentioned_before_or_around_this_segment": [
     "King Seniya Bimbisāra of Magadha",
     "King Mahāvijita"
   ],
-  "dn5:17.3, dn5:17.9^where_here_and_before": [
+  "dn5:17.3, dn5:17.9^where_before_or_around_this_segment": [
     "the realm"
   ],
-  "dn5:17.3, dn5:17.9^who_around_here_and_before": [
+  "dn5:17.3, dn5:17.9^who_present_before_or_around_this_segment": [
     "the aristocrat vassals",
     "ministers",
     "counselors",
     "well-to-do brahmins",
     "well-off householders of both town and country"
   ],
-  "dn5:17.3, dn5:17.9^who_mentioned_here_and_before": [
+  "dn5:17.3, dn5:17.9^who_mentioned_before_or_around_this_segment": [
     "bondservants",
     "employees",
     "or workers"
@@ -176,23 +176,23 @@
     "Saṅgha"
   ],
   "dn5:30.6^speaker": "Kūṭadanta",
-  "dn5:30.6^where_here_and_before": [
+  "dn5:30.6^where_before_or_around_this_segment": [
     "the home of Kūṭadanta"
   ],
-  "dn5:30.6^who_around_here_and_before": [
+  "dn5:30.6^who_present_before_or_around_this_segment": [
     "the mendicant Saṅgha"
   ],
   "dn5:30.6^who_else_mentioned": [
     "Gotama"
   ],
-  "dn5:30.6^who_mentioned_here_and_before": [
+  "dn5:30.6^who_mentioned_before_or_around_this_segment": [
     "the brahmin high priest",
     "the aristocrat vassals of town and country",
     "the ministers and counselors of town and country",
     "the well-to-do brahmins of town and country",
     "the well-off householders of town and country"
   ],
-  "dn5^initial_geographic_location": [
+  "dn5^initial_location_dppn_headword": [
     "Khāṇumata",
     "Ambalaṭṭhikā"
   ],

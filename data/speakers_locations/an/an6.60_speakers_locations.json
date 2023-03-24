@@ -32,22 +32,22 @@
   "an6.60:10.3^who_else_mentioned": [
     "Citta"
   ],
-  "an6.60:11.3^geographic_locations_here_and_before": [
+  "an6.60:11.3^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
   "an6.60:11.3^speaker": "Citta Hatthisāriputta",
-  "an6.60:11.3^where_here_and_before": [
+  "an6.60:11.3^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "an6.60:11.3^who_around_here_and_before": [
+  "an6.60:11.3^who_present_before_or_around_this_segment": [
     "Senior mendicants"
   ],
-  "an6.60^initial_geographic_location": [
+  "an6.60^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],
   "an6.60^where": "Benares, in the deer park at Isipatana",
-  "who_around": "the Buddha"
+  "who_present": "the Buddha"
 }

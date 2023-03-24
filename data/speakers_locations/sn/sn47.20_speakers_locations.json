@@ -5,8 +5,12 @@
   "sn47.20:2.1+sn47.20:2.10^speaker": "the Buddha (assumed)",
   "sn47.20:2.11^speaker": "the mendicants",
   "sn47.20:3.1+sn47.20:3.6^speaker": "the Buddha (assumed)",
-  "sn47.20:3.1^where_here_and_before": [
+  "sn47.20:3.1^geographical_locations_before_or_around_this_segment": [
+    "Sumbha"
+  ],
+  "sn47.20:3.1^where_before_or_around_this_segment": [
     "the land of the Sumbhas near the town of the Sumbhas called Sedaka"
   ],
+  "sn47.20^initial_geographical_location": "Sumbha",
   "sn47.20^where": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka"
 }

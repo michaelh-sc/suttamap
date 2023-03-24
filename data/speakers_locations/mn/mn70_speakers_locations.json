@@ -35,27 +35,27 @@
   "mn70:9.1+mn70:9.5^speaker": "the Buddha",
   "mn70:9.6^speaker": "the mendicants who followed Assaji & Punabbasuka",
   "mn70:9.7+mn70:10.3^speaker": "the Buddha",
-  "mn70:10.4^geographic_locations_here_and_before": [
+  "mn70:10.4^event_dppn_headwords_before_or_around_this_segment": [
     "Kīṭāgiri"
   ],
   "mn70:10.4^speaker": "the mendicants who followed Assaji & Punabbasuka",
-  "mn70:10.4^where_here_and_before": [
+  "mn70:10.4^where_before_or_around_this_segment": [
     "the land of the Kāsīs Kīṭāgiri"
   ],
-  "mn70:10.4^who_around_here_and_before": [
+  "mn70:10.4^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "mn70:10.4^who_mentioned_here_and_before": [
+  "mn70:10.4^who_mentioned_before_or_around_this_segment": [
     "Assaji",
     "Punabbasuka"
   ],
   "mn70:10.5+mn70:10.9^speaker": "the Buddha",
   "mn70:10.10^speaker": "the mendicants who followed Assaji & Punabbasuka",
-  "mn70:10.10^who_around_here_and_before": [
+  "mn70:10.10^who_present_before_or_around_this_segment": [
     "Assaji",
     "Punabbasuka"
   ],
-  "mn70^initial_geographic_location": [
+  "mn70^initial_location_dppn_headword": [
     "Kīṭāgiri"
   ],
   "mn70^where": "the land of the Kāsīs, Kīṭāgiri"

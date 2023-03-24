@@ -68,20 +68,20 @@
     "Saṅgha"
   ],
   "dn2:13.3^speaker": "King Ajātasattu",
-  "dn2:13.5^geographic_locations_here_and_before": [
+  "dn2:13.5^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "dn2:13.5^speaker": "the Buddha",
-  "dn2:13.5^where_here_and_before": [
+  "dn2:13.5^where_before_or_around_this_segment": [
     "Rājagaha in the Mango Grove of Jīvaka Komārabhacca"
   ],
-  "dn2:13.5^who_around_here_and_before": [
+  "dn2:13.5^who_present_before_or_around_this_segment": [
     "a large Saṅgha of 1,250 mendicants",
     "King's ministers",
     "women mounted on each of the five hundred female elephants",
     "attendants carrying torches"
   ],
-  "dn2:13.5^who_mentioned_here_and_before": [
+  "dn2:13.5^who_mentioned_before_or_around_this_segment": [
     "Pūraṇa Kassapa",
     "Makkhali Gosāla",
     "Ajita Kesakambala",
@@ -135,10 +135,10 @@
   "dn2:39.1^speaker": "King Ajātasattu",
   "dn2:39.2+dn2:39.3^speaker": "the Buddha",
   "dn2:39.4^speaker": "King Ajātasattu",
-  "dn2:39.4^who_around_here_and_before": [
+  "dn2:39.4^who_present_before_or_around_this_segment": [
     "Saṅgha of mendicants"
   ],
-  "dn2:39.4^who_mentioned_here_and_before": [
+  "dn2:39.4^who_mentioned_before_or_around_this_segment": [
     "Pūraṇa Kassapa",
     "Prince Udāyibhadda"
   ],
@@ -161,13 +161,13 @@
   "dn2:101.2^speaker": "King Ajātasattu",
   "dn2:101.3^speaker": "the Buddha",
   "dn2:102.2+dn2:102.4^speaker": "the Buddha",
-  "dn2:102.2^who_around_here_and_before": [
+  "dn2:102.2^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "dn2:102.2^who_mentioned_here_and_before": [
+  "dn2:102.2^who_mentioned_before_or_around_this_segment": [
     "King Ajātasattu's father"
   ],
-  "dn2^initial_geographic_location": [
+  "dn2^initial_location_dppn_headword": [
     "Rājagaha"
   ],
   "dn2^where": "Rājagaha in the Mango Grove of Jīvaka Komārabhacca"

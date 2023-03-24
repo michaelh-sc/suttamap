@@ -9,18 +9,18 @@
     "Māra",
     "Brahmā"
   ],
-  "an5.49:3.2^geographic_locations_here_and_before": [
+  "an5.49:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an5.49:3.2^where_here_and_before": [
+  "an5.49:3.2^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "an5.49:3.2^who_around_here_and_before": [
+  "an5.49:3.2^who_present_before_or_around_this_segment": [
     "King Pasenadi of Kosala"
   ],
-  "an5.49:3.2^who_mentioned_here_and_before": [
+  "an5.49:3.2^who_mentioned_before_or_around_this_segment": [
     "Queen Mallikā",
     "ascetic",
     "brahmin",
@@ -28,7 +28,7 @@
     "Māra",
     "Brahmā"
   ],
-  "an5.49^initial_geographic_location": [
+  "an5.49^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an5.49^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

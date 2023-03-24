@@ -11,19 +11,19 @@
   "sn8.11:2.2^speaker": "Vaṅgīsa",
   "sn8.11:2.3^speaker": "the Buddha",
   "sn8.11:3.1+sn8.11:3.4^speaker": "Vaṅgīsa",
-  "sn8.11:3.1^geographic_locations_here_and_before": [
+  "sn8.11:3.1^event_dppn_headwords_before_or_around_this_segment": [
     "Campā"
   ],
-  "sn8.11:3.1^where_here_and_before": [
+  "sn8.11:3.1^where_before_or_around_this_segment": [
     "Campā on the banks of the Gaggarā Lotus Pond"
   ],
-  "sn8.11:3.1^who_around_here_and_before": [
+  "sn8.11:3.1^who_present_before_or_around_this_segment": [
     "a large Saṅgha of around five hundred mendicants",
     "seven hundred male followers",
     "seven hundred female lay followers",
     "many thousands of deities"
   ],
-  "sn8.11^initial_geographic_location": [
+  "sn8.11^initial_location_dppn_headword": [
     "Campā"
   ],
   "sn8.11^where": "Campā on the banks of the Gaggarā Lotus Pond"

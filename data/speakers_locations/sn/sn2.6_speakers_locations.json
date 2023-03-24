@@ -17,13 +17,13 @@
   "sn2.6:8.1+sn2.6:8.6^who_else_mentioned": [
     "Kāmada"
   ],
-  "sn2.6:8.1^geographic_locations_here_and_before": [
+  "sn2.6:8.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn2.6:8.1^where_here_and_before": [
+  "sn2.6:8.1^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn2.6^initial_geographic_location": [
+  "sn2.6^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn2.6^where": "Sāvatthī"

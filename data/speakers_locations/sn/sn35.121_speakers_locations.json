@@ -49,20 +49,20 @@
   "sn35.121:49.1+sn35.121:49.2^speaker": "the Buddha",
   "sn35.121:50.1^speaker": "Rāhula",
   "sn35.121:51.1+sn35.121:52.3^speaker": "the Buddha",
-  "sn35.121:53.5^geographic_locations_here_and_before": [
+  "sn35.121:53.5^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
   "sn35.121:53.5^speaker": "many thousands of deities",
-  "sn35.121:53.5^where_here_and_before": [
+  "sn35.121:53.5^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī",
     "Dark Forest"
   ],
-  "sn35.121:53.5^who_around_here_and_before": [
+  "sn35.121:53.5^who_present_before_or_around_this_segment": [
     "Rāhula"
   ],
-  "sn35.121^initial_geographic_location": [
+  "sn35.121^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn35.121^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī, Dark Forest"

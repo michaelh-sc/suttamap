@@ -8,16 +8,16 @@
   "an6.32:4.1+an6.32:4.6^who_else_mentioned": [
     "Saṅgha"
   ],
-  "an6.32:4.1^geographic_locations_here_and_before": [
+  "an6.32:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an6.32:4.1^where_here_and_before": [
+  "an6.32:4.1^where_before_or_around_this_segment": [
     "Jeta's Grove"
   ],
-  "an6.32:4.1^who_around_here_and_before": [
+  "an6.32:4.1^who_present_before_or_around_this_segment": [
     "the mendicants"
   ],
-  "an6.32^initial_geographic_location": [
+  "an6.32^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an6.32^where": "Jeta's Grove"

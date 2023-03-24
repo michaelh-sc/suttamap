@@ -19,16 +19,16 @@
   "an10.28:11.1+an10.28:11.4^who_else_mentioned": [
     "Kajaṅgalikā"
   ],
-  "an10.28:11.1^geographic_locations_here_and_before": [
+  "an10.28:11.1^event_dppn_headwords_before_or_around_this_segment": [
     "Gajaṅgala"
   ],
-  "an10.28:11.1^where_here_and_before": [
+  "an10.28:11.1^where_before_or_around_this_segment": [
     "Kajaṅgalā in a bamboo grove"
   ],
-  "an10.28:11.1^who_around_here_and_before": [
+  "an10.28:11.1^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "an10.28^initial_geographic_location": [
+  "an10.28^initial_location_dppn_headword": [
     "Gajaṅgala"
   ],
   "an10.28^where": "Kajaṅgalā in a bamboo grove"

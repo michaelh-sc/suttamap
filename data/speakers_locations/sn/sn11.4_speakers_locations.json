@@ -10,17 +10,17 @@
     "Vāsava"
   ],
   "sn11.4:6.4^speaker": "the demons",
-  "sn11.4:7.2^geographic_locations_here_and_before": [
+  "sn11.4:7.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn11.4:7.2^speaker": "the Buddha",
-  "sn11.4:7.2^where_here_and_before": [
+  "sn11.4:7.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn11.4:7.2^who_around_here_and_before": [
+  "sn11.4:7.2^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn11.4^initial_geographic_location": [
+  "sn11.4^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn11.4^where": "Sāvatthī"

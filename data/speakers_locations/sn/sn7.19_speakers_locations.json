@@ -9,16 +9,16 @@
   "sn7.19:3.2+sn7.19:3.3^who_else_mentioned": [
     "Gotama"
   ],
-  "sn7.19:3.2^geographic_locations_here_and_before": [
+  "sn7.19:3.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn7.19:3.2^where_here_and_before": [
+  "sn7.19:3.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn7.19:3.2^who_around_here_and_before": [
+  "sn7.19:3.2^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "sn7.19^initial_geographic_location": [
+  "sn7.19^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn7.19^where": "Sāvatthī"

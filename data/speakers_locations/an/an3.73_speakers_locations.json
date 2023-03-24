@@ -11,21 +11,21 @@
     "Mahānāma",
     "Buddha"
   ],
-  "an3.73:2.2^geographic_locations_here_and_before": [
+  "an3.73:2.2^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "an3.73:2.2^where_here_and_before": [
+  "an3.73:2.2^where_before_or_around_this_segment": [
     "Kapilavatthu",
     "Banyan Tree Monastery"
   ],
-  "an3.73:2.2^who_around_here_and_before": [
-    "The Buddha"
+  "an3.73:2.2^who_present_before_or_around_this_segment": [
+    "the Buddha"
   ],
-  "an3.73:2.2^who_mentioned_here_and_before": [
+  "an3.73:2.2^who_mentioned_before_or_around_this_segment": [
     "Trainee",
     "Adept"
   ],
-  "an3.73^initial_geographic_location": [
+  "an3.73^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "an3.73^where": "Kapilavatthu, Banyan Tree Monastery"

@@ -15,18 +15,18 @@
   "an3.71:5.3^speaker": "the wanderer Channa",
   "an3.71:5.4+an3.71:5.6^speaker": "Ānanda",
   "an3.71:5.7+an3.71:5.8^speaker": "the wanderer Channa",
-  "an3.71:5.7^geographic_locations_here_and_before": [
+  "an3.71:5.7^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "an3.71:5.7^where_here_and_before": [
+  "an3.71:5.7^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery",
     "Sāvatthī"
   ],
-  "an3.71:5.7^who_around_here_and_before": [
+  "an3.71:5.7^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
-  "an3.71^initial_geographic_location": [
+  "an3.71^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "an3.71^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"

@@ -64,14 +64,14 @@
     "Saṅgha"
   ],
   "an8.12:28.7^speaker": "General Sīha",
-  "an8.12:29.2^geographic_locations_here_and_before": [
+  "an8.12:29.2^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
   "an8.12:29.2^speaker": "General Sīha",
-  "an8.12:29.2^where_here_and_before": [
+  "an8.12:29.2^where_before_or_around_this_segment": [
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
-  "an8.12:29.2^who_around_here_and_before": [
+  "an8.12:29.2^who_present_before_or_around_this_segment": [
     "several very prominent Licchavis",
     "Jain ascetics",
     "the Buddha",
@@ -81,7 +81,7 @@
     "Buddha",
     "Saṅgha"
   ],
-  "an8.12:29.2^who_mentioned_here_and_before": [
+  "an8.12:29.2^who_mentioned_before_or_around_this_segment": [
     "Nigaṇṭha Nātaputta"
   ],
   "an8.12:30.2^speaker": "General Sīha",
@@ -105,20 +105,20 @@
     "Buddha",
     "Saṅgha"
   ],
-  "an8.12:32.6^geographic_locations_here_and_before": [
+  "an8.12:32.6^event_dppn_headwords_before_or_around_this_segment": [
     "Vesāli"
   ],
-  "an8.12:32.6^where_here_and_before": [
+  "an8.12:32.6^where_before_or_around_this_segment": [
     "Vesālī"
   ],
-  "an8.12:32.6^who_around_here_and_before": [
+  "an8.12:32.6^who_present_before_or_around_this_segment": [
     "the Buddha",
     "the Saṅgha of mendicants"
   ],
-  "an8.12:32.6^who_mentioned_here_and_before": [
+  "an8.12:32.6^who_mentioned_before_or_around_this_segment": [
     "the Teacher"
   ],
-  "an8.12^initial_geographic_location": [
+  "an8.12^initial_location_dppn_headword": [
     "Vesāli"
   ],
   "an8.12^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"

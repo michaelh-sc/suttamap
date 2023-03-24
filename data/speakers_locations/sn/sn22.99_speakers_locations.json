@@ -4,16 +4,16 @@
   "sn22.99:1.2+sn22.99:3.9^where_else_mentioned": [
     "Sineru"
   ],
-  "sn22.99:1.2^geographic_locations_here_and_before": [
+  "sn22.99:1.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.99:1.2^where_here_and_before": [
+  "sn22.99:1.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn22.99:1.2^who_around_here_and_before": [
+  "sn22.99:1.2^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "sn22.99^initial_geographic_location": [
+  "sn22.99^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn22.99^where": "Sāvatthī"

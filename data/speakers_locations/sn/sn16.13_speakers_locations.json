@@ -6,17 +6,17 @@
     "Kassapa",
     "Saṅgha"
   ],
-  "sn16.13:1.6^geographic_locations_here_and_before": [
+  "sn16.13:1.6^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "sn16.13:1.6^where_here_and_before": [
+  "sn16.13:1.6^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Sāvatthī"
   ],
-  "sn16.13:1.6^who_around_here_and_before": [
+  "sn16.13:1.6^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
-  "sn16.13^initial_geographic_location": [
+  "sn16.13^initial_location_dppn_headword": [
     "Jetavana"
   ],
   "sn16.13^where": "Jeta's Grove, Sāvatthī"

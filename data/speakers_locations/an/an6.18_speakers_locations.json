@@ -9,16 +9,20 @@
   "an6.18:3.5+an6.18:4.6^speaker": "the Buddha (assumed)",
   "an6.18:4.7^speaker": "the mendicants",
   "an6.18:4.8+an6.18:4.16^speaker": "the Buddha (assumed)",
-  "an6.18:4.8^where_here_and_before": [
+  "an6.18:4.8^geographic_location_before_or_around_this_segment": [
+    "Kosala"
+  ],
+  "an6.18:4.8^where_before_or_around_this_segment": [
     "the land of the Kosalans"
   ],
-  "an6.18:4.8^who_around_here_and_before": [
+  "an6.18:4.8^who_present_before_or_around_this_segment": [
     "a large Saṅgha of mendicants"
   ],
-  "an6.18:4.8^who_mentioned_here_and_before": [
+  "an6.18:4.8^who_mentioned_before_or_around_this_segment": [
     "a fish dealer",
     "a butcher of cattle",
     "a deer-hunter"
   ],
+  "an6.18^initial_location_dppn_headword": "Kosala",
   "an6.18^where": "the land of the Kosalans"
 }

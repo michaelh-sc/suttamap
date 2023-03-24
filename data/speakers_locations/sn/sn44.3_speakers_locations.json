@@ -21,19 +21,19 @@
   "sn44.3:4.1+sn44.3:4.21^who_else_mentioned": [
     "Buddha"
   ],
-  "sn44.3:4.1^geographic_locations_here_and_before": [
+  "sn44.3:4.1^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn44.3:4.1^where_here_and_before": [
+  "sn44.3:4.1^where_before_or_around_this_segment": [
     "Benares",
     "in the deer park at Isipatana"
   ],
-  "sn44.3:4.1^who_around_here_and_before": [
+  "sn44.3:4.1^who_present_before_or_around_this_segment": [
     "Sāriputta",
     "Mahākoṭṭhita"
   ],
-  "sn44.3^initial_geographic_location": [
+  "sn44.3^initial_location_dppn_headword": [
     "Bārānasī",
     "Isipatana"
   ],

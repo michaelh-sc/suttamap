@@ -5,10 +5,10 @@
     "Buddha",
     "Saṅgha"
   ],
-  "an8.88:1.1^who_around_here_and_before": [
+  "an8.88:1.1^who_present_before_or_around_this_segment": [
     "Mendicants"
   ],
-  "an8.88:1.1^who_mentioned_here_and_before": [
+  "an8.88:1.1^who_mentioned_before_or_around_this_segment": [
     "Lay followers"
   ]
 }

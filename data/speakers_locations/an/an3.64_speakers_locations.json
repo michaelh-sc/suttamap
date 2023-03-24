@@ -44,22 +44,19 @@
     "Sarabha",
     "Gotama"
   ],
-  "an3.64:11.2^geographic_locations_here_and_before": [
-    "Rājagaha",
+  "an3.64:11.2^event_dppn_headwords_before_or_around_this_segment": [
     "Gijjhakūṭa"
   ],
-  "an3.64:11.2^where_here_and_before": [
-    "Rājagaha",
-    "on the Vulture's Peak Mountain"
+  "an3.64:11.2^where_before_or_around_this_segment": [
+    "Rājagaha on the Vulture's Peak Mountain"
   ],
-  "an3.64:11.2^who_around_here_and_before": [
+  "an3.64:11.2^who_present_before_or_around_this_segment": [
     "Sarabha"
   ],
-  "an3.64:11.2^who_mentioned_here_and_before": [
+  "an3.64:11.2^who_mentioned_before_or_around_this_segment": [
     "the ascetics who follow the Sakyan"
   ],
-  "an3.64^initial_geographic_location": [
-    "Rājagaha",
+  "an3.64^initial_location_dppn_headword": [
     "Gijjhakūṭa"
   ],
   "an3.64^where": "Rājagaha, on the Vulture's Peak Mountain"

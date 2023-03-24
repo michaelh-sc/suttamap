@@ -11,15 +11,15 @@
     "Mendicants",
     "Gotama"
   ],
-  "sn54.12:2.1^geographic_locations_here_and_before": [
+  "sn54.12:2.1^event_dppn_headwords_before_or_around_this_segment": [
     "Kapilavatthu"
   ],
-  "sn54.12:2.1^where_here_and_before": [
+  "sn54.12:2.1^where_before_or_around_this_segment": [
     "Banyan Tree Monastery",
     "Kapilavatthu",
     "land of the Sakyans"
   ],
-  "sn54.12:2.1^who_around_here_and_before": [
+  "sn54.12:2.1^who_present_before_or_around_this_segment": [
     "Mahānāma the Sakyan"
   ],
   "sn54.12:7.3^speaker": "Lomasavaṅgīsa",
@@ -33,7 +33,7 @@
   "sn54.12:7.7^speaker": "Lomasavaṅgīsa",
   "sn54.12:8.2^speaker": "Lomasavaṅgīsa",
   "sn54.12:11.2^speaker": "Lomasavaṅgīsa",
-  "sn54.12^initial_geographic_location": [
+  "sn54.12^initial_location_dppn_headword": [
     "Kapilavatthu"
   ],
   "sn54.12^where": "Banyan Tree Monastery, Kapilavatthu, land of the Sakyans"

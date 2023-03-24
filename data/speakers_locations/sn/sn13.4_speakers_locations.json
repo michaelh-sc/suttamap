@@ -9,14 +9,14 @@
     "Mahī"
   ],
   "sn13.4:2.1+sn13.4:2.3^speaker": "Mendicants",
-  "sn13.4:2.4^geographic_locations_here_and_before": [
+  "sn13.4:2.4^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
   "sn13.4:2.4^speaker": "the Buddha",
-  "sn13.4:2.4^where_here_and_before": [
+  "sn13.4:2.4^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn13.4^initial_geographic_location": [
+  "sn13.4^initial_location_dppn_headword": [
     "Sāvatthī"
   ],
   "sn13.4^where": "Sāvatthī"
