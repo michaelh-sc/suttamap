@@ -14579,5 +14579,1512 @@
         25.03
       ]
     }
+  },
+  "sn46.30": {
+    "location_dppn_headword": "S",
+    "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka",
+    "geometry": {}
+  },
+  "sn46.39": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Moreton Bay"
+    ],
+    "geometry": {}
+  },
+  "sn46.41": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn46.51": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn46.52": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn46.53": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn46.54": {
+    "location_dppn_headword": "Haliddavasana",
+    "location_text": "Haliddavasana, land of the Koliyans",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.7117037,
+        27.4290775
+      ]
+    }
+  },
+  "sn46.55": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn46.56": {
+    "location_dppn_headword": "Gijjhakūṭa",
+    "location_text": "Vulture's Peak Mountain, near Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.446707,
+        25.001967
+      ]
+    }
+  },
+  "sn46.57": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn46.77-88": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges"
+    ],
+    "geometry": {}
+  },
+  "sn46.130": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.1": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Vesālī, in Ambapālī's Wood",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "sn47.2": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Vesālī, in Ambapālī's Wood",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "sn47.3": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "sn47.4": {
+    "location_dppn_headword": "Sālā",
+    "location_text": "the land of the Kosalans near the brahmin village of Sālā",
+    "geometry": {}
+  },
+  "sn47.5": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.6": {
+    "location_dppn_headword": "",
+    "location_text": "Mendicant's own territory, the domain of the fathers",
+    "geometry": {}
+  },
+  "sn47.7": {
+    "location_dppn_headword": "",
+    "location_text": "Himalayas",
+    "geometry": {}
+  },
+  "sn47.9": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Vesālī, at the little village of Beluva",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "sn47.10": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.11": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.12": {
+    "location_dppn_headword": "N",
+    "location_text": "Nālandā in Pāvārika's mango grove",
+    "geometry": {}
+  },
+  "sn47.13": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "sn47.14": {
+    "location_dppn_headword": "Ukkacelā",
+    "location_text": "the land of the Vajjīs near Ukkacelā on the bank of the Ganges river",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.039666,
+        25.723207
+      ]
+    }
+  },
+  "sn47.15": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.16": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.18": {
+    "location_dppn_headword": "Uruvelā",
+    "location_text": "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.991275,
+        24.695102
+      ]
+    }
+  },
+  "sn47.19": {
+    "location_dppn_headword": "S",
+    "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka",
+    "geometry": {}
+  },
+  "sn47.20": {
+    "location_dppn_headword": "S",
+    "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka",
+    "geometry": {}
+  },
+  "sn47.21": {
+    "location_dppn_headword": "",
+    "location_text": "Pāṭaliputta, in the Chicken Monastery",
+    "geometry": {}
+  },
+  "sn47.22": {
+    "location_dppn_headword": "",
+    "location_text": "The same setting",
+    "geometry": {}
+  },
+  "sn47.23": {
+    "location_dppn_headword": "",
+    "location_text": "Pāṭaliputta, in the Chicken Monastery",
+    "geometry": {}
+  },
+  "sn47.24": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.25": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "sn47.26": {
+    "location_dppn_headword": "Sāketa",
+    "location_text": "Sāketa, in the Thorny Wood",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.2,
+        26.8
+      ]
+    }
+  },
+  "sn47.27": {
+    "location_dppn_headword": "",
+    "location_text": "The same setting",
+    "geometry": {}
+  },
+  "sn47.28": {
+    "location_dppn_headword": "",
+    "location_text": "The same setting",
+    "geometry": {}
+  },
+  "sn47.29": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Bamboo Grove, Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "sn47.30": {
+    "location_dppn_headword": "",
+    "location_text": "the same setting",
+    "geometry": {}
+  },
+  "sn47.31": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.35": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.41": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.43": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn47.51-62": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges"
+    ],
+    "geometry": {}
+  },
+  "sn48.1": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn48.41": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn48.42": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn48.43": {
+    "location_dppn_headword": "Sāketa",
+    "location_text": "Sāketa in the deer part at the Añjana Wood",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.2,
+        26.8
+      ]
+    }
+  },
+  "sn48.44": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī at the eastern gate",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn48.45": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn48.46": {
+    "location_dppn_headword": "",
+    "location_text": "The same setting.",
+    "geometry": {}
+  },
+  "sn48.47": {
+    "location_dppn_headword": "",
+    "location_text": "The same setting.",
+    "geometry": {}
+  },
+  "sn48.48": {
+    "location_dppn_headword": "",
+    "location_text": "The same setting.",
+    "geometry": {}
+  },
+  "sn48.49": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Ghosita's Monastery, near Kosambi",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "sn48.50": {
+    "location_dppn_headword": "Āpaṇa",
+    "location_text": "the land of the Aṅgas, near the Aṅgan town called Āpaṇa",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        87.132568,
+        25.465594
+      ]
+    }
+  },
+  "sn48.51": {
+    "location_dppn_headword": "Sālā",
+    "location_text": "the land of the Kosalans near the brahmin village of Sālā",
+    "geometry": {}
+  },
+  "sn48.52": {
+    "location_dppn_headword": "Uruvelakappa",
+    "location_text": "The land of the Mallas, near the Mallian town called Uruvelakappa",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.0509033,
+        26.9857238
+      ]
+    }
+  },
+  "sn48.53": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambi, in Ghosita's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "sn48.57": {
+    "location_dppn_headword": "Uruvelā",
+    "location_text": "Uruvelā at the goatherd's banyan tree on the bank of the Nerañjarā River",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.991275,
+        24.695102
+      ]
+    }
+  },
+  "sn48.58": {
+    "location_dppn_headword": "Gijjhakūṭa",
+    "location_text": "Vulture's Peak Mountain in the Boar's Cave, near Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.446707,
+        25.001967
+      ]
+    }
+  },
+  "sn48.59": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn48.61": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn48.67": {
+    "location_dppn_headword": "",
+    "location_text": "India",
+    "geometry": {}
+  },
+  "sn48.71-82": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges"
+    ],
+    "geometry": {}
+  },
+  "sn48.125-136": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges"
+    ],
+    "geometry": {}
+  },
+  "sn49.1-12": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn50.1-12": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges"
+    ],
+    "geometry": {}
+  },
+  "sn50.55-66": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges"
+    ],
+    "geometry": {}
+  },
+  "sn51.10": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Vesālī, at the Great Wood, in the hall with the peaked roof",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "sn51.11": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn51.12": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn51.14": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn51.15": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Ghosita's Monastery, Kosambi",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "sn51.17": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn51.19": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn51.20": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn51.21": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn51.22": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn51.27": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn51.28": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn51.29": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn51.30": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn51.31": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn51.32": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn51.33-44": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges"
+    ],
+    "geometry": {}
+  },
+  "sn52.1": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn52.2": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn52.3": {
+    "location_dppn_headword": "Sutanu",
+    "location_text": "the bank of the Sutanu",
+    "geometry": {}
+  },
+  "sn52.4": {
+    "location_dppn_headword": "Sāketa",
+    "location_text": "Sāketa, in the Thorny Wood",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.2,
+        26.8
+      ]
+    }
+  },
+  "sn52.5": {
+    "location_dppn_headword": "Sāketa",
+    "location_text": "Sāketa",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.2,
+        26.8
+      ]
+    }
+  },
+  "sn52.6": {
+    "location_dppn_headword": "Sāketa",
+    "location_text": "Sāketa",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.2,
+        26.8
+      ]
+    }
+  },
+  "sn52.7": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn52.8": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the frankincense-tree hut",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn52.9": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Ambapālī's Wood, Vesālī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "sn52.10": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Dark Forest",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn52.11": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "sn52.12": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Brahmā"
+    ],
+    "geometry": {}
+  },
+  "sn53.1-12": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn54.1": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn54.6": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn54.7": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn54.9": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Vesālī, at the Great Wood, in the hall with the peaked roof",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "sn54.10": {
+    "location_dppn_headword": "Kimilā",
+    "location_text": "Kimbilā in the Freshwater Mangrove Wood",
+    "geometry": {}
+  },
+  "sn54.11": {
+    "location_dppn_headword": "Iccānaṅgala",
+    "location_text": "a forest near Icchānaṅgala",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.706451,
+        27.630007
+      ]
+    }
+  },
+  "sn54.12": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Banyan Tree Monastery, Kapilavatthu, land of the Sakyans",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn54.13": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.1": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.3": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Bamboo Grove, near Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "sn55.4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "sn55.6": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.7": {
+    "location_dppn_headword": "K",
+    "location_text": "the land of the Kosalans, Bamboo Gate",
+    "geometry": {}
+  },
+  "sn55.8": {
+    "location_dppn_headword": "",
+    "location_text": "Nādika in the brick house",
+    "geometry": {}
+  },
+  "sn55.10": {
+    "location_dppn_headword": "",
+    "location_text": "Nādika",
+    "geometry": {}
+  },
+  "sn55.11": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "near Sāvatthī in the Royal Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.12": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.13": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery in Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "sn55.18": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "sn55.19": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.20": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "sn55.21": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu in the Banyan Tree Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.22": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu in the Banyan Tree Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.23": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.24": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.25": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.26": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.27": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.28": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.29": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.30": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Vesālī, at the Great Wood, in the hall with the peaked roof",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "sn55.31": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.34": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn55.37": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu in the Banyan Tree Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.39": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu in the Banyan Tree Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.40": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu in the Banyan Tree Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.42": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges",
+      "Yamuna",
+      "Aciravatī",
+      "Sarabhū",
+      "Mahī—"
+    ],
+    "geometry": {}
+  },
+  "sn55.47": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.48": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.49": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.52": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn55.53": {
+    "location_dppn_headword": "Isipatana",
+    "location_text": "deer park at Isipatana, near Benares",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.034238,
+        25.397519
+      ]
+    }
+  },
+  "sn55.54": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu in the Banyan Tree Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "sn56.1": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn56.11": {
+    "location_dppn_headword": "Bārānasī",
+    "location_text": "Benares, in the deer park at Isipatana.",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.0044556,
+        25.2993376
+      ]
+    }
+  },
+  "sn56.21": {
+    "location_dppn_headword": "V",
+    "location_text": "the land of the Vajjis at the village of Koṭi",
+    "geometry": {}
+  },
+  "sn56.23": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn56.24": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn56.30": {
+    "location_dppn_headword": "Sahajāti",
+    "location_text": "the land of the Cetis at Sahajāti",
+    "geometry": {}
+  },
+  "sn56.31": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambī in a rosewood forest",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "sn56.36": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "India"
+    ],
+    "geometry": {}
+  },
+  "sn56.41": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Bamboo Grove, near Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "sn56.42": {
+    "location_dppn_headword": "Gijjhakūṭa",
+    "location_text": "Vulture's Peak Mountain, near Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.446707,
+        25.001967
+      ]
+    }
+  },
+  "sn56.45": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Vesālī, at the Great Wood, in the hall with the peaked roof",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "sn56.49": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Sineru"
+    ],
+    "geometry": {}
+  },
+  "sn56.50": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Sineru"
+    ],
+    "geometry": {}
+  },
+  "sn56.53": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges",
+      "Yamuna",
+      "Aciravatī",
+      "Sarabhū",
+      "Mahī"
+    ],
+    "geometry": {}
+  },
+  "sn56.54": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Ganges",
+      "Yamuna",
+      "Aciravatī",
+      "Sarabhū",
+      "Mahī"
+    ],
+    "geometry": {}
+  },
+  "sn56.59": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Himalayas"
+    ],
+    "geometry": {}
+  },
+  "sn56.60": {
+    "location_dppn_headword": "",
+    "location_text": [
+      "Himalayas"
+    ],
+    "geometry": {}
   }
 }
