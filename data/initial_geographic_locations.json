@@ -50,11 +50,6 @@
     ],
     "geometry": {}
   },
-  "an2.118-129": {
-    "location_dppn_headword": "",
-    "location_text": "Not mentioned in the text",
-    "geometry": {}
-  },
   "an3.1": {
     "location_dppn_headword": "Jetavana",
     "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
@@ -106,24 +101,10 @@
       ]
     }
   },
-  "an3.36": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Great Hell"
-    ],
-    "geometry": {}
-  },
   "an3.48": {
     "location_dppn_headword": "",
     "location_text": [
       "Himalayas"
-    ],
-    "geometry": {}
-  },
-  "an3.57": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Holy One"
     ],
     "geometry": {}
   },
