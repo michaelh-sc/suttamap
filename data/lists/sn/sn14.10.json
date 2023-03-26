@@ -1,0 +1,40 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn14.10": {
+    "Diversity of elements [sn14.10:4.9]": [
+      "The sight element",
+      "The sound element",
+      "The smell element",
+      "The taste element",
+      "The touch element",
+      "The thought element"
+    ],
+    "How diversity of elements gives rise to diversity of perceptions, and diversity of perceptions give rise to diversity of thoughts [sn14.10:4.9]": [
+      "The sight element gives rise to the perception of sights",
+      "The sound element gives rise to the perception of sounds",
+      "The smell element gives rise to the perception of smells",
+      "The taste element gives rise to the perception of tastes",
+      "The touch element gives rise to the perception of touches",
+      "The thought element gives rise to the perception of thoughts"
+    ],
+    "How diversity of thoughts arises (a causal chain) [sn14.10:4.9]": [
+      "Diversity of elements gives rise to diversity of perceptions",
+      "Diversity of perceptions gives rise to diversity of thoughts",
+      "Diversity of thoughts gives rise to diversity of contacts",
+      "Diversity of contacts gives rise to diversity of feelings",
+      "Diversity of feelings gives rise to diversity of desires",
+      "Diversity of desires gives rise to diversity of passions",
+      "Diversity of passions gives rise to diversity of searches",
+      "Diversity of searches gives rise to diversity of gains"
+    ],
+    "How diversity of gains, searches, passions, desires, feelings, contacts, and thoughts arise (a causal chain) [sn14.10:4.9]": [
+      "Diversity of searches gives rise to diversity of gains",
+      "Diversity of gains doesn’t give rise to diversity of searches",
+      "Diversity of searches doesn’t give rise to diversity of passions",
+      "Diversity of passions doesn’t give rise to diversity of desires",
+      "Diversity of desires doesn’t give rise to diversity of thoughts about thoughts",
+      "Thoughts about thoughts don’t give rise to perceptions of thoughts",
+      "Perceptions of thoughts don’t give rise to the thought element."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.101": {
+    "The four kinds of clouds [an4.101:6.6]": [
+      "One thunders but doesn’t rain",
+      "One rains but doesn’t thunder",
+      "One neither thunders nor rains",
+      "One both rains and thunders"
+    ],
+    "The four people similar to clouds [an4.101:6.6]": [
+      "One thunders but doesn’t rain",
+      "One rains but doesn’t thunder",
+      "One neither thunders nor rains",
+      "One both rains and thunders"
+    ],
+    "How a person thunders but not rain [an4.101:6.6]": [
+      "A person is a talker, not a doer"
+    ],
+    "How a person rain but not thunder (a causal sequence) [an4.101:6.6]": [
+      "A person is a doer, not a talker"
+    ],
+    "How a person neither thunder nor rain (a causal sequence) [an4.101:6.6]": [
+      "A person is neither a talker nor a doer"
+    ],
+    "How a person both thunder and rain (a causal sequence) [an4.101:6.6]": [
+      "A person is both a talker and a doer"
+    ]
+  }
+}

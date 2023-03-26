@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an1.287-295": {
+    "Good bodily conduct [an1.294-295:1.2]": [
+      "It is impossible for an unlikable, undesirable, disagreeable result to come from good bodily conduct.",
+      "It is possible for a likable, desirable, agreeable result to come from good bodily conduct."
+    ],
+    "Good verbal and mental conduct (a causal chain) [an1.294-295:1.2]": [
+      "It is impossible for an unlikable, undesirable, disagreeable result to come from good verbal and mental conduct.",
+      "It is possible for a likable, desirable, agreeable result to come from good verbal and mental conduct.",
+      "It is impossible that someone who has engaged in good verbal and mental conduct could, for that reason alone, when their body breaks up, after death, be reborn in a place of loss, a bad place, the underworld, hell.",
+      "It is possible that someone who has engaged in good verbal and mental conduct could, for that reason alone, when their body breaks up, after death, be reborn in a good place, heavenly realm."
+    ],
+    "Bad bodily conduct (a causal chain) [an1.294-295:1.2]": [
+      "It is impossible that someone who has engaged in bad bodily conduct could, for that reason alone, when their body breaks up, after death, be reborn in a good place, a heavenly realm.",
+      "It is possible that someone who has engaged in bad bodily conduct could, for that reason alone, when their body breaks up, after death, be reborn in a place of loss, a bad place, the underworld, hell."
+    ],
+    "Bad verbal and mental conduct (a causal chain) [an1.294-295:1.2]": [
+      "It is impossible that someone who has engaged in bad verbal and mental conduct could, for that reason alone, when their body breaks up, after death, be reborn in a good place, a heavenly realm.",
+      "It is possible that someone who has engaged in bad verbal and mental conduct could, for that reason alone, when their body breaks up, after death, be reborn in a place of loss, a bad place, the underworld, hell."
+    ],
+    "Good bodily conduct (a causal chain) [an1.294-295:1.2]": [
+      "It is impossible that someone who has engaged in good bodily conduct could, for that reason alone, when their body breaks up, after death, be reborn in a place of loss, the underworld, a lower realm, hell.",
+      "It is possible that someone who has engaged in good bodily conduct could, for that reason alone, when their body breaks up, after death, be reborn in a good place, a heavenly realm."
+    ]
+  }
+}

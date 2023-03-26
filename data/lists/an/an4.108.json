@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.108": {
+    "The four kinds of oxen [an4.108:5.6]": [
+      "One hostile to its own herd, not others",
+      "One hostile to other herds, not its own",
+      "One hostile to both its own herd and others",
+      "One hostile to neither its own herd nor others"
+    ],
+    "The four people similar to oxen found in the world [an4.108:5.6]": [
+      "One hostile to their own herd, not others",
+      "One hostile to other herds, not their own",
+      "One hostile to both their own herd and others",
+      "One hostile to neither their own herd nor others"
+    ],
+    "How a person is hostile to their own herd, not others [an4.108:5.6]": [
+      "A person intimidates their own followers, not the followers of others"
+    ],
+    "How a person is hostile to other herds, not their own (a causal sequence) [an4.108:5.6]": [
+      "A person intimidates the followers of others, not their own"
+    ],
+    "How a person is hostile to both their own herd and others (a causal sequence) [an4.108:5.6]": [
+      "A person intimidates their own followers and the followers of others"
+    ],
+    "How a person is hostile to neither their own herd nor others (a causal sequence) [an4.108:5.6]": [
+      "A person doesn’t intimidate their own followers or the followers of others"
+    ]
+  }
+}

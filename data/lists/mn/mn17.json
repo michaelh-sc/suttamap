@@ -1,0 +1,31 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn17": {
+    "The cases of mendicants living close by a jungle thicket [mn17:26.9]": [
+      "Mindfulness does not become established",
+      "Mind does not become immersed in samādhi",
+      "Defilements do not come to an end",
+      "Necessities of life are hard to come by"
+    ],
+    "The cases of mendicants living close by a jungle thicket (a causal chain) [mn17:26.9]": [
+      "Mindfulness does not become established",
+      "Necessities of life are easy to come by",
+      "Didn’t go forth from the lay life to homelessness for the sake of a robe, almsfood, lodgings, or medicines and supplies for the sick",
+      "Mindfulness becomes established",
+      "Defilements come to an end",
+      "Necessities of life are hard to come by",
+      "Didn’t go forth from the lay life to homelessness for the sake of a robe, almsfood, lodgings, or medicines and supplies for the sick",
+      "Mindfulness becomes established",
+      "Necessities of life are easy to come by"
+    ],
+    "The cases of mendicants living supported by someone (a causal chain) [mn17:26.9]": [
+      "Mindfulness does not become established",
+      "Mind does not become immersed in samādhi",
+      "Defilements do not come to an end",
+      "Necessities of life are hard to come by",
+      "Mindfulness becomes established",
+      "Defilements come to an end",
+      "Necessities of life are easy to come by"
+    ]
+  }
+}

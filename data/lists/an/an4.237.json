@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.237": {
+    "The four kinds of deeds [an4.237:5.4]": [
+      "Dark deeds with dark results",
+      "Bright deeds with bright results",
+      "Dark and bright deeds with dark and bright results",
+      "Neither dark nor bright deeds with neither dark nor bright results, which lead to the ending of deeds"
+    ],
+    "Dark deeds with dark results [an4.237:5.4]": [
+      "Hurtful choices",
+      "By way of body",
+      "By way of speech",
+      "By way of mind"
+    ],
+    "Bright deeds with bright results (a causal chain) [an4.237:5.4]": [
+      "Pleasing choices",
+      "By way of body",
+      "By way of speech",
+      "By way of mind"
+    ],
+    "Dark and bright deeds with dark and bright results (a causal chain) [an4.237:5.4]": [
+      "Both hurtful and pleasing choices",
+      "By way of body",
+      "By way of speech",
+      "By way of mind"
+    ],
+    "Neither dark nor bright deeds with neither dark nor bright results, which lead to the ending of deeds (a causal chain) [an4.237:5.4]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn110": {
+    "Qualities of a bad person [mn110:25.2]": [
+      "Bad qualities",
+      "Association with bad people",
+      "Intentions of a bad person",
+      "Counsel of a bad person",
+      "Speech of a bad person",
+      "Actions of a bad person",
+      "View of a bad person",
+      "Giving of a bad person"
+    ],
+    "Qualities of a good person (a causal sequence) [mn110:25.2]": [
+      "Good qualities",
+      "Association with good people",
+      "Intentions of a good person",
+      "Counsel of a good person",
+      "Speech of a good person",
+      "Actions of a good person",
+      "View of a good person",
+      "Giving of a good person"
+    ]
+  }
+}

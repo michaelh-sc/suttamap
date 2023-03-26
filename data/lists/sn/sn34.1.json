@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn34.1": {
+    "The four meditators [sn34.1:1.10]": [
+      "One meditator is skilled in immersion but not in entering it.",
+      "One meditator is not skilled in immersion but is skilled in entering it.",
+      "One meditator is skilled neither in immersion nor in entering it.",
+      "One meditator is skilled both in immersion and in entering it."
+    ],
+    "The qualities of the meditators [sn34.1:1.10]": [
+      "Foremost",
+      "Best",
+      "Chief",
+      "Highest",
+      "Finest"
+    ],
+    "The process of obtaining cream of ghee [sn34.1:1.10]": [
+      "From a cow comes milk",
+      "From milk comes curds",
+      "From curds come butter",
+      "From butter comes ghee",
+      "From ghee comes cream of ghee"
+    ]
+  }
+}

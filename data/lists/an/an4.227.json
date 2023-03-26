@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.227": {
+    "Kinds of expression that lead to bad conduct [an4.227:1.1]": [
+      "They say they’ve seen something, but they haven’t.",
+      "They say they’ve heard something, but they haven’t.",
+      "They say they’ve thought something, but they haven’t.",
+      "They say they’ve known something, but they haven’t."
+    ],
+    "Kinds of expression that lead to good conduct [an4.227:1.1]": [
+      "They say they haven’t seen something, and they haven’t.",
+      "They say they haven’t heard something, and they haven’t.",
+      "They say they haven’t thought something, and they haven’t.",
+      "They say they haven’t known something, and they haven’t."
+    ]
+  }
+}

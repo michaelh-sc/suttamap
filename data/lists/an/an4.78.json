@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.78": {
+    "The four ways of purifying a religious donation [an4.78:5.4]": [
+      "A religious donation that’s purified by the giver, not the recipient",
+      "A religious donation that’s purified by the recipient, not the giver",
+      "A religious donation that’s purified by neither the giver nor the recipient",
+      "A religious donation that’s purified by both the giver and the recipient"
+    ],
+    "How a religious donation is purified [an4.78:5.4]": [
+      "Purified by the giver, not the recipient",
+      "The giver is ethical, of good character",
+      "The recipient is unethical, of bad character"
+    ],
+    "How a religious donation is purified (a causal chain) [an4.78:5.4]": [
+      "Purified by the recipient, not the giver",
+      "The giver is unethical, of bad character",
+      "The recipient is ethical, of good character",
+      "Purified by neither the giver nor the recipient",
+      "Both the giver and the recipient are unethical, of bad character",
+      "Purified by both the giver and the recipient",
+      "Both the giver and the recipient are ethical, of good character"
+    ]
+  }
+}

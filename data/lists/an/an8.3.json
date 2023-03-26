@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.3": {
+    "Eight qualities of a mendicant who is disliked and disapproved by their spiritual companions [an8.3:2.4]": [
+      "Praises the disliked",
+      "Criticizes the liked",
+      "Desires material possessions",
+      "Desires honor",
+      "Lacks conscience",
+      "Lacks prudence",
+      "Has wicked desires",
+      "Has wrong view"
+    ],
+    "Eight qualities of a mendicant who is liked and approved by their spiritual companions [an8.3:2.4]": [
+      "Doesn't praise the disliked",
+      "Doesn't criticize the liked",
+      "Doesn't desire material possessions",
+      "Doesn't desire honor",
+      "Has conscience",
+      "Has prudence",
+      "Has few desires",
+      "Has right view"
+    ]
+  }
+}

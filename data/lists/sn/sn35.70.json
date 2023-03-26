@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.70": {
+    "Examples of how the teaching is visible in this very life [sn35.70:7.5]": [
+      "A mendicant who sees a sight with their eyes",
+      "A mendicant who hears a sound with their ears",
+      "A mendicant who smells an odor with their nose",
+      "A mendicant who tastes a flavor with their tongue",
+      "A mendicant who touches a tangible with their body",
+      "A mendicant who knows a thought with their mind"
+    ],
+    "The experience of the mendicant in each example (a list separated by commas) [sn35.70:7.5]": [
+      "They experience both the sight and the desire for the sight",
+      "They experience both the sound and the desire for the sound",
+      "They experience both the odor and the desire for the odor",
+      "They experience both the flavor and the desire for the flavor",
+      "They experience both the tangible and the desire for the tangible",
+      "They experience both the thought and the desire for the thought"
+    ],
+    "The absence of desire in the mendicant in each example (a repetitive sentence structure) [sn35.70:7.5]": [
+      "They experience the sight but no desire for the sight",
+      "They experience the sound but no desire for the sound",
+      "They experience the odor but no desire for the odor",
+      "They experience the flavor but no desire for the flavor",
+      "They experience the tangible but no desire for the tangible",
+      "They experience the thought but no desire for the thought"
+    ]
+  }
+}

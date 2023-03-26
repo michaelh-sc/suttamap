@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.216": {
+    "The species of creepy animals [an10.216:11.3]": [
+      "Snakes",
+      "Scorpions",
+      "Centipedes",
+      "Mongooses",
+      "Cats",
+      "Mice",
+      "Owls",
+      "Whatever other species of animal that creep away when they see humans"
+    ],
+    "The deeds that lead to a crooked destiny and rebirth [an10.216:11.3]": [
+      "Killing living creatures",
+      "Stealing",
+      "Committing sexual misconduct",
+      "Lying",
+      "Speaking divisively",
+      "Speaking harshly",
+      "Indulging in talking nonsense",
+      "Being covetous",
+      "Having cruel intentions",
+      "Having wrong view"
+    ],
+    "The deeds that lead to a virtuous destiny and rebirth [an10.216:11.3]": [
+      "Giving up killing living creatures",
+      "Giving up stealing",
+      "Giving up sexual misconduct",
+      "Giving up lying",
+      "Giving up divisive speech",
+      "Giving up harsh speech",
+      "Giving up talking nonsense",
+      "Being content",
+      "Being kind-hearted",
+      "Having right view"
+    ]
+  }
+}

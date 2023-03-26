@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.98": {
+    "Sights, sounds, smells, tastes, touches, and thoughts known by the mind that are likable, desirable, agreeable, pleasant, sensual, and arousing [sn35.98:2.11]": [
+      "Sights known by the eye",
+      "Sounds",
+      "Smells",
+      "Tastes",
+      "Touches",
+      "Thoughts known by the mind"
+    ],
+    "How someone is unrestrained (a list separated by commas) [sn35.98:2.11]": [
+      "If a mendicant approves",
+      "If a mendicant welcomes",
+      "If a mendicant keeps clinging to them",
+      "Their skillful qualities are declining",
+      "This is what the Buddha calls decline"
+    ],
+    "How someone is restrained (a causal sequence) [sn35.98:2.11]": [
+      "If a mendicant doesn’t approve",
+      "If a mendicant doesn’t welcome",
+      "If a mendicant doesn’t keep clinging to them",
+      "Their skillful qualities are not declining",
+      "This is what the Buddha calls non-decline."
+    ]
+  }
+}

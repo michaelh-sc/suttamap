@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an8.4": {
+    "Eight qualities of a mendicant that is disliked and disapproved by their spiritual companions [an8.4:2.4]": [
+      "Desires material possessions",
+      "Desires honor",
+      "Desires to be looked up to",
+      "Knows neither moderation nor the proper time",
+      "Conduct is impure",
+      "Talks a lot",
+      "Insults spiritual companions",
+      "Abuses spiritual companions"
+    ],
+    "Eight qualities of a mendicant that is liked and approved by their spiritual companions [an8.4:2.4]": [
+      "Doesn't desire material possessions",
+      "Doesn't desire honor",
+      "Doesn't desire to be looked up to",
+      "Knows moderation and the proper time",
+      "Conduct is pure",
+      "Doesn't talk a lot",
+      "Doesn't insult spiritual companions",
+      "Doesn't abuse spiritual companions"
+    ]
+  }
+}

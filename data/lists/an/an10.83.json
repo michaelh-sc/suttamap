@@ -1,0 +1,28 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.83": {
+    "The qualities that inspire the Realized One to teach [an10.83:4.3]": [
+      "Faith",
+      "Approaching",
+      "Paying homage",
+      "Asking questions",
+      "Lending an ear",
+      "Remembering the teachings",
+      "Reflecting on the meaning",
+      "Practicing accordingly",
+      "Having a good voice",
+      "Encouraging spiritual companions"
+    ],
+    "The reasons why the Realized One doesn't feel inspired to teach [an10.83:4.3]": [
+      "When a mendicant has faith but doesn’t approach",
+      "When a mendicant has faith and approaches, but doesn’t pay homage",
+      "When a mendicant pays homage, but doesn’t ask questions",
+      "When a mendicant asks questions, but doesn’t lend an ear",
+      "When a mendicant lends an ear, but doesn’t remember the teachings",
+      "When a mendicant remembers the teachings, but doesn’t reflect on the meaning",
+      "When a mendicant reflects on the meaning, but doesn’t practice accordingly",
+      "When a mendicant practices accordingly, but they’re not a good speaker",
+      "When a mendicant is a good speaker, but they don’t educate, encourage, fire up, and inspire their spiritual companions."
+    ]
+  }
+}

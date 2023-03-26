@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.272": {
+    "Five qualities of a person who should not be appointed as meal assigner [an5.272:3.4]": [
+      "They make decisions prejudiced by favoritism",
+      "They make decisions prejudiced by hostility",
+      "They make decisions prejudiced by stupidity",
+      "They make decisions prejudiced by cowardice",
+      "They don’t know if a meal has been assigned or not"
+    ],
+    "Five qualities of a person who should be appointed as meal assigner [an5.272:3.4]": [
+      "They don’t make decisions prejudiced by favoritism",
+      "They don’t make decisions prejudiced by hostility",
+      "They don’t make decisions prejudiced by stupidity",
+      "They don’t make decisions prejudiced by cowardice",
+      "They know if a meal has been assigned or not"
+    ],
+    "Five qualities of a person who has been appointed as meal assigner [an5.272:3.4]": [
+      "Should not be called upon",
+      "Should be called upon",
+      "Should be known as a fool",
+      "Should be known as astute",
+      "They keep themselves broken and damaged or unbroken and undamaged"
+    ],
+    "Five qualities of a meal assigner who is raised up to heaven (a causal chains) [an5.272:3.4]": [
+      "They don’t make decisions prejudiced by favoritism",
+      "They don’t make decisions prejudiced by hostility",
+      "They don’t make decisions prejudiced by stupidity",
+      "They don’t make decisions prejudiced by cowardice",
+      "They know if a meal has been assigned or not"
+    ]
+  }
+}

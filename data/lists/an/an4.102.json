@@ -1,0 +1,34 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.102": {
+    "The four kinds of clouds [an4.102:5.8]": [
+      "One thunders but doesn’t rain",
+      "One rains but doesn’t thunder",
+      "One neither thunders nor rains",
+      "One both rains and thunders"
+    ],
+    "The four people similar to clouds [an4.102:5.8]": [
+      "One thunders but doesn’t rain",
+      "One rains but doesn’t thunder",
+      "One neither thunders nor rains",
+      "One both rains and thunders"
+    ],
+    "The teaching [an4.102:5.8]": [
+      "Statements",
+      "Songs",
+      "Discussions",
+      "Verses",
+      "Inspired exclamations",
+      "Legends",
+      "Stories of past lives",
+      "Amazing stories",
+      "Classifications"
+    ],
+    "The understanding of the teaching (a items expanded upon using repetitive or similar sentence structure) [an4.102:5.8]": [
+      "This is suffering",
+      "This is the origin of suffering",
+      "This is the cessation of suffering",
+      "This is the practice that leads to the cessation of suffering"
+    ]
+  }
+}

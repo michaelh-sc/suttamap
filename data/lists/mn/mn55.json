@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn55": {
+    "Three cases in which meat may not be eaten [mn55:13.6]": [
+      "It’s seen",
+      "It’s heard",
+      "It’s suspected"
+    ],
+    "Three cases in which meat may be eaten [mn55:13.6]": [
+      "It’s not seen",
+      "It’s not heard",
+      "It’s not suspected"
+    ],
+    "The case of a mendicant living supported by a town or village [mn55:13.6]": [
+      "They meditate spreading a heart full of love",
+      "A householder or their child approaches and invites them for the next day’s meal",
+      "The mendicant accepts if they want",
+      "They eat that almsfood untied, uninfatuated, unattached, seeing the drawback, and understanding the escape"
+    ],
+    "The case of a mendicant living supported by a town or village (a causal sequence) [mn55:13.6]": [
+      "They meditate spreading a heart full of compassion",
+      "A householder or their child approaches and invites them for the next day’s meal",
+      "The mendicant accepts if they want",
+      "They eat that almsfood untied, uninfatuated, unattached, seeing the drawback, and understanding the escape",
+      "They meditate spreading a heart full of rejoicing",
+      "A householder or their child approaches and invites them for the next day’s meal",
+      "The mendicant accepts if they want",
+      "They eat that almsfood untied, uninfatuated, unattached, seeing the drawback, and understanding the escape",
+      "They meditate spreading a heart full of equanimity",
+      "A householder or their child approaches and invites them for the next day’s meal",
+      "The mendicant accepts if they want",
+      "They eat that almsfood untied, uninfatuated, unattached, seeing the drawback, and understanding the escape"
+    ],
+    "Five reasons why anyone who slaughters a living creature specially for the Realized One or the Realized One’s disciple makes much bad karma (a causal sequence) [mn55:13.6]": [
+      "When they say: ‘Go, fetch that living creature,’",
+      "When that living creature experiences pain and sadness as it’s led along by a collar",
+      "When they say: ‘Go, slaughter that living creature,’",
+      "When that living creature experiences pain and sadness as it’s being slaughtered",
+      "When they provide the Realized One or the Realized One’s disciple with unallowable food"
+    ]
+  }
+}

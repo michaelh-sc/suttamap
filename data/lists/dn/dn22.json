@@ -1,0 +1,423 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn22": {
+    "The four kinds of mindfulness meditation [dn22:0.2]": [
+      "Observing an aspect of the body",
+      "Observing an aspect of feelings",
+      "Observing an aspect of the mind",
+      "Observing an aspect of principles"
+    ],
+    "Steps for meditating by observing an aspect of the body [dn22:0.2]": [
+      "Sit down cross-legged, with the body straight",
+      "Focus mindfulness on the body",
+      "Breathe in and out mindfully",
+      "Practice breathing in experiencing the whole body",
+      "Practice breathing out experiencing the whole body",
+      "Practice breathing in stilling the body's motion",
+      "Practice breathing out stilling the body's motion",
+      "Meditate observing the body internally, externally, and both internally and externally",
+      "Meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish",
+      "Establish mindfulness that the body exists, to the extent necessary for knowledge and mindfulness",
+      "Meditate independent, not grasping at anything in the world."
+    ],
+    "The postures [dn22:3.0]": [
+      "Walking",
+      "Standing",
+      "Sitting",
+      "Lying down"
+    ],
+    "Steps for meditating by observing an aspect of the body (postures) [dn22:3.0]": [
+      "Know the posture of the body (walking, standing, sitting, lying down)",
+      "Meditate observing the body internally, externally, and both internally and externally",
+      "Meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish",
+      "Establish mindfulness that the body exists, to the extent necessary for knowledge and mindfulness",
+      "Meditate independent, not grasping at anything in the world."
+    ],
+    "Situational awareness [dn22:4.0]": [
+      "Going out and coming back",
+      "Looking ahead and aside",
+      "Bending and extending the limbs",
+      "Bearing the outer robe, bowl, and robes",
+      "Eating, drinking, chewing, and tasting",
+      "Urinating and defecating",
+      "Walking, standing, sitting, sleeping, waking, speaking, and keeping silent"
+    ],
+    "Steps for meditating by observing an aspect of the body (situational awareness) [dn22:4.0]": [
+      "Meditate observing an aspect of the body internally …"
+    ],
+    "The various parts of the body [dn22:5.0]": [
+      "Head hair",
+      "Body hair",
+      "Nails",
+      "Teeth",
+      "Skin",
+      "Flesh",
+      "Sinews",
+      "Bones",
+      "Bone marrow",
+      "Kidneys",
+      "Heart",
+      "Liver",
+      "Diaphragm",
+      "Spleen",
+      "Lungs",
+      "Intestines",
+      "Mesentery",
+      "Undigested food",
+      "Feces",
+      "Bile",
+      "Phlegm",
+      "Pus",
+      "Blood",
+      "Sweat",
+      "Fat",
+      "Tears",
+      "Grease",
+      "Saliva",
+      "Snot",
+      "Synovial fluid",
+      "Urine"
+    ],
+    "The analogy of a bag filled with grains [dn22:5.0]": [
+      "A bag with openings at both ends",
+      "Filled with various kinds of grains",
+      "Fine rice",
+      "Wheat",
+      "Mung beans",
+      "Peas",
+      "Sesame",
+      "Ordinary rice"
+    ],
+    "Steps for meditating by observing an aspect of the body (focusing on the repulsive) (a causal sequence) [dn22:5.0]": [
+      "Meditate observing an aspect of the body internally …"
+    ],
+    "The elements in the body [dn22:6.0]": [
+      "Earth element",
+      "Water element",
+      "Fire element",
+      "Air element"
+    ],
+    "The analogy of a butcher cutting a cow [dn22:6.0]": [
+      "A deft butcher or butcher’s apprentice",
+      "Kills a cow",
+      "Sits down at the crossroads with the meat cut into portions"
+    ],
+    "Steps for meditating by observing an aspect of the body (focusing on the elements) (a causal sequence) [dn22:6.0]": [
+      "Meditate observing an aspect of the body internally …"
+    ],
+    "The Charnel Ground Contemplations [dn22:7.0]": [
+      "A mendicant sees a corpse discarded in a charnel ground",
+      "Compares it with their own body",
+      "Meditates observing an aspect of the body internally"
+    ],
+    "The different states of the corpse (a causal sequence) [dn22:7.0]": [
+      "Dead for one, two, or three days, bloated, livid, and festering",
+      "Being devoured by crows, hawks, vultures, herons, dogs, tigers, leopards, jackals, and many kinds of little creatures",
+      "A skeleton with flesh and blood, held together by sinews",
+      "A skeleton without flesh but smeared with blood, and held together by sinews",
+      "A skeleton rid of flesh and blood, held together by sinews",
+      "Bones without sinews, scattered in every direction",
+      "White bones, the color of shells",
+      "Decrepit bones, heaped in a pile",
+      "Bones rotted and crumbled to powder"
+    ],
+    "The aspects of the body observed during meditation [dn22:7.0]": [
+      "Internally",
+      "Externally",
+      "Both internally and externally"
+    ],
+    "The mindfulness established during meditation [dn22:7.0]": [
+      "Mindfulness is established that the body exists",
+      "To the extent necessary for knowledge and mindfulness"
+    ],
+    "The way of meditating by observing an aspect of the body [dn22:7.0]": [
+      "Meditate observing an aspect of the body internally, externally, and both internally and externally",
+      "Meditate observing the body as liable to originate, as liable to vanish, and as liable to both originate and vanish",
+      "Mindfulness is established that the body exists, to the extent necessary for knowledge and mindfulness",
+      "Meditate independent, not grasping at anything in the world."
+    ],
+    "The different types of feelings [dn22:11.0]": [
+      "Pleasant feeling",
+      "Painful feeling",
+      "Neutral feeling",
+      "Material pleasant feeling",
+      "Spiritual pleasant feeling",
+      "Material painful feeling",
+      "Spiritual painful feeling",
+      "Material neutral feeling",
+      "Spiritual neutral feeling"
+    ],
+    "The way of meditating by observing an aspect of feelings [dn22:11.0]": [
+      "Meditate observing an aspect of feelings internally, externally, and both internally and externally",
+      "Meditate observing feelings as liable to originate, as liable to vanish, and as liable to both originate and vanish",
+      "Mindfulness is established that feelings exist, to the extent necessary for knowledge and mindfulness",
+      "Meditate independent, not grasping at anything in the world."
+    ],
+    "The different aspects of the mind [dn22:12.0]": [
+      "Mind with greed",
+      "Mind without greed",
+      "Mind with hate",
+      "Mind without hate",
+      "Mind with delusion",
+      "Mind without delusion",
+      "Constricted mind",
+      "Scattered mind",
+      "Expansive mind",
+      "Unexpansive mind",
+      "Mind that is not supreme",
+      "Mind that is supreme",
+      "Mind immersed in meditation",
+      "Mind not immersed in meditation",
+      "Freed mind",
+      "Unfreed mind"
+    ],
+    "The different aspects of principles with respect to the five hindrances [dn22:12.0]": [
+      "Sensual desire",
+      "Ill will",
+      "Dullness and drowsiness",
+      "Restlessness and remorse",
+      "Doubt"
+    ],
+    "The way of meditating by observing an aspect of principles (a causal sequence) [dn22:12.0]": [
+      "Meditate observing an aspect of principles internally, externally, and both internally and externally",
+      "Meditate observing the principles as liable to originate, as liable to vanish, and as liable to both originate and vanish",
+      "Mindfulness is established that principles exist, to the extent necessary for knowledge and mindfulness",
+      "Meditate independent, not grasping at anything in the world."
+    ],
+    "The five grasping aggregates [dn22:14.0]": [
+      "Form",
+      "Feeling",
+      "Perception",
+      "Choices",
+      "Consciousness"
+    ],
+    "The contemplation of the five grasping aggregates [dn22:14.0]": [
+      "Contemplate form",
+      "Contemplate the origin of form",
+      "Contemplate the ending of form",
+      "Contemplate feeling",
+      "Contemplate the origin of feeling",
+      "Contemplate the ending of feeling",
+      "Contemplate perception",
+      "Contemplate the origin of perception",
+      "Contemplate the ending of perception",
+      "Contemplate choices",
+      "Contemplate the origin of choices",
+      "Contemplate the ending of choices",
+      "Contemplate consciousness",
+      "Contemplate the origin of consciousness",
+      "Contemplate the ending of consciousness"
+    ],
+    "The way of meditating by observing an aspect of principles with respect to the five grasping aggregates (a causal sequence) [dn22:14.0]": [
+      "Meditate observing an aspect of principles internally"
+    ],
+    "The six interior and exterior sense fields [dn22:15.0]": [
+      "The eye and sights",
+      "The ear and sounds",
+      "The nose and smells",
+      "The tongue and tastes",
+      "The body and touches",
+      "The mind and thoughts"
+    ],
+    "The understanding of the fetter that arises dependent on the sense fields [dn22:15.0]": [
+      "Understand the eye, sights, and the fetter that arises dependent on both of these",
+      "Understand how the fetter that has not arisen comes to arise",
+      "Understand how the arisen fetter comes to be abandoned",
+      "Understand how the abandoned fetter comes to not rise again in the future"
+    ],
+    "The way of meditating by observing an aspect of principles with respect to the six interior and exterior sense fields (a causal sequence) [dn22:15.0]": [
+      "Understand the eye, sights, and the fetter that arises dependent on both of these",
+      "Understand the ear, sounds, and the fetter",
+      "Understand the nose, smells, and the fetter",
+      "Understand the tongue, tastes, and the fetter",
+      "Understand the body, touches, and the fetter",
+      "Understand the mind, thoughts, and the fetter that arises dependent on both of these",
+      "Meditate observing an aspect of principles internally"
+    ],
+    "The seven awakening factors [dn22:16.0]": [
+      "Mindfulness",
+      "Investigation of principles",
+      "Energy",
+      "Rapture",
+      "Tranquility",
+      "Immersion",
+      "Equanimity"
+    ],
+    "The understanding of the awakening factors [dn22:16.0]": [
+      "Understand when they have the awakening factor in them",
+      "Understand when they don’t have the awakening factor in them",
+      "Understand how the awakening factor that has not arisen comes to arise",
+      "Understand how the awakening factor that has arisen becomes fulfilled by development"
+    ],
+    "The way of meditating by observing an aspect of principles with respect to the seven awakening factors (a causal sequence) [dn22:16.0]": [
+      "Understand the awakening factor of mindfulness",
+      "Understand the awakening factor of investigation of principles",
+      "Understand the awakening factor of energy",
+      "Understand the awakening factor of rapture",
+      "Understand the awakening factor of tranquility",
+      "Understand the awakening factor of immersion",
+      "Understand the awakening factor of equanimity",
+      "Meditate observing an aspect of principles internally, externally, and both internally and externally",
+      "Meditate observing the principles as liable to originate, as liable to vanish, and as liable to both originate and vanish",
+      "Establish mindfulness that principles exist, to the extent necessary for knowledge and mindfulness",
+      "Meditate independent, not grasping at anything in the world."
+    ],
+    "The four noble truths [dn22:17.0]": [
+      "This is suffering",
+      "This is the origin of suffering",
+      "This is the cessation of suffering",
+      "This is the practice that leads to the cessation of suffering."
+    ],
+    "The noble truth of suffering [dn22:18.0]": [
+      "Rebirth is suffering",
+      "Old age is suffering",
+      "Death is suffering",
+      "Sorrow, lamentation, pain, sadness, and distress are suffering",
+      "Association with the disliked is suffering",
+      "Separation from the liked is suffering",
+      "Not getting what you wish for is suffering",
+      "The five grasping aggregates are suffering"
+    ],
+    "Definitions of terms related to the noble truth of suffering [dn22:18.0]": [
+      "Rebirth",
+      "Old age",
+      "Death",
+      "Sorrow",
+      "Lamentation",
+      "Pain",
+      "Sadness",
+      "Distress",
+      "Association with the disliked",
+      "Separation from the liked",
+      "Not getting what you wish for",
+      "The five grasping aggregates"
+    ],
+    "The noble truth of the origin of suffering [dn22:19.0]": [
+      "Craving for sensual pleasures",
+      "Craving for continued existence",
+      "Craving to end existence"
+    ],
+    "The objects of craving [dn22:19.0]": [
+      "The eye in the world",
+      "The ear in the world",
+      "The nose in the world",
+      "The tongue in the world",
+      "The body in the world",
+      "The mind in the world",
+      "Sights in the world",
+      "Sounds in the world",
+      "Smells in the world",
+      "Tastes in the world",
+      "Touches in the world",
+      "Thoughts in the world",
+      "Eye consciousness in the world",
+      "Ear consciousness in the world",
+      "Nose consciousness in the world",
+      "Tongue consciousness in the world",
+      "Body consciousness in the world",
+      "Mind consciousness in the world",
+      "Eye contact in the world",
+      "Ear contact in the world",
+      "Nose contact in the world",
+      "Tongue contact in the world",
+      "Body contact in the world",
+      "Mind contact in the world",
+      "Feeling born of eye contact in the world",
+      "Feeling born of ear contact in the world",
+      "Feeling born of nose contact in the world",
+      "Feeling born of tongue contact in the world",
+      "Feeling born of body contact in the world",
+      "Feeling born of mind contact in the world",
+      "Perception of sights in the world",
+      "Perception of sounds in the world",
+      "Perception of smells in the world",
+      "Perception of tastes in the world",
+      "Perception of touches in the world",
+      "Perception of thoughts in the world",
+      "Intention regarding sights in the world",
+      "Intention regarding sounds in the world",
+      "Intention regarding smells in the world",
+      "Intention regarding tastes in the world",
+      "Intention regarding touches in the world",
+      "Intention regarding thoughts in the world",
+      "Craving for sights in the world",
+      "Craving for sounds in the world",
+      "Craving for smells in the world",
+      "Craving for tastes in the world",
+      "Craving for touches in the world",
+      "Craving for thoughts in the world",
+      "Thoughts about sights in the world",
+      "Thoughts about sounds in the world",
+      "Thoughts about smells in the world",
+      "Thoughts about tastes in the world",
+      "Thoughts about touches in the world",
+      "Thoughts about thoughts in the world",
+      "Considerations regarding sights in the world",
+      "Considerations regarding sounds in the world",
+      "Considerations regarding smells in the world",
+      "Considerations regarding tastes in the world",
+      "Considerations regarding touches in the world",
+      "Considerations regarding thoughts in the world"
+    ],
+    "The noble truth of the cessation of suffering [dn22:20.0]": [
+      "Fading away and cessation of craving",
+      "Giving it away",
+      "Letting it go",
+      "Releasing it",
+      "Not adhering to it"
+    ],
+    "The objects of craving [dn22:20.0]": [
+      "The eye in the world",
+      "The ear in the world",
+      "The nose in the world",
+      "The tongue in the world",
+      "The body in the world",
+      "The mind in the world",
+      "Considerations regarding thoughts in the world"
+    ],
+    "The noble eightfold path [dn22:21.0]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion"
+    ],
+    "The components of right effort [dn22:21.0]": [
+      "Generating enthusiasm",
+      "Trying",
+      "Making an effort",
+      "Exerting the mind",
+      "Striving"
+    ],
+    "The four kinds of mindfulness meditation [dn22:21.0]": [
+      "Observing an aspect of the body",
+      "Observing an aspect of feelings",
+      "Observing an aspect of the mind",
+      "Observing an aspect of principles"
+    ],
+    "The stages of developing mindfulness meditation [dn22:21.0]": [
+      "Seven years",
+      "Six years",
+      "Five years",
+      "Four years",
+      "Three years",
+      "Two years",
+      "One year",
+      "Seven months",
+      "Six months",
+      "Five months",
+      "Four months",
+      "Three months",
+      "Two months",
+      "One month",
+      "A fortnight"
+    ],
+    "The results of developing mindfulness meditation [dn22:21.0]": [
+      "Enlightenment in the present life",
+      "Non-return"
+    ]
+  }
+}

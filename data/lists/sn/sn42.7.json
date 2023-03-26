@@ -1,0 +1,20 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn42.7": {
+    "The three fields [sn42.7:5.3]": [
+      "The good field",
+      "The average field",
+      "The poor field"
+    ],
+    "The three water jars [sn42.7:5.3]": [
+      "The uncracked and nonporous jar",
+      "The uncracked but porous jar",
+      "The cracked and porous jar"
+    ],
+    "The three groups of people [sn42.7:5.3]": [
+      "The monks and nuns",
+      "The laymen and laywomen",
+      "The ascetics, brahmins, and wanderers who follow other paths"
+    ]
+  }
+}

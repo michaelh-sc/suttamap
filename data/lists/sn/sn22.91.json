@@ -1,0 +1,31 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.91": {
+    "Any kind of form at all [sn22.91:2.7]": [
+      "Past form",
+      "Future form",
+      "Present form",
+      "Internal form",
+      "External form",
+      "Coarse form",
+      "Fine form",
+      "Inferior form",
+      "Superior form",
+      "Far form",
+      "Near form"
+    ],
+    "Any kind of consciousness at all [sn22.91:2.7]": [
+      "Past consciousness",
+      "Future consciousness",
+      "Present consciousness",
+      "Internal consciousness",
+      "External consciousness",
+      "Coarse consciousness",
+      "Fine consciousness",
+      "Inferior consciousness",
+      "Superior consciousness",
+      "Far consciousness",
+      "Near consciousness"
+    ]
+  }
+}

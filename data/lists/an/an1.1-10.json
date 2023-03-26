@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an1.1-10": {
+    "The sights, sounds, smells, tastes, and touches that occupy a man’s mind (a list separated by commas) [an1.10:1.2]": [
+      "The sight of a woman",
+      "The sound of a woman",
+      "The smell of a woman",
+      "The taste of a woman",
+      "The touch of a woman"
+    ],
+    "The sights, sounds, smells, tastes, and touches that occupy a woman’s mind (a list separated by commas) [an1.10:1.2]": [
+      "The sight of a man",
+      "The sound of a man",
+      "The smell of a man",
+      "The taste of a man",
+      "The touch of a man"
+    ]
+  }
+}

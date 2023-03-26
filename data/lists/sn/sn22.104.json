@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.104": {
+    "The Four Noble Truths [sn22.104:1.18]": [
+      "Suffering",
+      "The origin of suffering",
+      "The cessation of suffering",
+      "The practice that leads to the cessation of suffering"
+    ],
+    "The Five Grasping Aggregates [sn22.104:1.18]": [
+      "Grasping aggregates of form",
+      "Grasping aggregates of feeling",
+      "Grasping aggregates of perception",
+      "Grasping aggregates of choices",
+      "Grasping aggregates of consciousness"
+    ],
+    "The Three Cravings [sn22.104:1.18]": [
+      "Craving for sensual pleasures",
+      "Craving to continue existence",
+      "Craving to end existence"
+    ],
+    "The Noble Eightfold Path [sn22.104:1.18]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion"
+    ]
+  }
+}

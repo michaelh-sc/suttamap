@@ -1,0 +1,36 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.104": {
+    "The four lakes [an4.104:5.7]": [
+      "One is shallow but appears deep",
+      "One is deep but appears shallow",
+      "One is shallow and appears shallow",
+      "One is deep and appears deep"
+    ],
+    "The four people similar to lakes [an4.104:5.7]": [
+      "A person shallow but appears deep",
+      "A person deep but appears shallow",
+      "A person shallow and appears shallow",
+      "A person deep and appears deep"
+    ],
+    "The characteristics of a person shallow but appears deep [an4.104:5.7]": [
+      "Impressive when going out and coming back",
+      "Impressive when looking ahead and aside",
+      "Impressive when bending and extending the limbs",
+      "Impressive when bearing the outer robe, bowl, and robes",
+      "Don’t really understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’"
+    ],
+    "The characteristics of a person deep but appears shallow (a causal sequence) [an4.104:5.7]": [
+      "Not impressive",
+      "Really understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’"
+    ],
+    "The characteristics of a person shallow and appears shallow (a causal sequence) [an4.104:5.7]": [
+      "Not impressive",
+      "Don’t really understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’"
+    ],
+    "The characteristics of a person deep and appears deep (a causal sequence) [an4.104:5.7]": [
+      "Impressive",
+      "Really understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’"
+    ]
+  }
+}

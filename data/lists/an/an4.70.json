@@ -1,0 +1,49 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.70": {
+    "The consequences of unprincipled behavior [an4.70:6.6]": [
+      "Kings are unprincipled",
+      "Royal officials become unprincipled",
+      "Brahmins and householders become unprincipled",
+      "The people of town and country become unprincipled",
+      "The courses of the moon and sun become erratic",
+      "The courses of the stars and constellations become erratic",
+      "The days and nights become erratic",
+      "The months and fortnights become erratic",
+      "The seasons and years become erratic",
+      "The blowing of the winds becomes erratic and chaotic",
+      "The deities are angered",
+      "The heavens don’t provide enough rain",
+      "The crops ripen erratically",
+      "People become short-lived, ugly, weak, and sickly when they eat crops that have ripened erratically"
+    ],
+    "The consequences of principled behavior (a causal chain) [an4.70:6.6]": [
+      "Kings are principled",
+      "Royal officials become principled",
+      "Brahmins and householders become principled",
+      "The people of town and country become principled",
+      "The courses of the sun and moon become regular",
+      "The courses of the stars and constellations become regular",
+      "The days and nights become regular",
+      "The months and fortnights become regular",
+      "The seasons and years become regular",
+      "The blowing of the winds becomes regular and orderly",
+      "The deities are not angered",
+      "The heavens provide plenty of rain",
+      "The crops ripen well",
+      "People become long-lived, beautiful, strong, and healthy when they eat crops that have ripened well"
+    ],
+    "The behavior of a leader and its impact on the group (a causal chain) [an4.70:6.6]": [
+      "The bull goes off course",
+      "The cattle go off course",
+      "The leader behaves badly",
+      "The rest of the group behaves badly",
+      "The whole country sleeps badly when the king is unprincipled",
+      "The bull goes straight",
+      "The cattle go straight",
+      "The leader does the right thing",
+      "The rest of the group does the right thing",
+      "The whole country sleeps at ease when the king is just."
+    ]
+  }
+}

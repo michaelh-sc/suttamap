@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn30.2": {
+    "The four ways that phoenixes reproduce [sn30.2:1.10]": [
+      "Phoenixes are born from eggs",
+      "Phoenixes are born from a womb",
+      "Phoenixes are born from moisture",
+      "Phoenixes are born spontaneously"
+    ],
+    "The dragons that phoenixes can carry off based on their birth type [sn30.2:1.10]": [
+      "Phoenixes born from an egg can only carry off dragons born from an egg",
+      "Phoenixes born from a womb can carry off dragons born from an egg or from a womb",
+      "Phoenixes born from moisture can carry off dragons born from an egg, from a womb, or from moisture",
+      "Phoenixes born spontaneously can carry off dragons born from an egg, from a womb, from moisture, or spontaneously."
+    ]
+  }
+}

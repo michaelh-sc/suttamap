@@ -1,0 +1,35 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.235": {
+    "The four kinds of deeds [an4.235:4.3]": [
+      "Dark deeds with dark results",
+      "Bright deeds with bright results",
+      "Dark and bright deeds with dark and bright results",
+      "Neither dark nor bright deeds with neither dark nor bright results, which lead to the ending of deeds"
+    ],
+    "Dark deeds with dark results [an4.235:4.3]": [
+      "Killing living creatures",
+      "Stealing",
+      "Committing sexual misconduct",
+      "Lying",
+      "Using alcoholic drinks that cause negligence"
+    ],
+    "Bright deeds with bright results [an4.235:4.3]": [
+      "Not killing living creatures",
+      "Not stealing",
+      "Not committing sexual misconduct",
+      "Not lying",
+      "Not using alcoholic drinks that cause negligence"
+    ],
+    "Dark and bright deeds with dark and bright results [an4.235:4.3]": [
+      "Making both hurtful and pleasing choices by way of body",
+      "Making both hurtful and pleasing choices by way of speech",
+      "Making both hurtful and pleasing choices by way of mind"
+    ],
+    "Neither dark nor bright deeds with neither dark nor bright results, which lead to the ending of deeds [an4.235:4.3]": [
+      "The intention to give up dark deeds with dark results",
+      "The intention to give up bright deeds with bright results",
+      "The intention to give up both dark and bright deeds with both dark and bright results."
+    ]
+  }
+}

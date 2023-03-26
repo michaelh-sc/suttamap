@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.54": {
+    "The four ways of living together [an4.54:5.5]": [
+      "A male zombie living with a female zombie",
+      "A male zombie living with a goddess",
+      "A god living with a female zombie",
+      "A god living with a goddess"
+    ],
+    "How a male zombie lives with a female zombie [an4.54:5.5]": [
+      "The husband kills living creatures, steals, commits sexual misconduct",
+      "The husband uses speech that’s false, divisive, harsh, or nonsensical",
+      "The husband is covetous, malicious, and has wrong view",
+      "The husband is unethical, of bad character, living at home with his heart full of the stain of stinginess, abusing and insulting ascetics and brahmins",
+      "The wife is also unethical, of bad character"
+    ],
+    "How a male zombie lives with a goddess (a causal chain) [an4.54:5.5]": [
+      "The husband is unethical, of bad character",
+      "The wife doesn’t kill living creatures, steal, commit sexual misconduct, lie, or use alcoholic drinks that cause negligence",
+      "The wife doesn’t use speech that’s false, divisive, harsh, or nonsensical",
+      "The wife is contented, kind-hearted, with right view",
+      "The wife is ethical, of good character, living at home with her heart rid of the stain of stinginess, not abusing and insulting ascetics and brahmins"
+    ],
+    "How a god lives with a female zombie (a causal chain) [an4.54:5.5]": [
+      "The husband is ethical, of good character",
+      "The wife is unethical, of bad character"
+    ],
+    "How a god lives with a goddess (a causal chain) [an4.54:5.5]": [
+      "The husband is ethical, of good character",
+      "The wife is also ethical, of good character"
+    ]
+  }
+}

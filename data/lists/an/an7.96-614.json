@@ -1,0 +1,88 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.96-614": {
+    "Seven people worthy of offerings [an7.96-614:12.13]": [
+      "Person who meditates observing suffering in the eye",
+      "Person who meditates observing not-self in the eye",
+      "Person who meditates observing ending in the eye",
+      "Person who meditates observing vanishing in the eye",
+      "Person who meditates observing fading away in the eye",
+      "Person who meditates observing cessation in the eye",
+      "Person who meditates observing letting go in the eye"
+    ],
+    "Objects of observation [an7.96-614:12.13]": [
+      "Eye",
+      "Ear",
+      "Nose",
+      "Tongue",
+      "Body",
+      "Mind"
+    ],
+    "Objects of consciousness (a list separated by commas) [an7.96-614:12.13]": [
+      "Sights",
+      "Sounds",
+      "Smells",
+      "Tastes",
+      "Touches",
+      "Thoughts"
+    ],
+    "Feeling born of contact (a list separated by commas) [an7.96-614:12.13]": [
+      "Feeling born of eye contact",
+      "Feeling born of ear contact",
+      "Feeling born of nose contact",
+      "Feeling born of tongue contact",
+      "Feeling born of body contact",
+      "Feeling born of mind contact"
+    ],
+    "Perception (a list separated by commas) [an7.96-614:12.13]": [
+      "Perception of sights",
+      "Perception of sounds",
+      "Perception of smells",
+      "Perception of tastes",
+      "Perception of touches",
+      "Perception of thoughts"
+    ],
+    "Intention (a list separated by commas) [an7.96-614:12.13]": [
+      "Intention regarding sights",
+      "Intention regarding sounds",
+      "Intention regarding smells",
+      "Intention regarding tastes",
+      "Intention regarding touches",
+      "Intention regarding thoughts"
+    ],
+    "Craving (a list separated by commas) [an7.96-614:12.13]": [
+      "Craving for sights",
+      "Craving for sounds",
+      "Craving for smells",
+      "Craving for tastes",
+      "Craving for touches",
+      "Craving for thoughts"
+    ],
+    "Thoughts (a list separated by commas) [an7.96-614:12.13]": [
+      "Thoughts about sights",
+      "Thoughts about sounds",
+      "Thoughts about smells",
+      "Thoughts about tastes",
+      "Thoughts about touches",
+      "Thoughts about thoughts"
+    ],
+    "Considerations (a list separated by commas) [an7.96-614:12.13]": [
+      "Considerations regarding sights",
+      "Considerations regarding sounds",
+      "Considerations regarding smells",
+      "Considerations regarding tastes",
+      "Considerations regarding touches",
+      "Considerations regarding thoughts"
+    ],
+    "Meditations (a list separated by commas) [an7.96-614:12.13]": [
+      "Meditates observing impermanence in the five aggregates",
+      "Meditates observing suffering",
+      "Meditates observing not-self",
+      "Meditates observing ending",
+      "Meditates observing vanishing",
+      "Meditates observing fading away",
+      "Meditates observing cessation",
+      "Meditates observing letting go"
+    ]
+  }
+}

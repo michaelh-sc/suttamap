@@ -1,0 +1,40 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.10": {
+    "Qualities that make a mendicant complete [an10.10:3.3]": [
+      "Faithful",
+      "Ethical",
+      "Learned",
+      "A Dhamma speaker",
+      "One who frequents assemblies",
+      "One who teaches Dhamma to the assembly with assurance",
+      "An expert in the training",
+      "One who recollects their many kinds of past lives",
+      "One who with clairvoyance that surpasses the human sees sentient beings passing away and being reborn",
+      "One who lives having realized the ending of defilements"
+    ],
+    "The qualities that make a mendicant incomplete [an10.10:3.3]": [
+      "Not ethical",
+      "Not learned",
+      "Not a Dhamma speaker",
+      "Doesn't frequent assemblies",
+      "Doesn't teach Dhamma to the assembly with assurance",
+      "Not an expert in the training",
+      "Doesn't recollect their many kinds of past lives",
+      "Doesn't have clairvoyance that surpasses the human to see sentient beings passing away and being reborn",
+      "Doesn't live having realized the ending of defilements"
+    ],
+    "The process of becoming complete [an10.10:3.3]": [
+      "A mendicant is faithful, but not ethical",
+      "They become faithful and ethical",
+      "They become learned",
+      "They become a Dhamma speaker",
+      "They become one who frequents assemblies",
+      "They become one who teaches Dhamma to the assembly with assurance",
+      "They become an expert in the training",
+      "They become one who recollects their many kinds of past lives",
+      "They become one who with clairvoyance that surpasses the human sees sentient beings passing away and being reborn",
+      "They become one who lives having realized the ending of defilements"
+    ]
+  }
+}

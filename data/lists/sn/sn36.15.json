@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn36.15": {
+    "The three types of feeling [sn36.15:1.29]": [
+      "Pleasant feeling",
+      "Painful feeling",
+      "Neutral feeling"
+    ],
+    "The origin, cessation, and practice that leads to the cessation of feeling [sn36.15:1.29]": [
+      "Feeling originates from contact",
+      "When contact ceases, feeling ceases",
+      "The practice that leads to the cessation of feelings is the noble eightfold path"
+    ],
+    "Feeling's gratification, drawback, and escape [sn36.15:1.29]": [
+      "The pleasure and happiness that arise from feeling: this is its gratification",
+      "That feeling is impermanent, suffering, and perishable: this is its drawback",
+      "Removing and giving up desire and greed for feeling: this is its escape"
+    ],
+    "The progressive cessation of conditions [sn36.15:1.29]": [
+      "For someone who has attained the first absorption, speech has ceased",
+      "For someone who has attained the cessation of perception and feeling, perception and feeling have ceased",
+      "For a mendicant who has ended the defilements, greed, hate, and delusion have ceased"
+    ],
+    "The progressive stilling of conditions (a causal sequence) [sn36.15:1.29]": [
+      "For someone who has attained the first absorption, speech has stilled",
+      "For someone who has attained the cessation of perception and feeling, perception and feeling have stilled",
+      "For a mendicant who has ended the defilements, greed, hate, and delusion have stilled"
+    ],
+    "The progressive tranquilizing of conditions (a causal sequence) [sn36.15:1.29]": [
+      "For someone who has attained the first absorption, speech has been tranquilized",
+      "For someone who has attained the dimension of infinite space, the perception of form has been tranquilized",
+      "For someone who has attained the dimension of infinite consciousness, the perception of the dimension of infinite space has been tranquilized",
+      "For someone who has attained the dimension of nothingness, the perception of the dimension of infinite consciousness has been tranquilized",
+      "For someone who has attained the dimension of neither perception nor non-perception, the perception of the dimension of nothingness has been tranquilized",
+      "For someone who has attained the cessation of perception and feeling, perception and feeling have been tranquilized",
+      "For a mendicant who has ended the defilements, greed, hate, and delusion have been tranquilized."
+    ]
+  }
+}

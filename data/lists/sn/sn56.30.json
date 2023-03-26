@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn56.30": {
+    "What someone who sees suffering also sees [sn56.30:2.6]": [
+      "The origin of suffering",
+      "The cessation of suffering",
+      "The practice that leads to the cessation of suffering"
+    ],
+    "What someone who sees the origin of suffering also sees (a list separated by commas) [sn56.30:2.6]": [
+      "Suffering",
+      "The cessation of suffering",
+      "The practice that leads to the cessation of suffering"
+    ],
+    "What someone who sees the cessation of suffering also sees (a list separated by commas) [sn56.30:2.6]": [
+      "Suffering",
+      "The origin of suffering",
+      "The practice that leads to the cessation of suffering"
+    ],
+    "What someone who sees the practice that leads to the cessation of suffering also sees (a list separated by commas) [sn56.30:2.6]": [
+      "Suffering",
+      "The origin of suffering",
+      "The cessation of suffering"
+    ]
+  }
+}

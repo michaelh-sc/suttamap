@@ -1,0 +1,22 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn36.13": {
+    "Various winds that blow in the sky [sn36.13:1.3]": [
+      "Winds that blow from the east",
+      "Winds that blow from the west",
+      "Winds that blow from the north",
+      "Winds that blow from the south",
+      "Dusty winds",
+      "Dustless winds",
+      "Cool winds",
+      "Warm winds",
+      "Weak winds",
+      "Strong winds"
+    ],
+    "Various feelings that arise in this body [sn36.13:1.3]": [
+      "Pleasant feelings",
+      "Painful feelings",
+      "Neutral feelings"
+    ]
+  }
+}

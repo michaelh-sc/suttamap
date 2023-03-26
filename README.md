@@ -7,15 +7,20 @@ Inside the data/ folder is for Digha Nikaya, Majhima Nikaya, Samyutta Nikaya and
 - Identification of speakers of anything in double-quotes
 - Identification of other people present
 - Who and where else is mentioned inside any double quotes - done by simple Stanford NLP NER
-- Where the sutta's events took place, and if present, the geographical name as it is spelled in the DPPN.
+- Where the sutta's events took place, and if present, the geographical name as it is spelled in the DPPN on SuttaCentral.
+- Lists (currently very spotty, will need to re-do) consisting of:
+  - Comma-delimited lists
+  - Sections of text repeated with a small change for each iteration
+  - Causal sequences/chains or things described
+  - Sections of text with lists between "..."
+
+A single dictionary with the geographic coordinates, text from sutta, and the SC DPPN headword for all suttas in the 4 Nikayas.
 
 Known issues:
  - Identification of people spoken about within quotes is handled by untrained Named-Entity Recognition currently using Stanford NLP (stanza) which can miss things not capitalised and mix up locations and people sometimes.
- - Some quotes have been missed, often large quotes. This is to be double checked.
- - Some geographical locations from where the text says "the land of the _____" has not been checked and pointed to geographical_location of that people e.g. Kosalans does not point to Kosala if a town or other area is not also mentioned.
+ - Some quotes have been missed, often large quotes. AN and DN have been manually fixed, MN and SN forthcoming.
+ - Some geographical locations are missing.
 
 Snp, Thig, Thag, others likely forthcoming.
-
-Enumeration of certain kinds of lists also forthcoming.
 
 Actual python code forthcoming.

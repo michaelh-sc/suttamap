@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.201": {
+    "The bad person and the worse person [an4.201:5.7]": [
+      "Kills living creatures",
+      "Steals",
+      "Commits sexual misconduct",
+      "Lies",
+      "Uses alcoholic drinks that cause negligence"
+    ],
+    "The good person and the better person [an4.201:5.7]": [
+      "Doesn't kill living creatures",
+      "Doesn't steal",
+      "Doesn't commit sexual misconduct",
+      "Doesn't lie",
+      "Doesn't use alcoholic drinks that cause negligence"
+    ],
+    "The better person [an4.201:5.7]": [
+      "Doesn't kill living creatures",
+      "Doesn't steal",
+      "Doesn't commit sexual misconduct",
+      "Doesn't lie",
+      "Doesn't use alcoholic drinks that cause negligence",
+      "Encourages others to avoid these things."
+    ]
+  }
+}

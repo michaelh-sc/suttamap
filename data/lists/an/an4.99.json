@@ -1,0 +1,35 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.99": {
+    "The four people found in the world [an4.99:5.4]": [
+      "One who practices to benefit themselves, but not others",
+      "One who practices to benefit others, but not themselves",
+      "One who practices to benefit neither themselves nor others",
+      "One who practices to benefit both themselves and others"
+    ],
+    "How a person practices to benefit themselves, but not others [an4.99:5.4]": [
+      "They don’t kill living creatures",
+      "They don’t steal",
+      "They don’t commit sexual misconduct",
+      "They don’t lie",
+      "They don’t use alcoholic drinks that cause negligence",
+      "They don’t encourage others to do the same"
+    ],
+    "How a person practices to benefit others, but not themselves (a causal sequence) [an4.99:5.4]": [
+      "They kill living creatures",
+      "They steal",
+      "They commit sexual misconduct",
+      "They lie",
+      "They use alcoholic drinks that cause negligence",
+      "They encourage others to not do these things"
+    ],
+    "How a person practices to benefit neither themselves nor others (a causal sequence) [an4.99:5.4]": [
+      "They kill, etc.",
+      "They don’t encourage others to not do these things"
+    ],
+    "How a person practices to benefit both themselves and others (a causal sequence) [an4.99:5.4]": [
+      "They don’t kill, etc.",
+      "They encourage others to do the same."
+    ]
+  }
+}

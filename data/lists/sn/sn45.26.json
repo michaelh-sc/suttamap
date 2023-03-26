@@ -1,0 +1,49 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn45.26": {
+    "The bad person [sn45.26:4.3]": [
+      "Wrong view",
+      "Wrong thought",
+      "Wrong speech",
+      "Wrong action",
+      "Wrong livelihood",
+      "Wrong effort",
+      "Wrong mindfulness",
+      "Wrong immersion"
+    ],
+    "The worse person [sn45.26:4.3]": [
+      "Wrong view",
+      "Wrong thought",
+      "Wrong speech",
+      "Wrong action",
+      "Wrong livelihood",
+      "Wrong effort",
+      "Wrong mindfulness",
+      "Wrong immersion",
+      "Wrong knowledge",
+      "Wrong freedom"
+    ],
+    "The good person [sn45.26:4.3]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion"
+    ],
+    "The better person [sn45.26:4.3]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion",
+      "Right knowledge",
+      "Right freedom"
+    ]
+  }
+}

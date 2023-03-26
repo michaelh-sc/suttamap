@@ -1,0 +1,26 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an9.19": {
+    "The duties towards renunciates that the deities didn't fulfill [an9.19:4.5]": [
+      "Didn't bow",
+      "Didn't offer a seat",
+      "Didn't share as best they could",
+      "Didn't sit nearby to listen to the teachings",
+      "Didn't lend an ear to the teachings",
+      "Didn't memorize the teachings",
+      "Didn't examine the meaning of teachings they'd memorized",
+      "Didn't practice accordingly"
+    ],
+    "The duties towards renunciates that the deities fulfilled [an9.19:4.5]": [
+      "Politely rose",
+      "Bowed",
+      "Offered a seat",
+      "Shared as best they could",
+      "Sat nearby to listen to the teachings",
+      "Lent an ear to the teachings",
+      "Memorized the teachings",
+      "Examined the meaning of teachings they'd memorized",
+      "Practiced accordingly"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn18.21": {
+    "Any kind of form at all [sn18.21:1.9]": [
+      "Past form",
+      "Future form",
+      "Present form",
+      "Internal form",
+      "External form",
+      "Coarse form",
+      "Fine form",
+      "Inferior form",
+      "Superior form",
+      "Far form",
+      "Near form"
+    ],
+    "Any kind of feeling, perception, choices, consciousness at all [sn18.21:1.9]": [
+      "Past feeling, perception, choices, consciousness",
+      "Future feeling, perception, choices, consciousness",
+      "Present feeling, perception, choices, consciousness",
+      "Internal feeling, perception, choices, consciousness",
+      "External feeling, perception, choices, consciousness",
+      "Coarse feeling, perception, choices, consciousness",
+      "Fine feeling, perception, choices, consciousness",
+      "Inferior feeling, perception, choices, consciousness",
+      "Superior feeling, perception, choices, consciousness",
+      "Far feeling, perception, choices, consciousness",
+      "Near feeling, perception, choices, consciousness"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.83": {
+    "Qualities that cast someone down to hell [an4.83:2.7]": [
+      "Without examining or scrutinizing, they praise those deserving of criticism",
+      "They criticize those deserving of praise",
+      "They arouse faith in things that are dubious",
+      "They don’t arouse faith in things that are inspiring"
+    ],
+    "Qualities that raise someone up to heaven [an4.83:2.7]": [
+      "After examining and scrutinizing, they criticize those deserving of criticism",
+      "They praise those deserving of praise",
+      "They don’t arouse faith in things that are dubious",
+      "They do arouse faith in things that are inspiring."
+    ]
+  }
+}

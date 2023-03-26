@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn14.7": {
+    "The diversity of elements [sn14.7:4.1]": [
+      "The sight element",
+      "The sound element",
+      "The smell element",
+      "The taste element",
+      "The touch element",
+      "The thought element"
+    ],
+    "How diversity of elements gives rise to diversity of perceptions, intentions, desires, passions, and searches [sn14.7:4.1]": [
+      "The sight element gives rise to the perception of sights",
+      "The perception of sights gives rise to thoughts about sights",
+      "Thoughts about sights give rise to the desire for sights",
+      "The desire for sights gives rise to the passion for sights",
+      "The passion for sights gives rise to searching for sights",
+      "The thought element gives rise to the perception of thoughts",
+      "The perception of thoughts gives rise to thoughts about thoughts",
+      "Thoughts about thoughts give rise to the desire for thoughts",
+      "The desire for thoughts gives rise to the passion for thoughts",
+      "The passion for thoughts gives rise to searching for thoughts."
+    ]
+  }
+}

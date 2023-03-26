@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn14.3": {
+    "The diversity of elements [sn14.3:2.4]": [
+      "The eye element",
+      "The ear element",
+      "The nose element",
+      "The tongue element",
+      "The body element",
+      "The mind element"
+    ],
+    "How diversity of elements gives rise to diversity of contacts [sn14.3:2.4]": [
+      "The eye element gives rise to eye contact",
+      "Eye contact doesn’t give rise to the eye element",
+      "The ear element gives rise to ear contact",
+      "Ear contact doesn’t give rise to the ear element",
+      "The nose element gives rise to nose contact",
+      "Nose contact doesn’t give rise to the nose element",
+      "The tongue element gives rise to tongue contact",
+      "Tongue contact doesn’t give rise to the tongue element",
+      "The body element gives rise to body contact",
+      "Body contact doesn’t give rise to the body element",
+      "The mind element gives rise to mind contact",
+      "Mind contact doesn’t give rise to the mind element"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.96": {
+    "The four people found in the world [an4.96:5.6]": [
+      "One who practices to benefit themselves, but not others",
+      "One who practices to benefit others, but not themselves",
+      "One who practices to benefit neither themselves nor others",
+      "One who practices to benefit both themselves and others"
+    ],
+    "How a person practices to benefit themselves, but not others [an4.96:5.6]": [
+      "A person practices to remove their own greed, hate, and delusion",
+      "They don’t encourage others to do the same"
+    ],
+    "How a person practices to benefit others, but not themselves (a causal sequence) [an4.96:5.6]": [
+      "A person doesn’t practice to remove their own greed, hate, and delusion",
+      "They encourage others to remove theirs"
+    ],
+    "How a person practices to benefit neither themselves nor others (a causal sequence) [an4.96:5.6]": [
+      "A person doesn’t practice to remove their own greed, hate, and delusion",
+      "They don’t encourage others to remove theirs"
+    ],
+    "How a person practices to benefit both themselves and others (a causal sequence) [an4.96:5.6]": [
+      "A person practices to remove their own greed, hate, and delusion",
+      "They encourage others to remove theirs"
+    ]
+  }
+}

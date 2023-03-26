@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.110": {
+    "The four kinds of viper [an4.110:5.7]": [
+      "One whose venom is fast-acting but not lethal",
+      "One whose venom is lethal but not fast-acting",
+      "One whose venom is both fast-acting and lethal",
+      "One whose venom is neither fast-acting nor lethal"
+    ],
+    "The four people similar to vipers [an4.110:5.7]": [
+      "One whose venom is fast-acting but not lethal",
+      "One whose venom is lethal but not fast-acting",
+      "One whose venom is both fast-acting and lethal",
+      "One whose venom is neither fast-acting nor lethal"
+    ],
+    "How a person's venom is fast-acting but not lethal [an4.110:5.7]": [
+      "A person is often angry",
+      "Their anger doesn't linger long"
+    ],
+    "How a person's venom is lethal but not fast-acting (a causal sequence) [an4.110:5.7]": [
+      "A person is not often angry",
+      "Their anger lingers for a long time"
+    ],
+    "How a person's venom is both fast-acting and lethal (a causal sequence) [an4.110:5.7]": [
+      "A person is often angry",
+      "Their anger lingers for a long time"
+    ],
+    "How a person's venom is neither fast-acting nor lethal (a causal sequence) [an4.110:5.7]": [
+      "A person is not often angry",
+      "Their anger doesn't linger long"
+    ]
+  }
+}

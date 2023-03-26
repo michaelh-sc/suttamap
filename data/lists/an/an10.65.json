@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.65": {
+    "The kind of suffering you can expect when there is rebirth [an10.65:2.8]": [
+      "Cold",
+      "Heat",
+      "Hunger",
+      "Thirst",
+      "Defecation",
+      "Urination",
+      "Contact with fire, clubs, and knives",
+      "Relatives and friends get together and annoy you"
+    ],
+    "The kind of happiness you can expect when there is no rebirth [an10.65:2.8]": [
+      "No cold",
+      "No heat",
+      "No hunger",
+      "No thirst",
+      "No defecation",
+      "No urination",
+      "No contact with fire, clubs, or knives",
+      "Relatives and friends don’t get together and annoy you."
+    ]
+  }
+}

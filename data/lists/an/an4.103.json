@@ -1,0 +1,36 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.103": {
+    "The four pots [an4.103:5.7]": [
+      "Covered but hollow",
+      "Uncovered but full",
+      "Uncovered and hollow",
+      "Covered and full"
+    ],
+    "The four people similar to pots [an4.103:5.7]": [
+      "Covered but hollow",
+      "Uncovered but full",
+      "Uncovered and hollow",
+      "Covered and full"
+    ],
+    "The characteristics of a person covered but hollow [an4.103:5.7]": [
+      "Impressive when going out and coming back",
+      "Impressive when looking ahead and aside",
+      "Impressive when bending and extending the limbs",
+      "Impressive when bearing the outer robe, bowl, and robes",
+      "Don't truly understand: 'This is suffering' ... 'This is the origin of suffering' ... 'This is the cessation of suffering' "
+    ],
+    "The characteristics of a person uncovered but full (a causal sequence) [an4.103:5.7]": [
+      "Not impressive",
+      "Truly understand: 'This is suffering' ..."
+    ],
+    "The characteristics of a person uncovered and hollow (a causal sequence) [an4.103:5.7]": [
+      "Not impressive",
+      "Don't truly understand: 'This is suffering' ..."
+    ],
+    "The characteristics of a person covered and full (a causal sequence) [an4.103:5.7]": [
+      "Impressive",
+      "Truly understand: 'This is suffering' ..."
+    ]
+  }
+}

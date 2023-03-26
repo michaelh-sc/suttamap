@@ -1,0 +1,17 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.224": {
+    "Bad conduct [an4.224:1.1]": [
+      "They kill living creatures",
+      "They steal",
+      "They commit sexual misconduct",
+      "They lie"
+    ],
+    "Good conduct [an4.224:1.1]": [
+      "They don’t kill living creatures",
+      "They don’t steal",
+      "They don’t commit sexual misconduct",
+      "They don’t lie"
+    ]
+  }
+}

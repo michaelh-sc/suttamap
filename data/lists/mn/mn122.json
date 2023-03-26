@@ -1,0 +1,28 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn122": {
+    "Secluded Lodging Options [mn122:27.6]": [
+      "Wilderness",
+      "Root of a tree",
+      "Hill",
+      "Ravine",
+      "Mountain cave",
+      "Charnel ground",
+      "Forest",
+      "Open air",
+      "Heap of straw"
+    ],
+    "Results of treating the Teacher as an enemy [mn122:27.6]": [
+      "The Teacher teaches the Dhamma out of kindness and compassion",
+      "The disciples don’t want to listen",
+      "They don’t pay attention or apply their minds to understand",
+      "They proceed having turned away from the Teacher’s instruction"
+    ],
+    "Results of treating the Teacher as a friend (a causal sequence) [mn122:27.6]": [
+      "The Teacher teaches the Dhamma out of kindness and compassion",
+      "The disciples want to listen",
+      "They pay attention and apply their minds to understand",
+      "They don’t proceed having turned away from the Teacher’s instruction"
+    ]
+  }
+}

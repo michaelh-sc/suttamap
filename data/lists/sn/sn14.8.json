@@ -1,0 +1,53 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn14.8": {
+    "Diversity of elements gives rise to diversity of perceptions [sn14.8:4.2]": [
+      "Diversity of elements",
+      "Diversity of perceptions"
+    ],
+    "Diversity of perceptions gives rise to diversity of intentions (a causal chain) [sn14.8:4.2]": [
+      "Diversity of perceptions",
+      "Diversity of intentions"
+    ],
+    "Diversity of intentions gives rise to diversity of desires (a causal chain) [sn14.8:4.2]": [
+      "Diversity of intentions",
+      "Diversity of desires"
+    ],
+    "Diversity of desires gives rise to diversity of passions (a causal chain) [sn14.8:4.2]": [
+      "Diversity of desires",
+      "Diversity of passions"
+    ],
+    "Diversity of passions gives rise to diversity of searches (a causal chain) [sn14.8:4.2]": [
+      "Diversity of passions",
+      "Diversity of searches"
+    ],
+    "Diversity of searches doesn’t give rise to diversity of passions (a causal chain) [sn14.8:4.2]": [
+      "Diversity of searches",
+      "No diversity of passions"
+    ],
+    "Diversity of passions doesn’t give rise to diversity of desires (a causal chain) [sn14.8:4.2]": [
+      "Diversity of passions",
+      "No diversity of desires"
+    ],
+    "Diversity of desires doesn’t give rise to diversity of thoughts (a causal chain) [sn14.8:4.2]": [
+      "Diversity of desires",
+      "No diversity of thoughts"
+    ],
+    "Diversity of thoughts doesn’t give rise to diversity of perceptions (a causal chain) [sn14.8:4.2]": [
+      "Diversity of thoughts",
+      "No diversity of perceptions"
+    ],
+    "Diversity of perceptions doesn’t give rise to diversity of elements (a causal chain) [sn14.8:4.2]": [
+      "Diversity of perceptions",
+      "No diversity of elements"
+    ],
+    "Diversity of elements (a causal chain) [sn14.8:4.2]": [
+      "The sight element",
+      "The sound element",
+      "The smell element",
+      "The taste element",
+      "The touch element",
+      "The thought element"
+    ]
+  }
+}

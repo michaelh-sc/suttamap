@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn56.13": {
+    "The four noble truths [sn56.13:6.1]": [
+      "The noble truth of suffering",
+      "The noble truth of the origin of suffering",
+      "The noble truth of the cessation of suffering",
+      "The noble truth of the practice that leads to the cessation of suffering"
+    ],
+    "The five grasping aggregates [sn56.13:6.1]": [
+      "Form",
+      "Feeling",
+      "Perception",
+      "Choices",
+      "Consciousness"
+    ],
+    "The three types of craving [sn56.13:6.1]": [
+      "Craving for sensual pleasures",
+      "Craving to continue existence",
+      "Craving to end existence"
+    ],
+    "The noble eightfold path [sn56.13:6.1]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn6": {
+    "Types of one-sided immersion [dn6:5.6.0]": [
+      "to the eastern quarter so as to see heavenly sights but not to hear heavenly sounds",
+      "to the southern quarter so as to see heavenly sights but not to hear heavenly sounds",
+      "to the western quarter so as to see heavenly sights but not to hear heavenly sounds",
+      "to the northern quarter so as to see heavenly sights but not to hear heavenly sounds",
+      "above, below, across so as to see heavenly sights but not to hear heavenly sounds",
+      "to the eastern quarter so as to hear heavenly sounds but not to see heavenly sights",
+      "to the southern quarter so as to hear heavenly sounds but not to see heavenly sights",
+      "to the western quarter so as to hear heavenly sounds but not to see heavenly sights",
+      "to the northern quarter so as to hear heavenly sounds but not to see heavenly sights",
+      "above, below, across so as to hear heavenly sounds but not to see heavenly sights"
+    ],
+    "Types of two-sided immersion [dn6:5.6.0]": [
+      "to the eastern quarter so as to both hear heavenly sounds and see heavenly sights",
+      "to the southern quarter so as to both hear heavenly sounds and see heavenly sights",
+      "to the western quarter so as to both hear heavenly sounds and see heavenly sights",
+      "to the northern quarter so as to both hear heavenly sounds and see heavenly sights",
+      "above, below, across so as to both hear heavenly sounds and see heavenly sights"
+    ],
+    "The Four Noble Fruits [dn6:13.0]": [
+      "With the ending of three fetters, a mendicant is a stream-enterer, not liable to be reborn in the underworld, bound for awakening.",
+      "With the ending of three fetters, and the weakening of greed, hate, and delusion, a mendicant is a once-returner. They come back to this world once only, then make an end of suffering.",
+      "With the ending of the five lower fetters, a mendicant is reborn spontaneously and will become extinguished there, not liable to return from that world.",
+      "A mendicant has realized the undefiled freedom of heart and freedom by wisdom in this very life, and lives having realized it with their own insight due to the ending of defilements. "
+    ],
+    "The Noble Eightfold Path [dn6:14.0]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion"
+    ],
+    "The different levels of absorption [dn6:15.0]": [
+      "They enter and remain in the first absorption",
+      "They enter and remain in the second absorption",
+      "They enter and remain in the third absorption",
+      "They enter and remain in the fourth absorption"
+    ],
+    "The different states of knowledge and vision [dn6:15.0]": [
+      "They extend and project the mind toward knowledge and vision",
+      "They understand: “… there is no return to any state of existence.”"
+    ]
+  }
+}

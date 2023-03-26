@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.236": {
+    "Functions of body parts [sn35.236:2.7]": [
+      "When there are hands, picking up and putting down are found.",
+      "When there are feet, coming and going are found.",
+      "When there are joints, contracting and extending are found.",
+      "When there’s a belly, hunger and thirst are found."
+    ],
+    "Internal conditions for arising of pleasure and pain [sn35.236:2.7]": [
+      "When there’s an eye, pleasure and pain arise internally conditioned by eye contact.",
+      "When there’s an ear, pleasure and pain arise internally conditioned by ear contact.",
+      "When there’s a nose, pleasure and pain arise internally conditioned by nose contact.",
+      "When there’s a tongue, pleasure and pain arise internally conditioned by tongue contact.",
+      "When there’s a body, pleasure and pain arise internally conditioned by body contact.",
+      "When there’s a mind, pleasure and pain arise internally conditioned by mind contact."
+    ],
+    "Functions of body parts when absent (a repetitive sentence structure) [sn35.236:2.7]": [
+      "When there are no hands, picking up and putting down aren’t found.",
+      "When there are no feet, coming and going aren’t found.",
+      "When there are no joints, contracting and extending aren’t found.",
+      "When there’s no belly, hunger and thirst aren’t found."
+    ],
+    "Internal conditions for non-arising of pleasure and pain [sn35.236:2.7]": [
+      "When there’s no eye, pleasure and pain don’t arise internally conditioned by eye contact.",
+      "When there’s no ear, pleasure and pain don’t arise internally conditioned by ear contact.",
+      "When there’s no nose, pleasure and pain don’t arise internally conditioned by nose contact.",
+      "When there’s no tongue, pleasure and pain don’t arise internally conditioned by tongue contact.",
+      "When there’s no body, pleasure and pain don’t arise internally conditioned by body contact.",
+      "When there’s no mind, pleasure and pain don’t arise internally conditioned by mind contact."
+    ]
+  }
+}

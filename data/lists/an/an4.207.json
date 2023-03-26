@@ -1,0 +1,43 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.207": {
+    "Who's bad [an4.207:5.3]": [
+      "Kills living creatures",
+      "Steals",
+      "Commits sexual misconduct",
+      "Uses speech that's false, divisive, harsh, or nonsensical",
+      "Covetous",
+      "Malicious",
+      "Has wrong view"
+    ],
+    "Who's worse [an4.207:5.3]": [
+      "Kills living creatures",
+      "Steals",
+      "Commits sexual misconduct",
+      "Uses speech that's false, divisive, harsh, or nonsensical",
+      "Covetous",
+      "Malicious",
+      "Has wrong view",
+      "Encourages others to do these things"
+    ],
+    "Who's good [an4.207:5.3]": [
+      "Doesn't kill living creatures",
+      "Doesn't steal",
+      "Doesn't commit sexual misconduct",
+      "Doesn't use speech that's false, divisive, harsh, or nonsensical",
+      "Contented",
+      "Kind-hearted",
+      "Has right view"
+    ],
+    "Who's better [an4.207:5.3]": [
+      "Doesn't kill living creatures",
+      "Doesn't steal",
+      "Doesn't commit sexual misconduct",
+      "Doesn't use speech that's false, divisive, harsh, or nonsensical",
+      "Contented",
+      "Kind-hearted",
+      "Has right view",
+      "Encourages others to do these things"
+    ]
+  }
+}

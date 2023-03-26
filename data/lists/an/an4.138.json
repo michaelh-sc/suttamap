@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.138": {
+    "The four people found in the world [an4.138:5.5]": [
+      "One is on retreat in body, but not mind",
+      "One is on retreat in mind, but not body",
+      "One is on retreat in neither body nor mind",
+      "One is on retreat in both body and mind"
+    ],
+    "How a person is on retreat in body, but not mind [an4.138:5.5]": [
+      "A person frequents remote lodgings in the wilderness and the forest",
+      "They think sensual, malicious, and cruel thoughts"
+    ],
+    "How a person is on retreat in mind, but not body (a causal sequence) [an4.138:5.5]": [
+      "A person doesn’t frequent remote lodgings in the wilderness and the forest",
+      "They think thoughts of renunciation, good will, and harmlessness"
+    ],
+    "How a person is on retreat in neither body nor mind (a causal sequence) [an4.138:5.5]": [
+      "A person doesn’t frequent remote lodgings in the wilderness and the forest",
+      "They think sensual, malicious, and cruel thoughts"
+    ],
+    "How a person is on retreat in both body and mind (a causal sequence) [an4.138:5.5]": [
+      "A person frequents remote lodgings in the wilderness and the forest",
+      "They think thoughts of renunciation, good will, and harmlessness"
+    ]
+  }
+}

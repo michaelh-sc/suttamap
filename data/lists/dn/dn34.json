@@ -1,0 +1,389 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dn34": {
+    "The teachings up to ten for attaining extinguishment [dn34:0.2]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion",
+      "Right knowledge",
+      "Right freedom"
+    ],
+    "The ten things that are helpful, should be developed, completely understood, given up, make things worse, lead to distinction, are hard to comprehend, should be produced, should be directly known, and should be realized [dn34:1.2.0]": [
+      "Diligence in skillful qualities",
+      "Mindfulness of the body that is full of pleasure",
+      "Contact, which is accompanied by defilements and is prone to being grasped",
+      "The conceit ‘I am’",
+      "Improper attention",
+      "Proper attention",
+      "The heart’s immersion of immediate result",
+      "Unshakable knowledge",
+      "All sentient beings are sustained by food",
+      "The unshakable release of the heart"
+    ],
+    "The twenty things that are helpful, should be developed, completely understood, given up, make things worse, lead to distinction, are hard to comprehend, should be produced, should be directly known, and should be realized [dn34:1.3.0]": [
+      "Mindfulness and situational awareness",
+      "Serenity and discernment",
+      "Name and form",
+      "Ignorance and craving for continued existence",
+      "Being hard to admonish and having bad friends",
+      "Being easy to admonish and having good friends",
+      "What are the causes and conditions for the corruption of sentient beings, and what are the causes and conditions for the purification of sentient beings",
+      "Two knowledges: knowledge of ending, and knowledge of non-arising",
+      "Two elements: the conditioned element and the unconditioned element",
+      "Knowledge and freedom"
+    ],
+    "The thirty things that are helpful, should be developed, completely understood, given up, make things worse, lead to distinction, are hard to comprehend, should be produced, should be directly known, and should be realized [dn34:1.4.0]": [
+      "Associating with good people, listening to the true teaching, and practicing in line with the teaching",
+      "Three kinds of immersion: immersion with placing the mind and keeping it connected, immersion without placing the mind but just keeping it connected, and immersion without placing the mind or keeping it connected",
+      "Three feelings: pleasant, painful, and neutral",
+      "Three cravings: craving for sensual pleasures, craving for continued existence, and craving to end existence",
+      "Three unskillful roots: greed, hate, and delusion",
+      "Three skillful roots: non-greed, non-hate, and non-delusion",
+      "Three elements of escape: renunciation, the formless, and cessation",
+      "Three knowledges: regarding the past, future, and present",
+      "Three elements: sensuality, form, and formlessness",
+      "Three knowledges: recollection of past lives, knowledge of the death and rebirth of sentient beings, and knowledge of the ending of defilements"
+    ],
+    "The forty things that are helpful, should be developed, completely understood, given up, make things worse, lead to distinction, are hard to comprehend, should be produced, should be directly known, and should be realized [dn34:1.5.0]": [
+      "Four situations: living in a suitable region, relying on good people, being rightly resolved in oneself, and past merit",
+      "The four kinds of mindfulness meditation: observing an aspect of the body, feelings, mind, and principles",
+      "Four foods: solid food, whether coarse or fine; contact, mental intention, and consciousness",
+      "Four floods: sensuality, desire for rebirth, views, and ignorance",
+      "Four bonds: sensuality, desire for rebirth, views, and ignorance",
+      "Four kinds of detachment: detachment from the bonds of sensuality, desire for rebirth, views, and ignorance",
+      "Four kinds of immersion: immersion liable to decline, stable immersion, immersion that leads to distinction, and immersion that leads to penetration",
+      "Four knowledges: knowledge of the present phenomena, inferential knowledge, knowledge of others’ minds, and conventional knowledge",
+      "The four noble truths: suffering, the origin of suffering, the cessation of suffering, and the practice that leads to the cessation of suffering",
+      "Four fruits of the ascetic life: stream-entry, once-return, non-return, and perfection."
+    ],
+    "Five things that are helpful [dn34:1.6.0]": [
+      "Faith in the Realized One’s awakening",
+      "Rarely ill or unwell",
+      "Good digestion",
+      "Honesty",
+      "Energy for giving up unskillful qualities and embracing skillful qualities"
+    ],
+    "Five things that should be developed [dn34:1.6.0]": [
+      "Right immersion pervaded with rapture",
+      "Right immersion pervaded with pleasure",
+      "Right immersion pervaded with mind",
+      "Right immersion pervaded with light",
+      "The foundation for reviewing"
+    ],
+    "Five things that should be completely understood [dn34:1.6.0]": [
+      "Form",
+      "Feeling",
+      "Perception",
+      "Choices",
+      "Consciousness"
+    ],
+    "Five things that should be given up [dn34:1.6.0]": [
+      "Sensual desire",
+      "Ill will",
+      "Dullness and drowsiness",
+      "Restlessness and remorse",
+      "Doubt"
+    ],
+    "Five things that make things worse [dn34:1.6.0]": [
+      "Doubts about the Teacher",
+      "Doubts about the teaching",
+      "Doubts about the Saṅgha",
+      "Doubts about the training",
+      "Anger and upset with spiritual companions"
+    ],
+    "Five things that lead to distinction (a causal sequence) [dn34:1.6.0]": [
+      "Faith",
+      "Energy",
+      "Mindfulness",
+      "Immersion",
+      "Wisdom"
+    ],
+    "Five things that are hard to comprehend [dn34:1.6.0]": [
+      "Escape from sensual pleasures",
+      "Escape from ill will",
+      "Escape from harming",
+      "Escape from forms",
+      "Escape from identity"
+    ],
+    "Five things that should be produced (a causal sequence) [dn34:1.6.0]": [
+      "Right immersion with blissful results",
+      "Right immersion that is noble and spiritual",
+      "Right immersion not cultivated by sinners",
+      "Right immersion that is peaceful and sublime",
+      "Mindful entry and emergence from right immersion"
+    ],
+    "Five things that should be directly known [dn34:1.6.0]": [
+      "Inspiration from Dhamma",
+      "Inspiration from teaching Dhamma",
+      "Inspiration from reciting Dhamma",
+      "Inspiration from thinking about Dhamma",
+      "Inspiration from a meditation subject as a foundation of immersion"
+    ],
+    "Five things that should be realized (a causal sequence) [dn34:1.6.0]": [
+      "Ethics",
+      "Immersion",
+      "Wisdom",
+      "Freedom",
+      "Knowledge and vision of freedom"
+    ],
+    "Six warm-hearted qualities [dn34:1.7.0]": [
+      "Consistently treating spiritual companions with bodily kindness",
+      "Consistently treating spiritual companions with verbal kindness",
+      "Consistently treating spiritual companions with mental kindness",
+      "Sharing possessions gained by legitimate means",
+      "Living according to precepts shared with spiritual companions",
+      "Living according to the view shared with spiritual companions"
+    ],
+    "Six topics for recollection [dn34:1.7.0]": [
+      "Recollection of the Buddha",
+      "Recollection of the teaching",
+      "Recollection of the Saṅgha",
+      "Recollection of ethics",
+      "Recollection of generosity",
+      "Recollection of the deities"
+    ],
+    "Six interior sense fields [dn34:1.7.0]": [
+      "Eye",
+      "Ear",
+      "Nose",
+      "Tongue",
+      "Body",
+      "Mind"
+    ],
+    "Six classes of craving [dn34:1.7.0]": [
+      "Craving for sights",
+      "Craving for sounds",
+      "Craving for smells",
+      "Craving for tastes",
+      "Craving for touches",
+      "Craving for thoughts"
+    ],
+    "Six kinds of disrespect [dn34:1.7.0]": [
+      "Lack of respect and reverence for the Teacher",
+      "Lack of respect and reverence for the teaching",
+      "Lack of respect and reverence for the Saṅgha",
+      "Lack of respect and reverence for the training",
+      "Lack of respect and reverence for diligence",
+      "Lack of respect and reverence for hospitality"
+    ],
+    "Six kinds of respect [dn34:1.7.0]": [
+      "Respect and reverence for the Teacher",
+      "Respect and reverence for the teaching",
+      "Respect and reverence for the Saṅgha",
+      "Respect and reverence for the training",
+      "Respect and reverence for diligence",
+      "Respect and reverence for hospitality"
+    ],
+    "Six elements of escape [dn34:1.7.0]": [
+      "Heart’s release by love",
+      "Heart’s release by compassion",
+      "Heart’s release by rejoicing",
+      "Heart’s release by equanimity",
+      "Signless release of the heart",
+      "Uprooting of the conceit “I am”"
+    ],
+    "Six consistent responses (a causal chain) [dn34:1.7.0]": [
+      "Equanimity when seeing a sight with their eyes",
+      "Equanimity when hearing a sound with their ears",
+      "Equanimity when smelling an odor with their nose",
+      "Equanimity when tasting a flavor with their tongue",
+      "Equanimity when feeling a touch with their body",
+      "Equanimity when knowing a thought with their mind"
+    ],
+    "Six unsurpassable things [dn34:1.7.0]": [
+      "Unsurpassable seeing",
+      "Unsurpassable listening",
+      "Unsurpassable acquisition",
+      "Unsurpassable training",
+      "Unsurpassable service",
+      "Unsurpassable recollection"
+    ],
+    "Six direct knowledges [dn34:1.7.0]": [
+      "Psychic powers",
+      "Clairaudience",
+      "Understanding the minds of other beings and individuals",
+      "Recollection of past lives",
+      "Clairvoyance",
+      "Realization of the undefiled freedom of heart and freedom by wisdom in this very life"
+    ],
+    "Seven things that are helpful [dn34:1.8.0]": [
+      "Seven kinds of wealth of noble ones: the wealth of faith, ethical conduct, conscience, prudence, learning, generosity, and wisdom."
+    ],
+    "Seven things that should be developed [dn34:1.8.0]": [
+      "Seven awakening factors: mindfulness, investigation of principles, energy, rapture, tranquility, immersion, and equanimity."
+    ],
+    "Seven things that should be completely understood [dn34:1.8.0]": [
+      "The first plane of consciousness",
+      "The second plane of consciousness",
+      "The third plane of consciousness",
+      "The fourth plane of consciousness",
+      "The fifth plane of consciousness",
+      "The sixth plane of consciousness",
+      "The seventh plane of consciousness"
+    ],
+    "Seven things that should be given up (a causal sequence) [dn34:1.8.0]": [
+      "Seven underlying tendencies: sensual desire, repulsion, views, doubt, conceit, desire to be reborn, and ignorance."
+    ],
+    "Seven things that make things worse [dn34:1.8.0]": [
+      "Seven bad qualities: a mendicant is faithless, shameless, imprudent, uneducated, lazy, unmindful, and witless."
+    ],
+    "Seven things that lead to distinction [dn34:1.8.0]": [
+      "Seven good qualities: a mendicant is faithful, conscientious, prudent, learned, energetic, mindful, and wise."
+    ],
+    "Seven things that are hard to comprehend [dn34:1.8.0]": [
+      "Seven aspects of the teachings of the good persons: a mendicant knows the teachings, knows the meaning, knows themselves, knows moderation, knows the right time, knows assemblies, and knows people."
+    ],
+    "Seven things that should be produced [dn34:1.8.0]": [
+      "Seven perceptions: the perception of impermanence, the perception of not-self, the perception of ugliness, the perception of drawbacks, the perception of giving up, the perception of fading away, and the perception of cessation."
+    ],
+    "Seven things that should be directly known [dn34:1.8.0]": [
+      "Seven qualifications for graduation: a mendicant has a keen enthusiasm to undertake the training, to examine the teachings, to get rid of desires, for retreat, to rouse up energy, for mindfulness and alertness, to penetrate theoretically. And they don’t lose these desires in the future."
+    ],
+    "Seven things that should be realized [dn34:1.8.0]": [
+      "Seven powers of one who has ended the defilements: clear seeing of impermanence, clear seeing of sensual pleasures, mind inclined to seclusion, well-developed four kinds of mindfulness meditation, well-developed five faculties, well-developed seven awakening factors, and well-developed noble eightfold path."
+    ],
+    "The sixth dimension of mastery [dn34:2.1.0]": [
+      "Not perceiving form internally, someone sees visions externally that are yellow, with yellow color, yellow hue, and yellow tint.",
+      "They’re like a champak flower that’s yellow, with yellow color, yellow hue, and yellow tint.",
+      "Or a cloth from Bāraṇasī that’s smoothed on both sides, yellow, with yellow color, yellow hue, and yellow tint.",
+      "Mastering them, they perceive: ‘I know and see.’"
+    ],
+    "The seventh dimension of mastery (a expanded upon using repetitive or similar sentence structure) [dn34:2.1.0]": [
+      "Not perceiving form internally, someone sees visions externally that are red, with red color, red hue, and red tint.",
+      "They’re like a scarlet mallow flower that’s red, with red color, red hue, and red tint.",
+      "Or a cloth from Bāraṇasī that’s smoothed on both sides, red, with red color, red hue, and red tint.",
+      "Mastering them, they perceive: ‘I know and see.’"
+    ],
+    "The eighth dimension of mastery (a expanded upon using repetitive or similar sentence structure) [dn34:2.1.0]": [
+      "Not perceiving form internally, someone sees visions externally that are white, with white color, white hue, and white tint.",
+      "They’re like the morning star that’s white, with white color, white hue, and white tint.",
+      "Or a cloth from Bāraṇasī that’s smoothed on both sides, white, with white color, white hue, and white tint.",
+      "Mastering them, they perceive: ‘I know and see.’"
+    ],
+    "The eight liberations (a expanded upon using repetitive or similar sentence structure) [dn34:2.1.0]": [
+      "Having physical form, they see visions. This is the first liberation.",
+      "Not perceiving physical form internally, someone see visions externally. This is the second liberation.",
+      "They’re focused only on beauty. This is the third liberation.",
+      "Going totally beyond perceptions of form, with the ending of perceptions of impingement, not focusing on perceptions of diversity, aware that ‘space is infinite’, they enter and remain in the dimension of infinite space. This is the fourth liberation.",
+      "Going totally beyond the dimension of infinite space, aware that ‘consciousness is infinite’, they enter and remain in the dimension of infinite consciousness. This is the fifth liberation.",
+      "Going totally beyond the dimension of infinite consciousness, aware that ‘there is nothing at all’, they enter and remain in the dimension of nothingness. This is the sixth liberation.",
+      "Going totally beyond the dimension of nothingness, they enter and remain in the dimension of neither perception nor non-perception. This is the seventh liberation.",
+      "Going totally beyond the dimension of neither perception nor non-perception, they enter and remain in the cessation of perception and feeling. This is the eighth liberation."
+    ],
+    "Nine things that are helpful [dn34:2.2.0]": [
+      "Proper attention",
+      "Joy",
+      "Rapture",
+      "Tranquility",
+      "Bliss",
+      "Immersion",
+      "True knowledge and vision",
+      "Disillusionment",
+      "Freedom"
+    ],
+    "Nine things that should be developed [dn34:2.2.0]": [
+      "Trying to be pure in ethics",
+      "Trying to be pure in mind",
+      "Trying to be pure in view",
+      "Overcoming doubt",
+      "Knowledge and vision of the variety of paths",
+      "Knowledge and vision of the practice",
+      "Knowledge and vision",
+      "Wisdom",
+      "Freedom"
+    ],
+    "Nine abodes of sentient beings [dn34:2.2.0]": [
+      "Sentient beings that are diverse in body and diverse in perception",
+      "Sentient beings that are diverse in body and unified in perception",
+      "Sentient beings that are unified in body and diverse in perception",
+      "Sentient beings that are unified in body and unified in perception",
+      "Sentient beings that are non-percipient and do not experience anything",
+      "Sentient beings that have gone totally beyond perceptions of form",
+      "Sentient beings that have gone totally beyond the dimension of infinite space",
+      "Sentient beings that have gone totally beyond the dimension of infinite consciousness",
+      "Sentient beings that have gone totally beyond the dimension of nothingness"
+    ],
+    "Nine things that should be given up [dn34:2.2.0]": [
+      "Craving",
+      "Seeking",
+      "Gaining material possessions",
+      "Assessing",
+      "Desire and lust",
+      "Attachment",
+      "Ownership",
+      "Stinginess",
+      "Safeguarding"
+    ],
+    "Nine grounds for resentment (a causal chain) [dn34:2.2.0]": [
+      "They did wrong to me",
+      "They are doing wrong to me",
+      "They will do wrong to me",
+      "They did wrong by someone I love",
+      "They are doing wrong by someone I love",
+      "They will do wrong by someone I love",
+      "They helped someone I dislike",
+      "They are helping someone I dislike",
+      "They will help someone I dislike"
+    ],
+    "Nine methods to get rid of resentment [dn34:2.2.0]": [
+      "Thinking: ‘They did wrong to me, but what can I possibly do?’",
+      "Thinking: ‘They are doing wrong to me, but what can I possibly do?’",
+      "Thinking: ‘They will do wrong to me, but what can I possibly do?’",
+      "Thinking: ‘They did wrong by someone I love, but what can I possibly do?’",
+      "Thinking: ‘They are doing wrong by someone I love, but what can I possibly do?’",
+      "Thinking: ‘They will do wrong by someone I love, but what can I possibly do?’",
+      "Thinking: ‘They helped someone I dislike, but what can I possibly do?’",
+      "Thinking: ‘They are helping someone I dislike, but what can I possibly do?’",
+      "Thinking: ‘They will help someone I dislike, but what can I possibly do?’"
+    ],
+    "Nine kinds of diversity [dn34:2.2.0]": [
+      "Diversity of elements",
+      "Diversity of contacts",
+      "Diversity of feelings",
+      "Diversity of perceptions",
+      "Diversity of intentions",
+      "Diversity of desires",
+      "Diversity of passions",
+      "Diversity of searches",
+      "Diversity of gains"
+    ],
+    "Nine perceptions (a causal chain) [dn34:2.2.0]": [
+      "The perceptions of ugliness",
+      "The perceptions of death",
+      "The perceptions of repulsiveness in food",
+      "The perceptions of dissatisfaction with the whole world",
+      "The perceptions of impermanence",
+      "The perceptions of suffering in impermanence",
+      "The perceptions of not-self in suffering",
+      "The perceptions of giving up",
+      "The perceptions of fading away"
+    ],
+    "Nine progressive meditations [dn34:2.2.0]": [
+      "First absorption",
+      "Second absorption",
+      "Third absorption",
+      "Fourth absorption",
+      "Dimension of infinite space",
+      "Dimension of infinite consciousness",
+      "Dimension of nothingness",
+      "Dimension of neither perception nor non-perception",
+      "Cessation of perception and feeling"
+    ],
+    "Nine progressive cessations [dn34:2.2.0]": [
+      "Sensual perceptions",
+      "Placing of the mind and keeping it connected",
+      "Rapture",
+      "Breathing",
+      "Perception of form",
+      "Perception of the dimension of infinite space",
+      "Perception of the dimension of infinite consciousness",
+      "Perception of the dimension of nothingness",
+      "Perception and feeling"
+    ]
+  }
+}

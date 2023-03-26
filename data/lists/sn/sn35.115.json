@@ -1,0 +1,41 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.115": {
+    "Sensual stimuli that can bind a mendicant [sn35.115:4.5]": [
+      "Sights known by the eye",
+      "Sounds",
+      "Smells",
+      "Tastes",
+      "Touches",
+      "Thoughts known by the mind"
+    ],
+    "Characteristics of sensual stimuli that can bind a mendicant [sn35.115:4.5]": [
+      "Likable",
+      "Desirable",
+      "Agreeable",
+      "Pleasant",
+      "Sensual",
+      "Arousing"
+    ],
+    "Characteristics of a mendicant who is bound by sensual stimuli [sn35.115:4.5]": [
+      "Approves of sensual stimuli",
+      "Welcomes sensual stimuli",
+      "Clings to sensual stimuli",
+      "Trapped in Māra’s lair",
+      "Fallen under Māra’s sway",
+      "Caught in Māra’s snare",
+      "Bound by Māra’s bonds",
+      "The Wicked One can do what he wants with them"
+    ],
+    "Characteristics of a mendicant who is not bound by sensual stimuli [sn35.115:4.5]": [
+      "Does not approve of sensual stimuli",
+      "Does not welcome sensual stimuli",
+      "Does not cling to sensual stimuli",
+      "Not trapped in Māra’s lair",
+      "Not fallen under Māra’s sway",
+      "Released from Māra’s snare",
+      "Free from Māra’s bonds",
+      "The Wicked One cannot do what he wants with them."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.30": {
+    "The three kinds of people found in the world [an3.30:10.4]": [
+      "Person with upside-down wisdom",
+      "Person with wisdom on their lap",
+      "Person with wide wisdom"
+    ],
+    "The characteristics of a person with upside-down wisdom [an3.30:10.4]": [
+      "Often goes to the monastery to hear the teaching in the presence of the mendicants",
+      "The mendicants teach them Dhamma that’s good in the beginning, middle, and end, meaningful and well-phrased",
+      "Doesn’t pay attention to the beginning, middle, or end of the discussion",
+      "Wisdom is lacking"
+    ],
+    "The characteristics of a person with wisdom on their lap (a causal chain) [an3.30:10.4]": [
+      "Often goes to the monastery to hear the teaching in the presence of the mendicants",
+      "The mendicants teach them Dhamma that’s good in the beginning, middle, and end, meaningful and well-phrased",
+      "Pays attention to the discussion in the beginning, middle, and end while sitting in that seat",
+      "Doesn’t pay attention to the beginning, middle, or end of the discussion when they get up from their seat",
+      "Understanding fails, and what they’ve learned is lost"
+    ],
+    "The characteristics of a person with wide wisdom (a causal chain) [an3.30:10.4]": [
+      "Often goes to the monastery to hear the teaching in the presence of the mendicants",
+      "The mendicants teach them Dhamma that’s good in the beginning, middle, and end, meaningful and well-phrased",
+      "Pays attention to the discussion in the beginning, middle, and end while sitting in that seat",
+      "Continues to pay attention to the beginning, middle, or end of the discussion when they get up from their seat",
+      "Remembers it with the best of intentions",
+      "Practicing in line with the teaching, would make an end of suffering."
+    ]
+  }
+}

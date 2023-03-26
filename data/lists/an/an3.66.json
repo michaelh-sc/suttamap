@@ -1,0 +1,40 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.66": {
+    "Things to not rely on [an3.66:47.5]": [
+      "Oral transmission",
+      "Lineage",
+      "Testament",
+      "Canonical authority",
+      "Logic",
+      "Inference",
+      "Reasoned contemplation",
+      "Acceptance of a view after consideration",
+      "Appearance of competence"
+    ],
+    "Unskillful actions [an3.66:47.5]": [
+      "Greed",
+      "Killing living creatures, stealing, committing adultery, lying, and encouraging others to do the same",
+      "Lasting harm and suffering"
+    ],
+    "Unskillful actions (a causal chains) [an3.66:47.5]": [
+      "Hate",
+      "Killing living creatures, stealing, committing adultery, lying, and encouraging others to do the same",
+      "Lasting harm and suffering",
+      "Delusion",
+      "Killing living creatures, stealing, committing adultery, lying, and encouraging others to do the same",
+      "Lasting harm and suffering"
+    ],
+    "Skillful actions (a causal chains) [an3.66:47.5]": [
+      "Contentment",
+      "Not killing living creatures, not stealing, not committing adultery, not lying, and not encouraging others to do the same",
+      "Lasting welfare and happiness",
+      "Love",
+      "Not killing living creatures, not stealing, not committing adultery, not lying, and not encouraging others to do the same",
+      "Lasting welfare and happiness",
+      "Understanding",
+      "Not killing living creatures, not stealing, not committing adultery, not lying, and not encouraging others to do the same",
+      "Lasting welfare and happiness"
+    ]
+  }
+}

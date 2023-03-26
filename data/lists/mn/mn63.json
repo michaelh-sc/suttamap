@@ -1,0 +1,47 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn63": {
+    "Convictions that the Buddha has left undeclared [mn63:10.7]": [
+      "The cosmos is eternal",
+      "The cosmos is not eternal",
+      "The cosmos is finite",
+      "The cosmos is infinite",
+      "The soul and the body are the same thing",
+      "The soul and the body are different things",
+      "After death, a Realized One exists",
+      "After death, a Realized One doesn’t exist",
+      "After death, a Realized One both exists and doesn’t exist",
+      "After death, a Realized One neither exists nor doesn’t exist"
+    ],
+    "Views that do not lead to the living of the spiritual life [mn63:10.7]": [
+      "The cosmos is eternal",
+      "The cosmos is not eternal",
+      "The world is finite",
+      "The world is infinite",
+      "The soul and the body are the same thing",
+      "The soul and the body are different things",
+      "After death, a Realized One exists",
+      "After death, a Realized One doesn’t exist",
+      "After death, a Realized One both exists and doesn’t exist",
+      "After death, a Realized One neither exists nor doesn’t exist"
+    ],
+    "Views that lead to rebirth, old age, death, and sorrow [mn63:10.7]": [
+      "The cosmos is eternal",
+      "The cosmos is not eternal",
+      "The world is finite",
+      "The world is infinite",
+      "The soul and the body are the same thing",
+      "The soul and the body are different things",
+      "After death, a Realized One exists",
+      "After death, a Realized One doesn’t exist",
+      "After death, a Realized One both exists and doesn’t exist",
+      "After death, a Realized One neither exists nor doesn’t exist"
+    ],
+    "Views that lead to disillusionment, dispassion, cessation, peace, insight, awakening, and extinguishment [mn63:10.7]": [
+      "This is suffering",
+      "This is the origin of suffering",
+      "This is the cessation of suffering",
+      "This is the practice that leads to the cessation of suffering"
+    ]
+  }
+}

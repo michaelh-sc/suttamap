@@ -1,0 +1,43 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.202": {
+    "A bad person [an4.202:5.9]": [
+      "Faithless",
+      "Shameless",
+      "Imprudent",
+      "With little learning",
+      "Lazy",
+      "Unmindful",
+      "Witless"
+    ],
+    "A worse person [an4.202:5.9]": [
+      "Faithless",
+      "Shameless",
+      "Imprudent",
+      "With little learning",
+      "Lazy",
+      "Confused",
+      "Witless",
+      "They encourage others in these same qualities"
+    ],
+    "A good person [an4.202:5.9]": [
+      "Faithful",
+      "Conscientious",
+      "Prudent",
+      "Learned",
+      "Energetic",
+      "Mindful",
+      "Wise"
+    ],
+    "A better person [an4.202:5.9]": [
+      "Personally accomplished in faith",
+      "Conscience",
+      "Prudence",
+      "Learning",
+      "Energy",
+      "Mindfulness",
+      "Wisdom",
+      "They encourage others in these same qualities."
+    ]
+  }
+}

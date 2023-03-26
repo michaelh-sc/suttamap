@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an5.123": {
+    "Qualities of a patient that is hard to care for [an5.123:2.4]": [
+      "They do what is unsuitable.",
+      "They don’t know moderation in what is suitable.",
+      "They don’t take their medicine.",
+      "They don’t accurately report their symptoms by saying when they’re getting worse, getting better, or staying the same.",
+      "They cannot endure physical pain—sharp, severe, acute, unpleasant, disagreeable, and life-threatening."
+    ],
+    "Qualities of a patient that is easy to care for [an5.123:2.4]": [
+      "They do what is suitable.",
+      "They know moderation in what is suitable.",
+      "They take their medicine.",
+      "They accurately report their symptoms by saying when they’re getting worse, getting better, or staying the same.",
+      "They can endure physical pain—sharp, severe, acute, unpleasant, disagreeable, and life-threatening."
+    ]
+  }
+}

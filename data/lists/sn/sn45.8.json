@@ -1,0 +1,56 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn45.8": {
+    "The noble eightfold path [sn45.8:10.6]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion"
+    ],
+    "Right view [sn45.8:10.6]": [
+      "Knowing about suffering",
+      "The origin of suffering",
+      "The cessation of suffering",
+      "The practice that leads to the cessation of suffering"
+    ],
+    "Right thought (a causal sequence) [sn45.8:10.6]": [
+      "The thought of renunciation",
+      "Good will",
+      "Harmlessness"
+    ],
+    "Right speech [sn45.8:10.6]": [
+      "Avoiding speech that’s false",
+      "Divisive speech",
+      "Harsh speech",
+      "Nonsensical speech"
+    ],
+    "Right action [sn45.8:10.6]": [
+      "Avoiding killing living creatures",
+      "Stealing",
+      "Sexual activity"
+    ],
+    "Right effort [sn45.8:10.6]": [
+      "Generating enthusiasm",
+      "Trying",
+      "Making an effort",
+      "Exerting the mind",
+      "Striving"
+    ],
+    "Right mindfulness (a causal sequence) [sn45.8:10.6]": [
+      "Meditating by observing an aspect of the body",
+      "Meditating observing an aspect of feelings",
+      "Meditating observing an aspect of the mind",
+      "Meditating observing an aspect of principles"
+    ],
+    "Right immersion (a causal chain) [sn45.8:10.6]": [
+      "Entering and remaining in the first absorption",
+      "Entering and remaining in the second absorption",
+      "Entering and remaining in the third absorption",
+      "Entering and remaining in the fourth absorption"
+    ]
+  }
+}

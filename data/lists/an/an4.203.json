@@ -1,0 +1,31 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.203": {
+    "A bad person [an4.203:5.9]": [
+      "Kills living creatures",
+      "Steals",
+      "Commits sexual misconduct",
+      "Uses speech that’s false, divisive, harsh, or nonsensical"
+    ],
+    "A worse person [an4.203:5.9]": [
+      "Kills living creatures",
+      "Steals",
+      "Commits sexual misconduct",
+      "Uses speech that’s false, divisive, harsh, or nonsensical",
+      "Encourages others to do these things"
+    ],
+    "A good person [an4.203:5.9]": [
+      "Doesn’t kill living creatures",
+      "Doesn’t steal",
+      "Doesn’t commit sexual misconduct",
+      "Doesn’t use speech that’s false, divisive, harsh, or nonsensical"
+    ],
+    "A better person [an4.203:5.9]": [
+      "Doesn’t kill living creatures",
+      "Doesn’t steal",
+      "Doesn’t commit sexual misconduct",
+      "Doesn’t use speech that’s false, divisive, harsh, or nonsensical",
+      "Encourages others to avoid these things."
+    ]
+  }
+}

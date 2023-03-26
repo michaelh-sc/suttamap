@@ -1,0 +1,28 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn35.146": {
+    "Old action [sn35.146:1.20]": [
+      "The eye",
+      "The ear",
+      "The nose",
+      "The tongue",
+      "The body",
+      "The mind"
+    ],
+    "New action [sn35.146:1.20]": [
+      "Deeds performed by way of body",
+      "Deeds performed by way of speech",
+      "Deeds performed by way of mind"
+    ],
+    "The practice that leads to the cessation of action [sn35.146:1.20]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion"
+    ]
+  }
+}

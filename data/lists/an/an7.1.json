@@ -1,0 +1,23 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an7.1": {
+    "Seven qualities of a disliked and disapproved mendicant [an7.1:3.4]": [
+      "Desires material possessions",
+      "Desires honor",
+      "Desires to be looked up to",
+      "Lacks conscience",
+      "Lacks prudence",
+      "Has wicked desires",
+      "Has wrong view"
+    ],
+    "Seven qualities of a liked and approved mendicant [an7.1:3.4]": [
+      "Doesn’t desire material possessions",
+      "Doesn’t desire honor",
+      "Doesn’t desire to be looked up to",
+      "Has conscience",
+      "Has prudence",
+      "Has few desires",
+      "Has right view"
+    ]
+  }
+}

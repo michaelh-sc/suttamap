@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn16.7": {
+    "Qualities that make mendicants hard to admonish [sn16.7:12.8]": [
+      "Impatience",
+      "Lack of respect for instruction"
+    ],
+    "Qualities required for growth in skillful qualities [sn16.7:12.8]": [
+      "Faith",
+      "Conscience",
+      "Prudence",
+      "Energy",
+      "Wisdom"
+    ],
+    "Qualities that lead to decline in skillful qualities [sn16.7:12.8]": [
+      "Lack of faith",
+      "Lack of conscience",
+      "Imprudence",
+      "Laziness",
+      "Lack of wisdom",
+      "Irritability",
+      "Hostility"
+    ],
+    "Qualities that prevent decline [sn16.7:12.8]": [
+      "Faith",
+      "Conscience",
+      "Prudence",
+      "Energy",
+      "Wisdom",
+      "Loving-kindness",
+      "Kindness"
+    ],
+    "Causal chain for growth and decline in skillful qualities [sn16.7:12.8]": [
+      "Faith, conscience, prudence, energy, and wisdom",
+      "Growth in skillful qualities",
+      "No decline",
+      "Lack of faith, conscience, prudence, energy, or wisdom",
+      "Decline in skillful qualities",
+      "No mendicant advisers"
+    ]
+  }
+}

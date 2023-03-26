@@ -1,0 +1,23 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.109": {
+    "The four kinds of tree [an4.109:5.7]": [
+      "A softwood surrounded by softwoods",
+      "A softwood surrounded by hardwoods",
+      "A hardwood surrounded by softwoods",
+      "A hardwood surrounded by hardwoods"
+    ],
+    "The four people similar to trees [an4.109:5.7]": [
+      "A softwood surrounded by softwoods",
+      "A softwood surrounded by hardwoods",
+      "A hardwood surrounded by softwoods",
+      "A hardwood surrounded by hardwoods"
+    ],
+    "How a person is similar to a tree [an4.109:5.7]": [
+      "A person is a softwood surrounded by softwoods when they are unethical, of bad character, and their followers are the same.",
+      "A person is a softwood surrounded by hardwoods when they are unethical, of bad character, but their followers are ethical, of good character.",
+      "A person is a hardwood surrounded by softwoods when they are ethical, of good character, but their followers are unethical, of bad character.",
+      "A person is a hardwood surrounded by hardwoods when they are ethical, of good character, and their followers are the same."
+    ]
+  }
+}

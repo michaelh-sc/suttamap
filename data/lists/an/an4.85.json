@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.85": {
+    "The four people found in the world [an4.85:5.7]": [
+      "The dark bound for darkness",
+      "The dark bound for light",
+      "The light bound for darkness",
+      "The light bound for light"
+    ],
+    "How a person is dark and bound for darkness [an4.85:5.7]": [
+      "Reborn in a low family",
+      "Poor, with little to eat or drink",
+      "Ugly, unsightly, deformed, chronically ill",
+      "Don’t get to have basic necessities and do bad things by way of body, speech, and mind",
+      "Reborn in a place of loss, a bad place, the underworld, hell"
+    ],
+    "How a person is dark and bound for light (a causal sequence) [an4.85:5.7]": [
+      "Reborn in a low family",
+      "Poor, with little to eat or drink",
+      "Ugly, unsightly, deformed, chronically ill",
+      "Get to have basic necessities and do good things by way of body, speech, and mind",
+      "Reborn in a good place, a heavenly realm"
+    ],
+    "How a person is light and bound for darkness (a causal sequence) [an4.85:5.7]": [
+      "Reborn in an eminent family",
+      "Rich, affluent, and wealthy, with lots of gold and silver, lots of property and assets, and lots of money and grain",
+      "Attractive, good-looking, lovely, of surpassing beauty",
+      "Get to have basic necessities but do bad things by way of body, speech, and mind",
+      "Reborn in a place of loss, a bad place, the underworld, hell"
+    ],
+    "How a person is light and bound for light (a causal sequence) [an4.85:5.7]": [
+      "Reborn in an eminent family",
+      "Rich, affluent, and wealthy, with lots of gold and silver, lots of property and assets, and lots of money and grain",
+      "Attractive, good-looking, lovely, of surpassing beauty",
+      "Get to have basic necessities and do good things by way of body, speech, and mind",
+      "Reborn in a good place, a heavenly realm"
+    ]
+  }
+}

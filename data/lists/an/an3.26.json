@@ -1,0 +1,25 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.26": {
+    "The three people found in the world [an3.26:4.4]": [
+      "A person you shouldn’t associate with, accompany, or attend",
+      "A person you should associate with, accompany, and attend",
+      "A person you should associate with, accompany, and attend with honor and respect"
+    ],
+    "Characteristics of the person you shouldn’t associate with, accompany, or attend [an3.26:4.4]": [
+      "Someone who is inferior in terms of ethics",
+      "Someone who is inferior in terms of immersion",
+      "Someone who is inferior in terms of wisdom"
+    ],
+    "Characteristics of the person you should associate with, accompany, and attend [an3.26:4.4]": [
+      "Someone who is similar in terms of ethics",
+      "Someone who is similar in terms of immersion",
+      "Someone who is similar in terms of wisdom"
+    ],
+    "Characteristics of the person you should associate with, accompany, and attend with honor and respect [an3.26:4.4]": [
+      "Someone who is superior in terms of ethics",
+      "Someone who is superior in terms of immersion",
+      "Someone who is superior in terms of wisdom"
+    ]
+  }
+}

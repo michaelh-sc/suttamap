@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an3.91": {
+    "Cases of mendicants who don't want to train [an3.91:8.5]": [
+      "Senior mendicant who doesn't want to train",
+      "Middle mendicant who doesn't want to train",
+      "Junior mendicant who doesn't want to train"
+    ],
+    "Cases of mendicants who want to train (a causal sequence) [an3.91:8.5]": [
+      "Senior mendicant who wants to train",
+      "Middle mendicant who wants to train",
+      "Junior mendicant who wants to train"
+    ],
+    "Qualities of a praised senior mendicant (a causal sequence) [an3.91:8.5]": [
+      "They want to train",
+      "They praise taking up the training",
+      "They encourage other mendicants who don't want to train to take up the training",
+      "They truthfully and substantively praise at the right time those mendicants who do want to train"
+    ],
+    "Qualities of a praised middle mendicant [an3.91:8.5]": [
+      "They want to train",
+      "They praise taking up the training",
+      "They encourage other mendicants who don't want to train to take up the training",
+      "They truthfully and substantively praise at the right time those mendicants who do want to train"
+    ],
+    "Qualities of a praised junior mendicant [an3.91:8.5]": [
+      "They want to train",
+      "They praise taking up the training",
+      "They encourage other mendicants who don't want to train to take up the training",
+      "They truthfully and substantively praise at the right time those mendicants who do want to train"
+    ]
+  }
+}

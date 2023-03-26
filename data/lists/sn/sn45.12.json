@@ -1,0 +1,37 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn45.12": {
+    "Types of feeling conditioned by different factors [sn45.12:2.19]": [
+      "Feeling conditioned by wrong view",
+      "Feeling conditioned by the stilling of wrong view",
+      "Feeling conditioned by right view",
+      "Feeling conditioned by the stilling of right view",
+      "Feeling conditioned by wrong immersion",
+      "Feeling conditioned by the stilling of wrong immersion",
+      "Feeling conditioned by right immersion",
+      "Feeling conditioned by the stilling of right immersion",
+      "Feeling conditioned by desire",
+      "Feeling conditioned by the stilling of desire",
+      "Feeling conditioned by thought",
+      "Feeling conditioned by the stilling of thought",
+      "Feeling conditioned by perception",
+      "Feeling conditioned by the stilling of perception"
+    ],
+    "Factors that condition feeling [sn45.12:2.19]": [
+      "Wrong view",
+      "Stilling of wrong view",
+      "Right view",
+      "Stilling of right view",
+      "Wrong immersion",
+      "Stilling of wrong immersion",
+      "Right immersion",
+      "Stilling of right immersion",
+      "Desire",
+      "Stilling of desire",
+      "Thought",
+      "Stilling of thought",
+      "Perception",
+      "Stilling of perception"
+    ]
+  }
+}

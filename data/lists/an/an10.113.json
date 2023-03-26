@@ -1,0 +1,32 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.113": {
+    "Bad principles with bad results [an10.113:4.4]": [
+      "Wrong view",
+      "Wrong thought",
+      "Wrong speech",
+      "Wrong action",
+      "Wrong livelihood",
+      "Wrong effort",
+      "Wrong mindfulness",
+      "Wrong immersion",
+      "Wrong knowledge",
+      "Wrong freedom"
+    ],
+    "Good principles with good results [an10.113:4.4]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion",
+      "Right knowledge",
+      "Right freedom"
+    ],
+    "The practice that should be followed [an10.113:4.4]": [
+      "Your practice should follow the good principles with good results."
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.97": {
+    "The four people found in the world [an4.97:5.5]": [
+      "One who practices to benefit themselves, but not others",
+      "One who practices to benefit others, but not themselves",
+      "One who practices to benefit neither themselves nor others",
+      "One who practices to benefit both themselves and others"
+    ],
+    "How a person practices to benefit themselves, but not others [an4.97:5.5]": [
+      "Quick-witted when it comes to skillful teachings",
+      "Readily memorize the teachings they’ve heard",
+      "Examine the meaning of teachings they’ve memorized",
+      "Practice accordingly",
+      "Not a good speaker"
+    ],
+    "How a person practices to benefit others, but not themselves (a causal sequence) [an4.97:5.5]": [
+      "Not quick-witted when it comes to skillful teachings",
+      "Good speaker",
+      "Not practicing to benefit themselves"
+    ],
+    "How a person practices to benefit neither themselves nor others (a causal sequence) [an4.97:5.5]": [
+      "Not quick-witted when it comes to skillful teachings",
+      "Not a good speaker",
+      "Not practicing to benefit themselves or others"
+    ],
+    "How a person practices to benefit both themselves and others (a causal sequence) [an4.97:5.5]": [
+      "Quick-witted when it comes to skillful teachings",
+      "Good speaker",
+      "Practicing to benefit themselves and others"
+    ]
+  }
+}

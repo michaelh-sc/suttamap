@@ -1,0 +1,36 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.105": {
+    "The four mangoes [an4.105:5.7]": [
+      "One is unripe but seems ripe",
+      "One is ripe but seems unripe",
+      "One is unripe and seems unripe",
+      "One is ripe and seems ripe"
+    ],
+    "The four people similar to mangoes [an4.105:5.7]": [
+      "One is unripe but seems ripe",
+      "One is ripe but seems unripe",
+      "One is unripe and seems unripe",
+      "One is ripe and seems ripe"
+    ],
+    "The characteristics of a person who is unripe but seems ripe [an4.105:5.7]": [
+      "Impressive when going out and coming back",
+      "Impressive when looking ahead and aside",
+      "Impressive when bending and extending the limbs",
+      "Impressive when bearing the outer robe, bowl, and robes",
+      "They don’t really understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’"
+    ],
+    "The characteristics of a person who is ripe but seems unripe (a causal sequence) [an4.105:5.7]": [
+      "Not impressive",
+      "They really understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’"
+    ],
+    "The characteristics of a person who is unripe and seems unripe (a causal sequence) [an4.105:5.7]": [
+      "Not impressive",
+      "They don’t really understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’"
+    ],
+    "The characteristics of a person who is ripe and seems ripe (a causal sequence) [an4.105:5.7]": [
+      "Impressive",
+      "They really understand: ‘This is suffering’ … ‘This is the origin of suffering’ … ‘This is the cessation of suffering’ … ‘This is the practice that leads to the cessation of suffering’"
+    ]
+  }
+}

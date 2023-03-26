@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.24": {
+    "Declarations of knowledge [an10.24:11.22]": [
+      "\"I know this teaching\"",
+      "\"I see this teaching\""
+    ],
+    "Declarations of development [an10.24:11.22]": [
+      "\"I am developed in physical endurance\"",
+      "\"I am developed in ethics\"",
+      "\"I am developed in mind\"",
+      "\"I am developed in wisdom\""
+    ],
+    "Negative qualities that can master a mendicant [an10.24:11.22]": [
+      "Greed",
+      "Hate",
+      "Delusion",
+      "Anger",
+      "Hostility",
+      "Disdain",
+      "Contempt",
+      "Stinginess",
+      "Nasty jealousy",
+      "Corrupt wishes"
+    ],
+    "Understanding that eliminates negative qualities [an10.24:11.22]": [
+      "Understanding that eliminates greed",
+      "Understanding that eliminates hate",
+      "Understanding that eliminates delusion",
+      "Understanding that eliminates anger",
+      "Understanding that eliminates hostility",
+      "Understanding that eliminates disdain",
+      "Understanding that eliminates contempt",
+      "Understanding that eliminates stinginess",
+      "Understanding that eliminates nasty jealousy",
+      "Understanding that eliminates corrupt wishes"
+    ]
+  }
+}

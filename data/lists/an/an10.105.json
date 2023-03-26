@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an10.105": {
+    "The causal chain of unskillful qualities [an10.105:2.2]": [
+      "Ignorance",
+      "Lack of conscience and prudence",
+      "Wrong view",
+      "Wrong thought",
+      "Wrong speech",
+      "Wrong action",
+      "Wrong livelihood",
+      "Wrong effort",
+      "Wrong mindfulness",
+      "Wrong immersion",
+      "Wrong knowledge",
+      "Wrong freedom"
+    ],
+    "The causal chain of skillful qualities (a causal chain) [an10.105:2.2]": [
+      "Knowledge",
+      "Conscience and prudence",
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion",
+      "Right knowledge",
+      "Right freedom"
+    ]
+  }
+}

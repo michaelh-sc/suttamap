@@ -1,0 +1,35 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "an4.210": {
+    "Types of character [an4.210:5.4]": [
+      "Bad character",
+      "Worse character",
+      "Good character",
+      "Better character"
+    ],
+    "Qualities of bad character and worse character [an4.210:5.4]": [
+      "Wrong view",
+      "Wrong thought",
+      "Wrong speech",
+      "Wrong action",
+      "Wrong livelihood",
+      "Wrong effort",
+      "Wrong mindfulness",
+      "Wrong immersion",
+      "Wrong knowledge",
+      "Wrong freedom"
+    ],
+    "Qualities of good character and better character [an4.210:5.4]": [
+      "Right view",
+      "Right thought",
+      "Right speech",
+      "Right action",
+      "Right livelihood",
+      "Right effort",
+      "Right mindfulness",
+      "Right immersion",
+      "Right knowledge",
+      "Right freedom"
+    ]
+  }
+}
