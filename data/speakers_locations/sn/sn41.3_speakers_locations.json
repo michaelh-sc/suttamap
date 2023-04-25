@@ -1,4 +1,4 @@
-{
+{ 
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn41.3:1.3^speaker": "Citta the householder",
   "sn41.3:2.2+sn41.3:2.5^speaker": "the senior venerable",
@@ -11,25 +11,40 @@
   "sn41.3:4.4^who_else_mentioned": [
     "Isidatta"
   ],
+  "sn41.3:4.5+sn41.3:4.8^speaker": "Isidatta",
   "sn41.3:4.9^speaker": "Citta the householder",
-  "sn41.3:5.1^speaker": "Isidatta",
-  "sn41.3:6.1^speaker": "Isidatta",
+  "sn41.3:4.10+sn41.3:4.13^speaker": "Isidatta",
+  "sn41.3:5.2+sn41.3:5.8^speaker": "Isidatta",
+  "sn41.3:6.2+sn41.3:6.8^speaker": "Isidatta",
   "sn41.3:7.1^speaker": "Citta the householder",
-  "sn41.3:7.1^who_else_mentioned": [
-    "Isidatta"
-  ],
   "sn41.3:7.2^speaker": "Isidatta",
-  "sn41.3:7.5^speaker": "Citta the householder",
-  "sn41.3:7.6^speaker": "Isidatta",
+  "sn41.3:7.2^where_else_mentioned": [
+    "Avanti"
+  ],
+  "sn41.3:7.3+sn41.3:7.4^speaker": "Citta the householder",
+  "sn41.3:7.3+sn41.3:7.4^where_else_mentioned": [
+    "Avanti"
+  ],
+  "sn41.3:7.5^speaker": "Isidatta",
+  "sn41.3:7.6^speaker": "Citta the householder",
   "sn41.3:7.8^speaker": "Citta the householder",
   "sn41.3:7.8^who_else_mentioned": [
     "Isidatta"
   ],
   "sn41.3:7.9^speaker": "Isidatta",
+  "sn41.3:7.10+sn41.3:7.12^speaker": "Citta the householder",
+  "sn41.3:7.10+sn41.3:7.12^where_else_mentioned": [
+    "Macchikāsaṇḍa",
+    "Wild Mango Grove"
+  ],
+  "sn41.3:7.13^speaker": "Isidatta",
+  "sn41.3:8.4+sn41.3:8.6^who_else_mentioned": "Isidatta",
+  "sn41.3:8.4+sn41.3:8.6^speaker": "the senior venerable",
+  "before^sn41.3:8.4^who_around": "the senior mendicants",
+  "before^sn41.3:8.4^where_before_or_around_this_segment": "Macchikāsaṇḍa",
   "sn41.3:7.13^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],
-  "sn41.3:7.13^speaker": "the senior venerable",
   "sn41.3:7.13^where_before_or_around_this_segment": [
     "Macchikāsaṇḍa in the Wild Mango Grove"
   ],

@@ -9,17 +9,17 @@
     "Sāriputta"
   ],
   "sn12.31:7.2+sn12.31:10.1^speaker": "Sāriputta",
-  "sn12.31:11.1^event_dppn_headwords_before_or_around_this_segment": [
+  "sn12.31:11.1+sn12.31:14.1^speaker": "the Buddha",
+  "sn12.31:14.1^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.31:11.1^speaker": "the Buddha",
-  "sn12.31:11.1^where_before_or_around_this_segment": [
+  "sn12.31:14.1^where_before_or_around_this_segment": [
     "Near Sāvatthī"
   ],
-  "sn12.31:11.1^who_present_before_or_around_this_segment": [
+  "sn12.31:14.1^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
-  "sn12.31:11.1^who_mentioned_before_or_around_this_segment": [
+  "sn12.31:14.1^who_mentioned_before_or_around_this_segment": [
     "Ajita"
   ],
   "sn12.31^initial_location_dppn_headword": [

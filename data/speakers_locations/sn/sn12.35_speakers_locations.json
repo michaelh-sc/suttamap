@@ -4,14 +4,14 @@
   "sn12.35:1.6^speaker": "one of the mendicants",
   "sn12.35:1.7^speaker": "the Buddha",
   "sn12.35:2.1^speaker": "one of the mendicants",
-  "sn12.35:2.2^speaker": "the Buddha",
+  "sn12.35:2.2+sn12.35:2.6^speaker": "the Buddha",
   "sn12.35:3.1^speaker": "one of the mendicants",
-  "sn12.35:3.2^speaker": "the Buddha",
+  "sn12.35:3.2+sn12.35:3.13^speaker": "the Buddha",
   "sn12.35:4.1^speaker": "one of the mendicants",
   "sn12.35:4.2^event_dppn_headwords_before_or_around_this_segment": [
     "Sāvatthī"
   ],
-  "sn12.35:4.2^speaker": "the Buddha",
+  "sn12.35:4.2+sn12.35:8.3^speaker": "the Buddha",
   "sn12.35:4.2^where_before_or_around_this_segment": [
     "Sāvatthī"
   ],

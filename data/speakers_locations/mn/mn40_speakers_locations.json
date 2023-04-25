@@ -5,7 +5,8 @@
     "Assapura"
   ],
   "mn40:1.5^speaker": "The mendicants",
-  "mn40:1.5^where_before_or_around_this_segment": [
+  "mn40:2.1+mn40:14.3^speaker": "the Buddha",
+  "mn40:14.3^where_before_or_around_this_segment": [
     "The land of the Aṅgas near the Aṅgan town named Assapura"
   ],
   "mn40^initial_location_dppn_headword": [

@@ -5,11 +5,12 @@
     "Jetavana"
   ],
   "mn20:1.5^speaker": "The mendicants",
-  "mn20:1.5^where_before_or_around_this_segment": [
+  "mn20:1.5^+mn8.13^speaker": "The mendicants",
+  "mn8.13^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn20:1.5^who_mentioned_before_or_around_this_segment": [
+  "mn8.13^who_mentioned_before_or_around_this_segment": [
     "Anāthapiṇḍika"
   ],
   "mn20^initial_location_dppn_headword": [

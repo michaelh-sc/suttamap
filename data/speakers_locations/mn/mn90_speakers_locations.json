@@ -6,7 +6,7 @@
     "Pasenadi",
     "Kosala"
   ],
-  "mn90:2.7^speaker": "man",
+  "mn90:2.7^speaker": "a certain man",
   "mn90:3.4^speaker": "sisters Somā and Sakulā",
   "mn90:4.2^speaker": "King Pasenadi of Kosala",
   "mn90:4.2^who_else_mentioned": [
@@ -33,12 +33,12 @@
   "mn90:6.3^who_else_mentioned": [
     "Ākāsa"
   ],
-  "mn90:7.2+mn90:7.3^speaker": "man",
+  "mn90:7.2+mn90:7.3^speaker": "a certain man",
   "mn90:7.2+mn90:7.3^who_else_mentioned": [
     "Sañjaya",
     "Pasenadi"
   ],
-  "mn90:7.4^speaker": "man",
+  "mn90:7.4^speaker": "a certain man",
   "mn90:8.2+mn90:8.3^speaker": "King Pasenadi of Kosala",
   "mn90:8.2+mn90:8.3^who_else_mentioned": [
     "Buddha"
@@ -80,8 +80,42 @@
     "General Viḍūḍabha",
     "Sañjaya"
   ],
+  "mn90:12.14^speaker": "the Buddha",
+  "mn90:13.1+mn90:13.2^speaker": "King Pasenadi of Kosala",
+  "mn90:13.3^speaker": "the Buddha",
+  "mn90:13.5^speaker": "King Pasenadi of Kosala",
+  "mn90:13.6^speaker": "the Buddha",
+  "mn90:14.2^speaker": "General Viḍūḍabha",
+  "mn90:14.4+mn90:14.6^speaker": "Ānanda (thought)",
+  "mn90:14.8+mn90:14.10^speaker": "Ānanda",
+  "mn90:14.11^speaker": "General Viḍūḍabha",
+  "mn90:14.12+mn90:14.13^speaker": "Ānanda",
+  "mn90:14.14^speaker": "General Viḍūḍabha",
+  "mn90:14.15+mn90:14.16^speaker": "Ānanda",
+  "mn90:14.17+mn90:14.19^speaker": "General Viḍūḍabha",
+  "mn90:14.20+mn90:14.21^speaker": "Ānanda",
+  "mn90:14.22^speaker": "General Viḍūḍabha",
+  "mn90:14.23^speaker": "Ānanda",
+  "mn90:15.2^speaker": "King Pasenadi of Kosala",
+  "mn90:15.3^speaker": "the Buddha",
+  "mn90:15.3^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn90:15.4+mn90:15.6^speaker": "King Pasenadi of Kosala",
+  "mn90:15.7^speaker": "the Buddha",
+  "mn90:15.9^speaker": "King Pasenadi of Kosala",
+  "mn90:15.10^speaker": "the Buddha",
+  "mn90:16.2^speaker": "a certain man",
+  "mn90:16.2^who_else_mentioned": [
+    "Sañjaya"
+  ],
+  "mn90:16.4^speaker": "King Pasenadi of Kosala",
+  "mn90:16.5^speaker": "Sañjaya",
+  "mn90:16.7^speaker": "General Viḍūḍabha",
+  "mn90:17.2^speaker": "a certain man",
+  "mn90:17.4+mn90:17.15^speaker": "King Pasenadi of Kosala",
+  "mn90:17.16^speaker": "the Buddha",
   "mn90^initial_location_dppn_headword": [
-    "Isipatana",
     "Kaṇṇakatthala"
   ],
   "mn90^where": "Ujuñña, deer park at Kaṇṇakatthala"

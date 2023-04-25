@@ -3,10 +3,13 @@
   "sn47.27:1.3+sn47.27:1.4^speaker": "the Buddha (assumed)",
   "sn47.27:1.5+sn47.27:2.6^speaker": "the Buddha (assumed)",
   "sn47.27:1.5^where_before_or_around_this_segment": [
-    "The same setting"
+    "near Sāketa, in the Thorny Wood"
   ],
   "sn47.27:1.5^who_mentioned_before_or_around_this_segment": [
     "An adept"
   ],
-  "sn47.27^where": "The same setting"
+  "sn47.27^where^initial_location_dppn_headword": [
+    "Sāketa"
+  ],
+  "sn47.27^where": "near Sāketa, in the Thorny Wood"
 }

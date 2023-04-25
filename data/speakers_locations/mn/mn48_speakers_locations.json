@@ -1,18 +1,23 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn48:4.2^speaker": "the Buddha",
   "mn48:4.4^speaker": "a mendicant",
   "mn48:4.5^speaker": "that monk",
   "mn48:4.6^speaker": "those monks",
+  "mn48:4.7+mn48:4.8^speaker": "the Buddha",
   "mn48:4.9^speaker": "those monks",
+  "mn48:5.1+mn48:5.2^speaker": "the Buddha",
   "mn48:5.3^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
   "mn48:5.3^speaker": "those monks",
+  "mn48:5.4+mn48:5.6^speaker": "the Buddha", 
+  "mn48:5.6+mn48:15.2^speaker": "the Buddha", 
   "mn48:5.3^where_before_or_around_this_segment": [
     "Kosambi",
     "in Ghosita's Monastery"
   ],
-  "mn48:5.3^who_present_before_or_around_this_segment": [
+  "mn48:15.3^who_present_before_or_around_this_segment": [
     "the Buddha"
   ],
   "mn48^initial_location_dppn_headword": [

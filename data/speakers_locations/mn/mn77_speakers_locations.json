@@ -16,21 +16,7 @@
   "mn77:5.11^who_else_mentioned": [
     "Udāyī"
   ],
-  "mn77:6.31^speaker": "Sakuludāyī",
-  "mn77:6.52^speaker": "Sakuludāyī",
-  "mn77:6.61^speaker": "Wanderers",
-  "mn77:6.61^who_else_mentioned": [
-    "the Blessed One"
-  ],
-  "mn77:6.64^speaker": "Wanderers",
-  "mn77:6.64^who_else_mentioned": [
-    "Buddha"
-  ],
-  "mn77:6.69^speaker": "Wanderers",
-  "mn77:6.69^who_else_mentioned": [
-    "Buddha"
-  ],
-  "mn77:6.70^speaker": "Disciples of the ascetic Buddha",
+  "mn77:6.1+mn77:6.72^speaker": "the Buddha",
   "mn77:7.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],

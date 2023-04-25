@@ -18,7 +18,7 @@
   "mn127:13.5^who_else_mentioned": [
     "Kaccāna"
   ],
-  "mn127:14.1^speaker": "Abhiya Kaccāna",
+  "mn127:14.1^speaker": "Sabhiya Kaccāna",
   "mn127:14.1^who_else_mentioned": [
     "Anuruddha"
   ],
@@ -26,17 +26,17 @@
   "mn127:14.2+mn127:14.4^who_else_mentioned": [
     "Kaccāna"
   ],
-  "mn127:14.6^speaker": "Abhiya Kaccāna",
+  "mn127:14.6^speaker": "Sabhiya Kaccāna",
   "mn127:14.8+mn127:14.25^speaker": "Anuruddha",
   "mn127:14.8+mn127:14.25^who_else_mentioned": [
     "Kaccāna"
   ],
-  "mn127:14.27^speaker": "Abhiya Kaccāna",
+  "mn127:14.27^speaker": "Sabhiya Kaccāna",
   "mn127:14.29^speaker": "Anuruddha",
   "mn127:14.29^who_else_mentioned": [
     "Kaccāna"
   ],
-  "mn127:15.1+mn127:15.3^speaker": "Abhiya Kaccāna",
+  "mn127:15.1+mn127:15.3^speaker": "Sabhiya Kaccāna",
   "mn127:15.1+mn127:15.3^who_else_mentioned": [
     "Anuruddha"
   ],
@@ -44,10 +44,11 @@
   "mn127:15.4^who_else_mentioned": [
     "Kaccāna"
   ],
-  "mn127:16.1^speaker": "Abhiya Kaccāna",
+  "mn127:16.1^speaker": "Sabhiya Kaccāna",
   "mn127:16.1^who_else_mentioned": [
     "Anuruddha"
   ],
+  "mn127:16.2+mn127:16.15^speaker": "Anuruddha",
   "mn127:16.16^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
@@ -62,6 +63,9 @@
   "mn127:16.16^who_else_mentioned": [
     "Kaccāna"
   ],
+  "mn127:17.2+mn127:17.7^speaker": "Sabhiya Kaccāna",
+  "mn127:17.8+mn127:17.10^speaker": "Anuruddha",
+  "mn127:18.2+mn127:18.3^speaker": "Sabhiya Kaccāna",
   "mn127^initial_location_dppn_headword": [
     "Jetavana"
   ],

@@ -20,27 +20,23 @@
   "sn22.90:8.1+sn22.90:8.3^who_else_mentioned": [
     "Channa"
   ],
-  "sn22.90:8.5^speaker": "Channa",
-  "sn22.90:9.6^speaker": "Channa",
-  "sn22.90:9.10^speaker": "Ānanda",
-  "sn22.90:9.11^event_dppn_headwords_before_or_around_this_segment": [
+  "sn22.90:9.1+sn22.90:9.17^speaker": "Ānanda",
+  "sn22.90:10.1+sn22.90:10.2^speaker": "Channa",
+  "sn22.90:10.2^event_dppn_headwords_before_or_around_this_segment": [
     "Bārānasī",
     "Isipatana"
   ],
-  "sn22.90:9.11^speaker": "Ānanda",
-  "sn22.90:9.11^where_before_or_around_this_segment": [
-    "Benares",
-    "in the deer park at Isipatana"
+  "sn22.90:10.2^where_before_or_around_this_segment": [
+    "Benares in the deer park at Isipatana"
   ],
-  "sn22.90:9.11^who_present_before_or_around_this_segment": [
+  "sn22.90:10.2^who_present_before_or_around_this_segment": [
     "the senior mendicants"
   ],
-  "sn22.90:9.11^who_mentioned_before_or_around_this_segment": [
+  "sn22.90:10.2^who_mentioned_before_or_around_this_segment": [
     "Kaccānagotta"
   ],
   "sn22.90^initial_location_dppn_headword": [
-    "Bārānasī",
-    "Isipatana"
+    "Bārānasī"
   ],
   "sn22.90^where": "Benares, in the deer park at Isipatana"
 }

@@ -4,8 +4,9 @@
   "an3.123:1.4^speaker": "the mendicants",
   "an3.123:2.1+an3.123:5.9^speaker": "the Buddha (assumed)",
   "an3.123:2.1^where_before_or_around_this_segment": [
-    "Kusināra",
+    "Kusinārā",
     "in the Forest of Offerings"
   ],
-  "an3.123^where": "Kusināra, in the Forest of Offerings"
+  "an3.123^initial_geographic_location": "Kusinārā",
+  "an3.123^where": "Kusinārā, in the Forest of Offerings"
 }

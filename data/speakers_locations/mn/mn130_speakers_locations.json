@@ -17,10 +17,12 @@
     "Jeta's Grove",
     "Sāvatthī"
   ],
-  "mn130:8.11^who_present_before_or_around_this_segment": [
+  "mn130:2.1+mn130:29.1^speaker": "the Buddha",
+  "mn130:30.3+mn130:30.18^speaker": "the Buddha",
+  "mn130:30.18^who_present_before_or_around_this_segment": [
     "Anāthapiṇḍika's monastery"
   ],
-  "mn130:8.11^who_mentioned_before_or_around_this_segment": [
+  "mn130:30.18^who_mentioned_before_or_around_this_segment": [
     "King Yama",
     "the wardens of hell",
     "the fifth messenger of the gods"

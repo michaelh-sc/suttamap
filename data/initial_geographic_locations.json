@@ -1,10 +1,7 @@
 {
   "an1.1-10": {
     "location_dppn_headword": "Jetavana",
-    "location_text": [
-      "Jeta's Grove",
-      "Anāthapiṇḍika's monastery"
-    ],
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -12,28 +9,10 @@
         27.509466
       ]
     }
-  },
-  "an1.248-257": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Hatthi Village"
-    ],
-    "geometry": {}
-  },
-  "an1.333-377": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "India"
-    ],
-    "geometry": {}
   },
   "an2.1-10": {
     "location_dppn_headword": "Jetavana",
-    "location_text": [
-      "Jeta's Grove",
-      "Anāthapiṇḍika's monastery",
-      "Sāvatthī"
-    ],
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -41,14 +20,6 @@
         27.509466
       ]
     }
-  },
-  "an2.32-41": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Gunda's Grove",
-      "Madhurā"
-    ],
-    "geometry": {}
   },
   "an3.1": {
     "location_dppn_headword": "Jetavana",
@@ -83,13 +54,6 @@
       ]
     }
   },
-  "an3.33": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Sāriputta"
-    ],
-    "geometry": {}
-  },
   "an3.35": {
     "location_dppn_headword": "Āḷavī",
     "location_text": "Āḷavī, on a mat of leaves by a cow-path in a grove of Indian Rosewood",
@@ -100,13 +64,6 @@
         26.101153
       ]
     }
-  },
-  "an3.48": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Himalayas"
-    ],
-    "geometry": {}
   },
   "an3.60": {
     "location_dppn_headword": "",
@@ -128,13 +85,6 @@
         25.001967
       ]
     }
-  },
-  "an3.65": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Kesamutta"
-    ],
-    "geometry": {}
   },
   "an3.70": {
     "location_dppn_headword": "Sāvatthī",
@@ -191,13 +141,6 @@
       ]
     }
   },
-  "an3.80": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "India"
-    ],
-    "geometry": {}
-  },
   "an3.84": {
     "location_dppn_headword": "Vesāli",
     "location_text": "Vesālī, at the Great Wood, in the hall with the peaked roof",
@@ -214,24 +157,16 @@
     "location_text": "Paṅkadhā and Rājagaha",
     "geometry": {}
   },
-  "an3.100": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "an3.101": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
   "an3.123": {
-    "location_dppn_headword": "",
-    "location_text": "Kusināra, in the Forest of Offerings",
-    "geometry": {}
+    "location_dppn_headword": "Kusinārā",
+    "location_text": "Kusinārā, in the Forest of Offerings",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.8835179,
+        26.7371164
+      ]
+    }
   },
   "an3.125": {
     "location_dppn_headword": "Vesāli",
@@ -277,13 +212,6 @@
       ]
     }
   },
-  "an3.137": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Makkhali"
-    ],
-    "geometry": {}
-  },
   "an3.143": {
     "location_dppn_headword": "Rājagaha",
     "location_text": "Rājagaha, at the monastery of the wanderers in the peacocks' feeding ground",
@@ -296,9 +224,87 @@
     }
   },
   "an4.1": {
-    "location_dppn_headword": "V",
+    "location_dppn_headword": "Vajjī",
     "location_text": "the land of the Vajjis at the village of Bhaṇḍa",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            84.4747778,
+            26.2245227
+          ],
+          [
+            84.5790667,
+            25.9385529
+          ],
+          [
+            84.8645141,
+            25.7211391
+          ],
+          [
+            85.1293819,
+            25.6568238
+          ],
+          [
+            85.4354233,
+            25.6320759
+          ],
+          [
+            85.7099001,
+            25.6320744
+          ],
+          [
+            86.0282924,
+            25.7409099
+          ],
+          [
+            86.2574867,
+            25.8670498
+          ],
+          [
+            86.3220192,
+            26.0594142
+          ],
+          [
+            86.4429175,
+            26.3032469
+          ],
+          [
+            86.377141,
+            26.6375128
+          ],
+          [
+            85.9983396,
+            26.9977273
+          ],
+          [
+            85.5480983,
+            27.051509
+          ],
+          [
+            85.2813721,
+            26.9661418
+          ],
+          [
+            84.9880077,
+            26.7576255
+          ],
+          [
+            84.86454,
+            26.6472347
+          ],
+          [
+            84.5351721,
+            26.4999589
+          ],
+          [
+            84.4747778,
+            26.2245227
+          ]
+        ]
+      ]
+    }
   },
   "an4.21": {
     "location_dppn_headword": "Jetavana",
@@ -475,13 +481,6 @@
       ]
     }
   },
-  "an4.100": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Potaliya"
-    ],
-    "geometry": {}
-  },
   "an4.101": {
     "location_dppn_headword": "Jetavana",
     "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
@@ -514,13 +513,6 @@
         25.338984
       ]
     }
-  },
-  "an4.177": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Rāhula"
-    ],
-    "geometry": {}
   },
   "an4.180": {
     "location_dppn_headword": "Bhoganagara",
@@ -588,13 +580,6 @@
       ]
     }
   },
-  "an4.193": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Bhaddiya"
-    ],
-    "geometry": {}
-  },
   "an4.194": {
     "location_dppn_headword": "Sāmuga",
     "location_text": "the land of the Koliyans, Sāpūga",
@@ -661,20 +646,6 @@
       ]
     }
   },
-  "an5.23": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
-  "an5.28": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
   "an5.30": {
     "location_dppn_headword": "Iccānaṅgala",
     "location_text": "Icchānaṅgala",
@@ -724,13 +695,6 @@
       ]
     }
   },
-  "an5.40": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Himalayas"
-    ],
-    "geometry": {}
-  },
   "an5.41": {
     "location_dppn_headword": "Jetavana",
     "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
@@ -765,9 +729,15 @@
     }
   },
   "an5.50": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Pātaligāma",
     "location_text": "Pāṭaliputta, in the Chicken Monastery",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.159149,
+        25.576511
+      ]
+    }
   },
   "an5.51": {
     "location_dppn_headword": "Jetavana",
@@ -801,13 +771,6 @@
         26.014521
       ]
     }
-  },
-  "an5.68": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
   },
   "an5.77": {
     "location_dppn_headword": "",
@@ -912,37 +875,168 @@
       ]
     }
   },
-  "an5.179": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Holy One"
-    ],
-    "geometry": {}
-  },
   "an5.180": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "the land of the Kosalans",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "an5.184": {
     "location_dppn_headword": "",
     "location_text": "Charnel ground",
-    "geometry": {}
-  },
-  "an5.192": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Aṭṭhaka",
-      "Vāmaka",
-      "Vāmadeva",
-      "Vessāmitta",
-      "Yamadaggi",
-      "Aṅgīrasa",
-      "Bhāradvāja",
-      "Vāseṭṭha",
-      "Kassapa",
-      "Bhagu"
-    ],
     "geometry": {}
   },
   "an5.194": {
@@ -967,13 +1061,6 @@
       ]
     }
   },
-  "an5.196": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Himalaya"
-    ],
-    "geometry": {}
-  },
   "an5.201": {
     "location_dppn_headword": "Kimilā",
     "location_text": "Kimbilā in the Freshwater Mangrove Wood",
@@ -994,13 +1081,6 @@
         27.509466
       ]
     }
-  },
-  "an6.2": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
   },
   "an6.10": {
     "location_dppn_headword": "Kapilavatthu",
@@ -1030,30 +1110,189 @@
     }
   },
   "an6.18": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "the land of the Kosalans",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "an6.19": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "an6.20": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "an6.21": {
     "location_dppn_headword": "",
     "location_text": "the little village of Sāma, by a lotus pond",
-    "geometry": {}
-  },
-  "an6.24": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Himalaya"
-    ],
     "geometry": {}
   },
   "an6.28": {
@@ -1192,11 +1431,6 @@
       ]
     }
   },
-  "an6.56": {
-    "location_dppn_headword": "",
-    "location_text": "At the time of his death",
-    "geometry": {}
-  },
   "an6.57": {
     "location_dppn_headword": "Gijjhakūṭa",
     "location_text": "Vulture's Peak Mountain, near Rājagaha",
@@ -1209,9 +1443,15 @@
     }
   },
   "an6.59": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "an6.60": {
     "location_dppn_headword": "Bārānasī",
@@ -1251,13 +1491,6 @@
       ]
     }
   },
-  "an6.70": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
   "an7.1": {
     "location_dppn_headword": "Jetavana",
     "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
@@ -1279,13 +1512,6 @@
         27.509466
       ]
     }
-  },
-  "an7.7": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Rohaṇa"
-    ],
-    "geometry": {}
   },
   "an7.21": {
     "location_dppn_headword": "Vesāli",
@@ -1429,14 +1655,6 @@
     "location_text": "The land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood and near Kallavāḷamutta Village in the land of the Magadhans.",
     "geometry": {}
   },
-  "an7.62": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā",
-      "India"
-    ],
-    "geometry": {}
-  },
   "an7.63": {
     "location_dppn_headword": "",
     "location_text": "the home of the householder Anāthapiṇḍika",
@@ -1459,16 +1677,163 @@
     "geometry": {}
   },
   "an7.72": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "the land of the Kosalans",
-    "geometry": {}
-  },
-  "an7.73": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Araka"
-    ],
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "an8.1": {
     "location_dppn_headword": "Jetavana",
@@ -1552,9 +1917,87 @@
     }
   },
   "an8.22": {
-    "location_dppn_headword": "V",
+    "location_dppn_headword": "Vajjī",
     "location_text": "the land of the Vajjis at the village of Hatthi",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            84.4747778,
+            26.2245227
+          ],
+          [
+            84.5790667,
+            25.9385529
+          ],
+          [
+            84.8645141,
+            25.7211391
+          ],
+          [
+            85.1293819,
+            25.6568238
+          ],
+          [
+            85.4354233,
+            25.6320759
+          ],
+          [
+            85.7099001,
+            25.6320744
+          ],
+          [
+            86.0282924,
+            25.7409099
+          ],
+          [
+            86.2574867,
+            25.8670498
+          ],
+          [
+            86.3220192,
+            26.0594142
+          ],
+          [
+            86.4429175,
+            26.3032469
+          ],
+          [
+            86.377141,
+            26.6375128
+          ],
+          [
+            85.9983396,
+            26.9977273
+          ],
+          [
+            85.5480983,
+            27.051509
+          ],
+          [
+            85.2813721,
+            26.9661418
+          ],
+          [
+            84.9880077,
+            26.7576255
+          ],
+          [
+            84.86454,
+            26.6472347
+          ],
+          [
+            84.5351721,
+            26.4999589
+          ],
+          [
+            84.4747778,
+            26.2245227
+          ]
+        ]
+      ]
+    }
   },
   "an8.23": {
     "location_dppn_headword": "Āḷavī",
@@ -1616,31 +2059,9 @@
       ]
     }
   },
-  "an8.42": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Aṅga",
-      "Magadha",
-      "Kāsī",
-      "Kosala",
-      "Vajjī",
-      "Malla",
-      "Ceti",
-      "Vaṅga",
-      "Kuru",
-      "Pañcāla",
-      "Maccha",
-      "Sūrusena",
-      "Kamboja"
-    ],
-    "geometry": {}
-  },
   "an8.43": {
     "location_dppn_headword": "Sāvatthī",
-    "location_text": [
-      "Sāvatthī in the Eastern Monastery",
-      "the stilt longhouse of Migāra's mother"
-    ],
+    "location_text": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1776,14 +2197,26 @@
     }
   },
   "an8.73": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "an8.74": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "an8.86": {
     "location_dppn_headword": "Iccānaṅgala",
@@ -1895,14 +2328,6 @@
       ]
     }
   },
-  "an9.21": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Uttarakuru",
-      "India"
-    ],
-    "geometry": {}
-  },
   "an9.26": {
     "location_dppn_headword": "Rājagaha",
     "location_text": "Bamboo Grove, near Rājagaha",
@@ -1979,16 +2404,6 @@
         27.519508
       ]
     }
-  },
-  "an10.15": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges",
-      "Yamunā",
-      "Aciravatī",
-      "Sarabhū"
-    ],
-    "geometry": {}
   },
   "an10.18": {
     "location_dppn_headword": "Jetavana",
@@ -2168,14 +2583,6 @@
     "location_text": "Kajaṅgalā in a bamboo grove",
     "geometry": {}
   },
-  "an10.29": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Kosala",
-      "Great Kings"
-    ],
-    "geometry": {}
-  },
   "an10.30": {
     "location_dppn_headword": "Jetavana",
     "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
@@ -2187,66 +2594,16 @@
       ]
     }
   },
-  "an10.32": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Upāli"
-    ],
-    "geometry": {}
-  },
-  "an10.35": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Upāli"
-    ],
-    "geometry": {}
-  },
-  "an10.37": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Saṅgha"
-    ],
-    "geometry": {}
-  },
-  "an10.38": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Saṅgha"
-    ],
-    "geometry": {}
-  },
-  "an10.39": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Saṅgha"
-    ],
-    "geometry": {}
-  },
-  "an10.40": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Saṅgha"
-    ],
-    "geometry": {}
-  },
-  "an10.42": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Upāli"
-    ],
-    "geometry": {}
-  },
-  "an10.43": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Upāli"
-    ],
-    "geometry": {}
-  },
   "an10.44": {
-    "location_dppn_headword": "",
-    "location_text": "Kusināra, in the Forest of Offerings",
-    "geometry": {}
+    "location_dppn_headword": "Kusinārā",
+    "location_text": "Kusinārā, in the Forest of Offerings",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.8835179,
+        26.7371164
+      ]
+    }
   },
   "an10.46": {
     "location_dppn_headword": "Kapilavatthu",
@@ -2430,9 +2787,7 @@
   },
   "an10.91": {
     "location_dppn_headword": "Jetavana",
-    "location_text": [
-      "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
-    ],
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2474,20 +2829,6 @@
       ]
     }
   },
-  "an10.97": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
-  "an10.99": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Upāli"
-    ],
-    "geometry": {}
-  },
   "an10.107": {
     "location_dppn_headword": "",
     "location_text": "Washing (country in the south)",
@@ -2496,13 +2837,6 @@
   "an10.167": {
     "location_dppn_headword": "",
     "location_text": "At that time it was the sabbath.",
-    "geometry": {}
-  },
-  "an10.172": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Mahākaccāna"
-    ],
     "geometry": {}
   },
   "an10.176": {
@@ -2528,9 +2862,15 @@
     }
   },
   "an11.9": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "an11.10": {
     "location_dppn_headword": "Rājagaha",
@@ -2577,15 +2917,9 @@
     }
   },
   "an11.16": {
-    "location_dppn_headword": "Vesāli",
+    "location_dppn_headword": "Beluva",
     "location_text": "Vesālī in the little village of Beluva",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        85.10951,
-        26.014521
-      ]
-    }
+    "geometry": {}
   },
   "dn1": {
     "location_dppn_headword": "Ambalaṭṭhikā",
@@ -2637,9 +2971,15 @@
     "geometry": {}
   },
   "dn6": {
-    "location_dppn_headword": "V",
+    "location_dppn_headword": "Vesāli",
     "location_text": "Vesālī",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
   },
   "dn7": {
     "location_dppn_headword": "Kosambī",
@@ -2745,9 +3085,15 @@
     }
   },
   "dn18": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "dn19": {
     "location_dppn_headword": "Gijjhakūṭa",
@@ -2821,7 +3167,7 @@
     }
   },
   "dn26": {
-    "location_dppn_headword": "M",
+    "location_dppn_headword": "Mātula",
     "location_text": "The land of the Magadhans at Mātulā",
     "geometry": {}
   },
@@ -2837,14 +3183,114 @@
     }
   },
   "dn28": {
-    "location_dppn_headword": "N",
+    "location_dppn_headword": "Nāḷandā",
     "location_text": "Nālandā in Pāvārika's mango grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.443521,
+        25.136951
+      ]
+    }
   },
   "dn29": {
-    "location_dppn_headword": "S",
+    "location_dppn_headword": "Sākya",
     "location_text": "the land of the Sakyans in a stilt longhouse in a mango grove belonging to the Sakyan family named Vedhañña",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            82.8945919,
+            27.4887811
+          ],
+          [
+            82.9206879,
+            27.4430902
+          ],
+          [
+            82.9666899,
+            27.4010329
+          ],
+          [
+            83.0051428,
+            27.3607906
+          ],
+          [
+            83.1438449,
+            27.3248052
+          ],
+          [
+            83.3917237,
+            27.2900279
+          ],
+          [
+            83.4123228,
+            27.3126036
+          ],
+          [
+            83.4291339,
+            27.3544982
+          ],
+          [
+            83.4734086,
+            27.3884035
+          ],
+          [
+            83.478928,
+            27.458017
+          ],
+          [
+            83.494191,
+            27.521351
+          ],
+          [
+            83.532143,
+            27.576765
+          ],
+          [
+            83.547098,
+            27.611937
+          ],
+          [
+            83.39859,
+            27.66194
+          ],
+          [
+            83.287354,
+            27.688392
+          ],
+          [
+            83.188477,
+            27.746746
+          ],
+          [
+            83.062134,
+            27.766191
+          ],
+          [
+            82.974243,
+            27.756469
+          ],
+          [
+            82.913818,
+            27.71271
+          ],
+          [
+            82.902832,
+            27.634874
+          ],
+          [
+            82.897339,
+            27.556982
+          ],
+          [
+            82.8945919,
+            27.4887811
+          ]
+        ]
+      ]
+    }
   },
   "dn30": {
     "location_dppn_headword": "Jetavana",
@@ -3426,9 +3872,15 @@
     }
   },
   "mn56": {
-    "location_dppn_headword": "N",
+    "location_dppn_headword": "Nāḷandā",
     "location_text": "Nālandā in Pāvārika's mango grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.443521,
+        25.136951
+      ]
+    }
   },
   "mn57": {
     "location_dppn_headword": "Haliddavasana",
@@ -3747,9 +4199,15 @@
     }
   },
   "mn89": {
-    "location_dppn_headword": "M",
+    "location_dppn_headword": "Medāḷupa",
     "location_text": "the land of the Sakyans, near the Sakyan town named Medaḷumpa",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.233795,
+        27.626357
+      ]
+    }
   },
   "mn90": {
     "location_dppn_headword": "Isipatana",
@@ -4771,13 +5229,6 @@
       ]
     }
   },
-  "sn1.50": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Vebhaliṅga"
-    ],
-    "geometry": {}
-  },
   "sn1.71": {
     "location_dppn_headword": "Sāvatthī",
     "location_text": "Sāvatthī",
@@ -4973,13 +5424,6 @@
   "sn2.22": {
     "location_dppn_headword": "",
     "location_text": "the Buddha's presence",
-    "geometry": {}
-  },
-  "sn2.24": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Vebhaliṅga"
-    ],
     "geometry": {}
   },
   "sn2.25": {
@@ -5606,7 +6050,7 @@
     }
   },
   "sn4.18": {
-    "location_dppn_headword": "P",
+    "location_dppn_headword": "Pañcasāla",
     "location_text": "the land of the Magadhans near the brahmin village of Pañcasālā",
     "geometry": {}
   },
@@ -5622,9 +6066,163 @@
     }
   },
   "sn4.20": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "land of the Kosalans, in a wilderness hut on the slopes of the Himalayas",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn4.21": {
     "location_dppn_headword": "Silāvatī",
@@ -6027,14 +6625,174 @@
     "geometry": {}
   },
   "sn7.10": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "the land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn7.11": {
-    "location_dppn_headword": "E",
+    "location_dppn_headword": "Ekanāḷā",
     "location_text": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekanāḷa",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.4299316,
+        23.4834007
+      ]
+    }
   },
   "sn7.12": {
     "location_dppn_headword": "Sāvatthī",
@@ -6251,9 +7009,163 @@
     }
   },
   "sn7.18": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn7.19": {
     "location_dppn_headword": "Sāvatthī",
@@ -6432,44 +7344,1276 @@
     }
   },
   "sn9.1": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "the land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.2": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "the land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.3": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.4": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "the land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.5": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "the land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.6": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "The land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.7": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "The land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.8": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "The land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.9": {
     "location_dppn_headword": "Vesāli",
@@ -6483,19 +8627,481 @@
     }
   },
   "sn9.10": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "The land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.11": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "The land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.12": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "The land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn9.13": {
     "location_dppn_headword": "",
@@ -6503,9 +9109,163 @@
     "geometry": {}
   },
   "sn9.14": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "The land of the Kosalans in a certain forest grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn10.1": {
     "location_dppn_headword": "Rājagaha",
@@ -7310,9 +10070,15 @@
     }
   },
   "sn12.45": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "sn12.46": {
     "location_dppn_headword": "Sāvatthī",
@@ -7865,9 +10631,15 @@
     }
   },
   "sn14.13": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "sn14.14": {
     "location_dppn_headword": "Sāvatthī",
@@ -9492,14 +12264,274 @@
     }
   },
   "sn22.3": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Avanti",
     "location_text": "The land of the Avantis near Kuraraghara on Steep Mountain",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            74.5715981,
+            22.4662177
+          ],
+          [
+            74.6592951,
+            22.319225
+          ],
+          [
+            74.7469971,
+            22.217757
+          ],
+          [
+            74.8840398,
+            22.121292
+          ],
+          [
+            75.0101222,
+            22.0400071
+          ],
+          [
+            75.1416889,
+            21.9688444
+          ],
+          [
+            75.2951872,
+            21.9383328
+          ],
+          [
+            75.4157927,
+            21.9129045
+          ],
+          [
+            75.6021848,
+            21.9332468
+          ],
+          [
+            75.8433956,
+            21.9790118
+          ],
+          [
+            76.0681571,
+            22.0501749
+          ],
+          [
+            76.2216488,
+            22.1162217
+          ],
+          [
+            76.342248,
+            22.17716
+          ],
+          [
+            76.5834416,
+            22.2938885
+          ],
+          [
+            76.6382385,
+            22.4865008
+          ],
+          [
+            76.6162894,
+            22.6737746
+          ],
+          [
+            76.5066437,
+            22.7900494
+          ],
+          [
+            76.473737,
+            22.9567145
+          ],
+          [
+            76.380541,
+            23.0626599
+          ],
+          [
+            76.3037892,
+            23.1987562
+          ],
+          [
+            76.1557825,
+            23.3196077
+          ],
+          [
+            75.9584525,
+            23.3799869
+          ],
+          [
+            75.6460192,
+            23.2994533
+          ],
+          [
+            75.3390638,
+            23.2692442
+          ],
+          [
+            75.1307675,
+            23.1382598
+          ],
+          [
+            74.9060252,
+            23.0828119
+          ],
+          [
+            74.7635013,
+            23.002114
+          ],
+          [
+            74.6374119,
+            22.8355116
+          ],
+          [
+            74.5990275,
+            22.6889275
+          ],
+          [
+            74.5716094,
+            22.5877416
+          ],
+          [
+            74.5715981,
+            22.4662177
+          ]
+        ]
+      ]
+    }
   },
   "sn22.4": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Avanti",
     "location_text": "The land of the Avantis near Kuraraghara on Steep Mountain",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            74.5715981,
+            22.4662177
+          ],
+          [
+            74.6592951,
+            22.319225
+          ],
+          [
+            74.7469971,
+            22.217757
+          ],
+          [
+            74.8840398,
+            22.121292
+          ],
+          [
+            75.0101222,
+            22.0400071
+          ],
+          [
+            75.1416889,
+            21.9688444
+          ],
+          [
+            75.2951872,
+            21.9383328
+          ],
+          [
+            75.4157927,
+            21.9129045
+          ],
+          [
+            75.6021848,
+            21.9332468
+          ],
+          [
+            75.8433956,
+            21.9790118
+          ],
+          [
+            76.0681571,
+            22.0501749
+          ],
+          [
+            76.2216488,
+            22.1162217
+          ],
+          [
+            76.342248,
+            22.17716
+          ],
+          [
+            76.5834416,
+            22.2938885
+          ],
+          [
+            76.6382385,
+            22.4865008
+          ],
+          [
+            76.6162894,
+            22.6737746
+          ],
+          [
+            76.5066437,
+            22.7900494
+          ],
+          [
+            76.473737,
+            22.9567145
+          ],
+          [
+            76.380541,
+            23.0626599
+          ],
+          [
+            76.3037892,
+            23.1987562
+          ],
+          [
+            76.1557825,
+            23.3196077
+          ],
+          [
+            75.9584525,
+            23.3799869
+          ],
+          [
+            75.6460192,
+            23.2994533
+          ],
+          [
+            75.3390638,
+            23.2692442
+          ],
+          [
+            75.1307675,
+            23.1382598
+          ],
+          [
+            74.9060252,
+            23.0828119
+          ],
+          [
+            74.7635013,
+            23.002114
+          ],
+          [
+            74.6374119,
+            22.8355116
+          ],
+          [
+            74.5990275,
+            22.6889275
+          ],
+          [
+            74.5716094,
+            22.5877416
+          ],
+          [
+            74.5715981,
+            22.4662177
+          ]
+        ]
+      ]
+    }
   },
   "sn22.5": {
     "location_dppn_headword": "Sāvatthī",
@@ -11450,9 +14482,7 @@
   },
   "sn23.23-33": {
     "location_dppn_headword": "Sāvatthī",
-    "location_text": [
-      "Sāvatthī"
-    ],
+    "location_text": "Sāvatthī",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -11474,9 +14504,7 @@
   },
   "sn23.35-45": {
     "location_dppn_headword": "Sāvatthī",
-    "location_text": [
-      "Sāvatthī"
-    ],
+    "location_text": "Sāvatthī",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -12642,9 +15670,7 @@
   },
   "sn33.11-15": {
     "location_dppn_headword": "Sāvatthī",
-    "location_text": [
-      "Sāvatthī"
-    ],
+    "location_text": "Sāvatthī",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -12655,9 +15681,7 @@
   },
   "sn33.16-20": {
     "location_dppn_headword": "Sāvatthī",
-    "location_text": [
-      "Sāvatthī"
-    ],
+    "location_text": "Sāvatthī",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -12734,9 +15758,7 @@
   },
   "sn33.51-54": {
     "location_dppn_headword": "Sāvatthī",
-    "location_text": [
-      "Sāvatthī"
-    ],
+    "location_text": "Sāvatthī",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -13110,9 +16132,7 @@
   },
   "sn35.33-42": {
     "location_dppn_headword": "Sāvatthī",
-    "location_text": [
-      "Sāvatthī"
-    ],
+    "location_text": "Sāvatthī",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -13123,9 +16143,7 @@
   },
   "sn35.43-51": {
     "location_dppn_headword": "Sāvatthī",
-    "location_text": [
-      "Sāvatthī"
-    ],
+    "location_text": "Sāvatthī",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -13166,13 +16184,6 @@
         25.03
       ]
     }
-  },
-  "sn35.68": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Samiddhi"
-    ],
-    "geometry": {}
   },
   "sn35.69": {
     "location_dppn_headword": "Rājagaha",
@@ -13218,14 +16229,6 @@
       ]
     }
   },
-  "sn35.88": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Sunāparanta",
-      "Puṇṇa"
-    ],
-    "geometry": {}
-  },
   "sn35.94": {
     "location_dppn_headword": "Sāvatthī",
     "location_text": "Sāvatthī",
@@ -13249,23 +16252,15 @@
     }
   },
   "sn35.113": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
-  },
-  "sn35.114": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Māra"
-    ],
-    "geometry": {}
-  },
-  "sn35.115": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Māra"
-    ],
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "sn35.118": {
     "location_dppn_headword": "Gijjhakūṭa",
@@ -13323,14 +16318,98 @@
     }
   },
   "sn35.125": {
-    "location_dppn_headword": "V",
+    "location_dppn_headword": "Vajjī",
     "location_text": "the land of the Vajjis at the village of Hatthi",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            84.4747778,
+            26.2245227
+          ],
+          [
+            84.5790667,
+            25.9385529
+          ],
+          [
+            84.8645141,
+            25.7211391
+          ],
+          [
+            85.1293819,
+            25.6568238
+          ],
+          [
+            85.4354233,
+            25.6320759
+          ],
+          [
+            85.7099001,
+            25.6320744
+          ],
+          [
+            86.0282924,
+            25.7409099
+          ],
+          [
+            86.2574867,
+            25.8670498
+          ],
+          [
+            86.3220192,
+            26.0594142
+          ],
+          [
+            86.4429175,
+            26.3032469
+          ],
+          [
+            86.377141,
+            26.6375128
+          ],
+          [
+            85.9983396,
+            26.9977273
+          ],
+          [
+            85.5480983,
+            27.051509
+          ],
+          [
+            85.2813721,
+            26.9661418
+          ],
+          [
+            84.9880077,
+            26.7576255
+          ],
+          [
+            84.86454,
+            26.6472347
+          ],
+          [
+            84.5351721,
+            26.4999589
+          ],
+          [
+            84.4747778,
+            26.2245227
+          ]
+        ]
+      ]
+    }
   },
   "sn35.126": {
-    "location_dppn_headword": "N",
+    "location_dppn_headword": "Nāḷandā",
     "location_text": "Nālandā in Pāvārika's mango grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.443521,
+        25.136951
+      ]
+    }
   },
   "sn35.127": {
     "location_dppn_headword": "Kosambī",
@@ -13376,7 +16455,7 @@
     "geometry": {}
   },
   "sn35.132": {
-    "location_dppn_headword": "M",
+    "location_dppn_headword": "Makkarakata",
     "location_text": "the land of the Avantis near Makkarakaṭa",
     "geometry": {}
   },
@@ -13482,13 +16561,6 @@
         27.5498798
       ]
     }
-  },
-  "sn35.244": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
   },
   "sn35.248": {
     "location_dppn_headword": "",
@@ -13645,19 +16717,37 @@
     }
   },
   "sn42.6": {
-    "location_dppn_headword": "N",
+    "location_dppn_headword": "Nāḷandā",
     "location_text": "Nālandā in Pāvārika's mango grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.443521,
+        25.136951
+      ]
+    }
   },
   "sn42.7": {
-    "location_dppn_headword": "N",
+    "location_dppn_headword": "Nāḷandā",
     "location_text": "Nālandā in Pāvārika's mango grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.443521,
+        25.136951
+      ]
+    }
   },
   "sn42.8": {
-    "location_dppn_headword": "N",
+    "location_dppn_headword": "Nāḷandā",
     "location_text": "Nālandā in Pāvārika's mango grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.443521,
+        25.136951
+      ]
+    }
   },
   "sn42.9": {
     "location_dppn_headword": "Nāḷandā",
@@ -13693,9 +16783,15 @@
     }
   },
   "sn42.13": {
-    "location_dppn_headword": "U",
+    "location_dppn_headword": "Uttara",
     "location_text": "the land of the Koliyans, Uttara",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.5812369,
+        27.3790824
+      ]
+    }
   },
   "sn43.1": {
     "location_dppn_headword": "Sāvatthī",
@@ -13780,9 +16876,15 @@
     }
   },
   "sn44.11": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "sn45.1": {
     "location_dppn_headword": "Jetavana",
@@ -13796,9 +16898,103 @@
     }
   },
   "sn45.2": {
-    "location_dppn_headword": "S",
+    "location_dppn_headword": "Sākya",
     "location_text": "The land of the Sakyans, Townsville",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            82.8945919,
+            27.4887811
+          ],
+          [
+            82.9206879,
+            27.4430902
+          ],
+          [
+            82.9666899,
+            27.4010329
+          ],
+          [
+            83.0051428,
+            27.3607906
+          ],
+          [
+            83.1438449,
+            27.3248052
+          ],
+          [
+            83.3917237,
+            27.2900279
+          ],
+          [
+            83.4123228,
+            27.3126036
+          ],
+          [
+            83.4291339,
+            27.3544982
+          ],
+          [
+            83.4734086,
+            27.3884035
+          ],
+          [
+            83.478928,
+            27.458017
+          ],
+          [
+            83.494191,
+            27.521351
+          ],
+          [
+            83.532143,
+            27.576765
+          ],
+          [
+            83.547098,
+            27.611937
+          ],
+          [
+            83.39859,
+            27.66194
+          ],
+          [
+            83.287354,
+            27.688392
+          ],
+          [
+            83.188477,
+            27.746746
+          ],
+          [
+            83.062134,
+            27.766191
+          ],
+          [
+            82.974243,
+            27.756469
+          ],
+          [
+            82.913818,
+            27.71271
+          ],
+          [
+            82.902832,
+            27.634874
+          ],
+          [
+            82.897339,
+            27.556982
+          ],
+          [
+            82.8945919,
+            27.4887811
+          ]
+        ]
+      ]
+    }
   },
   "sn45.3": {
     "location_dppn_headword": "Sāvatthī",
@@ -13971,14 +17167,26 @@
     "geometry": {}
   },
   "sn45.19": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Pātaligāma",
     "location_text": "Pāṭaliputta",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.159149,
+        25.576511
+      ]
+    }
   },
   "sn45.20": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Pātaligāma",
     "location_text": "Pāṭaliputta",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.159149,
+        25.576511
+      ]
+    }
   },
   "sn45.21": {
     "location_dppn_headword": "Sāvatthī",
@@ -14288,122 +17496,6 @@
       ]
     }
   },
-  "sn45.92-95": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Mahī river"
-    ],
-    "geometry": {}
-  },
-  "sn45.96": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges",
-      "Yamunā",
-      "Aciravatī",
-      "Sarabhū",
-      "Mahī"
-    ],
-    "geometry": {}
-  },
-  "sn45.97": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "sn45.98-102": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Mahī river"
-    ],
-    "geometry": {}
-  },
-  "sn45.103": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "sn45.104-108": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Mahī river"
-    ],
-    "geometry": {}
-  },
-  "sn45.109": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "sn45.110-114": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Mahī river"
-    ],
-    "geometry": {}
-  },
-  "sn45.115": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "sn45.116-120": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Mahī river"
-    ],
-    "geometry": {}
-  },
-  "sn45.121": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "sn45.122-126": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Mahī river"
-    ],
-    "geometry": {}
-  },
-  "sn45.127": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "sn45.128-132": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Mahī river"
-    ],
-    "geometry": {}
-  },
-  "sn45.133": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "sn45.134-138": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "the Mahī river"
-    ],
-    "geometry": {}
-  },
   "sn45.139": {
     "location_dppn_headword": "Sāvatthī",
     "location_text": "Sāvatthī",
@@ -14425,20 +17517,6 @@
         27.519508
       ]
     }
-  },
-  "sn45.151": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Himalayas"
-    ],
-    "geometry": {}
-  },
-  "sn45.160": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
   },
   "sn45.161": {
     "location_dppn_headword": "Sāvatthī",
@@ -14562,15 +17640,8 @@
     }
   },
   "sn46.30": {
-    "location_dppn_headword": "S",
+    "location_dppn_headword": "Sumbha",
     "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka",
-    "geometry": {}
-  },
-  "sn46.39": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Moreton Bay"
-    ],
     "geometry": {}
   },
   "sn46.41": {
@@ -14660,13 +17731,6 @@
         27.519508
       ]
     }
-  },
-  "sn46.77-88": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
   },
   "sn46.130": {
     "location_dppn_headword": "Sāvatthī",
@@ -14772,9 +17836,15 @@
     }
   },
   "sn47.12": {
-    "location_dppn_headword": "N",
+    "location_dppn_headword": "Nāḷandā",
     "location_text": "Nālandā in Pāvārika's mango grove",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.443521,
+        25.136951
+      ]
+    }
   },
   "sn47.13": {
     "location_dppn_headword": "Jetavana",
@@ -14832,29 +17902,47 @@
     }
   },
   "sn47.19": {
-    "location_dppn_headword": "S",
+    "location_dppn_headword": "Sumbha",
     "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka",
     "geometry": {}
   },
   "sn47.20": {
-    "location_dppn_headword": "S",
+    "location_dppn_headword": "Sumbha",
     "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka",
     "geometry": {}
   },
   "sn47.21": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Pātaligāma",
     "location_text": "Pāṭaliputta, in the Chicken Monastery",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.159149,
+        25.576511
+      ]
+    }
   },
   "sn47.22": {
-    "location_dppn_headword": "",
-    "location_text": "The same setting",
-    "geometry": {}
+    "location_dppn_headword": "Pātaligāma",
+    "location_text": "Pāṭaliputta, in the Chicken Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.159149,
+        25.576511
+      ]
+    }
   },
   "sn47.23": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Pātaligāma",
     "location_text": "Pāṭaliputta, in the Chicken Monastery",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.159149,
+        25.576511
+      ]
+    }
   },
   "sn47.24": {
     "location_dppn_headword": "Sāvatthī",
@@ -14890,14 +17978,26 @@
     }
   },
   "sn47.27": {
-    "location_dppn_headword": "",
-    "location_text": "The same setting",
-    "geometry": {}
+    "location_dppn_headword": "Sāketa",
+    "location_text": "near Sāketa, in the Thorny Wood",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.2,
+        26.8
+      ]
+    }
   },
   "sn47.28": {
-    "location_dppn_headword": "",
-    "location_text": "The same setting",
-    "geometry": {}
+    "location_dppn_headword": "Sāketa",
+    "location_text": "near Sāketa, in the Thorny Wood",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.2,
+        26.8
+      ]
+    }
   },
   "sn47.29": {
     "location_dppn_headword": "Rājagaha",
@@ -14911,9 +18011,15 @@
     }
   },
   "sn47.30": {
-    "location_dppn_headword": "",
-    "location_text": "the same setting",
-    "geometry": {}
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "near Rājagaha, in the Bamboo Grove, the squirrels’ feeding ground",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
   },
   "sn47.31": {
     "location_dppn_headword": "Sāvatthī",
@@ -14958,13 +18064,6 @@
         27.519508
       ]
     }
-  },
-  "sn47.51-62": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
   },
   "sn48.1": {
     "location_dppn_headword": "Sāvatthī",
@@ -15033,19 +18132,37 @@
     }
   },
   "sn48.46": {
-    "location_dppn_headword": "",
-    "location_text": "The same setting.",
-    "geometry": {}
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
   },
   "sn48.47": {
-    "location_dppn_headword": "",
-    "location_text": "The same setting.",
-    "geometry": {}
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
   },
   "sn48.48": {
-    "location_dppn_headword": "",
-    "location_text": "The same setting.",
-    "geometry": {}
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra’s mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
   },
   "sn48.49": {
     "location_dppn_headword": "Kosambī",
@@ -15145,20 +18262,6 @@
     "location_text": "India",
     "geometry": {}
   },
-  "sn48.71-82": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "sn48.125-136": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
   "sn49.1-12": {
     "location_dppn_headword": "Sāvatthī",
     "location_text": "Sāvatthī",
@@ -15169,20 +18272,6 @@
         27.519508
       ]
     }
-  },
-  "sn50.1-12": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
-  },
-  "sn50.55-66": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
   },
   "sn51.10": {
     "location_dppn_headword": "Vesāli",
@@ -15206,13 +18295,6 @@
       ]
     }
   },
-  "sn51.12": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
   "sn51.14": {
     "location_dppn_headword": "Sāvatthī",
     "location_text": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
@@ -15234,27 +18316,6 @@
         25.338984
       ]
     }
-  },
-  "sn51.17": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
-  "sn51.19": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
-  "sn51.20": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
   },
   "sn51.21": {
     "location_dppn_headword": "Sāvatthī",
@@ -15288,48 +18349,6 @@
         27.519508
       ]
     }
-  },
-  "sn51.28": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
-  "sn51.29": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
-  "sn51.30": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
-  "sn51.31": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
-  "sn51.32": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
-  },
-  "sn51.33-44": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges"
-    ],
-    "geometry": {}
   },
   "sn52.1": {
     "location_dppn_headword": "Sāvatthī",
@@ -15445,13 +18464,6 @@
         27.509466
       ]
     }
-  },
-  "sn52.12": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Brahmā"
-    ],
-    "geometry": {}
   },
   "sn53.1-12": {
     "location_dppn_headword": "Sāvatthī",
@@ -15591,19 +18603,185 @@
     }
   },
   "sn55.7": {
-    "location_dppn_headword": "K",
+    "location_dppn_headword": "Kosala",
     "location_text": "the land of the Kosalans, Bamboo Gate",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
   },
   "sn55.8": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika in the brick house",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "sn55.10": {
-    "location_dppn_headword": "",
+    "location_dppn_headword": "Nādikā",
     "location_text": "Nādika",
-    "geometry": {}
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.256652,
+        25.743004
+      ]
+    }
   },
   "sn55.11": {
     "location_dppn_headword": "Sāvatthī",
@@ -15836,17 +19014,6 @@
       ]
     }
   },
-  "sn55.42": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges",
-      "Yamuna",
-      "Aciravatī",
-      "Sarabhū",
-      "Mahī—"
-    ],
-    "geometry": {}
-  },
   "sn55.47": {
     "location_dppn_headword": "Kapilavatthu",
     "location_text": "Kapilavatthu",
@@ -15936,9 +19103,170 @@
     }
   },
   "sn56.21": {
-    "location_dppn_headword": "V",
+    "location_dppn_headword": "Vajjī",
     "location_text": "the land of the Vajjis at the village of Koṭi",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            84.4747778,
+            26.2245227
+          ],
+          [
+            84.5790667,
+            25.9385529
+          ],
+          [
+            84.8645141,
+            25.7211391
+          ],
+          [
+            85.1293819,
+            25.6568238
+          ],
+          [
+            85.4354233,
+            25.6320759
+          ],
+          [
+            85.7099001,
+            25.6320744
+          ],
+          [
+            86.0282924,
+            25.7409099
+          ],
+          [
+            86.2574867,
+            25.8670498
+          ],
+          [
+            86.3220192,
+            26.0594142
+          ],
+          [
+            86.4429175,
+            26.3032469
+          ],
+          [
+            86.377141,
+            26.6375128
+          ],
+          [
+            85.9983396,
+            26.9977273
+          ],
+          [
+            85.5480983,
+            27.051509
+          ],
+          [
+            85.2813721,
+            26.9661418
+          ],
+          [
+            84.9880077,
+            26.7576255
+          ],
+          [
+            84.86454,
+            26.6472347
+          ],
+          [
+            84.5351721,
+            26.4999589
+          ],
+          [
+            84.4747778,
+            26.2245227
+          ]
+        ]
+      ]
+    }
+  },
+  "sn56.22": {
+    "location_dppn_headword": "Vajjī",
+    "location_text": "the land of the Vajjis at the village of Koṭi",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            84.4747778,
+            26.2245227
+          ],
+          [
+            84.5790667,
+            25.9385529
+          ],
+          [
+            84.8645141,
+            25.7211391
+          ],
+          [
+            85.1293819,
+            25.6568238
+          ],
+          [
+            85.4354233,
+            25.6320759
+          ],
+          [
+            85.7099001,
+            25.6320744
+          ],
+          [
+            86.0282924,
+            25.7409099
+          ],
+          [
+            86.2574867,
+            25.8670498
+          ],
+          [
+            86.3220192,
+            26.0594142
+          ],
+          [
+            86.4429175,
+            26.3032469
+          ],
+          [
+            86.377141,
+            26.6375128
+          ],
+          [
+            85.9983396,
+            26.9977273
+          ],
+          [
+            85.5480983,
+            27.051509
+          ],
+          [
+            85.2813721,
+            26.9661418
+          ],
+          [
+            84.9880077,
+            26.7576255
+          ],
+          [
+            84.86454,
+            26.6472347
+          ],
+          [
+            84.5351721,
+            26.4999589
+          ],
+          [
+            84.4747778,
+            26.2245227
+          ]
+        ]
+      ]
+    }
   },
   "sn56.23": {
     "location_dppn_headword": "Sāvatthī",
@@ -15963,9 +19291,123 @@
     }
   },
   "sn56.30": {
-    "location_dppn_headword": "Sahajāti",
+    "location_dppn_headword": "Cetiya",
     "location_text": "the land of the Cetis at Sahajāti",
-    "geometry": {}
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            79.2445443,
+            25.2597779
+          ],
+          [
+            79.1016933,
+            25.3789747
+          ],
+          [
+            78.8379673,
+            25.5079723
+          ],
+          [
+            78.6072065,
+            25.5872866
+          ],
+          [
+            78.3654566,
+            25.6566432
+          ],
+          [
+            78.0357978,
+            25.6269232
+          ],
+          [
+            77.805037,
+            25.5575485
+          ],
+          [
+            77.4973563,
+            25.4881326
+          ],
+          [
+            77.2446212,
+            25.2200163
+          ],
+          [
+            77.12375,
+            24.9612721
+          ],
+          [
+            77.1237545,
+            24.6021145
+          ],
+          [
+            77.2116653,
+            24.3721122
+          ],
+          [
+            77.5742859,
+            24.3571005
+          ],
+          [
+            77.8050439,
+            24.442162
+          ],
+          [
+            77.98086,
+            24.4521661
+          ],
+          [
+            78.063274,
+            24.3971383
+          ],
+          [
+            78.3161121,
+            24.4572541
+          ],
+          [
+            78.5083083,
+            24.4421419
+          ],
+          [
+            78.7390671,
+            24.4671702
+          ],
+          [
+            78.898401,
+            24.5921293
+          ],
+          [
+            78.9890327,
+            24.6146266
+          ],
+          [
+            79.0302735,
+            24.6570554
+          ],
+          [
+            79.0797319,
+            24.7019835
+          ],
+          [
+            79.1401964,
+            24.761856
+          ],
+          [
+            79.15667,
+            24.846643
+          ],
+          [
+            79.2775085,
+            25.0509033
+          ],
+          [
+            79.2445443,
+            25.2597779
+          ]
+        ]
+      ]
+    }
   },
   "sn56.31": {
     "location_dppn_headword": "Kosambī",
@@ -15977,13 +19419,6 @@
         25.338984
       ]
     }
-  },
-  "sn56.36": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "India"
-    ],
-    "geometry": {}
   },
   "sn56.41": {
     "location_dppn_headword": "Rājagaha",
@@ -16017,55 +19452,5 @@
         26.014521
       ]
     }
-  },
-  "sn56.49": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Sineru"
-    ],
-    "geometry": {}
-  },
-  "sn56.50": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Sineru"
-    ],
-    "geometry": {}
-  },
-  "sn56.53": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges",
-      "Yamuna",
-      "Aciravatī",
-      "Sarabhū",
-      "Mahī"
-    ],
-    "geometry": {}
-  },
-  "sn56.54": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Ganges",
-      "Yamuna",
-      "Aciravatī",
-      "Sarabhū",
-      "Mahī"
-    ],
-    "geometry": {}
-  },
-  "sn56.59": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Himalayas"
-    ],
-    "geometry": {}
-  },
-  "sn56.60": {
-    "location_dppn_headword": "",
-    "location_text": [
-      "Himalayas"
-    ],
-    "geometry": {}
   }
 }

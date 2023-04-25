@@ -54,30 +54,33 @@
     "Vakkali"
   ],
   "sn22.87:7.6^speaker": "Vakkali",
+  "sn22.87:6.2+sn22.87:7.10^speaker": "the Buddha",
   "sn22.87:7.11^speaker": "the monks",
   "sn22.87:7.12^speaker": "Vakkali",
   "sn22.87:7.12^who_else_mentioned": [
     "Vakkali",
     "Buddha"
   ],
+  "sn22.87:8.2+sn22.87:8.3^speaker": "Vakkali",
   "sn22.87:8.4^speaker": "the monks",
+  "sn22.87:8.14+sn22.87:8.34^speaker": "Vakkali",
   "sn22.87:8.35^speaker": "the monks",
+  "sn22.87:10.2+sn22.87:10.3^speaker": "Vakkali",
   "sn22.87:10.4^speaker": "the monks",
   "sn22.87:11.3^speaker": "the Buddha",
-  "sn22.87:11.4^event_dppn_headwords_before_or_around_this_segment": [
+  "sn22.87:11.7^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
   ],
   "sn22.87:11.4^speaker": "the monks",
-  "sn22.87:11.4^where_before_or_around_this_segment": [
-    "Rājagaha",
-    "in the Bamboo Grove",
-    "the squirrels' feeding ground"
+  "sn22.87:11.5+sn22.87:11.7^speaker": "the Buddha",
+  "sn22.87:11.7^where_before_or_around_this_segment": [
+    "Rājagaha in the Bamboo Grove the squirrels' feeding ground"
   ],
-  "sn22.87:11.4^who_present_before_or_around_this_segment": [
+  "sn22.87:11.7^who_present_before_or_around_this_segment": [
     "Māra the Wicked",
     "two glorious deities"
   ],
-  "sn22.87:11.4^who_mentioned_before_or_around_this_segment": [
+  "sn22.87:11.7^who_mentioned_before_or_around_this_segment": [
     "Isigili"
   ],
   "sn22.87^initial_location_dppn_headword": [

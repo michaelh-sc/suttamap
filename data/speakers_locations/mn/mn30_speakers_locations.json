@@ -19,13 +19,16 @@
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"
   ],
-  "mn30:2.10^who_present_before_or_around_this_segment": [
-    "the Buddha"
+  "mn30:23.2^who_present_before_or_around_this_segment": [
+    "the Buddha",
+    "Piṅgalakoccha"
   ],
-  "mn30:2.10^who_mentioned_before_or_around_this_segment": [
+  "mn30:23.2^who_mentioned_before_or_around_this_segment": [
     "ascetics",
     "brahmins"
   ],
+  "mn30:2.3+mn30:23.2^speaker": "the Buddha",
+  "mn30:24.2+mn30:24.3^speaker": "the Buddha",
   "mn30^initial_location_dppn_headword": [
     "Jetavana"
   ],

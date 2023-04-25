@@ -15,16 +15,18 @@
   "sn22.2:3.4+sn22.2:3.5^who_else_mentioned": [
     "Sāriputta"
   ],
+  "sn22.2:5.1+sn22.2:5.2^speaker": "Several mendicants",
   "sn22.2:5.3^speaker": "Sāriputta",
   "sn22.2:5.4^event_dppn_headwords_before_or_around_this_segment": [
     "Devadaha"
   ],
   "sn22.2:5.4^speaker": "Several mendicants",
-  "sn22.2:5.4^where_before_or_around_this_segment": [
+  "sn22.2:6.1+sn22.2:11.2^speaker": "Sāriputta",
+  "sn22.2:11.2^where_before_or_around_this_segment": [
     "The land of the Sakyans",
     "Devadaha"
   ],
-  "sn22.2:5.4^who_present_before_or_around_this_segment": [
+  "sn22.2:11.2^who_present_before_or_around_this_segment": [
     "Sāriputta"
   ],
   "sn22.2^initial_location_dppn_headword": [

@@ -1,15 +1,17 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn48.49:1.4^speaker": "Piṇḍola Bhāradvāja",
-  "sn48.49:2.3^speaker": "Several Mendicants",
+  "sn48.49:1.4^speaker": "Bhāradvāja the Alms-gatherer",
+  "sn48.49:2.3^speaker": "Several mendicants",
   "sn48.49:2.3^who_else_mentioned": [
-    "Piṇḍola Bhāradvāja"
+    "Bhāradvāja the Alms-gatherer"
   ],
-  "sn48.49:3.2^speaker": "Piṇḍola Bhāradvāja",
+  "sn48.49:3.1+sn48.49:3.12^speaker": "the Buddha",
+  "sn48.493.1+sn48.49:3.12^who_else_mentioned": [
+    "Bhāradvāja the Alms-gatherer"
+  ],
   "sn48.49:3.12^event_dppn_headwords_before_or_around_this_segment": [
     "Kosambī"
   ],
-  "sn48.49:3.12^speaker": "Piṇḍola Bhāradvāja",
   "sn48.49:3.12^where_before_or_around_this_segment": [
     "Ghosita's Monastery near Kosambi"
   ],

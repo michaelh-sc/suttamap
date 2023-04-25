@@ -14,9 +14,13 @@
   "sn35.75:7.1^who_else_mentioned": [
     "Buddha"
   ],
+  "sn35.75:8.1+sn35.75:9.2": "the Buddha",
   "sn35.75:10.1^speaker": "the mendicant",
+  "sn35.75:11.2+sn35.75:11.9": "the Buddha",
   "sn35.75:12.1^speaker": "the mendicant",
   "sn35.75:13.1^speaker": "the Buddha",
   "sn35.75:14.1^speaker": "the mendicant",
-  "sn35.75:16.1^speaker": "the mendicant"
+  "sn35.75:15.1+sn35.75:15.2": "the Buddha",
+  "sn35.75:16.1^speaker": "the mendicant",
+  "sn35.75:17.1+sn35.75:17.7": "the Buddha"
 }
