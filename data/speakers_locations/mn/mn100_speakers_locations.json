@@ -1,0 +1,72 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn100:2.3+mn100:2.5^speaker": "Dhanañjānī",
+  "mn100:2.3+mn100:2.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn100:3.4^speaker": "Saṅgārava",
+  "mn100:3.4^who_else_mentioned": [
+    "Dhanañjānī"
+  ],
+  "mn100:3.5+mn100:3.6^speaker": "Dhanañjānī",
+  "mn100:3.5+mn100:3.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn100:3.7^speaker": "Saṅgārava",
+  "mn100:3.7^where_else_mentioned": [
+    "Caṇḍalakappa"
+  ],
+  "mn100:3.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn100:3.8^speaker": "Dhanañjānī",
+  "mn100:5.4^speaker": "Dhanañjānī",
+  "mn100:5.5^speaker": "Saṅgārava",
+  "mn100:6.1+mn100:6.2^speaker": "Saṅgārava",
+  "mn100:6.1+mn100:6.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn100:7.1+mn100:14.6^speaker": "The Buddha",
+  "mn100:7.1+mn100:14.6^where_else_mentioned": [
+    "Senanigama",
+    "Uruvelā"
+  ],
+  "mn100:7.1+mn100:14.6^who_else_mentioned": [
+    "Āḷāra Kālāma",
+    "Kālāma",
+    "Uddaka",
+    "Rāma",
+    "Magadhan",
+    "Bhāradvāja"
+  ],
+  "mn100:9.14^speaker": "Āḷāra Kālāma",
+  "mn100:11.9^speaker": "Rāma",
+  "mn100:14.7+mn100:14.10^speaker": "The Buddha",
+  "mn100:14.7+mn100:14.10^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn100:14.11+mn100:15.6^speaker": "Saṅgārava",
+  "mn100:14.11+mn100:15.6^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "mn100:42.5^speaker": "The Buddha",
+  "mn100:42.12^geographic_locations_here_and_before": [
+    "Cañcalikappa"
+  ],
+  "mn100:42.12^speaker": "Saṅgārava",
+  "mn100:42.12^where_here_and_before": [
+    "The land of the Kosalans Caṇḍalakappa the mango grove of the Todeyya brahmins"
+  ],
+  "mn100:42.12^who_around_here_and_before": [
+    "The Buddha",
+    "a large Saṅgha of mendicants"
+  ],
+  "mn100:42.12^who_mentioned_here_and_before": [
+    "Āḷāra Kālāma",
+    "Rāma"
+  ],
+  "mn100^initial_geographic_location": [
+    "Cañcalikappa"
+  ],
+  "mn100^where": "The land of the Kosalans, Caṇḍalakappa, the mango grove of the Todeyya brahmins"
+}

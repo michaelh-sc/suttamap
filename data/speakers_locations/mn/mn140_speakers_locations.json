@@ -1,0 +1,81 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn140:2.1^speaker": "the Buddha",
+  "mn140:2.1^who_else_mentioned": [
+    "Bhaggava"
+  ],
+  "mn140:2.2+mn140:2.4^speaker": "Bhaggava the potter",
+  "mn140:3.4^speaker": "the Buddha",
+  "mn140:3.5+mn140:3.6^speaker": "Pukkusāti",
+  "mn140:4.5+mn140:4.6^speaker": "the Buddha (in dialogue)",
+  "mn140:5.1^speaker": "the Buddha",
+  "mn140:5.2+mn140:5.7^speaker": "Pukkusāti",
+  "mn140:5.2+mn140:5.7^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Buddha"
+  ],
+  "mn140:5.8^speaker": "the Buddha",
+  "mn140:5.8^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "mn140:5.9+mn140:5.10^speaker": "Pukkusāti",
+  "mn140:5.9+mn140:5.10^where_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "mn140:5.9+mn140:5.10^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn140:5.11+mn140:5.12^speaker": "the Buddha",
+  "mn140:5.11+mn140:5.12^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn140:5.13+mn140:5.14^speaker": "Pukkusāti",
+  "mn140:6.2+mn140:6.3^speaker": "the Buddha (in dialogue)",
+  "mn140:6.5+mn140:6.6^speaker": "the Buddha",
+  "mn140:6.7^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn140:6.7^speaker": "Pukkusāti",
+  "mn140:6.7^where_here_and_before": [
+    "Rājagaha"
+  ],
+  "mn140:6.7^who_around_here_and_before": [
+    "Bhaggava the potter"
+  ],
+  "mn140:7.1+mn140:32.3^speaker": "the Buddha",
+  "mn140:33.2^speaker": "Pukkusāti",
+  "mn140:33.2^who_else_mentioned": [
+    "The Holy One",
+    "Buddha"
+  ],
+  "mn140:33.3+mn140:33.4^speaker": "Pukkusāti",
+  "mn140:33.3+mn140:33.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn140:33.5+mn140:33.7^speaker": "the Buddha",
+  "mn140:34.1^speaker": "Pukkusāti",
+  "mn140:34.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn140:34.2^speaker": "the Buddha",
+  "mn140:34.3^speaker": "Pukkusāti",
+  "mn140:34.4^speaker": "the Buddha",
+  "mn140:36.2+mn140:36.3^speaker": "the mendicants",
+  "mn140:36.2+mn140:36.3^who_else_mentioned": [
+    "Pukkusāti",
+    "Buddha"
+  ],
+  "mn140:36.4+mn140:36.5^speaker": "the Buddha",
+  "mn140:36.4+mn140:36.5^who_else_mentioned": [
+    "Pukkusāti"
+  ],
+  "mn140:36.4^who_around_here_and_before": [
+    "the mendicants"
+  ],
+  "mn140^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "mn140^where": "Rājagaha"
+}

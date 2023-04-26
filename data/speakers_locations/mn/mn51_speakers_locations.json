@@ -1,0 +1,67 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn51:2.1+mn51:2.4^speaker": "Kandaraka",
+  "mn51:2.1+mn51:2.4^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha",
+    "Buddhas"
+  ],
+  "mn51:3.1+mn51:3.13^speaker": "the Buddha",
+  "mn51:3.1+mn51:3.13^who_else_mentioned": [
+    "Kandaraka",
+    "Buddhas",
+    "Saṅgha"
+  ],
+  "mn51:4.2+mn51:4.19^speaker": "Pessa",
+  "mn51:4.2+mn51:4.19^where_else_mentioned": [
+    "Campā"
+  ],
+  "mn51:4.2+mn51:4.19^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn51:5.1+mn51:5.11^speaker": "the Buddha",
+  "mn51:5.1+mn51:5.11^who_else_mentioned": [
+    "Pessa"
+  ],
+  "mn51:5.12+mn51:5.16^speaker": "Pessa",
+  "mn51:6.1^speaker": "the Buddha",
+  "mn51:6.2+mn51:6.12^speaker": "Pessa",
+  "mn51:6.13^speaker": "the Buddha",
+  "mn51:6.13^who_else_mentioned": [
+    "Pessa"
+  ],
+  "mn51:7.2+mn51:7.5^speaker": "the Buddha",
+  "mn51:7.2+mn51:7.5^who_else_mentioned": [
+    "Pessa"
+  ],
+  "mn51:7.6+mn51:7.7^speaker": "the mendicants",
+  "mn51:7.6+mn51:7.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn51:7.8^speaker": "the Buddha",
+  "mn51:7.9^geographic_locations_here_and_before": [
+    "Campā"
+  ],
+  "mn51:7.9^speaker": "the mendicants",
+  "mn51:7.9^where_here_and_before": [
+    "Campā on the banks of the Gaggarā Lotus Pond"
+  ],
+  "mn51:7.9^who_around_here_and_before": [
+    "Pessa",
+    "Kandaraka",
+    "a large Saṅgha of mendicants"
+  ],
+  "mn51:7.9^who_mentioned_here_and_before": [
+    "four people"
+  ],
+  "mn51:8.1+mn51:28.2^speaker": "the Buddha",
+  "mn51:8.1+mn51:28.2^who_else_mentioned": [
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn51^initial_geographic_location": [
+    "Campā"
+  ],
+  "mn51^where": "Campā on the banks of the Gaggarā Lotus Pond"
+}

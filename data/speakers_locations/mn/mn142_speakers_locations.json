@@ -1,0 +1,52 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn142:2.2+mn142:2.3^speaker": "Mahāpajāpati Gotamī",
+  "mn142:2.2+mn142:2.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn142:2.5+mn142:2.6^speaker": "the Buddha",
+  "mn142:2.5+mn142:2.6^who_else_mentioned": [
+    "Saṅgha",
+    "Gotamī"
+  ],
+  "mn142:2.14+mn142:2.15^speaker": "Mahāpajāpati Gotamī",
+  "mn142:2.14+mn142:2.15^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn142:2.17+mn142:2.18^speaker": "the Buddha",
+  "mn142:2.17+mn142:2.18^who_else_mentioned": [
+    "Saṅgha",
+    "Gotamī"
+  ],
+  "mn142:3.2+mn142:3.10^speaker": "Ānanda",
+  "mn142:3.2+mn142:3.10^where_else_mentioned": [
+    "Mahāpajāpatī Gotamī"
+  ],
+  "mn142:3.2+mn142:3.10^who_else_mentioned": [
+    "Mahāpajāpatī",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn142:4.1+mn142:13.4^speaker": "the Buddha",
+  "mn142:4.1+mn142:13.4^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha",
+    "the Realized One",
+    "Ānanda"
+  ],
+  "mn142:14.3+mn142:14.22^speaker": "the Buddha",
+  "mn142:14.3^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "mn142:14.3^where_here_and_before": [
+    "Kapilavatthu",
+    "Banyan Tree Monastery"
+  ],
+  "mn142:14.3^who_around_here_and_before": [
+    "Saṅgha"
+  ],
+  "mn142^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "mn142^where": "Kapilavatthu, Banyan Tree Monastery"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn12.32:1.4^speaker": "Kaḷāra the Aristocrat",
+  "sn12.32:1.4^who_else_mentioned": [
+    "Sāriputta",
+    "Phagguna of the Top-Knot"
+  ],
+  "sn12.32:1.5^speaker": "Sāriputta",
+  "sn12.32:2.1^speaker": "Kaḷāra the Aristocrat",
+  "sn12.32:2.1^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn12.32:3.1^speaker": "Sāriputta",
+  "sn12.32:3.2^speaker": "Kaḷāra the Aristocrat",
+  "sn12.32:4.1^speaker": "Sāriputta",
+  "sn12.32:5.3^speaker": "Kaḷāra the Aristocrat",
+  "sn12.32:6.4^speaker": "a certain monk",
+  "sn12.32:6.5^speaker": "a certain monk",
+  "sn12.32:6.5^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn12.32:6.6^speaker": "Sāriputta",
+  "sn12.32:17.2^speaker": "Kaḷāra the Aristocrat",
+  "sn12.32:17.2^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn12.32:18.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn12.32:18.1^speaker": "The Buddha",
+  "sn12.32:18.1^where_here_and_before": [
+    "Sāvatthī"
+  ],
+  "sn12.32:18.1^who_around_here_and_before": [
+    "Monk",
+    "Phagguna of the Top-Knot"
+  ],
+  "sn12.32:18.1^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn12.32:18.1^who_mentioned_here_and_before": [
+    "Ascetic"
+  ],
+  "sn12.32^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "sn12.32^where": "Sāvatthī"
+}

@@ -2,16 +2,22 @@
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "mn4:2.3+mn4:2.4^speaker": "the brahmin Jāṇussoṇi",
   "mn4:2.3+mn4:2.4^who_else_mentioned": [
-    "Gotama"
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
   ],
   "mn4:2.5^speaker": "the Buddha",
   "mn4:2.8+mn4:2.9^speaker": "the brahmin Jāṇussoṇi",
   "mn4:2.8+mn4:2.9^who_else_mentioned": [
-    "Gotama"
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
   ],
   "mn4:2.10+mn4:34.5^speaker": "the Buddha",
-  "mn4:2.10+mn4:34.5^who_else_mentioned": [
-    "Gotama"
+  "mn4:2.10+mn4:34.5^speaker^who_else_mentioned": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
   ],
   "mn4:35.1+mn4:35.5^speaker": "the brahmin Jāṇussoṇi",
   "mn4:35.1+mn4:35.5^who_else_mentioned": [

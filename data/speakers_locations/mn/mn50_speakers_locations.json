@@ -1,0 +1,57 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn50:2.4+mn50:2.5^speaker": "Moggallāna",
+  "mn50:3.4+mn50:3.7^speaker": "Moggallāna",
+  "mn50:3.4+mn50:3.7^who_else_mentioned": [
+    "Wicked One",
+    "the Realized One"
+  ],
+  "mn50:4.2+mn50:4.7^speaker": "Māra the Wicked",
+  "mn50:5.2+mn50:5.11^speaker": "Moggallāna",
+  "mn50:5.2+mn50:5.11^who_else_mentioned": [
+    "Wicked One",
+    "Māra the Wicked"
+  ],
+  "mn50:6.2^speaker": "Māra the Wicked",
+  "mn50:7.3+mn50:31.16^speaker": "Moggallāna",
+  "mn50:7.3+mn50:31.16^where_else_mentioned": [
+    "Mount Meru",
+    "the Eastern Continent"
+  ],
+  "mn50:7.3+mn50:31.16^who_else_mentioned": [
+    "Wicked One",
+    "Māra",
+    "Dūsī",
+    "Kāḷī",
+    "Kakusandha",
+    "the Blessed One",
+    "Buddha",
+    "Vidhura",
+    "Sañjīva",
+    "the Buddha Kakusandha",
+    "Māra Dūsī",
+    "Kinsman",
+    "Kakusandha the Blessed One",
+    "Mendicants",
+    "This Māra Dūsī",
+    "Migāra",
+    "Saṅgha",
+    "Sakka",
+    "Vāsava",
+    "Brahmā"
+  ],
+  "mn50:7.3^geographic_locations_here_and_before": [
+    "Susumāragiri"
+  ],
+  "mn50:7.3^where_here_and_before": [
+    "Bhesekaḷā grove land of the Bhaggas on Crocodile Hill deer park at Bhesakaḷā's Wood"
+  ],
+  "mn50:7.3^who_mentioned_here_and_before": [
+    "Māra Dūsī",
+    "ethical mendicants of good character"
+  ],
+  "mn50^initial_geographic_location": [
+    "Susumāragiri"
+  ],
+  "mn50^where": "Bhesekaḷā grove, land of the Bhaggas on Crocodile Hill, deer park at Bhesakaḷā's Wood"
+}

@@ -1,0 +1,65 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn109:3.2^speaker": "one of the mendicants",
+  "mn109:3.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn109:3.3^speaker": "the Buddha",
+  "mn109:4.1+mn109:4.2^speaker": "the mendicant",
+  "mn109:4.3^speaker": "the Buddha",
+  "mn109:4.5^speaker": "the mendicant",
+  "mn109:5.1^speaker": "the mendicant",
+  "mn109:5.2^speaker": "the Buddha",
+  "mn109:6.1^speaker": "the mendicant",
+  "mn109:6.2+mn109:6.3^speaker": "the Buddha",
+  "mn109:7.1^speaker": "the mendicant",
+  "mn109:7.2^speaker": "the Buddha",
+  "mn109:7.3+mn109:7.5^speaker": "the mendicant",
+  "mn109:8.1^speaker": "the mendicant",
+  "mn109:8.2+mn109:8.7^speaker": "the Buddha",
+  "mn109:9.1+mn109:9.5^speaker": "the mendicant",
+  "mn109:9.6+mn109:9.10^speaker": "the Buddha",
+  "mn109:10.1^speaker": "the mendicant",
+  "mn109:10.2+mn109:10.8^speaker": "the Buddha",
+  "mn109:11.1^speaker": "the mendicant",
+  "mn109:11.2+mn109:11.8^speaker": "the Buddha",
+  "mn109:12.1+mn109:12.5^speaker": "the mendicant",
+  "mn109:12.6+mn109:12.14^speaker": "the Buddha",
+  "mn109:13.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "mn109:13.1^speaker": "the mendicant",
+  "mn109:13.1^where_here_and_before": [
+    "Sāvatthī in the Eastern Monastery"
+  ],
+  "mn109:13.1^who_around_here_and_before": [
+    "the Saṅgha of monks"
+  ],
+  "mn109:13.1^who_mentioned_here_and_before": [
+    "Migāra's mother",
+    "the noble ones",
+    "good persons"
+  ],
+  "mn109:13.2+mn109:13.7^speaker": "the Buddha",
+  "mn109:14.2+mn109:14.3^speaker": "the mendicant",
+  "mn109:14.5+mn109:15.2^speaker": "the Buddha",
+  "mn109:15.3^speaker": "the mendicant",
+  "mn109:15.4^speaker": "the Buddha",
+  "mn109:15.5^speaker": "the mendicant",
+  "mn109:15.6+mn109:15.7^speaker": "the Buddha",
+  "mn109:15.8^speaker": "the mendicant",
+  "mn109:16.1+mn109:16.5^speaker": "the Buddha",
+  "mn109:16.6^speaker": "the mendicant",
+  "mn109:16.7^speaker": "the Buddha",
+  "mn109:16.8^speaker": "the mendicant",
+  "mn109:16.9+mn109:16.10^speaker": "the Buddha",
+  "mn109:16.11^speaker": "the mendicant",
+  "mn109:16.12+mn109:18.2^speaker": "the Buddha",
+  "mn109:16.12^who_around_here_and_before": [
+    "sixty mendicants"
+  ],
+  "mn109^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "mn109^where": "Sāvatthī in the Eastern Monastery"
+}

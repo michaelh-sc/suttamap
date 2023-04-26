@@ -1,0 +1,106 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn146:2.2+mn146:2.4^speaker": "Mahāpajāpatī Gotamī",
+  "mn146:2.2+mn146:2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "mn146:3.4^speaker": "the Buddha",
+  "mn146:3.4^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "mn146:3.5+mn146:3.6^speaker": "Ānanda",
+  "mn146:3.5+mn146:3.6^who_else_mentioned": [
+    "Nandaka"
+  ],
+  "mn146:4.2+mn146:4.4^speaker": "the Buddha",
+  "mn146:4.2+mn146:4.4^who_else_mentioned": [
+    "Nandaka"
+  ],
+  "mn146:4.5^speaker": "Nandaka",
+  "mn146:5.1+mn146:5.4^speaker": "Nandaka",
+  "mn146:5.5^speaker": "the nuns",
+  "mn146:5.5^who_else_mentioned": [
+    "Nandaka"
+  ],
+  "mn146:6.1+mn146:6.2^speaker": "Nandaka",
+  "mn146:6.3^speaker": "the nuns",
+  "mn146:6.4^speaker": "Nandaka",
+  "mn146:6.5^speaker": "the nuns",
+  "mn146:6.6+mn146:6.7^speaker": "Nandaka",
+  "mn146:6.8^speaker": "the nuns",
+  "mn146:6.9+mn146:6.18^speaker": "Nandaka",
+  "mn146:6.19^speaker": "the nuns",
+  "mn146:6.20^speaker": "Nandaka",
+  "mn146:6.21^speaker": "the nuns",
+  "mn146:6.22+mn146:6.23^speaker": "Nandaka",
+  "mn146:6.24+mn146:6.27^speaker": "the nuns",
+  "mn146:6.28+mn146:7.2^speaker": "Nandaka",
+  "mn146:7.3^speaker": "the nuns",
+  "mn146:7.4^speaker": "Nandaka",
+  "mn146:7.5^speaker": "the nuns",
+  "mn146:7.6+mn146:7.7^speaker": "Nandaka",
+  "mn146:7.8^speaker": "the nuns",
+  "mn146:7.9+mn146:7.18^speaker": "Nandaka",
+  "mn146:7.19^speaker": "the nuns",
+  "mn146:7.20^speaker": "Nandaka",
+  "mn146:7.21^speaker": "the nuns",
+  "mn146:7.22+mn146:7.23^speaker": "Nandaka",
+  "mn146:7.24+mn146:7.27^speaker": "the nuns",
+  "mn146:7.28+mn146:8.17^speaker": "Nandaka",
+  "mn146:8.18^speaker": "the nuns",
+  "mn146:8.19^speaker": "Nandaka",
+  "mn146:8.20^speaker": "the nuns",
+  "mn146:8.21+mn146:8.22^speaker": "Nandaka",
+  "mn146:8.23+mn146:8.26^speaker": "the nuns",
+  "mn146:8.27+mn146:9.5^speaker": "Nandaka",
+  "mn146:9.6+mn146:9.9^speaker": "the nuns",
+  "mn146:9.10+mn146:9.13^speaker": "Nandaka",
+  "mn146:9.14+mn146:9.17^speaker": "the nuns",
+  "mn146:9.14^geographic_locations_here_and_before": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "mn146:9.14^where_here_and_before": [
+    "Sāvatthī in Jeta's Grove",
+    "Anāthapiṇḍika's monastery"
+  ],
+  "mn146:9.14^who_around_here_and_before": [
+    "Mahāpajāpatī Gotamī",
+    "five hundred nuns",
+    "senior monks",
+    "Ānanda",
+    "Nandaka's companion"
+  ],
+  "mn146:9.18+mn146:10.4^speaker": "Nandaka",
+  "mn146:10.5+mn146:10.8^speaker": "the nuns",
+  "mn146:10.9+mn146:10.12^speaker": "Nandaka",
+  "mn146:10.13+mn146:10.16^speaker": "the nuns",
+  "mn146:10.17+mn146:11.5^speaker": "Nandaka",
+  "mn146:11.6+mn146:11.12^speaker": "the nuns",
+  "mn146:12.1+mn146:13.10^speaker": "Nandaka",
+  "mn146:14.2^speaker": "Nandaka",
+  "mn146:14.4^speaker": "the Buddha",
+  "mn146:15.2+mn146:15.4^speaker": "the Buddha",
+  "mn146:15.2+mn146:15.4^who_else_mentioned": [
+    "Nandaka"
+  ],
+  "mn146:16.2^speaker": "the Buddha",
+  "mn146:16.2^who_else_mentioned": [
+    "Nandaka"
+  ],
+  "mn146:16.3^speaker": "Nandaka",
+  "mn146:27.2+mn146:27.5^speaker": "the Buddha",
+  "mn146:27.2+mn146:27.5^who_else_mentioned": [
+    "Nandaka"
+  ],
+  "mn146:27.2^who_around_here_and_before": [
+    "the nuns",
+    "Nandaka",
+    "the Buddha",
+    "the mendicants"
+  ],
+  "mn146^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "mn146^where": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery"
+}
