@@ -1,5 +1,4 @@
 {
-  "_comment": "This data is an early work-in-progress and contains errors. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "mn38:2.2": "Sāti",
   "mn38:3.5": "the mendicants",
   "mn38:3.6": "the mendicants",
@@ -151,6 +150,9 @@
   "mn38:21.1": "the Buddha",
   "mn38:21.2": "the Buddha",
   "mn38:21.4": "the mendicants",
+  "mn38:21.6": "the Buddha",
+  "mn38:21.51": "the Buddha",
+  "mn38:21.52": "the Buddha",
   "mn38:21.54": "the mendicants",
   "mn38:22.1": "the Buddha",
   "mn38:22.2": "the Buddha",
@@ -304,5 +306,7 @@
   "mn38:41.8": "the Buddha",
   "mn38:41.9": "the Buddha",
   "mn38:41.10": "the Buddha",
-  "mn38:41.11": "the Buddha"
+  "mn38:41.11": "the Buddha",
+  "mn38:41.12": "the Buddha",
+  "mn38:41.13": "the Buddha"
 }
