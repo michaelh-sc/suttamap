@@ -7,30 +7,30 @@
   "mn56:3.3^speaker": "Dīgha Tapassī",
   "mn56:3.3^who_else_mentioned": [
     "Tapassī",
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:3.4+mn56:3.5^speaker": "Dīgha Tapassī",
   "mn56:3.4+mn56:3.5^who_else_mentioned": [
     "Gotama",
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:3.6^speaker": "Dīgha Tapassī",
   "mn56:3.6^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:3.7+mn56:3.8^speaker": "Dīgha Tapassī",
   "mn56:3.7+mn56:3.8^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:3.9^speaker": "the Buddha",
   "mn56:3.10^speaker": "Dīgha Tapassī",
   "mn56:3.11^speaker": "the Buddha",
   "mn56:3.11^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:3.12^speaker": "Dīgha Tapassī",
   "mn56:3.12^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:3.13^speaker": "the Buddha",
   "mn56:3.13^who_else_mentioned": [
@@ -94,7 +94,7 @@
   "mn56:4.17^who_else_mentioned": [
     "Tapassī"
   ],
-  "mn56:5.4^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:5.4^speaker": "the Jain Ñātika",
   "mn56:5.4^who_else_mentioned": [
     "Tapassī"
   ],
@@ -102,9 +102,9 @@
   "mn56:5.5^who_else_mentioned": [
     "Gotama"
   ],
-  "mn56:5.6^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:5.6^speaker": "the Jain Ñātika",
   "mn56:5.7^speaker": "Dīgha Tapassī",
-  "mn56:5.8^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:5.8^speaker": "the Jain Ñātika",
   "mn56:5.8^where_before_or_around_this_segment": [
     "Nālandā in Pāvārika's mango grove"
   ],
@@ -118,7 +118,7 @@
   "mn56:5.8^who_mentioned_before_or_around_this_segment": [
     "Pāvārika"
   ],
-  "mn56:6.2+mn56:6.5^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:6.2+mn56:6.5^speaker": "the Jain Ñātika",
   "mn56:6.2+mn56:6.5^who_else_mentioned": [
     "Tapassī",
     "Dīgha Tapassī",
@@ -130,7 +130,7 @@
     "Tapassī",
     "Gotama"
   ],
-  "mn56:7.12+mn56:7.13^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:7.12+mn56:7.13^speaker": "the Jain Ñātika",
   "mn56:7.12+mn56:7.13^who_else_mentioned": [
     "Gotama",
     "Dīgha Tapassī"
@@ -140,7 +140,7 @@
     "Upāli",
     "Gotama"
   ],
-  "mn56:8.4+mn56:8.7^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:8.4+mn56:8.7^speaker": "the Jain Ñātika",
   "mn56:8.4+mn56:8.7^where_else_mentioned": [
     "Upāli"
   ],
@@ -154,7 +154,7 @@
     "Upāli",
     "Gotama"
   ],
-  "mn56:9.5+mn56:9.8^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:9.5+mn56:9.8^speaker": "the Jain Ñātika",
   "mn56:9.5+mn56:9.8^where_else_mentioned": [
     "Upāli"
   ],
@@ -181,7 +181,7 @@
   "mn56:10.7+mn56:10.8^speaker": "the householder Upāli",
   "mn56:11.1+mn56:11.4^speaker": "the Buddha",
   "mn56:11.1+mn56:11.4^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:11.5+mn56:11.7^speaker": "the householder Upāli",
   "mn56:11.8+mn56:11.10^speaker": "the Buddha",
@@ -191,17 +191,17 @@
   ],
   "mn56:12.1+mn56:12.4^speaker": "the Buddha",
   "mn56:12.1+mn56:12.4^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:12.5^speaker": "the householder Upāli",
   "mn56:12.5^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:12.6^speaker": "the Buddha",
   "mn56:12.7^speaker": "the householder Upāli",
   "mn56:12.8^speaker": "the householder Upāli",
   "mn56:12.8^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:12.9^speaker": "the householder Upāli",
   "mn56:12.10+mn56:12.12^speaker": "the Buddha",
@@ -296,7 +296,7 @@
     "Upāli",
     "Gotama"
   ],
-  "mn56:20.5+mn56:20.6^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:20.5+mn56:20.6^speaker": "the Jain Ñātika",
   "mn56:20.5+mn56:20.6^where_else_mentioned": [
     "Upāli"
   ],
@@ -309,7 +309,7 @@
     "Upāli",
     "Gotama"
   ],
-  "mn56:20.10+mn56:20.11^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:20.10+mn56:20.11^speaker": "the Jain Ñātika",
   "mn56:20.10+mn56:20.11^where_else_mentioned": [
     "Upāli"
   ],
@@ -322,7 +322,7 @@
     "Upāli",
     "Gotama"
   ],
-  "mn56:20.13^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:20.13^speaker": "the Jain Ñātika",
   "mn56:20.13^where_before_or_around_this_segment": [
     "Upāli's home"
   ],
@@ -353,7 +353,7 @@
     "Upāli",
     "Gotama"
   ],
-  "mn56:21.13+mn56:21.14^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:21.13+mn56:21.14^speaker": "the Jain Ñātika",
   "mn56:21.13+mn56:21.14^where_else_mentioned": [
     "Upāli"
   ],
@@ -361,19 +361,19 @@
     "Tapassī",
     "Gotama"
   ],
-  "mn56:21.20+mn56:21.22^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:21.20+mn56:21.22^speaker": "the Jain Ñātika",
   "mn56:21.20+mn56:21.22^who_else_mentioned": [
     "Tapassī",
     "Upāli",
     "Gotama"
   ],
-  "mn56:22.4+mn56:22.7^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:22.4+mn56:22.7^speaker": "the Jain Ñātika",
   "mn56:22.8+mn56:22.10^speaker": "Upāli",
   "mn56:22.8+mn56:22.10^where_else_mentioned": [
     "Upāli"
   ],
   "mn56:22.8+mn56:22.10^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta",
+    "the Jain Ñātika",
     "Jain"
   ],
   "mn56:22.11^speaker": "Gatekeeper",
@@ -382,12 +382,12 @@
   "mn56:22.16+mn56:22.17^speaker": "Upāli",
   "mn56:23.2+mn56:23.4^speaker": "Upāli",
   "mn56:23.2+mn56:23.4^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta",
+    "the Jain Ñātika",
     "Upāli"
   ],
   "mn56:23.5^speaker": "Gatekeeper",
   "mn56:24.4+mn56:24.5^speaker": "Upāli",
-  "mn56:25.2+mn56:25.6^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:25.2+mn56:25.6^speaker": "the Jain Ñātika",
   "mn56:25.2+mn56:25.6^who_else_mentioned": [
     "Gotama"
   ],
@@ -403,9 +403,9 @@
   "mn56:27.15^who_else_mentioned": [
     "Rattapāṇi"
   ],
-  "mn56:28.1+mn56:28.3^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:28.1+mn56:28.3^speaker": "the Jain Ñātika",
   "mn56:28.1+mn56:28.3^who_else_mentioned": [
-    "Nigaṇṭha Nātaputta"
+    "the Jain Ñātika"
   ],
   "mn56:28.1^where_before_or_around_this_segment": [
     "Upāli's home"
@@ -424,7 +424,7 @@
     "Buddha",
     "the Holy One"
   ],
-  "mn56:30.1^speaker": "Nigaṇṭha Nātaputta",
+  "mn56:30.1^speaker": "the Jain Ñātika",
   "mn56:30.1^who_else_mentioned": [
     "Gotama"
   ],

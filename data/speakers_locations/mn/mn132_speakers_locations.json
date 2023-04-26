@@ -1,7 +1,7 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "mn132:2.4^speaker": "the Buddha",
-  "mn132:2.5^speaker": "The mendicants",
+  "mn132:2.5^speaker": "the mendicants",
   "mn132:2.7^speaker": "the Buddha",
   "mn132:3.1^speaker": "Ānanda",
   "mn132:3.2+mn132:3.17^speaker": "Ānanda",
@@ -18,7 +18,7 @@
     "Anāthapiṇḍika's monastery"
   ],
   "mn132:11.2^who_present_before_or_around_this_segment": [
-    "The mendicants"
+    "the mendicants"
   ],
   "mn132^initial_location_dppn_headword": [
     "Jetavana"

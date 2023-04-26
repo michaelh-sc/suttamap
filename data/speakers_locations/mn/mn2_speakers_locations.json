@@ -1,7 +1,7 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "mn2:1.4^speaker^speaker": "the Buddha",
-  "mn2:1.5^speaker^speaker": "The mendicants",
+  "mn2:1.5^speaker^speaker": "the mendicants",
   "mn2:2.1+mn2:2.2^speaker^speaker": "the Buddha",
   "mn2:2.1+mn2:2.2^speaker^who_else_mentioned": [
     "Buddha",
@@ -10,7 +10,7 @@
   "mn2:2.3^event_dppn_headwords_before_or_around_this_segment^speaker": [
     "Jetavana"
   ],
-  "mn2:2.3^speaker^speaker": "The mendicants",
+  "mn2:2.3^speaker^speaker": "the mendicants",
   "mn2:2.3^where_before_or_around_this_segment": [
     "Jeta's Grove Anāthapiṇḍika's monastery near Sāvatthī"
   ],

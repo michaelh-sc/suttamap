@@ -4,8 +4,8 @@
   "mn20:1.5^event_dppn_headwords_before_or_around_this_segment": [
     "Jetavana"
   ],
-  "mn20:1.5^speaker": "The mendicants",
-  "mn20:1.5^+mn8.13^speaker": "The mendicants",
+  "mn20:1.5^speaker": "the mendicants",
+  "mn20:1.5^+mn8.13^speaker": "the mendicants",
   "mn8.13^where_before_or_around_this_segment": [
     "Jeta's Grove",
     "Anāthapiṇḍika's monastery"

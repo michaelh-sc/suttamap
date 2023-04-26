@@ -1,18 +1,18 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "mn47:1.4^speaker": "the Buddha",
-  "mn47:1.5^speaker": "The mendicants",
+  "mn47:1.5^speaker": "the mendicants",
   "mn47:2.1^speaker": "the Buddha",
   "mn47:2.1^who_else_mentioned": [
     "the Realized One",
     "Buddha"
   ],
-  "mn47:3.1^speaker": "The mendicants",
+  "mn47:3.1^speaker": "the mendicants",
   "mn47:3.1^who_else_mentioned": [
     "Buddha"
   ],
   "mn47:3.2^speaker": "the Buddha",
-  "mn47:3.3^speaker": "The mendicants",
+  "mn47:3.3^speaker": "the mendicants",
   "mn47:4.1+mn47:16.4^speaker": "the Buddha",
   "mn47:4.1+mn47:16.4^who_else_mentioned": [
     "the Realized One",
@@ -31,7 +31,7 @@
     "Anāthapiṇḍika's monastery"
   ],
   "mn47:4.1^who_present_before_or_around_this_segment": [
-    "The mendicants"
+    "the mendicants"
   ],
   "mn47:10.8^speaker": "the Buddha",
   "mn47:15.8^speaker": "the Buddha",
