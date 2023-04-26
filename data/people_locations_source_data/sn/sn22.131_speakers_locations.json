@@ -1,0 +1,21 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.131:1.2+sn22.131:1.4^speaker": "Mahākoṭṭhita (assumed)",
+  "sn22.131:1.2+sn22.131:1.4^who_else_mentioned": [
+    "Sāriputta"
+  ],
+  "sn22.131:2.1+sn22.131:2.7^speaker": "Sāriputta",
+  "sn22.131:2.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Bārānasī"
+  ],
+  "sn22.131:2.1^where_before_or_around_this_segment": [
+    "Benares"
+  ],
+  "sn22.131:2.1^who_mentioned_before_or_around_this_segment": [
+    "Uneducated ordinary person"
+  ],
+  "sn22.131^initial_location_dppn_headword": [
+    "Bārānasī"
+  ],
+  "sn22.131^where": "Benares"
+}

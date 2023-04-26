@@ -3756,6 +3756,17 @@
     "location_text": "the land of the Kosalans, Sālā village",
     "geometry": {}
   },
+  "mn42": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
   "mn43": {
     "location_dppn_headword": "Jetavana",
     "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī",
@@ -3830,6 +3841,22 @@
       "coordinates": [
         82.040073,
         27.509466
+      ]
+    }
+  },
+  "mn50": {
+    "location_dppn_headword": "Susumāragiri",
+    "location_text": "Bhesekaḷā grove, land of the Bhaggas on Crocodile Hill, deer park at Bhesakaḷā's Wood",
+    "geometry": {}
+  },
+  "mn51": {
+    "location_dppn_headword": "Campā",
+    "location_text": "Campā on the banks of the Gaggarā Lotus Pond",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        87.0049786,
+        25.249845
       ]
     }
   },
@@ -4433,6 +4460,11 @@
       ]
     }
   },
+  "mn100": {
+    "location_dppn_headword": "Cañcalikappa",
+    "location_text": "The land of the Kosalans, Caṇḍalakappa, the mango grove of the Todeyya brahmins",
+    "geometry": {}
+  },
   "mn101": {
     "location_dppn_headword": "Devadaha",
     "location_text": "The land of the Sakyans, near the Sakyan town named Devadaha.",
@@ -4518,6 +4550,28 @@
       "coordinates": [
         85.42,
         25.03
+      ]
+    }
+  },
+  "mn109": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Eastern Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "mn110": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Near Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
       ]
     }
   },
@@ -4840,6 +4894,17 @@
       ]
     }
   },
+  "mn140": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
   "mn141": {
     "location_dppn_headword": "Bārānasī",
     "location_text": "Near Benares, in the deer park at Isipatana",
@@ -4848,6 +4913,17 @@
       "coordinates": [
         83.0044556,
         25.2993376
+      ]
+    }
+  },
+  "mn142": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Kapilavatthu, Banyan Tree Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
       ]
     }
   },
@@ -4876,6 +4952,17 @@
   "mn145": {
     "location_dppn_headword": "Jetavana",
     "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "mn146": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5553,6 +5640,17 @@
     }
   },
   "sn3.9": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn3.10": {
     "location_dppn_headword": "Sāvatthī",
     "location_text": "Sāvatthī",
     "geometry": {
@@ -9602,6 +9700,17 @@
       ]
     }
   },
+  "sn11.20": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Near Sāvatthī in Jeta's Grove",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
   "sn11.21": {
     "location_dppn_headword": "Sāvatthī",
     "location_text": "Near Sāvatthī in Jeta's Grove",
@@ -9937,6 +10046,17 @@
       ]
     }
   },
+  "sn12.32": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
   "sn12.33": {
     "location_dppn_headword": "Sāvatthī",
     "location_text": "Sāvatthī",
@@ -10103,6 +10223,17 @@
     }
   },
   "sn12.48": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "sn12.49": {
     "location_dppn_headword": "Sāvatthī",
     "location_text": "Sāvatthī",
     "geometry": {

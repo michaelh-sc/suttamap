@@ -1,102 +1,397 @@
 {
   "mn3:1.4": "the Buddha",
   "mn3:1.5": "the mendicants",
-  "mn3:2.1": "the Buddha",
-  "mn3:2.2": "the Buddha",
-  "mn3:2.3": "the Buddha",
-  "mn3:2.4": "the Buddha",
-  "mn3:2.5": "the Buddha",
-  "mn3:2.6": "the Buddha",
-  "mn3:2.7": "the Buddha",
-  "mn3:2.8": "the Buddha",
-  "mn3:2.9": "the Buddha",
-  "mn3:2.10": "the Buddha",
-  "mn3:2.11": "the Buddha",
-  "mn3:2.12": "the Buddha",
-  "mn3:2.13": "the Buddha",
-  "mn3:2.14": "the Buddha",
-  "mn3:3.1": "the Buddha",
-  "mn3:3.2": "the Buddha",
-  "mn3:3.3": "the Buddha",
-  "mn3:3.4": "the Buddha",
-  "mn3:3.5": "the Buddha",
-  "mn3:3.6": "the Buddha",
-  "mn3:3.7": "the Buddha",
-  "mn3:3.8": "the Buddha",
-  "mn3:3.9": "the Buddha",
-  "mn3:3.10": "the Buddha",
-  "mn3:3.11": "the Buddha",
-  "mn3:3.12": "the Buddha",
+  "mn3:2.1": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.2": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.3": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.4": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.5": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.6": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.7": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.8": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.9": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.10": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.11": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.12": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.13": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:2.14": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.1": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.2": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.3": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.4": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.5": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.6": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.7": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.8": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.9": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.10": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.11": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.12": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
   "mn3:3.13": "the Buddha",
-  "mn3:3.14": "the Buddha",
-  "mn3:3.15": "the Buddha",
-  "mn3:3.16": "the Buddha",
-  "mn3:3.17": "the Buddha",
-  "mn3:3.18": "the Buddha",
-  "mn3:3.19": "the Buddha",
-  "mn3:3.20": "the Buddha",
-  "mn3:3.21": "the Buddha",
-  "mn3:3.22": "the Buddha",
-  "mn3:3.23": "the Buddha",
-  "mn3:3.24": "the Buddha",
-  "mn3:3.25": "the Buddha",
-  "mn3:3.26": "the Buddha",
-  "mn3:3.27": "the Buddha",
-  "mn3:3.28": "the Buddha",
+  "mn3:3.14": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.15": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.16": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.17": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.18": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.19": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.20": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.21": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.22": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.23": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.24": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.25": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.26": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.27": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:3.28": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:4.1": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:4.2": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
+  "mn3:4.3": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
   "mn3:4.4": "Sāriputta",
   "mn3:4.5": "the mendicants",
+  "mn3:4.6": [
+    "Buddha",
+    "the Holy One",
+    "Sāriputta"
+  ],
   "mn3:5.1": "Sāriputta",
-  "mn3:5.2": "the mendicants",
-  "mn3:5.3": "the mendicants",
-  "mn3:5.4": "the mendicants",
+  "mn3:5.2": [
+    "Sāriputta"
+  ],
+  "mn3:5.3": [
+    "Sāriputta"
+  ],
+  "mn3:5.4": [
+    "Sāriputta"
+  ],
   "mn3:5.5": "Sāriputta",
   "mn3:5.6": "the mendicants",
-  "mn3:6.1": "Sāriputta",
-  "mn3:6.2": "Sāriputta",
-  "mn3:6.3": "Sāriputta",
-  "mn3:6.4": "Sāriputta",
-  "mn3:6.5": "Sāriputta",
-  "mn3:6.6": "Sāriputta",
-  "mn3:6.7": "Sāriputta",
-  "mn3:6.8": "Sāriputta",
-  "mn3:6.9": "Sāriputta",
-  "mn3:6.10": "Sāriputta",
-  "mn3:6.11": "Sāriputta",
-  "mn3:6.12": "Sāriputta",
-  "mn3:6.13": "Sāriputta",
-  "mn3:6.14": "Sāriputta",
-  "mn3:6.22": "Sāriputta",
-  "mn3:7.1": "Sāriputta",
-  "mn3:7.2": "Sāriputta",
-  "mn3:7.3": "Sāriputta",
-  "mn3:7.4": "Sāriputta",
-  "mn3:7.5": "Sāriputta",
-  "mn3:7.6": "Sāriputta",
-  "mn3:7.7": "Sāriputta",
-  "mn3:7.8": "Sāriputta",
-  "mn3:7.9": "Sāriputta",
-  "mn3:7.10": "Sāriputta",
-  "mn3:7.11": "Sāriputta",
-  "mn3:7.12": "Sāriputta",
-  "mn3:7.13": "Sāriputta",
-  "mn3:7.14": "Sāriputta",
-  "mn3:7.22": "Sāriputta",
-  "mn3:8.1": "Sāriputta",
-  "mn3:8.2": "Sāriputta",
-  "mn3:8.3": "Sāriputta",
-  "mn3:8.4": "Sāriputta",
-  "mn3:8.5": "Sāriputta",
-  "mn3:8.6": "Sāriputta",
-  "mn3:9-15.1": "Sāriputta",
-  "mn3:9-15.2": "Sāriputta",
-  "mn3:9-15.3": "Sāriputta",
-  "mn3:9-15.4": "Sāriputta",
-  "mn3:9-15.5": "Sāriputta",
-  "mn3:9-15.6": "Sāriputta",
-  "mn3:9-15.7": "Sāriputta",
-  "mn3:9-15.8": "Sāriputta",
-  "mn3:9-15.9": "Sāriputta",
-  "mn3:9-15.10": "Sāriputta",
-  "mn3:9-15.11": "Sāriputta",
-  "mn3:9-15.12": "Sāriputta"
+  "mn3:5.7": [
+    "Sāriputta"
+  ],
+  "mn3:6.1": [
+    "Sāriputta"
+  ],
+  "mn3:6.2": [
+    "Sāriputta"
+  ],
+  "mn3:6.3": [
+    "Sāriputta"
+  ],
+  "mn3:6.4": [
+    "Sāriputta"
+  ],
+  "mn3:6.5": [
+    "Sāriputta"
+  ],
+  "mn3:6.6": [
+    "Sāriputta"
+  ],
+  "mn3:6.7": [
+    "Sāriputta"
+  ],
+  "mn3:6.8": [
+    "Sāriputta"
+  ],
+  "mn3:6.9": [
+    "Sāriputta"
+  ],
+  "mn3:6.10": [
+    "Sāriputta"
+  ],
+  "mn3:6.11": [
+    "Sāriputta"
+  ],
+  "mn3:6.12": [
+    "Sāriputta"
+  ],
+  "mn3:6.13": [
+    "Sāriputta"
+  ],
+  "mn3:6.14": [
+    "Sāriputta"
+  ],
+  "mn3:6.22": [
+    "Sāriputta"
+  ],
+  "mn3:7.1": [
+    "Sāriputta"
+  ],
+  "mn3:7.2": [
+    "Sāriputta"
+  ],
+  "mn3:7.3": [
+    "Sāriputta"
+  ],
+  "mn3:7.4": [
+    "Sāriputta"
+  ],
+  "mn3:7.5": [
+    "Sāriputta"
+  ],
+  "mn3:7.6": [
+    "Sāriputta"
+  ],
+  "mn3:7.7": [
+    "Sāriputta"
+  ],
+  "mn3:7.8": [
+    "Sāriputta"
+  ],
+  "mn3:7.9": [
+    "Sāriputta"
+  ],
+  "mn3:7.10": [
+    "Sāriputta"
+  ],
+  "mn3:7.11": [
+    "Sāriputta"
+  ],
+  "mn3:7.12": [
+    "Sāriputta"
+  ],
+  "mn3:7.13": [
+    "Sāriputta"
+  ],
+  "mn3:7.14": [
+    "Sāriputta"
+  ],
+  "mn3:7.22": [
+    "Sāriputta"
+  ],
+  "mn3:8.1": [
+    "Sāriputta"
+  ],
+  "mn3:8.2": [
+    "Sāriputta"
+  ],
+  "mn3:8.3": [
+    "Sāriputta"
+  ],
+  "mn3:8.4": [
+    "Sāriputta"
+  ],
+  "mn3:8.5": [
+    "Sāriputta"
+  ],
+  "mn3:8.6": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.1": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.2": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.3": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.4": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.5": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.6": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.7": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.8": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.9": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.10": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.11": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.12": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.13": [
+    "Sāriputta"
+  ],
+  "mn3:9-15.14": [
+    "Sāriputta"
+  ]
 }

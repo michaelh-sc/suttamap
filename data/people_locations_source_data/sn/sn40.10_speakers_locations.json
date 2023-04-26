@@ -1,0 +1,59 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn40.10:2.1+sn40.10:2.6^speaker": "Mahāmoggallāna",
+  "sn40.10:2.1+sn40.10:2.6^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "sn40.10:3.1+sn40.10:3.6^speaker": "Sakka",
+  "sn40.10:3.1+sn40.10:3.6^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "sn40.10:8.1+sn40.10:11.2^speaker": "Mahāmoggallāna",
+  "sn40.10:8.1+sn40.10:11.2^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "sn40.10:12.1+sn40.10:15.2^speaker": "Sakka",
+  "sn40.10:12.1+sn40.10:15.2^who_else_mentioned": [
+    "Moggallāna",
+    "Saṅgha"
+  ],
+  "sn40.10:26.1+sn40.10:28.4^speaker": "Mahāmoggallāna",
+  "sn40.10:26.1+sn40.10:28.4^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "sn40.10:29.1^speaker": "Sakka",
+  "sn40.10:29.1^who_else_mentioned": [
+    "Moggallāna",
+    "Buddha"
+  ],
+  "sn40.10:38.1+sn40.10:41.1^speaker": "Mahāmoggallāna",
+  "sn40.10:38.1+sn40.10:41.1^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "sn40.10:42.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Jetavana"
+  ],
+  "sn40.10:42.1^speaker": "Sakka",
+  "sn40.10:42.1^where_before_or_around_this_segment": [
+    "Jeta's Grove"
+  ],
+  "sn40.10:42.1^who_present_before_or_around_this_segment": [
+    "Five hundred deities",
+    "Six hundred deities",
+    "Seven hundred deities",
+    "Eight hundred deities",
+    "Eighty thousand deities"
+  ],
+  "sn40.10:42.1^who_else_mentioned": [
+    "Moggallāna",
+    "Buddha"
+  ],
+  "sn40.10^initial_location_dppn_headword": [
+    "Jetavana"
+  ],
+  "sn40.10^where": "Jeta's Grove"
+}

@@ -4,100 +4,476 @@
   "mn4:2.5": "the Buddha",
   "mn4:2.8": "the brahmin Jāṇussoṇi",
   "mn4:2.9": "the brahmin Jāṇussoṇi",
-  "mn4:2.10": "the Buddha",
-  "mn4:3.1": "the Buddha",
-  "mn4:3.2": "the Buddha",
-  "mn4:3.3": "the Buddha",
-  "mn4:4.1": "the Buddha",
-  "mn4:4.2": "the Buddha",
-  "mn4:4.3": "the Buddha",
-  "mn4:4.4": "the Buddha",
-  "mn4:4.5": "the Buddha",
-  "mn4:4.6": "the Buddha",
-  "mn4:5-7.1": "the Buddha",
-  "mn4:5-7.4": "the Buddha",
-  "mn4:5-7.5": "the Buddha",
-  "mn4:5-7.6": "the Buddha",
-  "mn4:5-7.7": "the Buddha",
-  "mn4:5-7.8": "the Buddha",
-  "mn4:8.1": "the Buddha",
-  "mn4:8.2": "the Buddha",
-  "mn4:8.4": "the Buddha",
-  "mn4:9.2": "the Buddha",
-  "mn4:9.4": "the Buddha",
-  "mn4:10.2": "the Buddha",
-  "mn4:10.4": "the Buddha",
-  "mn4:11.2": "the Buddha",
-  "mn4:11.4": "the Buddha",
-  "mn4:12.2": "the Buddha",
-  "mn4:12.4": "the Buddha",
-  "mn4:13.2": "the Buddha",
-  "mn4:13.4": "the Buddha",
-  "mn4:14.2": "the Buddha",
-  "mn4:14.4": "the Buddha",
-  "mn4:15.2": "the Buddha",
-  "mn4:15.4": "the Buddha",
-  "mn4:16.2": "the Buddha",
-  "mn4:16.4": "the Buddha",
-  "mn4:17.2": "the Buddha",
-  "mn4:17.4": "the Buddha",
-  "mn4:18.2": "the Buddha",
-  "mn4:18.4": "the Buddha",
-  "mn4:19.2": "the Buddha",
-  "mn4:19.3": "the Buddha",
-  "mn4:19.4": "the Buddha",
-  "mn4:19.5": "the Buddha",
-  "mn4:19.6": "the Buddha",
-  "mn4:20.1": "the Buddha",
-  "mn4:20.2": "the Buddha",
-  "mn4:20.3": "the Buddha",
-  "mn4:20.4": "the Buddha",
-  "mn4:20.5": "the Buddha",
-  "mn4:20.8": "the Buddha",
-  "mn4:20.9": "the Buddha",
-  "mn4:20.10": "the Buddha",
-  "mn4:20.11": "the Buddha",
-  "mn4:20.12": "the Buddha",
-  "mn4:20.13": "the Buddha",
-  "mn4:20.14": "the Buddha",
-  "mn4:20.15": "the Buddha",
-  "mn4:20.16": "the Buddha",
-  "mn4:20.17": "the Buddha",
-  "mn4:20.18": "the Buddha",
-  "mn4:20.19": "the Buddha",
-  "mn4:20.20": "the Buddha",
-  "mn4:20.21": "the Buddha",
-  "mn4:21.1": "the Buddha",
-  "mn4:21.2": "the Buddha",
-  "mn4:21.3": "the Buddha",
-  "mn4:21.4": "the Buddha",
-  "mn4:21.5": "the Buddha",
-  "mn4:22-26.1": "the Buddha",
-  "mn4:22-26.2": "the Buddha",
-  "mn4:22-26.3": "the Buddha",
-  "mn4:22-26.4": "the Buddha",
-  "mn4:22-26.5": "the Buddha",
-  "mn4:27.1": "the Buddha",
-  "mn4:27.2": "the Buddha",
-  "mn4:28.1": "the Buddha",
-  "mn4:28.2": "the Buddha",
-  "mn4:29.1": "the Buddha",
-  "mn4:29.2": "the Buddha",
-  "mn4:30.1": "the Buddha",
-  "mn4:30.2": "the Buddha",
-  "mn4:31.1": "the Buddha",
-  "mn4:31.2": "the Buddha",
-  "mn4:31.3": "the Buddha",
-  "mn4:32.1": "the Buddha",
-  "mn4:32.2": "the Buddha",
-  "mn4:32.3": "the Buddha",
-  "mn4:33.1": "the Buddha",
-  "mn4:33.2": "the Buddha",
-  "mn4:34.1": "the Buddha",
-  "mn4:34.2": "the Buddha",
-  "mn4:34.3": "the Buddha",
-  "mn4:34.4": "the Buddha",
-  "mn4:34.5": "the Buddha",
+  "mn4:2.10": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:3.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:3.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:3.3": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:4.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:4.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:4.3": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:4.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:4.5": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:4.6": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:5-7.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:5-7.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:5-7.5": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:5-7.6": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:5-7.7": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:5-7.8": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:8.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:8.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:8.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:9.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:9.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:10.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:10.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:11.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:11.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:12.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:12.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:13.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:13.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:14.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:14.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:15.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:15.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:16.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:16.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:17.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:17.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:18.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:18.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:19.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:19.3": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:19.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:19.5": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:19.6": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.3": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.5": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.8": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.9": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.10": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.11": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.12": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.13": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.14": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.15": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.16": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.17": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.18": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.19": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.20": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:20.21": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:21.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:21.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:21.3": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:21.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:21.5": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:22-26.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:22-26.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:22-26.3": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:22-26.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:22-26.5": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:27.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:27.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:28.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:28.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:29.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:29.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:30.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:30.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:31.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:31.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:31.3": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:32.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:32.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:32.3": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:33.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:33.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:34.1": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:34.2": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:34.3": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:34.4": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "mn4:34.5": [
+    "Gotama",
+    "Buddha",
+    "Saṅgha"
+  ],
   "mn4:35.1": "the brahmin Jāṇussoṇi",
   "mn4:35.2": "the brahmin Jāṇussoṇi",
   "mn4:35.3": "the brahmin Jāṇussoṇi",

@@ -1,116 +1,350 @@
 {
   "mn2:1.4": "the Buddha",
   "mn2:1.5": "the mendicants",
-  "mn2:2.1": "the Buddha",
-  "mn2:2.2": "the Buddha",
+  "mn2:2.1": [
+    "Buddha",
+    "Mendicants"
+  ],
+  "mn2:2.2": [
+    "Buddha",
+    "Mendicants"
+  ],
   "mn2:2.3": "the mendicants",
-  "mn2:3.1": "the Buddha",
-  "mn2:3.2": "the Buddha",
-  "mn2:3.3": "the Buddha",
-  "mn2:3.4": "the Buddha",
-  "mn2:3.5": "the Buddha",
-  "mn2:4.1": "the Buddha",
-  "mn2:5.0": "the Buddha",
-  "mn2:5.1": "the Buddha",
-  "mn2:5.2": "the Buddha",
-  "mn2:5.3": "the Buddha",
-  "mn2:5.4": "the Buddha",
-  "mn2:6.1": "the Buddha",
-  "mn2:6.2": "the Buddha",
-  "mn2:6.3": "the Buddha",
-  "mn2:6.4": "the Buddha",
-  "mn2:6.5": "the Buddha",
-  "mn2:6.6": "the Buddha",
-  "mn2:6.7": "the Buddha",
-  "mn2:6.8": "the Buddha",
-  "mn2:6.9": "the Buddha",
-  "mn2:6.10": "the Buddha",
-  "mn2:7.1": "the Buddha",
-  "mn2:7.2": "the Buddha",
-  "mn2:7.3": "the Buddha",
-  "mn2:7.4": "the Buddha",
-  "mn2:7.5": "the Buddha",
-  "mn2:7.6": "the Buddha",
-  "mn2:8.1": "the Buddha",
-  "mn2:8.2": "the Buddha",
-  "mn2:8.3": "the Buddha",
-  "mn2:8.4": "the Buddha",
-  "mn2:8.5": "the Buddha",
-  "mn2:8.6": "the Buddha",
-  "mn2:8.7": "the Buddha",
-  "mn2:8.8": "the Buddha",
-  "mn2:8.9": "the Buddha",
-  "mn2:8.10": "the Buddha",
-  "mn2:8.11": "the Buddha",
-  "mn2:9.2": "the Buddha",
-  "mn2:9.3": "the Buddha",
-  "mn2:9.4": "the Buddha",
-  "mn2:10.1": "the Buddha",
-  "mn2:10.2": "the Buddha",
-  "mn2:10.3": "the Buddha",
-  "mn2:10.4": "the Buddha",
-  "mn2:10.5": "the Buddha",
-  "mn2:10.6": "the Buddha",
-  "mn2:10.7": "the Buddha",
-  "mn2:10.8": "the Buddha",
-  "mn2:10.9": "the Buddha",
-  "mn2:10.10": "the Buddha",
-  "mn2:10.11": "the Buddha",
-  "mn2:11.1": "the Buddha",
-  "mn2:11.2": "the Buddha",
-  "mn2:11.3": "the Buddha",
-  "mn2:11.4": "the Buddha",
-  "mn2:12.0": "the Buddha",
-  "mn2:12.1": "the Buddha",
-  "mn2:12.2": "the Buddha",
-  "mn2:12.3": "the Buddha",
-  "mn2:12.4": "the Buddha",
-  "mn2:12.5": "the Buddha",
-  "mn2:12.6": "the Buddha",
-  "mn2:12.7": "the Buddha",
-  "mn2:12.8": "the Buddha",
-  "mn2:12.9": "the Buddha",
-  "mn2:12.10": "the Buddha",
-  "mn2:12.11": "the Buddha",
-  "mn2:13.0": "the Buddha",
-  "mn2:13.1": "the Buddha",
-  "mn2:13.2": "the Buddha",
-  "mn2:13.3": "the Buddha",
-  "mn2:14.1": "the Buddha",
-  "mn2:14.2": "the Buddha",
-  "mn2:15.1": "the Buddha",
-  "mn2:15.2": "the Buddha",
-  "mn2:16.1": "the Buddha",
-  "mn2:16.2": "the Buddha",
-  "mn2:17.1": "the Buddha",
-  "mn2:17.2": "the Buddha",
-  "mn2:18.0": "the Buddha",
-  "mn2:18.1": "the Buddha",
-  "mn2:18.2": "the Buddha",
-  "mn2:18.3": "the Buddha",
-  "mn2:18.4": "the Buddha",
-  "mn2:19.0": "the Buddha",
-  "mn2:19.1": "the Buddha",
-  "mn2:19.2": "the Buddha",
-  "mn2:19.3": "the Buddha",
-  "mn2:19.4": "the Buddha",
-  "mn2:19.5": "the Buddha",
-  "mn2:20.0": "the Buddha",
-  "mn2:20.1": "the Buddha",
-  "mn2:20.2": "the Buddha",
-  "mn2:20.3": "the Buddha",
-  "mn2:20.4": "the Buddha",
-  "mn2:21.0": "the Buddha",
-  "mn2:21.1": "the Buddha",
-  "mn2:21.2": "the Buddha",
-  "mn2:21.3": "the Buddha",
-  "mn2:21.4": "the Buddha",
-  "mn2:21.5": "the Buddha",
-  "mn2:21.6": "the Buddha",
-  "mn2:21.7": "the Buddha",
-  "mn2:21.8": "the Buddha",
-  "mn2:21.9": "the Buddha",
-  "mn2:21.10": "the Buddha",
-  "mn2:22.1": "the Buddha",
-  "mn2:22.2": "the Buddha"
+  "mn2:2.4": [
+    "Buddha",
+    "Mendicants"
+  ],
+  "mn2:3.1": [
+    "Buddha"
+  ],
+  "mn2:3.2": [
+    "Buddha"
+  ],
+  "mn2:3.3": [
+    "Buddha"
+  ],
+  "mn2:3.4": [
+    "Buddha"
+  ],
+  "mn2:3.5": [
+    "Buddha"
+  ],
+  "mn2:4.1": [
+    "Buddha"
+  ],
+  "mn2:5.0": [
+    "Buddha"
+  ],
+  "mn2:5.1": [
+    "Buddha"
+  ],
+  "mn2:5.2": [
+    "Buddha"
+  ],
+  "mn2:5.3": [
+    "Buddha"
+  ],
+  "mn2:5.4": [
+    "Buddha"
+  ],
+  "mn2:6.1": [
+    "Buddha"
+  ],
+  "mn2:6.2": [
+    "Buddha"
+  ],
+  "mn2:6.3": [
+    "Buddha"
+  ],
+  "mn2:6.4": [
+    "Buddha"
+  ],
+  "mn2:6.5": [
+    "Buddha"
+  ],
+  "mn2:6.6": [
+    "Buddha"
+  ],
+  "mn2:6.7": [
+    "Buddha"
+  ],
+  "mn2:6.8": [
+    "Buddha"
+  ],
+  "mn2:6.9": [
+    "Buddha"
+  ],
+  "mn2:6.10": [
+    "Buddha"
+  ],
+  "mn2:7.1": [
+    "Buddha"
+  ],
+  "mn2:7.2": [
+    "Buddha"
+  ],
+  "mn2:7.3": [
+    "Buddha"
+  ],
+  "mn2:7.4": [
+    "Buddha"
+  ],
+  "mn2:7.5": [
+    "Buddha"
+  ],
+  "mn2:7.6": [
+    "Buddha"
+  ],
+  "mn2:8.1": [
+    "Buddha"
+  ],
+  "mn2:8.2": [
+    "Buddha"
+  ],
+  "mn2:8.3": [
+    "Buddha"
+  ],
+  "mn2:8.4": [
+    "Buddha"
+  ],
+  "mn2:8.5": [
+    "Buddha"
+  ],
+  "mn2:8.6": [
+    "Buddha"
+  ],
+  "mn2:8.7": [
+    "Buddha"
+  ],
+  "mn2:8.8": [
+    "Buddha"
+  ],
+  "mn2:8.9": [
+    "Buddha"
+  ],
+  "mn2:8.10": [
+    "Buddha"
+  ],
+  "mn2:8.11": [
+    "Buddha"
+  ],
+  "mn2:9.2": [
+    "Buddha"
+  ],
+  "mn2:9.3": [
+    "Buddha"
+  ],
+  "mn2:9.4": [
+    "Buddha"
+  ],
+  "mn2:10.1": [
+    "Buddha"
+  ],
+  "mn2:10.2": [
+    "Buddha"
+  ],
+  "mn2:10.3": [
+    "Buddha"
+  ],
+  "mn2:10.4": [
+    "Buddha"
+  ],
+  "mn2:10.5": [
+    "Buddha"
+  ],
+  "mn2:10.6": [
+    "Buddha"
+  ],
+  "mn2:10.7": [
+    "Buddha"
+  ],
+  "mn2:10.8": [
+    "Buddha"
+  ],
+  "mn2:10.9": [
+    "Buddha"
+  ],
+  "mn2:10.10": [
+    "Buddha"
+  ],
+  "mn2:10.11": [
+    "Buddha"
+  ],
+  "mn2:11.1": [
+    "Buddha"
+  ],
+  "mn2:11.2": [
+    "Buddha"
+  ],
+  "mn2:11.3": [
+    "Buddha"
+  ],
+  "mn2:11.4": [
+    "Buddha"
+  ],
+  "mn2:12.0": [
+    "Buddha"
+  ],
+  "mn2:12.1": [
+    "Buddha"
+  ],
+  "mn2:12.2": [
+    "Buddha"
+  ],
+  "mn2:12.3": [
+    "Buddha"
+  ],
+  "mn2:12.4": [
+    "Buddha"
+  ],
+  "mn2:12.5": [
+    "Buddha"
+  ],
+  "mn2:12.6": [
+    "Buddha"
+  ],
+  "mn2:12.7": [
+    "Buddha"
+  ],
+  "mn2:12.8": [
+    "Buddha"
+  ],
+  "mn2:12.9": [
+    "Buddha"
+  ],
+  "mn2:12.10": [
+    "Buddha"
+  ],
+  "mn2:12.11": [
+    "Buddha"
+  ],
+  "mn2:13.0": [
+    "Buddha"
+  ],
+  "mn2:13.1": [
+    "Buddha"
+  ],
+  "mn2:13.2": [
+    "Buddha"
+  ],
+  "mn2:13.3": [
+    "Buddha"
+  ],
+  "mn2:14.1": [
+    "Buddha"
+  ],
+  "mn2:14.2": [
+    "Buddha"
+  ],
+  "mn2:15.1": [
+    "Buddha"
+  ],
+  "mn2:15.2": [
+    "Buddha"
+  ],
+  "mn2:16.1": [
+    "Buddha"
+  ],
+  "mn2:16.2": [
+    "Buddha"
+  ],
+  "mn2:17.1": [
+    "Buddha"
+  ],
+  "mn2:17.2": [
+    "Buddha"
+  ],
+  "mn2:18.0": [
+    "Buddha"
+  ],
+  "mn2:18.1": [
+    "Buddha"
+  ],
+  "mn2:18.2": [
+    "Buddha"
+  ],
+  "mn2:18.3": [
+    "Buddha"
+  ],
+  "mn2:18.4": [
+    "Buddha"
+  ],
+  "mn2:19.0": [
+    "Buddha"
+  ],
+  "mn2:19.1": [
+    "Buddha"
+  ],
+  "mn2:19.2": [
+    "Buddha"
+  ],
+  "mn2:19.3": [
+    "Buddha"
+  ],
+  "mn2:19.4": [
+    "Buddha"
+  ],
+  "mn2:19.5": [
+    "Buddha"
+  ],
+  "mn2:20.0": [
+    "Buddha"
+  ],
+  "mn2:20.1": [
+    "Buddha"
+  ],
+  "mn2:20.2": [
+    "Buddha"
+  ],
+  "mn2:20.3": [
+    "Buddha"
+  ],
+  "mn2:20.4": [
+    "Buddha"
+  ],
+  "mn2:21.0": [
+    "Buddha"
+  ],
+  "mn2:21.1": [
+    "Buddha"
+  ],
+  "mn2:21.2": [
+    "Buddha"
+  ],
+  "mn2:21.3": [
+    "Buddha"
+  ],
+  "mn2:21.4": [
+    "Buddha"
+  ],
+  "mn2:21.5": [
+    "Buddha"
+  ],
+  "mn2:21.6": [
+    "Buddha"
+  ],
+  "mn2:21.7": [
+    "Buddha"
+  ],
+  "mn2:21.8": [
+    "Buddha"
+  ],
+  "mn2:21.9": [
+    "Buddha"
+  ],
+  "mn2:21.10": [
+    "Buddha"
+  ],
+  "mn2:22.1": [
+    "Buddha"
+  ],
+  "mn2:22.2": [
+    "Buddha"
+  ],
+  "mn2:22.3": [
+    "Buddha"
+  ],
+  "mn2:22.4": [
+    "Buddha"
+  ]
 }

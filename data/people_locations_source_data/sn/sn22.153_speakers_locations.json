@@ -1,0 +1,31 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn22.153:1.2+sn22.153:1.3^speaker": "the Buddha (assumed)",
+  "sn22.153:1.4^speaker": "the mendicants",
+  "sn22.153:1.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "sn22.153:1.5+sn22.153:1.13^speaker": "the Buddha (assumed)",
+  "sn22.153:1.14^speaker": "the mendicants",
+  "sn22.153:1.15^speaker": "the Buddha (assumed)",
+  "sn22.153:1.16^speaker": "the mendicants",
+  "sn22.153:1.17+sn22.153:1.18^speaker": "the Buddha (assumed)",
+  "sn22.153:1.19^speaker": "the mendicants",
+  "sn22.153:1.20+sn22.153:1.23^speaker": "the Buddha (assumed)",
+  "sn22.153:1.24^speaker": "the mendicants",
+  "sn22.153:1.25^speaker": "the Buddha (assumed)",
+  "sn22.153:1.26^speaker": "the mendicants",
+  "sn22.153:1.27+sn22.153:1.28^speaker": "the Buddha (assumed)",
+  "sn22.153:1.29^speaker": "the mendicants",
+  "sn22.153:1.30+sn22.153:1.31^speaker": "the Buddha (assumed)",
+  "sn22.153:1.30^event_dppn_headwords_before_or_around_this_segment": [
+    "Sāvatthī"
+  ],
+  "sn22.153:1.30^where_before_or_around_this_segment": [
+    "Sāvatthī"
+  ],
+  "sn22.153^initial_location_dppn_headword": [
+    "Sāvatthī"
+  ],
+  "sn22.153^where": "Sāvatthī"
+}

@@ -1,0 +1,20 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "sn1.2:2.1^speaker": "Glorious Deity",
+  "sn1.2:3.1^speaker": "the Buddha",
+  "sn1.2:4.1^speaker": "Glorious Deity",
+  "sn1.2:5.1+sn1.2:5.5^speaker": "the Buddha",
+  "sn1.2:5.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "sn1.2:5.1^where_before_or_around_this_segment": [
+    "Sāvatthī",
+    "Jeta's Grove"
+  ],
+  "sn1.2^initial_location_dppn_headword": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "sn1.2^where": "Sāvatthī, Jeta's Grove"
+}

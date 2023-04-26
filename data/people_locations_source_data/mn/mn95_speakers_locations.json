@@ -1,0 +1,191 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "mn95:3.2+mn95:3.7^speaker": "The brahmins and householders of Opāsāda",
+  "mn95:3.2+mn95:3.7^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Saṅgha",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "mn95:5.4^speaker": "The brahmin Caṅkī",
+  "mn95:6.1+mn95:6.4^speaker": "The steward",
+  "mn95:6.1+mn95:6.4^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha",
+    "Buddha"
+  ],
+  "mn95:6.5+mn95:6.7^speaker": "The brahmin Caṅkī",
+  "mn95:6.5+mn95:6.7^who_else_mentioned": [
+    "Caṅkī",
+    "Gotama"
+  ],
+  "mn95:6.8^speaker": "The steward",
+  "mn95:7.5^speaker": "The brahmins from abroad",
+  "mn95:7.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:7.6^speaker": "The brahmin Caṅkī",
+  "mn95:8.1+mn95:8.17^speaker": "The brahmins from abroad",
+  "mn95:8.1+mn95:8.17^where_else_mentioned": [
+    "Opāsāda"
+  ],
+  "mn95:8.1+mn95:8.17^who_else_mentioned": [
+    "Gotama",
+    "Pasenadi",
+    "Kosala",
+    "Pokkharasāti"
+  ],
+  "mn95:8.1^where_here_and_before": [
+    "Opāsāda",
+    "God's Grove"
+  ],
+  "mn95:8.1^who_around_here_and_before": [
+    "The Buddha",
+    "a large Saṅgha of mendicants"
+  ],
+  "mn95:8.1^who_mentioned_here_and_before": [
+    "King Pasenadi of Kosala"
+  ],
+  "mn95:9.2+mn95:9.37^speaker": "Caṅkī",
+  "mn95:9.2+mn95:9.37^where_else_mentioned": [
+    "Opāsāda"
+  ],
+  "mn95:9.2+mn95:9.37^who_else_mentioned": [
+    "Gotama",
+    "Buddha",
+    "Seniya Bimbisāra",
+    "Magadha",
+    "Kosala",
+    "Pokkharasāti"
+  ],
+  "mn95:11.5+mn95:11.6^speaker": "the Buddha",
+  "mn95:11.5+mn95:11.6^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "mn95:11.8+mn95:11.9^speaker": "Caṅkī",
+  "mn95:11.8+mn95:11.9^who_else_mentioned": [
+    "Gotama",
+    "Kāpaṭika"
+  ],
+  "mn95:12.2+mn95:12.3^speaker": "the Buddha",
+  "mn95:12.2+mn95:12.3^who_else_mentioned": [
+    "Kāpaṭika"
+  ],
+  "mn95:12.5^speaker": "Kāpaṭika",
+  "mn95:12.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:12.8+mn95:12.9^speaker": "Kāpaṭika",
+  "mn95:12.8+mn95:12.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:12.11+mn95:12.13^speaker": "Kāpaṭika",
+  "mn95:12.11+mn95:12.13^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:13.1+mn95:13.3^speaker": "the Buddha",
+  "mn95:13.1+mn95:13.3^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "mn95:13.4^speaker": "Kāpaṭika",
+  "mn95:13.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:13.5+mn95:13.7^speaker": "the Buddha",
+  "mn95:13.8^speaker": "Kāpaṭika",
+  "mn95:13.8^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:13.9+mn95:13.12^speaker": "the Buddha",
+  "mn95:13.9+mn95:13.12^who_else_mentioned": [
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Bhāradvāja",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu"
+  ],
+  "mn95:13.13^speaker": "Kāpaṭika",
+  "mn95:13.13^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:13.14+mn95:13.26^speaker": "the Buddha",
+  "mn95:13.14+mn95:13.26^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "mn95:14.1^speaker": "Kāpaṭika",
+  "mn95:14.1^who_around_here_and_before": [
+    "The senior brahmins"
+  ],
+  "mn95:14.1^who_mentioned_here_and_before": [
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Bhāradvāja",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu"
+  ],
+  "mn95:14.2+mn95:14.15^speaker": "the Buddha",
+  "mn95:15.1^speaker": "the Buddha",
+  "mn95:15.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:15.3+mn95:15.15^speaker": "the Buddha",
+  "mn95:15.3+mn95:15.15^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "mn95:16.1+mn95:16.2^speaker": "Kāpaṭika",
+  "mn95:16.1+mn95:16.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:17.1+mn95:20.4^speaker": "the Buddha",
+  "mn95:17.1+mn95:20.4^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "mn95:21.1+mn95:21.2^speaker": "Kāpaṭika",
+  "mn95:21.1+mn95:21.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:21.4+mn95:21.5^speaker": "the Buddha",
+  "mn95:21.4+mn95:21.5^who_else_mentioned": [
+    "Bhāradvāja"
+  ],
+  "mn95:22.1+mn95:22.2^speaker": "Kāpaṭika",
+  "mn95:22.1+mn95:22.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "mn95:22.4+mn95:22.7^speaker": "the Buddha",
+  "mn95:23.1^speaker": "the Buddha",
+  "mn95:23.3+mn95:33.6^speaker": "the Buddha",
+  "mn95:34.1+mn95:35.2^speaker": "Kāpaṭika",
+  "mn95:34.1+mn95:35.2^who_else_mentioned": [
+    "Gotama",
+    "Kinsman",
+    "Buddha"
+  ],
+  "mn95:34.1^who_around_here_and_before": [
+    "Bhāradvāja"
+  ],
+  "mn95:34.1^who_mentioned_here_and_before": [
+    "Aṭṭhaka",
+    "Vāmaka",
+    "Vāmadeva",
+    "Vessāmitta",
+    "Yamadaggi",
+    "Aṅgīrasa",
+    "Vāseṭṭha",
+    "Kassapa",
+    "Bhagu"
+  ],
+  "mn95^where": "Opāsāda, God's Grove"
+}
