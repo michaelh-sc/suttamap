@@ -1,0 +1,11 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "iti100:2.1+iti100:6.3^speaker": "the Buddha",
+  "iti100:2.1+iti100:6.3^who_else_mentioned": [
+    "Mendicants"
+  ],
+  "iti100:7.1+iti100:7.4^speaker": "the Buddha",
+  "iti100:7.1^who_present_before_or_around_this_segment": [
+    "Mendicants"
+  ]
+}

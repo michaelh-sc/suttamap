@@ -1,0 +1,22 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp1.4:2.3+snp1.4:2.4^speaker": "Bhāradvāja the Farmer",
+  "snp1.4:3.1^speaker": "the Buddha",
+  "snp1.4:3.4^speaker": "Bhāradvāja the Farmer",
+  "snp1.4:13.1^speaker": "Bhāradvāja the Farmer",
+  "snp1.4:13.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp1.4:16.3^speaker": "the Buddha",
+  "snp1.4:16.3^where_before_or_around_this_segment": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekanāḷa",
+  "snp1.4:16.3^who_mentioned_before_or_around_this_segment": [
+    "gods",
+    "Māras",
+    "Brahmās",
+    "ascetics",
+    "brahmins",
+    "gods",
+    "humans"
+  ],
+  "snp1.4^where": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekanāḷa"
+}

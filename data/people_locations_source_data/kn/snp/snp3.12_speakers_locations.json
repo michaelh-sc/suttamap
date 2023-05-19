@@ -1,0 +1,51 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp3.12:2.1+snp3.12:3.4^speaker": "the Buddha",
+  "snp3.12:5.1+snp3.12:8.4^speaker": "the mendicants",
+  "snp3.12:9.1+snp3.12:9.6^speaker": "the Buddha",
+  "snp3.12:10.1+snp3.12:10.6^speaker": "the mendicants",
+  "snp3.12:11.1+snp3.12:11.6^speaker": "the Buddha",
+  "snp3.12:12.1+snp3.12:13.4^speaker": "the mendicants",
+  "snp3.12:14.1+snp3.12:14.5^speaker": "the Buddha",
+  "snp3.12:15.1+snp3.12:17.4^speaker": "the mendicants",
+  "snp3.12:15.1+snp3.12:17.4^who_else_mentioned": [
+    "Māra"
+  ],
+  "snp3.12:18.1+snp3.12:18.5^speaker": "the Buddha",
+  "snp3.12:19.1+snp3.12:20.4^speaker": "the mendicants",
+  "snp3.12:21.1+snp3.12:21.5^speaker": "the Buddha",
+  "snp3.12:22.1+snp3.12:23.4^speaker": "the mendicants",
+  "snp3.12:24.1+snp3.12:24.5^speaker": "the Buddha",
+  "snp3.12:25.1+snp3.12:26.6^speaker": "the mendicants",
+  "snp3.12:27.1+snp3.12:27.5^speaker": "the Buddha",
+  "snp3.12:28.1+snp3.12:29.4^speaker": "the mendicants",
+  "snp3.12:30.1+snp3.12:30.5^speaker": "the Buddha",
+  "snp3.12:31.1+snp3.12:32.4^speaker": "the mendicants",
+  "snp3.12:33.1+snp3.12:33.5^speaker": "the Buddha",
+  "snp3.12:34.1+snp3.12:36.4^speaker": "the mendicants",
+  "snp3.12:37.1+snp3.12:37.5^speaker": "the Buddha",
+  "snp3.12:38.1+snp3.12:40.4^speaker": "the mendicants",
+  "snp3.12:41.1+snp3.12:41.5^speaker": "the Buddha",
+  "snp3.12:41.1^where_before_or_around_this_segment": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
+  "snp3.12:41.1^who_present_before_or_around_this_segment": [
+    "Saṅgha of monks"
+  ],
+  "snp3.12:42.1+snp3.12:43.6^speaker": "the mendicants",
+  "snp3.12:44.1+snp3.12:44.5^speaker": "the Buddha",
+  "snp3.12:45.1+snp3.12:46.4^speaker": "the mendicants",
+  "snp3.12:47.1+snp3.12:47.5^speaker": "the Buddha",
+  "snp3.12:48.1+snp3.12:49.4^speaker": "the mendicants",
+  "snp3.12:50.1+snp3.12:50.5^speaker": "the Buddha",
+  "snp3.12:50.1+snp3.12:50.5^who_else_mentioned": [
+    "Māras",
+    "Brahmās"
+  ],
+  "snp3.12:51.1+snp3.12:53.4^speaker": "the mendicants",
+  "snp3.12^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "snp3.12^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
+  "snp3.12_41.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ]
+}

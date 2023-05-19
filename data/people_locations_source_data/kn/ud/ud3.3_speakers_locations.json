@@ -1,0 +1,49 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud3.3:2.2^speaker": "the Buddha",
+  "ud3.3:2.3+ud3.3:2.4^speaker": "Ānanda",
+  "ud3.3:2.3+ud3.3:2.4^who_else_mentioned": [
+    "Yasoja",
+    "Sāvatthī",
+    "Buddha"
+  ],
+  "ud3.3:2.5+ud3.3:2.6^speaker": "the Buddha",
+  "ud3.3:2.5+ud3.3:2.6^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "ud3.3:3.1^speaker": "Ānanda",
+  "ud3.3:3.2^speaker": "Ānanda",
+  "ud3.3:3.3^speaker": "The mendicants",
+  "ud3.3:4.1^speaker": "the Buddha",
+  "ud3.3:4.3+ud3.3:4.4^speaker": "Yasoja",
+  "ud3.3:4.3+ud3.3:4.4^who_else_mentioned": [
+    "Yasoja",
+    "Sāvatthī",
+    "Buddha"
+  ],
+  "ud3.3:4.5^speaker": "the Buddha",
+  "ud3.3:5.1^speaker": "The mendicants",
+  "ud3.3:6.2+ud3.3:6.3^speaker": "Yasoja",
+  "ud3.3:6.2+ud3.3:6.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud3.3:6.4^speaker": "The mendicants",
+  "ud3.3:8.5^speaker": "Ānanda",
+  "ud3.3:9.1^geographic_locations_here_and_before": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "ud3.3:9.1^speaker": "Ānanda",
+  "ud3.3:9.1^where_before_or_around_this_segment": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+  "ud3.3:9.1^who_mentioned_before_or_around_this_segment": [
+    "The five hundred mendicants headed by Yasoja"
+  ],
+  "ud3.3:9.1^who_present_before_or_around_this_segment": [
+    "The resident mendicants",
+    "Ānanda"
+  ],
+  "ud3.3^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "ud3.3^where": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery"
+}

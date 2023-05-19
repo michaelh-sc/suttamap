@@ -1,0 +1,30 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud2.2:1.4^speaker": "the mendicants",
+  "ud2.2:1.4^where_else_mentioned": [
+    "Māgadha",
+    "Kosala"
+  ],
+  "ud2.2:1.4^who_else_mentioned": [
+    "Seniya Bimbisāra"
+  ],
+  "ud2.2:2.3^speaker": "the Buddha",
+  "ud2.2:4.1+ud2.2:4.3^speaker": "the Buddha",
+  "ud2.2:6.1+ud2.2:6.4^speaker": "the Buddha",
+  "ud2.2:6.1^geographic_locations_here_and_before": [
+    "Jetavana",
+    "Sāvatthī"
+  ],
+  "ud2.2:6.1^where_before_or_around_this_segment": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+  "ud2.2:6.1^who_mentioned_before_or_around_this_segment": [
+    "King Seniya Bimbisāra of Māgadha",
+    "King Pasenadi of Kosala"
+  ],
+  "ud2.2:6.1^who_present_before_or_around_this_segment": [
+    "the mendicants"
+  ],
+  "ud2.2^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "ud2.2^where": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī"
+}

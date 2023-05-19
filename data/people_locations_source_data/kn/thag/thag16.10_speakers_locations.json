@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "_quoteless": "True",
+  "thag16.10:1.1+thag16.10:29.4^speaker": "Pārāpariya",
+  "thag16.10:1.1+thag16.10:29.4^who_else_mentioned": [
+    "Saṅgha"
+  ],
+  "thag16.10_who_around": [
+    "Brahmin",
+    "Hermit"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "_quoteless": "True",
+  "thig13.5:1.1+thig13.5:31.1^speaker": "Subhā, the Smith’s Daughter",
+  "thig13.5:1.1+thig13.5:31.1^who_else_mentioned": [
+    "Māra",
+    "Uppalavaṇṇā",
+    "Sakka",
+    "Subhā"
+  ],
+  "thig13.5_who_around": "Uppalavaṇṇā"
+}

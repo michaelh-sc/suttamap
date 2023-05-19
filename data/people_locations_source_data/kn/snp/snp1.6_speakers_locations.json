@@ -1,0 +1,71 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp1.6:2.1+snp1.6:2.4^speaker": "the glorious deity",
+  "snp1.6:2.1+snp1.6:2.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp1.6:3.1+snp1.6:3.4^speaker": "the Buddha",
+  "snp1.6:4.1+snp1.6:4.4^speaker": "the glorious deity",
+  "snp1.6:4.1+snp1.6:4.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:5.1+snp1.6:5.4^speaker": "the Buddha",
+  "snp1.6:6.1+snp1.6:6.4^speaker": "the glorious deity",
+  "snp1.6:6.1+snp1.6:6.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:7.1+snp1.6:7.4^speaker": "the Buddha",
+  "snp1.6:8.1+snp1.6:8.4^speaker": "the glorious deity",
+  "snp1.6:8.1+snp1.6:8.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:9.1+snp1.6:9.4^speaker": "the Buddha",
+  "snp1.6:10.1+snp1.6:10.4^speaker": "the glorious deity",
+  "snp1.6:10.1+snp1.6:10.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:11.1+snp1.6:11.4^speaker": "the Buddha",
+  "snp1.6:12.1+snp1.6:12.4^speaker": "the glorious deity",
+  "snp1.6:12.1+snp1.6:12.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:13.1+snp1.6:13.4^speaker": "the Buddha",
+  "snp1.6:14.1+snp1.6:14.4^speaker": "the glorious deity",
+  "snp1.6:14.1+snp1.6:14.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:15.1+snp1.6:15.4^speaker": "the Buddha",
+  "snp1.6:16.1+snp1.6:16.4^speaker": "the glorious deity",
+  "snp1.6:16.1+snp1.6:16.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:17.1+snp1.6:17.4^speaker": "the Buddha",
+  "snp1.6:18.1+snp1.6:18.4^speaker": "the glorious deity",
+  "snp1.6:18.1+snp1.6:18.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:19.1+snp1.6:19.4^speaker": "the Buddha",
+  "snp1.6:20.1+snp1.6:20.4^speaker": "the glorious deity",
+  "snp1.6:20.1+snp1.6:20.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:21.1+snp1.6:21.4^speaker": "the Buddha",
+  "snp1.6:22.1+snp1.6:22.4^speaker": "the glorious deity",
+  "snp1.6:22.1+snp1.6:22.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:23.1+snp1.6:23.4^speaker": "the Buddha",
+  "snp1.6:24.1+snp1.6:24.4^speaker": "the glorious deity",
+  "snp1.6:24.1+snp1.6:24.4^who_else_mentioned": [
+    "Blessed One"
+  ],
+  "snp1.6:25.1+snp1.6:26.4^speaker": "the Buddha",
+  "snp1.6:25.1^where_before_or_around_this_segment": "Jeta's Grove, Anāthapiṇḍika's monastery",
+  "snp1.6^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "snp1.6^where": "Jeta's Grove, Anāthapiṇḍika's monastery",
+  "snp1.6_25.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ]
+}

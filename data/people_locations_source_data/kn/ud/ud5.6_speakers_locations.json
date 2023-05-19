@@ -1,0 +1,56 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud5.6:2.2+ud5.6:2.3^speaker": "Soṇa",
+  "ud5.6:2.2+ud5.6:2.3^who_else_mentioned": [
+    "Mahākaccāna"
+  ],
+  "ud5.6:4.4^speaker": "Soṇa",
+  "ud5.6:4.4^who_else_mentioned": [
+    "Mahākaccāna"
+  ],
+  "ud5.6:5.2+ud5.6:5.3^speaker": "Mahākaccāna",
+  "ud5.6:5.2+ud5.6:5.3^who_else_mentioned": [
+    "Soṇa",
+    "Buddhas"
+  ],
+  "ud5.6:7.2+ud5.6:7.3^speaker": "Soṇa",
+  "ud5.6:7.2+ud5.6:7.3^who_else_mentioned": [
+    "Mahākaccāna"
+  ],
+  "ud5.6:8.4^speaker": "Soṇa",
+  "ud5.6:8.4^who_else_mentioned": [
+    "Mahākaccāna"
+  ],
+  "ud5.6:10.2+ud5.6:10.4^speaker": "Soṇa",
+  "ud5.6:10.2+ud5.6:10.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud5.6:14.1^speaker": "Soṇa",
+  "ud5.6:14.4^speaker": "Soṇa",
+  "ud5.6:14.4^who_else_mentioned": [
+    "Venerable Mahākaccāna"
+  ],
+  "ud5.6:15.1^speaker": "Mahākaccāna",
+  "ud5.6:15.2^speaker": "Soṇa",
+  "ud5.6:16.2^speaker": "the Buddha",
+  "ud5.6:17.4^speaker": "the Buddha",
+  "ud5.6:18.1^speaker": "Soṇa",
+  "ud5.6:18.5^speaker": "Soṇa",
+  "ud5.6:18.6^geographic_locations_here_and_before": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "ud5.6:18.6^speaker": "Soṇa",
+  "ud5.6:18.6^where_before_or_around_this_segment": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+  "ud5.6:18.6^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "ud5.6:18.6^who_present_before_or_around_this_segment": [
+    "Mahākaccāna",
+    "the Buddha"
+  ],
+  "ud5.6^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "ud5.6^where": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery"
+}

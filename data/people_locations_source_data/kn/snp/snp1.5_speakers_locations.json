@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp1.5:1.1^speaker": "Cunda the smith",
+  "snp1.5:1.3+snp1.5:1.5^speaker": "Cunda the smith",
+  "snp1.5:1.3+snp1.5:1.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp1.5:2.1^speaker": "the Buddha",
+  "snp1.5:2.3+snp1.5:2.5^speaker": "the Buddha",
+  "snp1.5:3.1^speaker": "Cunda the smith",
+  "snp1.5:3.1^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "snp1.5:3.3+snp1.5:3.5^speaker": "Cunda the smith",
+  "snp1.5:4.1+snp1.5:8.6^speaker": "the Buddha",
+  "snp1.5:4.1+snp1.5:8.6^who_else_mentioned": [
+    "Buddhas"
+  ]
+}

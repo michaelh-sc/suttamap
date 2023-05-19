@@ -1,0 +1,100 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp3.7:1.4+snp3.7:1.9^speaker": "Keṇiya",
+  "snp3.7:1.4+snp3.7:1.9^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Buddha",
+    "Māras",
+    "Brahmās"
+  ],
+  "snp3.7:2.5^speaker": "Keṇiya",
+  "snp3.7:2.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "snp3.7:2.7^speaker": "the Buddha",
+  "snp3.7:2.7^where_else_mentioned": [
+    "Saṅgha",
+    "Keṇiya"
+  ],
+  "snp3.7:3.2+snp3.7:3.3^speaker": "Keṇiya",
+  "snp3.7:3.2+snp3.7:3.3^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "snp3.7:4.2+snp3.7:4.3^speaker": "Keṇiya",
+  "snp3.7:4.2+snp3.7:4.3^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "snp3.7:4.6+snp3.7:4.8^speaker": "Keṇiya",
+  "snp3.7:4.6+snp3.7:4.8^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "snp3.7:4.9^speaker": "Keṇiya's friends and colleagues, relatives and family members",
+  "snp3.7:6.5^speaker": "Sela",
+  "snp3.7:6.5^where_else_mentioned": [
+    "Magadha"
+  ],
+  "snp3.7:6.5^who_else_mentioned": [
+    "Keṇiya",
+    "Seniya Bimbisāra"
+  ],
+  "snp3.7:7.1+snp3.7:7.6^speaker": "Keṇiya",
+  "snp3.7:7.1+snp3.7:7.6^who_else_mentioned": [
+    "Sela",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "snp3.7:7.7^speaker": "Sela",
+  "snp3.7:7.7^who_else_mentioned": [
+    "Keṇiya"
+  ],
+  "snp3.7:7.8^speaker": "Keṇiya",
+  "snp3.7:7.9^speaker": "Sela",
+  "snp3.7:7.9^who_else_mentioned": [
+    "Keṇiya"
+  ],
+  "snp3.7:7.10^speaker": "Keṇiya",
+  "snp3.7:8.10^speaker": "Sela",
+  "snp3.7:8.10^who_else_mentioned": [
+    "Keṇiya",
+    "the Blessed One",
+    "Buddha"
+  ],
+  "snp3.7:9.2^speaker": "Keṇiya",
+  "snp3.7:9.2^who_else_mentioned": [
+    "Sela"
+  ],
+  "snp3.7:19.1^speaker": "the Buddha",
+  "snp3.7:19.1^who_else_mentioned": [
+    "Sela"
+  ],
+  "snp3.7:20.1^speaker": "Sela",
+  "snp3.7:22.1^speaker": "Keṇiya",
+  "snp3.7:32.1^speaker": "the Buddha",
+  "snp3.7:33.3^speaker": "Sela",
+  "snp3.7:33.3^where_before_or_around_this_segment": "Āpaṇa",
+  "snp3.7:33.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp3.7:33.3^who_mentioned_before_or_around_this_segment": [
+    "King Seniya Bimbisāra of Magadha"
+  ],
+  "snp3.7:33.3^who_present_before_or_around_this_segment": [
+    "a large Saṅgha of 1,250 mendicants",
+    "Keṇiya's friends and colleagues",
+    "relatives and family members",
+    "three hundred students",
+    "Sela's three hundred students"
+  ],
+  "snp3.7^initial_geographic_location": [
+    "Āpaṇa"
+  ],
+  "snp3.7^where": "Āpaṇa",
+  "snp3.7_33.3^geographic_locations_here_and_before": [
+    "Āpaṇa"
+  ]
+}

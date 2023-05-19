@@ -1,0 +1,56 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "_quoteless": "True",
+  "snp5.18:1.1^event_dppn_headwords_before_or_around_this_segment": [
+    "Magadha"
+  ],
+  "snp5.18:2.1+snp5.18:8.4^speaker": "the Buddha",
+  "snp5.18:2.1+snp5.18:8.4^where_else_mentioned": [
+    "Ajita",
+    "Tissametteyya",
+    "Puṇṇaka"
+  ],
+  "snp5.18:2.1+snp5.18:8.4^who_else_mentioned": [
+    "Mettagū",
+    "Dhotaka",
+    "Upasiva",
+    "Nanda",
+    "Hemaka",
+    "Todeyya",
+    "Kappa",
+    "Jatukaṇṇī",
+    "Bhadrāvudha",
+    "Udaya",
+    "Posāla",
+    "Mogharājā",
+    "Piṅgiya",
+    "Buddha",
+    "Sun"
+  ],
+  "snp5.18:8.4^where_before_or_around_this_segment": "the land of the Magadhans at the Pāsāṇake shrine",
+  "snp5.18:8.4^who_mentioned_before_or_around_this_segment": [
+    "Ajita",
+    "Tissametteyya",
+    "Puṇṇaka",
+    "Mettagū",
+    "Dhotaka",
+    "Upasiva",
+    "Nanda",
+    "Hemaka",
+    "Todeyya",
+    "Kappa",
+    "Jatukaṇṇī",
+    "Bhadrāvudha",
+    "Udaya",
+    "the brahmin Posala",
+    "Mogharājā",
+    "Piṅgiya"
+  ],
+  "snp5.18:8.4^who_present_before_or_around_this_segment": [
+    "the sixteen brahmin devotees"
+  ],
+  "snp5.18^initial_location_dppn_headword": [
+    "Magadha"
+  ],
+  "snp5.18^where": "the land of the Magadhans at the Pāsāṇake shrine"
+}

@@ -1,0 +1,58 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud6.1:1.5+ud6.1:1.6^speaker": "the Buddha",
+  "ud6.1:2.1^speaker": "Ānanda",
+  "ud6.1:3.1+ud6.1:3.3^speaker": "the Buddha",
+  "ud6.1:3.1+ud6.1:3.3^where_else_mentioned": [
+    "Gotamaka",
+    "Sattamba",
+    "Bahuputta",
+    "Sārandada"
+  ],
+  "ud6.1:3.1+ud6.1:3.3^who_else_mentioned": [
+    "Vesālī",
+    "Udena",
+    "Cāpāla"
+  ],
+  "ud6.1:4.3^speaker": "Ānanda",
+  "ud6.1:4.3^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "ud6.1:5.1+ud6.1:5.3^speaker": "the Buddha",
+  "ud6.1:5.1+ud6.1:5.3^where_else_mentioned": [
+    "Gotamaka",
+    "Sattamba",
+    "Bahuputta",
+    "Sārandada"
+  ],
+  "ud6.1:5.1+ud6.1:5.3^who_else_mentioned": [
+    "Vesālī",
+    "Udena",
+    "Cāpāla"
+  ],
+  "ud6.1:6.3^speaker": "Ānanda",
+  "ud6.1:6.3^who_else_mentioned": [
+    "the Blessed One"
+  ],
+  "ud6.1:7.2^speaker": "the Buddha",
+  "ud6.1:7.3^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "ud6.1:7.3^speaker": "Ānanda",
+  "ud6.1:7.3^where_before_or_around_this_segment": "Vesālī, at the Great Wood, in the hall with the peaked roof",
+  "ud6.1:7.3^who_mentioned_before_or_around_this_segment": [
+    "Udena",
+    "Buddhaka",
+    "Sattamba",
+    "Bahuputta",
+    "Sārandada",
+    "and Cāpāla"
+  ],
+  "ud6.1:7.3^who_present_before_or_around_this_segment": [
+    "Māra the Wicked"
+  ],
+  "ud6.1^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "ud6.1^where": "Vesālī, at the Great Wood, in the hall with the peaked roof"
+}

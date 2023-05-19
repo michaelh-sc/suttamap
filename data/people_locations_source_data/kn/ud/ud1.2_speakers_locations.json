@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud1.2:2.1+ud1.2:2.13^speaker": "the Buddha",
+  "ud1.2:4.1+ud1.2:4.4^speaker": "the Buddha",
+  "ud1.2:4.1^geographic_locations_here_and_before": [
+    "Uruvelā"
+  ],
+  "ud1.2:4.1^where_before_or_around_this_segment": "Near Uruvelā at the root of the tree of awakening on the bank of the Nerañjarā River",
+  "ud1.2^initial_geographic_location": [
+    "Uruvelā"
+  ],
+  "ud1.2^where": "Near Uruvelā at the root of the tree of awakening on the bank of the Nerañjarā River"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp1.2:1.1^speaker": "Dhaniya the cowherd",
+  "snp1.2:1.3+snp1.2:1.5^speaker": "Dhaniya the cowherd",
+  "snp1.2:1.3+snp1.2:1.5^who_else_mentioned": [
+    "Mahī"
+  ],
+  "snp1.2:2.1^speaker": "the Buddha",
+  "snp1.2:2.3+snp1.2:2.5^speaker": "the Buddha",
+  "snp1.2:2.3+snp1.2:2.5^who_else_mentioned": [
+    "Mahī"
+  ],
+  "snp1.2:3.1^speaker": "Dhaniya the cowherd",
+  "snp1.2:3.3+snp1.2:3.5^speaker": "Dhaniya the cowherd",
+  "snp1.2:4.1^speaker": "the Buddha",
+  "snp1.2:4.3+snp1.2:4.5^speaker": "the Buddha",
+  "snp1.2:5.1^speaker": "Dhaniya the cowherd",
+  "snp1.2:5.3+snp1.2:5.5^speaker": "Dhaniya the cowherd",
+  "snp1.2:6.1^speaker": "the Buddha",
+  "snp1.2:6.3+snp1.2:6.5^speaker": "the Buddha",
+  "snp1.2:7.1^speaker": "Dhaniya the cowherd",
+  "snp1.2:7.3+snp1.2:7.5^speaker": "Dhaniya the cowherd",
+  "snp1.2:8.1^speaker": "the Buddha",
+  "snp1.2:8.3+snp1.2:8.5^speaker": "the Buddha",
+  "snp1.2:9.1^speaker": "Dhaniya the cowherd",
+  "snp1.2:9.3+snp1.2:9.5^speaker": "Dhaniya the cowherd",
+  "snp1.2:10.1^speaker": "the Buddha",
+  "snp1.2:10.3+snp1.2:10.5^speaker": "the Buddha",
+  "snp1.2:11.1^speaker": "Dhaniya the cowherd",
+  "snp1.2:11.3+snp1.2:11.5^speaker": "Dhaniya the cowherd",
+  "snp1.2:12.1^speaker": "the Buddha",
+  "snp1.2:12.3+snp1.2:12.5^speaker": "the Buddha",
+  "snp1.2:14.1+snp1.2:15.4^speaker": "Dhaniya the cowherd",
+  "snp1.2:14.1+snp1.2:15.4^who_else_mentioned": [
+    "Buddha",
+    "Seer"
+  ],
+  "snp1.2:16.1^speaker": "Māra the Wicked",
+  "snp1.2:16.3+snp1.2:16.5^speaker": "Māra the Wicked",
+  "snp1.2:17.1^speaker": "the Buddha",
+  "snp1.2:17.3+snp1.2:17.5^speaker": "the Buddha",
+  "snp1.2:17.3^where_before_or_around_this_segment": "Mahī River",
+  "snp1.2^initial_geographic_location": [
+    "Mahī"
+  ],
+  "snp1.2^where": "Mahī River",
+  "snp1.2_17.3^geographic_locations_here_and_before": [
+    "Mahī"
+  ]
+}

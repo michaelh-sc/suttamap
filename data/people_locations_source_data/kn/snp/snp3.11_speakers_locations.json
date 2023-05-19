@@ -1,0 +1,49 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp3.11:2.3+snp3.11:4.4^speaker": "Asita",
+  "snp3.11:2.3+snp3.11:4.4^where_else_mentioned": [
+    "Mount Meru"
+  ],
+  "snp3.11:5.1+snp3.11:6.4^speaker": "the gods of the Thirty-Three and their lord Sakka",
+  "snp3.11:5.1+snp3.11:6.4^where_else_mentioned": [
+    "Lumbinī"
+  ],
+  "snp3.11:5.1+snp3.11:6.4^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "snp3.11:7.4^speaker": "Asita",
+  "snp3.11:11.1^speaker": "Asita",
+  "snp3.11:11.1^who_else_mentioned": [
+    "Dark Splendor"
+  ],
+  "snp3.11:12.4^speaker": "Asita",
+  "snp3.11:13.4^speaker": "the Sakyans",
+  "snp3.11:14.2+snp3.11:16.4^speaker": "Asita",
+  "snp3.11:18.1+snp3.11:18.4^speaker": "Asita",
+  "snp3.11:18.1+snp3.11:18.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp3.11:21.1+snp3.11:22.4^speaker": "Nālaka",
+  "snp3.11:21.1+snp3.11:22.4^who_else_mentioned": [
+    "Asita",
+    "Gotama"
+  ],
+  "snp3.11:23.1^speaker": "the Buddha",
+  "snp3.11:23.1^where_before_or_around_this_segment": "Suddhodana's home",
+  "snp3.11:23.1^who_mentioned_before_or_around_this_segment": [
+    "the gods of the Thirty-Three and their lord Sakka",
+    "Nālaka"
+  ],
+  "snp3.11:23.1^who_present_before_or_around_this_segment": [
+    "Suddhodana",
+    "the Sakyans"
+  ],
+  "snp3.11:23.3+snp3.11:45.4^speaker": "the Buddha",
+  "snp3.11:23.3+snp3.11:45.4^who_else_mentioned": [
+    "Ascetic"
+  ],
+  "snp3.11:23.3^who_present_before_or_around_this_segment": [
+    "Asita"
+  ],
+  "snp3.11^where": "Suddhodana's home"
+}

@@ -1,0 +1,62 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud5.5:2.2+ud5.5:2.3^speaker": "Ānanda",
+  "ud5.5:2.2+ud5.5:2.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud5.5:3.2+ud5.5:3.3^speaker": "Ānanda",
+  "ud5.5:3.2+ud5.5:3.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud5.5:4.2+ud5.5:4.3^speaker": "Ānanda",
+  "ud5.5:4.2+ud5.5:4.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud5.5:4.4^speaker": "the Buddha",
+  "ud5.5:5.2^speaker": "Mahāmoggallāna",
+  "ud5.5:5.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud5.5:5.7+ud5.5:5.8^speaker": "Mahāmoggallāna",
+  "ud5.5:5.7+ud5.5:5.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud5.5:7.2+ud5.5:7.4^speaker": "Mahāmoggallāna",
+  "ud5.5:7.2+ud5.5:7.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud5.5:7.5+ud5.5:7.6^speaker": "the Buddha",
+  "ud5.5:7.5+ud5.5:7.6^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "ud5.5:7.5^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "ud5.5:7.5^where_before_or_around_this_segment": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
+  "ud5.5:7.5^who_mentioned_before_or_around_this_segment": [
+    "unethical person"
+  ],
+  "ud5.5:7.5^who_present_before_or_around_this_segment": [
+    "Saṅgha of monks"
+  ],
+  "ud5.5:8.2+ud5.5:26.5^speaker": "the mendicants",
+  "ud5.5:8.2+ud5.5:26.5^where_else_mentioned": [
+    "Ganges",
+    "Yamunā",
+    "Aciravatī",
+    "Sarabhū",
+    "Mahī"
+  ],
+  "ud5.5:8.2+ud5.5:26.5^who_else_mentioned": [
+    "Saṅgha",
+    "Sakyan"
+  ],
+  "ud5.5:28.1+ud5.5:28.4^speaker": "the Buddha",
+  "ud5.5:28.1^who_present_before_or_around_this_segment": [
+    "that person"
+  ],
+  "ud5.5^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "ud5.5^where": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother"
+}

@@ -1,0 +1,21 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud4.3:3.2^speaker": "the cowherd",
+  "ud4.3:3.2^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "ud4.3:4.2^speaker": "the cowherd",
+  "ud4.3:8.1+ud4.3:8.4^speaker": "the Buddha",
+  "ud4.3:8.1^where_before_or_around_this_segment": "the land of the Kosalans",
+  "ud4.3:8.1^who_mentioned_before_or_around_this_segment": [
+    "a certain man"
+  ],
+  "ud4.3:8.1^who_present_before_or_around_this_segment": [
+    "a large Saṅgha of mendicants"
+  ],
+  "ud4.3^initial_geographic_location": [
+    "Kosala"
+  ],
+  "ud4.3^where": "the land of the Kosalans"
+}

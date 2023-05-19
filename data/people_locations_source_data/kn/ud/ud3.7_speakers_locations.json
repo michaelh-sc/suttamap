@@ -1,0 +1,41 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud3.7:1.6^speaker": "Mahākassapa",
+  "ud3.7:1.6^where_else_mentioned": [
+    "Rājagaha"
+  ],
+  "ud3.7:3.8^speaker": "Mahākassapa",
+  "ud3.7:3.10^speaker": "Mahākassapa",
+  "ud3.7:3.10^who_else_mentioned": [
+    "Sakka"
+  ],
+  "ud3.7:3.12+ud3.7:3.13^speaker": "Mahākassapa",
+  "ud3.7:3.12+ud3.7:3.13^who_else_mentioned": [
+    "Kosiya"
+  ],
+  "ud3.7:3.14+ud3.7:3.15^speaker": "Sakka",
+  "ud3.7:3.14+ud3.7:3.15^who_else_mentioned": [
+    "Kassapa"
+  ],
+  "ud3.7:4.2+ud3.7:4.4^speaker": "Sakka",
+  "ud3.7:4.2+ud3.7:4.4^where_else_mentioned": [
+    "Kassapa"
+  ],
+  "ud3.7:6.1+ud3.7:6.4^speaker": "the Buddha",
+  "ud3.7:6.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "ud3.7:6.1^where_before_or_around_this_segment": "Rājagaha, Bamboo Grove, Pipphali cave",
+  "ud3.7:6.1^who_mentioned_before_or_around_this_segment": [
+    "Kosiya"
+  ],
+  "ud3.7:6.1^who_present_before_or_around_this_segment": [
+    "the Buddha",
+    "five hundred deities",
+    "Sujā"
+  ],
+  "ud3.7^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "ud3.7^where": "Rājagaha, Bamboo Grove, Pipphali cave"
+}

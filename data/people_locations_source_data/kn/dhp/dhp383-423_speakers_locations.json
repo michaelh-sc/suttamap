@@ -1,0 +1,53 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dhp383:0.1+dhp383:4^speaker": "the Buddha (assumed)",
+  "dhp384:1+dhp384:4^speaker": "the Buddha (assumed)",
+  "dhp385:1+dhp385:4^speaker": "the Buddha (assumed)",
+  "dhp386:1+dhp386:4^speaker": "the Buddha (assumed)",
+  "dhp387:1+dhp387:6^speaker": "the Buddha (assumed)",
+  "dhp387:1+dhp387:6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dhp388:1+dhp388:4^speaker": "the Buddha (assumed)",
+  "dhp389:1+dhp389:4^speaker": "the Buddha (assumed)",
+  "dhp390:1+dhp390:4^speaker": "the Buddha (assumed)",
+  "dhp391:1+dhp391:4^speaker": "the Buddha (assumed)",
+  "dhp392:1+dhp392:4^speaker": "the Buddha (assumed)",
+  "dhp392:1+dhp392:4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dhp393:1+dhp393:4^speaker": "the Buddha (assumed)",
+  "dhp394:1+dhp394:4^speaker": "the Buddha (assumed)",
+  "dhp395:1+dhp395:4^speaker": "the Buddha (assumed)",
+  "dhp396:1+dhp396:6^speaker": "the Buddha (assumed)",
+  "dhp397:1+dhp397:4^speaker": "the Buddha (assumed)",
+  "dhp398:1+dhp398:4^speaker": "the Buddha (assumed)",
+  "dhp399:1+dhp399:4^speaker": "the Buddha (assumed)",
+  "dhp400:1+dhp400:4^speaker": "the Buddha (assumed)",
+  "dhp401:1+dhp401:4^speaker": "the Buddha (assumed)",
+  "dhp402:1+dhp402:4^speaker": "the Buddha (assumed)",
+  "dhp403:1+dhp403:4^speaker": "the Buddha (assumed)",
+  "dhp404:1+dhp404:4^speaker": "the Buddha (assumed)",
+  "dhp405:1+dhp405:4^speaker": "the Buddha (assumed)",
+  "dhp406:1+dhp406:4^speaker": "the Buddha (assumed)",
+  "dhp407:1+dhp407:4^speaker": "the Buddha (assumed)",
+  "dhp408:1+dhp408:4^speaker": "the Buddha (assumed)",
+  "dhp409:1+dhp409:4^speaker": "the Buddha (assumed)",
+  "dhp410:1+dhp410:4^speaker": "the Buddha (assumed)",
+  "dhp411:1+dhp411:4^speaker": "the Buddha (assumed)",
+  "dhp412:1+dhp412:4^speaker": "the Buddha (assumed)",
+  "dhp413:1+dhp413:4^speaker": "the Buddha (assumed)",
+  "dhp414:1+dhp414:6^speaker": "the Buddha (assumed)",
+  "dhp415:1+dhp415:4^speaker": "the Buddha (assumed)",
+  "dhp416:1+dhp416:8^speaker": "the Buddha (assumed)",
+  "dhp417:1+dhp417:4^speaker": "the Buddha (assumed)",
+  "dhp418:1+dhp418:4^speaker": "the Buddha (assumed)",
+  "dhp419:1+dhp419:4^speaker": "the Buddha (assumed)",
+  "dhp420:1+dhp420:4^speaker": "the Buddha (assumed)",
+  "dhp421:1+dhp421:4^speaker": "the Buddha (assumed)",
+  "dhp422:1+dhp422:4^speaker": "the Buddha (assumed)",
+  "dhp422:1+dhp422:4^who_else_mentioned": [
+    "Leader of the herd"
+  ],
+  "dhp423:1+dhp423:57^speaker": "the Buddha (assumed)"
+}

@@ -1,0 +1,99 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud3.2:1.4+ud3.2:1.5^speaker": "Nanda",
+  "ud3.2:3.2+ud3.2:3.3^speaker": "the Buddha",
+  "ud3.2:3.2+ud3.2:3.3^who_else_mentioned": [
+    "Nanda"
+  ],
+  "ud3.2:3.4^speaker": "the monk",
+  "ud3.2:3.5^speaker": "the monk",
+  "ud3.2:3.5^who_else_mentioned": [
+    "Nanda"
+  ],
+  "ud3.2:4.1^speaker": "Nanda",
+  "ud3.2:5.1+ud3.2:5.2^speaker": "the Buddha",
+  "ud3.2:5.1+ud3.2:5.2^who_else_mentioned": [
+    "Nanda"
+  ],
+  "ud3.2:5.3^speaker": "Nanda",
+  "ud3.2:6.1^speaker": "the Buddha",
+  "ud3.2:6.2+ud3.2:6.4^speaker": "Nanda",
+  "ud3.2:6.2+ud3.2:6.4^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "ud3.2:8.3^speaker": "the Buddha",
+  "ud3.2:8.3^who_else_mentioned": [
+    "Nanda"
+  ],
+  "ud3.2:8.4^speaker": "Nanda",
+  "ud3.2:9.1^speaker": "the Buddha",
+  "ud3.2:9.1^who_else_mentioned": [
+    "Nanda",
+    "Sakyan"
+  ],
+  "ud3.2:9.2+ud3.2:9.4^speaker": "Nanda",
+  "ud3.2:9.2+ud3.2:9.4^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "ud3.2:10.1+ud3.2:10.2^speaker": "the Buddha",
+  "ud3.2:10.1+ud3.2:10.2^who_else_mentioned": [
+    "Nanda"
+  ],
+  "ud3.2:10.3^speaker": "Nanda",
+  "ud3.2:10.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud3.2:12.2+ud3.2:12.3^speaker": "the mendicants",
+  "ud3.2:12.2+ud3.2:12.3^who_else_mentioned": [
+    "Nanda",
+    "Buddha"
+  ],
+  "ud3.2:13.2+ud3.2:13.3^speaker": "the monks",
+  "ud3.2:13.2+ud3.2:13.3^who_else_mentioned": [
+    "Nanda",
+    "Buddha"
+  ],
+  "ud3.2:14.2^geographic_locations_here_and_before": [
+    "Jetavana",
+    "Sāvatthī"
+  ],
+  "ud3.2:14.2^speaker": "Nanda",
+  "ud3.2:14.2^where_before_or_around_this_segment": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+  "ud3.2:14.2^who_mentioned_before_or_around_this_segment": [
+    "the finest lady of the Sakyan land",
+    "Sakka",
+    "the lord of gods",
+    "five hundred dove-footed nymphs"
+  ],
+  "ud3.2:14.2^who_present_before_or_around_this_segment": [
+    "the monk",
+    "the mendicants",
+    "the monks"
+  ],
+  "ud3.2:15.2^speaker": "a glorious deity",
+  "ud3.2:15.2^who_else_mentioned": [
+    "Venerable Nanda",
+    "Buddha"
+  ],
+  "ud3.2:15.4^speaker": "the Buddha",
+  "ud3.2:15.4^who_else_mentioned": [
+    "Nanda"
+  ],
+  "ud3.2:16.2^speaker": "Nanda",
+  "ud3.2:16.3+ud3.2:16.7^speaker": "the Buddha",
+  "ud3.2:16.3+ud3.2:16.7^who_else_mentioned": [
+    "Nanda"
+  ],
+  "ud3.2:18.1+ud3.2:18.4^speaker": "the Buddha",
+  "ud3.2:18.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "ud3.2:18.1^where_before_or_around_this_segment": "Jeta's Grove",
+  "ud3.2:18.1^who_present_before_or_around_this_segment": [
+    "Nanda"
+  ],
+  "ud3.2^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "ud3.2^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī"
+}

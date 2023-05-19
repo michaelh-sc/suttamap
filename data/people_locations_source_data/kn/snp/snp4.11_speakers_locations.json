@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp4.11:1.1+snp4.11:1.4^speaker": "Māgaṇḍiya",
+  "snp4.11:2.1+snp4.11:2.5^speaker": "the Buddha",
+  "snp4.11:3.1+snp4.11:3.4^speaker": "Māgaṇḍiya",
+  "snp4.11:4.1+snp4.11:4.4^speaker": "the Buddha",
+  "snp4.11:5.1+snp4.11:5.4^speaker": "Māgaṇḍiya",
+  "snp4.11:5.1+snp4.11:5.4^who_else_mentioned": [
+    "Ascetic"
+  ],
+  "snp4.11:6.1+snp4.11:7.4^speaker": "the Buddha",
+  "snp4.11:6.1+snp4.11:7.4^who_else_mentioned": [
+    "Ascetic"
+  ],
+  "snp4.11:8.1+snp4.11:8.4^speaker": "Māgaṇḍiya",
+  "snp4.11:9.1+snp4.11:9.4^speaker": "the Buddha",
+  "snp4.11:10.1+snp4.11:10.4^speaker": "Māgaṇḍiya",
+  "snp4.11:11.1+snp4.11:11.4^speaker": "the Buddha",
+  "snp4.11:12.1+snp4.11:12.4^speaker": "Māgaṇḍiya",
+  "snp4.11:13.1+snp4.11:13.4^speaker": "the Buddha",
+  "snp4.11:14.1+snp4.11:14.5^speaker": "Māgaṇḍiya",
+  "snp4.11:15.1+snp4.11:16.4^speaker": "the Buddha",
+  "snp4.11:15.1^who_mentioned_before_or_around_this_segment": [
+    "Astute folk",
+    "Wise"
+  ]
+}

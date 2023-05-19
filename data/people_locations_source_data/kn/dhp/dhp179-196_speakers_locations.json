@@ -1,0 +1,53 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dhp179:0.1+dhp179:4^speaker": "the Buddha (assumed)",
+  "dhp180:1+dhp180:4^speaker": "the Buddha (assumed)",
+  "dhp180:1+dhp180:4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dhp181:1+dhp181:4^speaker": "the Buddha (assumed)",
+  "dhp181:1+dhp181:4^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "dhp182:1+dhp182:4^speaker": "the Buddha (assumed)",
+  "dhp182:1+dhp182:4^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "dhp183:1+dhp183:4^speaker": "the Buddha (assumed)",
+  "dhp183:1+dhp183:4^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "dhp184:1+dhp184:4^speaker": "the Buddha (assumed)",
+  "dhp184:1+dhp184:4^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "dhp185:1+dhp185:6^speaker": "the Buddha (assumed)",
+  "dhp185:1+dhp185:6^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "dhp186:1+dhp186:4^speaker": "the Buddha (assumed)",
+  "dhp187:1+dhp187:4^speaker": "the Buddha (assumed)",
+  "dhp187:1+dhp187:4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dhp188:1+dhp188:4^speaker": "the Buddha (assumed)",
+  "dhp189:1+dhp189:4^speaker": "the Buddha (assumed)",
+  "dhp190:1+dhp190:4^speaker": "the Buddha (assumed)",
+  "dhp190:1+dhp190:4^who_else_mentioned": [
+    "Buddha",
+    "Saṅgha"
+  ],
+  "dhp191:1+dhp191:4^speaker": "the Buddha (assumed)",
+  "dhp192:1+dhp192:4^speaker": "the Buddha (assumed)",
+  "dhp193:1+dhp193:4^speaker": "the Buddha (assumed)",
+  "dhp194:1+dhp194:4^speaker": "the Buddha (assumed)",
+  "dhp194:1+dhp194:4^who_else_mentioned": [
+    "Buddhas",
+    "Saṅgha"
+  ],
+  "dhp195:1+dhp195:4^speaker": "the Buddha (assumed)",
+  "dhp195:1+dhp195:4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "dhp196:1+dhp196:4^speaker": "the Buddha (assumed)"
+}

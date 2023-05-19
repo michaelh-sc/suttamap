@@ -1,0 +1,91 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud1.10:1.5^speaker": "Bāhiya",
+  "ud1.10:2.2+ud1.10:2.3^speaker": "the deity",
+  "ud1.10:2.2+ud1.10:2.3^who_else_mentioned": [
+    "Bāhiya"
+  ],
+  "ud1.10:3.1^speaker": "Bāhiya",
+  "ud1.10:3.2+ud1.10:3.4^speaker": "the deity",
+  "ud1.10:3.2+ud1.10:3.4^where_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "ud1.10:3.2+ud1.10:3.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud1.10:4.5+ud1.10:4.6^speaker": "Bāhiya",
+  "ud1.10:4.5+ud1.10:4.6^who_else_mentioned": [
+    "the Blessed One",
+    "Buddha"
+  ],
+  "ud1.10:4.7^speaker": "the mendicants",
+  "ud1.10:4.7^who_else_mentioned": [
+    "Bāhiya"
+  ],
+  "ud1.10:5.3+ud1.10:5.4^speaker": "Bāhiya",
+  "ud1.10:5.3+ud1.10:5.4^who_else_mentioned": [
+    "the Blessed One",
+    "the Holy One"
+  ],
+  "ud1.10:5.6^speaker": "the Buddha",
+  "ud1.10:5.6^who_else_mentioned": [
+    "Bāhiya"
+  ],
+  "ud1.10:6.2+ud1.10:6.4^speaker": "Bāhiya",
+  "ud1.10:6.2+ud1.10:6.4^who_else_mentioned": [
+    "Buddha",
+    "the Holy One"
+  ],
+  "ud1.10:6.6^speaker": "the Buddha",
+  "ud1.10:6.6^who_else_mentioned": [
+    "Bāhiya"
+  ],
+  "ud1.10:7.2+ud1.10:7.4^speaker": "Bāhiya",
+  "ud1.10:7.2+ud1.10:7.4^who_else_mentioned": [
+    "Buddha",
+    "the Holy One"
+  ],
+  "ud1.10:8.1+ud1.10:8.8^speaker": "the Buddha",
+  "ud1.10:8.1+ud1.10:8.8^who_else_mentioned": [
+    "Bāhiya"
+  ],
+  "ud1.10:11.3+ud1.10:11.4^speaker": "the Buddha",
+  "ud1.10:11.3+ud1.10:11.4^who_else_mentioned": [
+    "Bāhiya"
+  ],
+  "ud1.10:12.1^geographic_locations_here_and_before": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "ud1.10:12.1^speaker": "the mendicants",
+  "ud1.10:12.1^where_before_or_around_this_segment": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+  "ud1.10:12.1^who_mentioned_before_or_around_this_segment": [
+    "the deity"
+  ],
+  "ud1.10:12.1^who_present_before_or_around_this_segment": [
+    "the mendicants"
+  ],
+  "ud1.10:12.3+ud1.10:12.4^speaker": "the mendicants",
+  "ud1.10:12.3+ud1.10:12.4^who_else_mentioned": [
+    "Bāhiya"
+  ],
+  "ud1.10:12.5+ud1.10:12.6^speaker": "the Buddha",
+  "ud1.10:12.5+ud1.10:12.6^who_else_mentioned": [
+    "Bāhiya"
+  ],
+  "ud1.10:14.1+ud1.10:15.4^speaker": "the Buddha",
+  "ud1.10:14.1^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "ud1.10:14.1^where_before_or_around_this_segment": "Sāvatthī",
+  "ud1.10:14.1^who_mentioned_before_or_around_this_segment": [
+    "Bāhiya"
+  ],
+  "ud1.10:14.1^who_present_before_or_around_this_segment": [
+    "several mendicants"
+  ],
+  "ud1.10^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "ud1.10^where": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery"
+}

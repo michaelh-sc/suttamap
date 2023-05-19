@@ -1,0 +1,65 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp3.9:1.6^speaker": "Vāseṭṭha",
+  "snp3.9:2.2+snp3.9:2.3^speaker": "Bhāradvāja",
+  "snp3.9:3.2+snp3.9:3.3^speaker": "Vāseṭṭha",
+  "snp3.9:4.2+snp3.9:4.6^speaker": "Vāseṭṭha",
+  "snp3.9:4.2+snp3.9:4.6^where_else_mentioned": [
+    "Icchānaṅgala"
+  ],
+  "snp3.9:4.2+snp3.9:4.6^who_else_mentioned": [
+    "Bhāradvāja",
+    "Gotama—a Sakyan",
+    "Sakyan",
+    "Buddha"
+  ],
+  "snp3.9:4.7^speaker": "Bhāradvāja",
+  "snp3.9:6.1+snp3.9:11.6^speaker": "Vāseṭṭha",
+  "snp3.9:6.1+snp3.9:11.6^where_else_mentioned": [
+    "Pokkharasādi",
+    "Tārukkha"
+  ],
+  "snp3.9:6.1+snp3.9:11.6^who_else_mentioned": [
+    "Vedic",
+    "Bhāradvāja",
+    "Gotama"
+  ],
+  "snp3.9:12.1^speaker": "the Buddha",
+  "snp3.9:12.1^where_before_or_around_this_segment": "a forest near Icchānaṅgala",
+  "snp3.9:12.1^who_mentioned_before_or_around_this_segment": [
+    "Caṅkī",
+    "Tārukkha",
+    "Pokkharasāti",
+    "Jāṇussoṇi",
+    "Todeyya"
+  ],
+  "snp3.9:12.1^who_present_before_or_around_this_segment": [
+    "Bhāradvāja",
+    "the ascetic Buddha"
+  ],
+  "snp3.9:12.3+snp3.9:68.4^speaker": "the Buddha",
+  "snp3.9:12.3+snp3.9:68.4^who_else_mentioned": [
+    "Vāseṭṭha",
+    "Leader of the herd",
+    "Brahmā",
+    "Sakka"
+  ],
+  "snp3.9:69.2+snp3.9:69.3^speaker": "Vāseṭṭha and Bhāradvāja",
+  "snp3.9:69.2+snp3.9:69.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp3.9:69.2^who_mentioned_before_or_around_this_segment": [
+    "Brahmā",
+    "Sakka"
+  ],
+  "snp3.9:69.2^who_present_before_or_around_this_segment": [
+    "Bhāradvāja"
+  ],
+  "snp3.9^initial_geographic_location": [
+    "Iccānaṅgala"
+  ],
+  "snp3.9^where": "a forest near Icchānaṅgala",
+  "snp3.9_12.1^geographic_locations_here_and_before": [
+    "Iccānaṅgala"
+  ]
+}

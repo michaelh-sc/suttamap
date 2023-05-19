@@ -1,0 +1,13 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "_quoteless": "True",
+  "thig6.4:1.1+thig6.4:6.4^speaker": "Sujātā",
+  "thig6.4:1.1+thig6.4:6.4^where_else_mentioned": [
+    "the Añjana grove",
+    "Sāketa"
+  ],
+  "thig6.4:1.1+thig6.4:6.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "thig6.4_who_around": "Maids"
+}

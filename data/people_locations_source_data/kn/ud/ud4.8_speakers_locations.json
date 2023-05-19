@@ -1,0 +1,49 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud4.8:2.2^speaker": "wanderers who followed other paths",
+  "ud4.8:2.3+ud4.8:2.5^speaker": "female wanderer Sundarī",
+  "ud4.8:3.1^speaker": "wanderers who followed other paths",
+  "ud4.8:3.2^speaker": "female wanderer Sundarī",
+  "ud4.8:4.4^speaker": "wanderers who followed other paths",
+  "ud4.8:4.4^who_else_mentioned": [
+    "Sundarī"
+  ],
+  "ud4.8:4.5^speaker": "King Pasenadi of Kosala",
+  "ud4.8:4.6^speaker": "wanderers who followed other paths",
+  "ud4.8:4.7^speaker": "King Pasenadi of Kosala",
+  "ud4.8:6.1+ud4.8:6.8^speaker": "wanderers who followed other paths",
+  "ud4.8:6.1+ud4.8:6.8^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "ud4.8:8.1+ud4.8:8.7^speaker": "people of Sāvatthī",
+  "ud4.8:8.1+ud4.8:8.7^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "ud4.8:11.1+ud4.8:11.2^speaker": "Buddha",
+  "ud4.8:12.1+ud4.8:12.4^speaker": "mendicants",
+  "ud4.8:15.2^speaker": "people of Sāvatthī",
+  "ud4.8:15.2^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "ud4.8:17.1+ud4.8:17.4^speaker": "mendicants",
+  "ud4.8:17.1+ud4.8:17.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud4.8:19.1+ud4.8:19.4^speaker": "Buddha",
+  "ud4.8:19.1^geographic_locations_here_and_before": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "ud4.8:19.1^where_before_or_around_this_segment": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+  "ud4.8:19.1^who_mentioned_before_or_around_this_segment": [
+    "female wanderer Sundarī"
+  ],
+  "ud4.8:19.1^who_present_before_or_around_this_segment": [
+    "the mendicant Saṅgha",
+    "King Pasenadi of Kosala"
+  ],
+  "ud4.8^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "ud4.8^where": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery"
+}

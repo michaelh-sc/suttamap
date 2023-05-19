@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp2.7:1.5^speaker": "the brahmins",
+  "snp2.7:1.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp2.7:1.6^speaker": "the Buddha",
+  "snp2.7:1.7^speaker": "the brahmins",
+  "snp2.7:1.7^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp2.7:1.8^speaker": "the Buddha",
+  "snp2.7:1.9^speaker": "the brahmins",
+  "snp2.7:1.9^where_before_or_around_this_segment": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+  "snp2.7:1.9^who_present_before_or_around_this_segment": [
+    "the Buddha"
+  ],
+  "snp2.7:2.1+snp2.7:33.4^speaker": "the Buddha",
+  "snp2.7:2.1+snp2.7:33.4^who_else_mentioned": [
+    "Brahmins",
+    "Okkāka",
+    "Indra",
+    "Aristocrats",
+    "Brahmā"
+  ],
+  "snp2.7:34.2+snp2.7:34.3^speaker": "the brahmins",
+  "snp2.7:34.2+snp2.7:34.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp2.7:34.2^who_mentioned_before_or_around_this_segment": [
+    "the ancient hermits"
+  ],
+  "snp2.7^initial_geographic_location": [
+    "Jetavana",
+    "Sāvatthī"
+  ],
+  "snp2.7^where": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+  "snp2.7_1.9^geographic_locations_here_and_before": [
+    "Jetavana",
+    "Sāvatthī"
+  ]
+}

@@ -40,8 +40,10 @@
   "sn41.3:7.13^speaker": "Isidatta",
   "sn41.3:8.4+sn41.3:8.6^who_else_mentioned": "Isidatta",
   "sn41.3:8.4+sn41.3:8.6^speaker": "the senior venerable",
-  "before^sn41.3:8.4^who_around": "the senior mendicants",
-  "before^sn41.3:8.4^where_before_or_around_this_segment": "Macchikāsaṇḍa",
+  "sn41.3:8.4^who_present_before_or_around_this_segment": [
+    "the senior mendicants"
+  ],
+  "sn41.3:8.4^where_before_or_around_this_segment": "Macchikāsaṇḍa",
   "sn41.3:7.13^event_dppn_headwords_before_or_around_this_segment": [
     "Macchikāsaṇḍa"
   ],

@@ -1,0 +1,47 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp3.4:1.5^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:2.2^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:2.4^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:2.6^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:4.1+snp3.4:5.4^speaker": "the Buddha",
+  "snp3.4:6.1+snp3.4:6.2^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:7.1+snp3.4:7.4^speaker": "the Buddha",
+  "snp3.4:8.1+snp3.4:8.3^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:9.1+snp3.4:9.2^speaker": "the Buddha",
+  "snp3.4:10.1^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:10.3+snp3.4:10.5^speaker": "the Buddha",
+  "snp3.4:11.1+snp3.4:11.4^speaker": "the Buddha",
+  "snp3.4:12.1+snp3.4:12.4^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:12.1+snp3.4:12.4^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp3.4:13.1+snp3.4:30.6^speaker": "the Buddha",
+  "snp3.4:13.1+snp3.4:30.6^who_else_mentioned": [
+    "Serene"
+  ],
+  "snp3.4:31.1+snp3.4:31.4^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:31.1+snp3.4:31.4^who_else_mentioned": [
+    "Brahmā"
+  ],
+  "snp3.4:32.1+snp3.4:33.4^speaker": "the Buddha",
+  "snp3.4:32.1+snp3.4:33.4^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "snp3.4:34.1+snp3.4:34.4^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:35.1+snp3.4:37.4^speaker": "the Buddha",
+  "snp3.4:38.1+snp3.4:38.4^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:38.1+snp3.4:38.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp3.4:39.2+snp3.4:39.5^speaker": "Bhāradvāja of Sundarika",
+  "snp3.4:39.2+snp3.4:39.5^who_else_mentioned": [
+    "Gotama",
+    "Saṅgha"
+  ],
+  "snp3.4:39.2^where_before_or_around_this_segment": "Kosalan lands on the bank of the Sundarika river",
+  "snp3.4:39.2^who_present_before_or_around_this_segment": [
+    "the Buddha"
+  ],
+  "snp3.4^where": "Kosalan lands on the bank of the Sundarika river"
+}

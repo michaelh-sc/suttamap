@@ -1,0 +1,38 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud6.6:2.2^speaker": "ascetics and brahmins",
+  "ud6.6:3.2^speaker": "ascetics and brahmins",
+  "ud6.6:4.2^speaker": "ascetics and brahmins",
+  "ud6.6:5.2^speaker": "ascetics and brahmins",
+  "ud6.6:6.2^speaker": "ascetics and brahmins",
+  "ud6.6:7.2^speaker": "ascetics and brahmins",
+  "ud6.6:8.2^speaker": "ascetics and brahmins",
+  "ud6.6:9.2^speaker": "ascetics and brahmins",
+  "ud6.6:10.2^speaker": "ascetics and brahmins",
+  "ud6.6:11.2^speaker": "ascetics and brahmins",
+  "ud6.6:12.2^speaker": "ascetics and brahmins",
+  "ud6.6:13.2^speaker": "ascetics and brahmins",
+  "ud6.6:14.2^speaker": "ascetics and brahmins",
+  "ud6.6:15.2^speaker": "ascetics and brahmins",
+  "ud6.6:16.2^speaker": "ascetics and brahmins",
+  "ud6.6:17.2^speaker": "ascetics and brahmins",
+  "ud6.6:24.1+ud6.6:26.4^speaker": "the Buddha",
+  "ud6.6:24.1^geographic_locations_here_and_before": [
+    "Sāvatthī",
+    "Jetavana"
+  ],
+  "ud6.6:24.1^where_before_or_around_this_segment": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+  "ud6.6:24.1^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "ud6.6:24.1^who_present_before_or_around_this_segment": [
+    "several ascetics",
+    "brahmins",
+    "and wanderers",
+    "several mendicants"
+  ],
+  "ud6.6^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "ud6.6^where": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery"
+}

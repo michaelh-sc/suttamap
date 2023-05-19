@@ -1,0 +1,38 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud2.8:1.5+ud2.8:1.7^speaker": "Suppavāsā the Koliyan",
+  "ud2.8:1.5+ud2.8:1.7^who_else_mentioned": [
+    "The Blessed One",
+    "Buddha",
+    "Saṅgha"
+  ],
+  "ud2.8:3.1^speaker": "Suppavāsā's husband",
+  "ud2.8:4.1^speaker": "the Buddha",
+  "ud2.8:4.1^who_else_mentioned": [
+    "Koliyan"
+  ],
+  "ud2.8:5.1^speaker": "The Koliyan gentleman",
+  "ud2.8:5.4^speaker": "The Koliyan gentleman",
+  "ud2.8:5.4^who_else_mentioned": [
+    "Suppavāsā"
+  ],
+  "ud2.8:7.1^speaker": "Suppavāsā's husband",
+  "ud2.8:10.1^speaker": "Mahāmoggallāna",
+  "ud2.8:15.2^speaker": "Suppavāsā's son",
+  "ud2.8:16.2^speaker": "Suppavāsā",
+  "ud2.8:16.4^speaker": "Suppavāsā",
+  "ud2.8:16.5^geographic_locations_here_and_before": [
+    "Kuṇḍadhānavana"
+  ],
+  "ud2.8:16.5^speaker": "Suppavāsā",
+  "ud2.8:16.5^where_before_or_around_this_segment": "Kuṇḍiyā in the Kuṇḍadhāna Grove",
+  "ud2.8:16.5^who_present_before_or_around_this_segment": [
+    "the Buddha",
+    "Mahāmoggallāna",
+    "Suppavāsā's husband"
+  ],
+  "ud2.8^initial_geographic_location": [
+    "Kuṇḍadhānavana"
+  ],
+  "ud2.8^where": "Kuṇḍiyā in the Kuṇḍadhāna Grove"
+}

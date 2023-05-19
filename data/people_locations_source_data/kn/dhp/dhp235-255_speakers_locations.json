@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dhp235:0.4+dhp235:4^speaker": "the Buddha (assumed)",
+  "dhp236:1+dhp236:4^speaker": "the Buddha (assumed)",
+  "dhp237:1+dhp237:4^speaker": "the Buddha (assumed)",
+  "dhp237:1+dhp237:4^who_else_mentioned": [
+    "Yama"
+  ],
+  "dhp238:1+dhp238:4^speaker": "the Buddha (assumed)",
+  "dhp239:0+dhp239:4^speaker": "the Buddha (assumed)",
+  "dhp240:0+dhp240:4^speaker": "the Buddha (assumed)",
+  "dhp241:0+dhp241:4^speaker": "the Buddha (assumed)",
+  "dhp242:0+dhp242:4^speaker": "the Buddha (assumed)",
+  "dhp243:1+dhp243:4^speaker": "the Buddha (assumed)",
+  "dhp244:0+dhp244:4^speaker": "the Buddha (assumed)",
+  "dhp245:1+dhp245:4^speaker": "the Buddha (assumed)",
+  "dhp246:0+dhp246:4^speaker": "the Buddha (assumed)",
+  "dhp247:1+dhp247:4^speaker": "the Buddha (assumed)",
+  "dhp248:1+dhp248:4^speaker": "the Buddha (assumed)",
+  "dhp249:0+dhp249:6^speaker": "the Buddha (assumed)",
+  "dhp250:1+dhp250:4^speaker": "the Buddha (assumed)",
+  "dhp251:0+dhp251:4^speaker": "the Buddha (assumed)",
+  "dhp252:0+dhp252:6^speaker": "the Buddha (assumed)",
+  "dhp253:0+dhp253:4^speaker": "the Buddha (assumed)",
+  "dhp254:0+dhp254:4^speaker": "the Buddha (assumed)",
+  "dhp255:5+dhp255:4^speaker": "the Buddha (assumed)"
+}

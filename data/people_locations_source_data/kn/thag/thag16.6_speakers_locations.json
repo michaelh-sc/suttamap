@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "_quoteless": "True",
+  "thag16.6:1.1+thag16.6:24.4^speaker": "Sela",
+  "thag16.6:1.1+thag16.6:24.4^where_else_mentioned": [
+    "India"
+  ],
+  "thag16.6:1.1+thag16.6:24.4^who_else_mentioned": [
+    "Saṅgha",
+    "Gotama",
+    "Sela",
+    "Buddha",
+    "Māra"
+  ],
+  "thag16.6_who_around": [
+    "Sela",
+    "three hundred brahmins"
+  ]
+}

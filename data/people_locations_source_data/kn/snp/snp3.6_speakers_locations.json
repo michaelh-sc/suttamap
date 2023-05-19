@@ -1,0 +1,119 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp3.6:1.4^speaker": "a deity who was a former relative",
+  "snp3.6:1.4^who_else_mentioned": [
+    "Sabhiya"
+  ],
+  "snp3.6:3.2+snp3.6:3.7^speaker": "Sabhiya",
+  "snp3.6:4.2+snp3.6:4.3^speaker": "Sabhiya",
+  "snp3.6:4.2+snp3.6:4.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp3.6:5.2+snp3.6:5.7^speaker": "Sabhiya",
+  "snp3.6:5.2+snp3.6:5.7^who_else_mentioned": [
+    "Pūraṇa Kassapa",
+    "Gotama"
+  ],
+  "snp3.6:6.2+snp3.6:6.3^speaker": "Sabhiya",
+  "snp3.6:6.2+snp3.6:6.3^who_else_mentioned": [
+    "Gotama"
+  ],
+  "snp3.6:8.1^speaker": "Sabhiya",
+  "snp3.6:8.3+snp3.6:8.5^speaker": "Sabhiya",
+  "snp3.6:9.1^speaker": "the Buddha",
+  "snp3.6:9.1^where_else_mentioned": [
+    "Sabhiya"
+  ],
+  "snp3.6:9.3+snp3.6:10.4^speaker": "the Buddha",
+  "snp3.6:9.3+snp3.6:10.4^who_else_mentioned": [
+    "Sabhiya"
+  ],
+  "snp3.6:11.2+snp3.6:11.3^speaker": "Sabhiya",
+  "snp3.6:11.2+snp3.6:11.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp3.6:12.1^speaker": "Sabhiya",
+  "snp3.6:12.3+snp3.6:12.5^speaker": "Sabhiya",
+  "snp3.6:12.3+snp3.6:12.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp3.6:13.1^speaker": "the Buddha",
+  "snp3.6:13.3+snp3.6:16.4^speaker": "the Buddha",
+  "snp3.6:18.1^speaker": "Sabhiya",
+  "snp3.6:18.3+snp3.6:18.5^speaker": "Sabhiya",
+  "snp3.6:18.3+snp3.6:18.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp3.6:19.1^speaker": "the Buddha",
+  "snp3.6:19.1^where_before_or_around_this_segment": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+  "snp3.6:19.1^who_present_before_or_around_this_segment": [
+    "Pūraṇa Kassapa",
+    "Makkhali Gosāla",
+    "Nigaṇṭha Nāṭaputta",
+    "Sañjaya Belaṭṭhiputta",
+    "Pakudha Kaccāyana",
+    "and Ajita Kesakambala"
+  ],
+  "snp3.6:19.3+snp3.6:22.4^speaker": "the Buddha",
+  "snp3.6:24.1^speaker": "Sabhiya",
+  "snp3.6:24.1^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "snp3.6:24.3+snp3.6:24.5^speaker": "Sabhiya",
+  "snp3.6:24.3+snp3.6:24.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp3.6:25.1^speaker": "the Buddha",
+  "snp3.6:25.3+snp3.6:27.4^speaker": "the Buddha",
+  "snp3.6:25.3+snp3.6:27.4^who_else_mentioned": [
+    "Brahmas"
+  ],
+  "snp3.6:30.1^speaker": "Sabhiya",
+  "snp3.6:30.3+snp3.6:30.5^speaker": "Sabhiya",
+  "snp3.6:30.3+snp3.6:30.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp3.6:31.1^speaker": "the Buddha",
+  "snp3.6:31.3+snp3.6:34.4^speaker": "the Buddha",
+  "snp3.6:36.1^speaker": "Sabhiya",
+  "snp3.6:36.3+snp3.6:36.5^speaker": "Sabhiya",
+  "snp3.6:36.3+snp3.6:36.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp3.6:37.1^speaker": "the Buddha",
+  "snp3.6:37.3+snp3.6:40.6^speaker": "the Buddha",
+  "snp3.6:42.1+snp3.6:51.6^speaker": "Sabhiya",
+  "snp3.6:42.1+snp3.6:51.6^who_else_mentioned": [
+    "Buddha",
+    "O Seer",
+    "Nārada",
+    "Pabbata",
+    "Māra",
+    "Sabhiya"
+  ],
+  "snp3.6:52.2+snp3.6:52.4^speaker": "Sabhiya",
+  "snp3.6:52.2+snp3.6:52.4^who_else_mentioned": [
+    "Saṅgha",
+    "Buddha"
+  ],
+  "snp3.6:53.1+snp3.6:53.2^speaker": "the Buddha",
+  "snp3.6:53.1+snp3.6:53.2^who_else_mentioned": [
+    "Sabhiya"
+  ],
+  "snp3.6:54.1^speaker": "Sabhiya",
+  "snp3.6:54.1^who_mentioned_before_or_around_this_segment": [
+    "gods",
+    "humans",
+    "Brahmas"
+  ],
+  "snp3.6:54.1^who_present_before_or_around_this_segment": [
+    "the mendicants"
+  ],
+  "snp3.6^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "snp3.6^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+  "snp3.6_19.1^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ]
+}

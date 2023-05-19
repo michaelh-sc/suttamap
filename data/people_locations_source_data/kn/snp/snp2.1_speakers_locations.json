@@ -1,0 +1,12 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "quoteless": "True",
+  "snp2.1:1.1+snp2.1:18.4^speaker": "the Buddha (assumed)",
+  "snp2.1:1.1+snp2.1:18.4^who_else_mentioned": [
+    "Buddha",
+    "Sakyan",
+    "the Holy One",
+    "Saṅgha",
+    "Gotama"
+  ]
+}

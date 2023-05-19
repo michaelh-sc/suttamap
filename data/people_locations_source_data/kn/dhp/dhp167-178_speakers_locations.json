@@ -1,0 +1,18 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "dhp167:0.4+dhp167:4^speaker": "the Buddha (assumed)",
+  "dhp168:0+dhp168:4^speaker": "the Buddha (assumed)",
+  "dhp169:1+dhp169:4^speaker": "the Buddha (assumed)",
+  "dhp170:0+dhp170:4^speaker": "the Buddha (assumed)",
+  "dhp171:0+dhp171:4^speaker": "the Buddha (assumed)",
+  "dhp172:0+dhp172:4^speaker": "the Buddha (assumed)",
+  "dhp173:0+dhp173:4^speaker": "the Buddha (assumed)",
+  "dhp174:0+dhp174:4^speaker": "the Buddha (assumed)",
+  "dhp175:0+dhp175:4^speaker": "the Buddha (assumed)",
+  "dhp175:0+dhp175:4^who_else_mentioned": [
+    "Māra"
+  ],
+  "dhp176:0+dhp176:4^speaker": "the Buddha (assumed)",
+  "dhp177:0+dhp177:4^speaker": "the Buddha (assumed)",
+  "dhp178:5+dhp178:4^speaker": "the Buddha (assumed)"
+}

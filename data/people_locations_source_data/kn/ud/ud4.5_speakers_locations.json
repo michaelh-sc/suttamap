@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud4.5:1.6+ud4.5:1.8^speaker": "the Buddha",
+  "ud4.5:3.4+ud4.5:3.5^speaker": "the bull elephant",
+  "ud4.5:5.2+ud4.5:5.3^speaker": "the Buddha",
+  "ud4.5:6.2+ud4.5:6.3^speaker": "the bull elephant",
+  "ud4.5:8.1+ud4.5:8.4^speaker": "the Buddha",
+  "ud4.5:8.1^geographic_locations_here_and_before": [
+    "Kosambī",
+    "Pālileyya"
+  ],
+  "ud4.5:8.1^where_before_or_around_this_segment": "Kosambi, Ghosita's Monastery, Pārileyya",
+  "ud4.5:8.1^who_present_before_or_around_this_segment": [
+    "monks",
+    "nuns",
+    "laymen",
+    "laywomen",
+    "rulers",
+    "their ministers",
+    "teachers of other paths and their disciples",
+    "the bull elephant"
+  ],
+  "ud4.5^initial_geographic_location": [
+    "Pālileyya"
+  ],
+  "ud4.5^where": "Kosambi, Ghosita's Monastery, Pārileyya"
+}

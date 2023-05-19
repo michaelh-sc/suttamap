@@ -1,0 +1,40 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp5.1:7.1+snp5.1:7.4^speaker": "Bāvari",
+  "snp5.1:8.1+snp5.1:8.4^speaker": "the charlatan",
+  "snp5.1:12.1+snp5.1:12.4^speaker": "the goddess",
+  "snp5.1:13.1+snp5.1:13.4^speaker": "Bāvari",
+  "snp5.1:14.1+snp5.1:14.4^speaker": "the goddess",
+  "snp5.1:14.1+snp5.1:14.4^who_else_mentioned": [
+    "Victors"
+  ],
+  "snp5.1:15.1+snp5.1:15.4^speaker": "Bāvari",
+  "snp5.1:16.1+snp5.1:18.4^speaker": "the goddess",
+  "snp5.1:16.1+snp5.1:18.4^where_else_mentioned": [
+    "Kapilavatthu"
+  ],
+  "snp5.1:16.1+snp5.1:18.4^who_else_mentioned": [
+    "King Okkāka",
+    "Sakyan",
+    "Buddha"
+  ],
+  "snp5.1:19.1^speaker": "the goddess",
+  "snp5.1:19.1^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp5.1:20.3+snp5.1:20.6^speaker": "Bāvari",
+  "snp5.1:20.3^where_before_or_around_this_segment": "Near Sāvatthī, the home of the Kosalans",
+  "snp5.1:20.3^who_mentioned_before_or_around_this_segment": [
+    "the Buddha"
+  ],
+  "snp5.1:20.3^who_present_before_or_around_this_segment": [
+    "the charlatan"
+  ],
+  "snp5.1^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "snp5.1^where": "Near Sāvatthī, the home of the Kosalans",
+  "snp5.1_20.3^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ]
+}

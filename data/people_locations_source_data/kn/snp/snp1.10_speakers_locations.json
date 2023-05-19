@@ -1,0 +1,49 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp1.10:1.4^speaker": "the native spirit Āḷavaka",
+  "snp1.10:1.5^speaker": "the Buddha",
+  "snp1.10:1.6^speaker": "the native spirit Āḷavaka",
+  "snp1.10:1.7^speaker": "the Buddha",
+  "snp1.10:2.3^speaker": "the native spirit Āḷavaka",
+  "snp1.10:2.4^speaker": "the Buddha",
+  "snp1.10:2.5^speaker": "the native spirit Āḷavaka",
+  "snp1.10:2.6^speaker": "the Buddha",
+  "snp1.10:3.2^speaker": "the native spirit Āḷavaka",
+  "snp1.10:3.3+snp1.10:3.4^speaker": "the Buddha",
+  "snp1.10:4.1+snp1.10:4.2^speaker": "the native spirit Āḷavaka",
+  "snp1.10:4.1+snp1.10:4.2^where_else_mentioned": [
+    "Ganges"
+  ],
+  "snp1.10:5.1+snp1.10:5.2^speaker": "the Buddha",
+  "snp1.10:5.1+snp1.10:5.2^who_else_mentioned": [
+    "Māras",
+    "Brahmās"
+  ],
+  "snp1.10:6.1+snp1.10:6.4^speaker": "the native spirit Āḷavaka",
+  "snp1.10:7.1+snp1.10:7.4^speaker": "the Buddha",
+  "snp1.10:8.1+snp1.10:8.4^speaker": "the native spirit Āḷavaka",
+  "snp1.10:9.1+snp1.10:9.4^speaker": "the Buddha",
+  "snp1.10:10.1+snp1.10:10.6^speaker": "the native spirit Āḷavaka",
+  "snp1.10:11.1+snp1.10:14.4^speaker": "the Buddha",
+  "snp1.10:15.1+snp1.10:17.4^speaker": "the native spirit Āḷavaka",
+  "snp1.10:15.1+snp1.10:17.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp1.10:15.1^where_before_or_around_this_segment": "Āḷavī in the haunt of the native spirit Āḷavaka",
+  "snp1.10:15.1^who_mentioned_before_or_around_this_segment": [
+    "gods",
+    "Māras",
+    "Brahmās",
+    "ascetics",
+    "brahmins",
+    "gods",
+    "humans"
+  ],
+  "snp1.10^initial_geographic_location": [
+    "Āḷavī"
+  ],
+  "snp1.10^where": "Āḷavī in the haunt of the native spirit Āḷavaka",
+  "snp1.10_15.1^geographic_locations_here_and_before": [
+    "Āḷavī"
+  ]
+}

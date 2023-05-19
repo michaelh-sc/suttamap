@@ -1,0 +1,54 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "ud4.1:1.5^speaker": "Meghiya",
+  "ud4.1:1.5^where_else_mentioned": [
+    "Jantu village"
+  ],
+  "ud4.1:1.6^speaker": "the Buddha",
+  "ud4.1:1.6^who_else_mentioned": [
+    "Meghiya"
+  ],
+  "ud4.1:2.5+ud4.1:2.6^speaker": "Meghiya",
+  "ud4.1:2.5+ud4.1:2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud4.1:4.8^speaker": "Meghiya",
+  "ud4.1:4.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud4.1:5.2^speaker": "the Buddha",
+  "ud4.1:5.2^who_else_mentioned": [
+    "Meghiya"
+  ],
+  "ud4.1:6.2+ud4.1:6.4^speaker": "Meghiya",
+  "ud4.1:6.2+ud4.1:6.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud4.1:6.6^speaker": "the Buddha",
+  "ud4.1:6.6^who_else_mentioned": [
+    "Meghiya"
+  ],
+  "ud4.1:7.2+ud4.1:7.4^speaker": "Meghiya",
+  "ud4.1:7.2+ud4.1:7.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "ud4.1:7.5+ud4.1:7.6^speaker": "the Buddha",
+  "ud4.1:7.5+ud4.1:7.6^who_else_mentioned": [
+    "Meghiya"
+  ],
+  "ud4.1:9.2+ud4.1:9.5^speaker": "Meghiya",
+  "ud4.1:9.2^geographic_locations_here_and_before": [
+    "Cālikā"
+  ],
+  "ud4.1:9.2^where_before_or_around_this_segment": "Cālikā mountain, Jantu village, Kimikālā river, mango grove",
+  "ud4.1:11.1+ud4.1:21.4^speaker": "the Buddha",
+  "ud4.1:11.1+ud4.1:21.4^who_else_mentioned": [
+    "Meghiya"
+  ],
+  "ud4.1:23.1+ud4.1:24.4^speaker": "the Buddha",
+  "ud4.1:23.1^where_before_or_around_this_segment": "Mango Grove",
+  "ud4.1^initial_geographic_location": [
+    "Cālikā"
+  ],
+  "ud4.1^where": "Cālikā mountain, Jantu village, Kimikālā river, mango grove"
+}

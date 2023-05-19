@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp2.5:1.5^speaker": "Shaggy",
+  "snp2.5:1.6+snp2.5:1.7^speaker": "Spiky",
+  "snp2.5:2.4^speaker": "Spiky",
+  "snp2.5:2.5+snp2.5:2.6^speaker": "the Buddha",
+  "snp2.5:3.1+snp2.5:3.2^speaker": "Spiky",
+  "snp2.5:3.1+snp2.5:3.2^where_else_mentioned": [
+    "Ganges"
+  ],
+  "snp2.5:4.1+snp2.5:4.2^speaker": "the Buddha",
+  "snp2.5:4.1+snp2.5:4.2^who_else_mentioned": [
+    "Māras",
+    "Brahmās"
+  ],
+  "snp2.5:5.1+snp2.5:5.4^speaker": "Spiky",
+  "snp2.5:6.1+snp2.5:8.4^speaker": "the Buddha",
+  "snp2.5:6.1^where_before_or_around_this_segment": "Gayā on the cut-stone ledge in the haunt of Spiky the native spirit",
+  "snp2.5:6.1^who_present_before_or_around_this_segment": [
+    "Shaggy"
+  ],
+  "snp2.5^initial_geographic_location": [
+    "Gayā"
+  ],
+  "snp2.5^where": "Gayā on the cut-stone ledge in the haunt of Spiky the native spirit",
+  "snp2.5_6.1^geographic_locations_here_and_before": [
+    "Gayā"
+  ]
+}

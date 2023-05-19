@@ -1,0 +1,32 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "_quoteless": "True",
+  "thag20.1:1.1+thag20.1:69.6^speaker": "Mahāmoggallāna",
+  "thag20.1:1.1+thag20.1:69.6^where_else_mentioned": [
+    "Mount Neru",
+    "the Eastern Continent"
+  ],
+  "thag20.1:1.1+thag20.1:69.6^who_else_mentioned": [
+    "Migāra",
+    "Māra",
+    "Vebhāra",
+    "Paṇḍava",
+    "Buddha",
+    "Buddhas",
+    "Brahmā",
+    "Kassapa",
+    "Poṭṭhila",
+    "Sāriputta",
+    "Moggallāna",
+    "Dūsī",
+    "Vidhura",
+    "Kakusandha",
+    "Saṅgha",
+    "Sakka",
+    "Bhesekaḷā",
+    "Mahāmoggallāna"
+  ],
+  "thag20.1_who_around": [
+    "Mahācunda"
+  ]
+}

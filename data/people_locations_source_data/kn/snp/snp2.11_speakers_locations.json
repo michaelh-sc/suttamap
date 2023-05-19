@@ -1,0 +1,9 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "snp2.11:1.1+snp2.11:1.4^speaker": "Rāhula",
+  "snp2.11:2.1+snp2.11:2.4^speaker": "the Buddha",
+  "snp2.11:3.1+snp2.11:8.4^speaker": "the Buddha",
+  "snp2.11:3.1^who_mentioned_before_or_around_this_segment": [
+    "Rāhula"
+  ]
+}
