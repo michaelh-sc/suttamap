@@ -3,7 +3,7 @@ Buddhist Sutta metadata produced in a boring way by code, with much help from ot
 
 All of these need to be checked rigorously before being treated as absolutely correct (it will not be correct). This is alpha, unuseable in production and data structures may change. Once everything is checked, the warnings will be removed from the _comment keys in json files.
 
-Inside the data/ folder is for Digha Nikaya, Majhima Nikaya, Samyutta Nikaya and Anguttara Nikaya:
+Inside the data/ folder is for Digha Nikaya, Majhima Nikaya, Samyutta Nikaya and Anguttara Nikaya, Dhammapada, Suttanipata, Itivuttaka, Therigatha, Theragata and Udana:
   - speakers/ Identification of speakers of anything in double-quotes in data/speakers single segment per speaker of each matching bilara's format.
   - speakers_locations: speech expressed as ranges, as well as:
       - Identification of other people present or mentioned
@@ -11,7 +11,7 @@ Inside the data/ folder is for Digha Nikaya, Majhima Nikaya, Samyutta Nikaya and
       - Who and where else is mentioned inside any double quotes - done by simple Stanford NLP NER
       - Where the sutta's events took place, and if present, the geographical name as it is spelled in the DPPN on Sutta Central.
 
-- Lists (currently very spotty, will need to re-do) consisting of:
+- Lists (currently very spotty, will need to re-do on the basis of what needs to be more explicit where there is trouble) consisting of:
   - Comma-delimited lists
   - Sections of text repeated with a small change for each iteration
   - Causal sequences/chains or things described
@@ -20,13 +20,20 @@ Inside the data/ folder is for Digha Nikaya, Majhima Nikaya, Samyutta Nikaya and
 - dicts/:
   - location_variants.json: a lookup for all location variants to their dictionary base name as per in the SuttaCentral version of the DPPN,
 
-
 - data/initial_geographic_locations.json: A single dictionary with the geographic coordinates, location text from sutta, and the SC DPPN headword for all suttas in the 4 Nikayas. Primary key between coodinates and location text is the dppn headword which is worked out from first proper name in the location values from data/speakers_locations/
+- data/persons_per_sutta__words_spoken.json: A single dictionary with all speakers and their suttas sorted by count of words spoken. KN and Vinaya is not yet incorporated into this. Sorted secondarily by presence and then mentions is forthcoming.
+- data/suttas_per_person_words_spoken.json: A single dictionary with all suttas and their speakers sorted by count of words spoken. KN and Vinaya is not yet incorporated into this. Sorted secondarily by presence and then mentions is forthcoming.
 
 Known issues:
  - Identification of people spoken about within quotes is handled by untrained Named-Entity Recognition currently using Stanford NLP (stanza) which can miss things not capitalised and mix up locations and people sometimes.
   - Incorrect attributions are still present.
+  - Some quotation areas may be missing for KN books
+  - Any time the Buddha is not named as the speaker in the sutta itself, he is listed with " (assumed)". This is likely to be removed for all scriptures that are taken to be the words of the Buddha without being explicitly mentioned as so.
 
-Snp, Thig, Thag, others likely forthcoming.
+Vinaya forthcoming.
 
 Actual python code forthcoming.
+
+Quotations inside quotations (and inside those quotations) forthcoming. At the moment speakers is only words inside double quotes.
+
+
