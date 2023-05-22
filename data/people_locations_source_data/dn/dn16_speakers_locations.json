@@ -198,9 +198,6 @@
     "Ānanda",
     "Sāriputta"
   ],
-  "dn16:1.20.3^who_mentioned_here_and_before": [
-    ""
-  ],
   "dn16:1.21.3^speaker": "the lay followers of Pāṭali Village",
   "dn16:1.23.2+dn16:1.24.13^speaker": "the Buddha",
   "dn16:1.25.2^speaker": "the Buddha",
@@ -627,9 +624,6 @@
   "dn16:4.7.5^who_around_here_and_before": [
     "a large Saṅgha of mendicants"
   ],
-  "dn16:4.7.5^who_mentioned_here_and_before": [
-    ""
-  ],
   "dn16:4.8.1+dn16:4.11.15^speaker": "the mendicant",
   "dn16:4.8.1+dn16:4.11.15^who_else_mentioned": [
     "Buddha",
@@ -694,9 +688,6 @@
     "brahmins",
     "gods",
     "humans"
-  ],
-  "dn16:4.22.2^who_mentioned_here_and_before": [
-    ""
   ],
   "dn16:4.22.4+dn16:4.22.6^speaker": "Ānanda",
   "dn16:4.22.4+dn16:4.22.6^where_else_mentioned": [
@@ -860,7 +851,6 @@
     "Upavāṇa"
   ],
   "dn16:5.11.3^who_mentioned_here_and_before": [
-    "",
     "astute aristocrats",
     "brahmins",
     "householders"

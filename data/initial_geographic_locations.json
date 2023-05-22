@@ -65,15 +65,9 @@
       ]
     }
   },
-  "an3.60": {
-    "location_dppn_headword": "",
-    "location_text": "Saṅgha of mendicants",
-    "geometry": {}
-  },
   "an3.63": {
     "location_dppn_headword": "Venāgapura",
-    "location_text": "the land of the Kosalans, Venāgapura",
-    "geometry": {}
+    "location_text": "the land of the Kosalans, Venāgapura"
   },
   "an3.64": {
     "location_dppn_headword": "Gijjhakūṭa",
@@ -154,8 +148,7 @@
   },
   "an3.91": {
     "location_dppn_headword": "Paṅkadhā",
-    "location_text": "Paṅkadhā and Rājagaha",
-    "geometry": {}
+    "location_text": "Paṅkadhā and Rājagaha"
   },
   "an3.123": {
     "location_dppn_headword": "Kusinārā",
@@ -417,14 +410,11 @@
     }
   },
   "an4.53": {
-    "location_dppn_headword": "",
-    "location_text": "the road between Madhura and Verañja",
-    "geometry": {}
+    "location_text": "the road between Madhura and Verañja"
   },
   "an4.55": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood",
-    "geometry": {}
+    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood"
   },
   "an4.57": {
     "location_dppn_headword": "Pajjanika",
@@ -680,9 +670,7 @@
     }
   },
   "an5.33": {
-    "location_dppn_headword": "",
-    "location_text": "Jātiyā Wood, near Bhaddiya",
-    "geometry": {}
+    "location_text": "Jātiyā Wood, near Bhaddiya"
   },
   "an5.34": {
     "location_dppn_headword": "Vesāli",
@@ -773,9 +761,7 @@
     }
   },
   "an5.77": {
-    "location_dppn_headword": "",
-    "location_text": "Wilderness",
-    "geometry": {}
+    "location_text": "Wilderness"
   },
   "an5.100": {
     "location_dppn_headword": "Kosambī",
@@ -801,8 +787,7 @@
   },
   "an5.114": {
     "location_dppn_headword": "Andhakavinda",
-    "location_text": "the land of the Magadhans at Andhakavinda",
-    "geometry": {}
+    "location_text": "the land of the Magadhans at Andhakavinda"
   },
   "an5.121": {
     "location_dppn_headword": "Vesāli",
@@ -849,9 +834,7 @@
     }
   },
   "an5.166": {
-    "location_dppn_headword": "",
-    "location_text": "Assembly Hall",
-    "geometry": {}
+    "location_text": "Assembly Hall"
   },
   "an5.170": {
     "location_dppn_headword": "Kosambī",
@@ -1035,9 +1018,7 @@
     }
   },
   "an5.184": {
-    "location_dppn_headword": "",
-    "location_text": "Charnel ground",
-    "geometry": {}
+    "location_text": "Charnel ground"
   },
   "an5.194": {
     "location_dppn_headword": "Vesāli",
@@ -1063,13 +1044,10 @@
   },
   "an5.201": {
     "location_dppn_headword": "Kimilā",
-    "location_text": "Kimbilā in the Freshwater Mangrove Wood",
-    "geometry": {}
+    "location_text": "Kimbilā in the Freshwater Mangrove Wood"
   },
   "an5.233": {
-    "location_dppn_headword": "",
-    "location_text": "monastery",
-    "geometry": {}
+    "location_text": "monastery"
   },
   "an6.1": {
     "location_dppn_headword": "Jetavana",
@@ -1095,8 +1073,7 @@
   },
   "an6.16": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood.",
-    "geometry": {}
+    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood."
   },
   "an6.17": {
     "location_dppn_headword": "Jetavana",
@@ -1291,9 +1268,7 @@
     }
   },
   "an6.21": {
-    "location_dppn_headword": "",
-    "location_text": "the little village of Sāma, by a lotus pond",
-    "geometry": {}
+    "location_text": "the little village of Sāma, by a lotus pond"
   },
   "an6.28": {
     "location_dppn_headword": "Bārānasī",
@@ -1352,8 +1327,7 @@
   },
   "an6.40": {
     "location_dppn_headword": "Kimilā",
-    "location_text": "Kimbilā in the Freshwater Mangrove Wood",
-    "geometry": {}
+    "location_text": "Kimbilā in the Freshwater Mangrove Wood"
   },
   "an6.41": {
     "location_dppn_headword": "Gijjhakūṭa",
@@ -1389,14 +1363,11 @@
     }
   },
   "an6.44": {
-    "location_dppn_headword": "",
-    "location_text": "the home of the laywoman Migasālā",
-    "geometry": {}
+    "location_text": "the home of the laywoman Migasālā"
   },
   "an6.46": {
     "location_dppn_headword": "Sahajāti",
-    "location_text": "the land of the Cetis at Sahajāti",
-    "geometry": {}
+    "location_text": "the land of the Cetis at Sahajāti"
   },
   "an6.49": {
     "location_dppn_headword": "Jetavana",
@@ -1477,8 +1448,7 @@
   },
   "an6.62": {
     "location_dppn_headword": "Daṇḍakappaka",
-    "location_text": "Daṇḍakappaka, Kosalans",
-    "geometry": {}
+    "location_text": "Daṇḍakappaka, Kosalans"
   },
   "an6.69": {
     "location_dppn_headword": "Jetavana",
@@ -1647,18 +1617,14 @@
   },
   "an7.59": {
     "location_dppn_headword": "Kimilā",
-    "location_text": "Kimbilā in the Freshwater Mangrove Wood",
-    "geometry": {}
+    "location_text": "Kimbilā in the Freshwater Mangrove Wood"
   },
   "an7.61": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "The land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood and near Kallavāḷamutta Village in the land of the Magadhans.",
-    "geometry": {}
+    "location_text": "The land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood and near Kallavāḷamutta Village in the land of the Magadhans."
   },
   "an7.63": {
-    "location_dppn_headword": "",
-    "location_text": "the home of the householder Anāthapiṇḍika",
-    "geometry": {}
+    "location_text": "the home of the householder Anāthapiṇḍika"
   },
   "an7.66": {
     "location_dppn_headword": "Vesāli",
@@ -1672,9 +1638,7 @@
     }
   },
   "an7.69": {
-    "location_dppn_headword": "",
-    "location_text": "Shady Orchid Tree",
-    "geometry": {}
+    "location_text": "Shady Orchid Tree"
   },
   "an7.72": {
     "location_dppn_headword": "Kosala",
@@ -1859,8 +1823,7 @@
   },
   "an8.8": {
     "location_dppn_headword": "Vaṭajālikāyaṁ",
-    "location_text": "Saṅkheyyaka Mountain in the Mahisa region near Dhavajālikā",
-    "geometry": {}
+    "location_text": "Saṅkheyyaka Mountain in the Mahisa region near Dhavajālikā"
   },
   "an8.10": {
     "location_dppn_headword": "Campā",
@@ -1874,9 +1837,7 @@
     }
   },
   "an8.11": {
-    "location_dppn_headword": "",
-    "location_text": "Verañja at the root of a neem tree",
-    "geometry": {}
+    "location_text": "Verañja at the root of a neem tree"
   },
   "an8.12": {
     "location_dppn_headword": "Vesāli",
@@ -1890,9 +1851,7 @@
     }
   },
   "an8.19": {
-    "location_dppn_headword": "",
-    "location_text": "Verañja at the root of a neem tree dedicated to Naḷeru",
-    "geometry": {}
+    "location_text": "Verañja at the root of a neem tree dedicated to Naḷeru"
   },
   "an8.20": {
     "location_dppn_headword": "Sāvatthī",
@@ -2045,8 +2004,7 @@
   },
   "an8.30": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood and the land of the Cetīs in the Eastern Bamboo Park.",
-    "geometry": {}
+    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood and the land of the Cetīs in the Eastern Bamboo Park."
   },
   "an8.41": {
     "location_dppn_headword": "Jetavana",
@@ -2116,8 +2074,7 @@
   },
   "an8.48": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood",
-    "geometry": {}
+    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood"
   },
   "an8.49": {
     "location_dppn_headword": "Sāvatthī",
@@ -2429,8 +2386,7 @@
   },
   "an10.24": {
     "location_dppn_headword": "Sahajāti",
-    "location_text": "the land of the Cetis at Sahajāti",
-    "geometry": {}
+    "location_text": "the land of the Cetis at Sahajāti"
   },
   "an10.26": {
     "location_dppn_headword": "Avanti",
@@ -2580,8 +2536,7 @@
   },
   "an10.28": {
     "location_dppn_headword": "Gajaṅgala",
-    "location_text": "Kajaṅgalā in a bamboo grove",
-    "geometry": {}
+    "location_text": "Kajaṅgalā in a bamboo grove"
   },
   "an10.30": {
     "location_dppn_headword": "Jetavana",
@@ -2684,13 +2639,11 @@
   },
   "an10.67": {
     "location_dppn_headword": "Naḷakapāna",
-    "location_text": "Naḷakapāna, in the parrot tree grove",
-    "geometry": {}
+    "location_text": "Naḷakapāna, in the parrot tree grove"
   },
   "an10.68": {
     "location_dppn_headword": "Naḷakapāna",
-    "location_text": "Naḷakapāna in the parrot tree grove",
-    "geometry": {}
+    "location_text": "Naḷakapāna in the parrot tree grove"
   },
   "an10.69": {
     "location_dppn_headword": "Jetavana",
@@ -2760,8 +2713,7 @@
   },
   "an10.85": {
     "location_dppn_headword": "Sahajāti",
-    "location_text": "the land of the Cetis at Sahajāti",
-    "geometry": {}
+    "location_text": "the land of the Cetis at Sahajāti"
   },
   "an10.86": {
     "location_dppn_headword": "Rājagaha",
@@ -2830,14 +2782,10 @@
     }
   },
   "an10.107": {
-    "location_dppn_headword": "",
-    "location_text": "Washing (country in the south)",
-    "geometry": {}
+    "location_text": "Washing (country in the south)"
   },
   "an10.167": {
-    "location_dppn_headword": "",
-    "location_text": "At that time it was the sabbath.",
-    "geometry": {}
+    "location_text": "At that time it was the sabbath."
   },
   "an10.176": {
     "location_dppn_headword": "Pāvā",
@@ -2918,8 +2866,7 @@
   },
   "an11.16": {
     "location_dppn_headword": "Beluva",
-    "location_text": "Vesālī in the little village of Beluva",
-    "geometry": {}
+    "location_text": "Vesālī in the little village of Beluva"
   },
   "dn1": {
     "location_dppn_headword": "Ambalaṭṭhikā",
@@ -2967,8 +2914,7 @@
   },
   "dn5": {
     "location_dppn_headword": "Khāṇumata",
-    "location_text": "Khāṇumata, Ambalaṭṭhikā",
-    "geometry": {}
+    "location_text": "Khāṇumata, Ambalaṭṭhikā"
   },
   "dn6": {
     "location_dppn_headword": "Vesāli",
@@ -2994,8 +2940,7 @@
   },
   "dn8": {
     "location_dppn_headword": "Kaṇṇakatthala",
-    "location_text": "Ujuñña, in the deer park at Kaṇṇakatthala",
-    "geometry": {}
+    "location_text": "Ujuñña, in the deer park at Kaṇṇakatthala"
   },
   "dn9": {
     "location_dppn_headword": "Jetavana",
@@ -3032,13 +2977,11 @@
   },
   "dn12": {
     "location_dppn_headword": "Sālavatikā",
-    "location_text": "Sālavatikā",
-    "geometry": {}
+    "location_text": "Sālavatikā"
   },
   "dn13": {
     "location_dppn_headword": "Manasākaṭa",
-    "location_text": "Manasākaṭa, a village of the Kosalan brahmins, on a bank of the river Aciravatī to the north of Manasākaṭa",
-    "geometry": {}
+    "location_text": "Manasākaṭa, a village of the Kosalan brahmins, on a bank of the river Aciravatī to the north of Manasākaṭa"
   },
   "dn14": {
     "location_dppn_headword": "Jetavana",
@@ -3152,8 +3095,7 @@
   },
   "dn24": {
     "location_dppn_headword": "Anupiya",
-    "location_text": "the Mallian town named Anupiya",
-    "geometry": {}
+    "location_text": "the Mallian town named Anupiya"
   },
   "dn25": {
     "location_dppn_headword": "Gijjhakūṭa",
@@ -3168,8 +3110,7 @@
   },
   "dn26": {
     "location_dppn_headword": "Mātula",
-    "location_text": "The land of the Magadhans at Mātulā",
-    "geometry": {}
+    "location_text": "The land of the Magadhans at Mātulā"
   },
   "dn27": {
     "location_dppn_headword": "Sāvatthī",
@@ -3348,9 +3289,7 @@
     }
   },
   "mn1": {
-    "location_dppn_headword": "",
-    "location_text": "Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent sal tree",
-    "geometry": {}
+    "location_text": "Ukkaṭṭhā, in the Subhaga Forest at the root of a magnificent sal tree"
   },
   "mn2": {
     "location_dppn_headword": "Jetavana",
@@ -3497,8 +3436,7 @@
   },
   "mn15": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "The land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood.",
-    "geometry": {}
+    "location_text": "The land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood."
   },
   "mn16": {
     "location_dppn_headword": "Jetavana",
@@ -3666,14 +3604,10 @@
     }
   },
   "mn31": {
-    "location_dppn_headword": "",
-    "location_text": "Nādika in the brick house, sal forest park at Gosiṅga",
-    "geometry": {}
+    "location_text": "Nādika in the brick house, sal forest park at Gosiṅga"
   },
   "mn32": {
-    "location_dppn_headword": "",
-    "location_text": "sal forest park at Gosiṅga",
-    "geometry": {}
+    "location_text": "sal forest park at Gosiṅga"
   },
   "mn33": {
     "location_dppn_headword": "Jetavana",
@@ -3743,18 +3677,15 @@
   },
   "mn39": {
     "location_dppn_headword": "Assapura",
-    "location_text": "The land of the Aṅgas, near the Aṅgan town named Assapura.",
-    "geometry": {}
+    "location_text": "The land of the Aṅgas, near the Aṅgan town named Assapura."
   },
   "mn40": {
     "location_dppn_headword": "Assapura",
-    "location_text": "The land of the Aṅgas, near the Aṅgan town named Assapura.",
-    "geometry": {}
+    "location_text": "The land of the Aṅgas, near the Aṅgan town named Assapura."
   },
   "mn41": {
     "location_dppn_headword": "Sālā",
-    "location_text": "the land of the Kosalans, Sālā village",
-    "geometry": {}
+    "location_text": "the land of the Kosalans, Sālā village"
   },
   "mn42": {
     "location_dppn_headword": "Jetavana",
@@ -3846,8 +3777,7 @@
   },
   "mn50": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "Bhesekaḷā grove, land of the Bhaggas on Crocodile Hill, deer park at Bhesakaḷā's Wood",
-    "geometry": {}
+    "location_text": "Bhesekaḷā grove, land of the Bhaggas on Crocodile Hill, deer park at Bhesakaḷā's Wood"
   },
   "mn51": {
     "location_dppn_headword": "Campā",
@@ -3862,8 +3792,7 @@
   },
   "mn52": {
     "location_dppn_headword": "Beluva",
-    "location_text": "the little village of Beluva in Vesālī",
-    "geometry": {}
+    "location_text": "the little village of Beluva in Vesālī"
   },
   "mn53": {
     "location_dppn_headword": "Kapilavatthu",
@@ -3944,8 +3873,7 @@
   },
   "mn60": {
     "location_dppn_headword": "Sālā",
-    "location_text": "the land of the Kosalans, Sālā",
-    "geometry": {}
+    "location_text": "the land of the Kosalans, Sālā"
   },
   "mn61": {
     "location_dppn_headword": "Rājagaha",
@@ -4014,14 +3942,11 @@
     }
   },
   "mn67": {
-    "location_dppn_headword": "",
-    "location_text": "Cātumā in a myrobalan grove",
-    "geometry": {}
+    "location_text": "Cātumā in a myrobalan grove"
   },
   "mn68": {
     "location_dppn_headword": "Naḷakapāna",
-    "location_text": "the land of the Kosalans near Naḷakapāna in the Parrot Tree grove",
-    "geometry": {}
+    "location_text": "the land of the Kosalans near Naḷakapāna in the Parrot Tree grove"
   },
   "mn69": {
     "location_dppn_headword": "Rājagaha",
@@ -4156,14 +4081,11 @@
     }
   },
   "mn81": {
-    "location_dppn_headword": "",
-    "location_text": "the land of the Kosalans",
-    "geometry": {}
+    "location_text": "the land of the Kosalans"
   },
   "mn82": {
     "location_dppn_headword": "Thullakoṭṭhika",
-    "location_text": "Thullakoṭṭhita",
-    "geometry": {}
+    "location_text": "Thullakoṭṭhita"
   },
   "mn83": {
     "location_dppn_headword": "Mithilā",
@@ -4189,8 +4111,7 @@
   },
   "mn85": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood",
-    "geometry": {}
+    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood"
   },
   "mn86": {
     "location_dppn_headword": "Jetavana",
@@ -4238,8 +4159,7 @@
   },
   "mn90": {
     "location_dppn_headword": "Kaṇṇakatthala",
-    "location_text": "Ujuñña, deer park at Kaṇṇakatthala",
-    "geometry": {}
+    "location_text": "Ujuñña, deer park at Kaṇṇakatthala"
   },
   "mn91": {
     "location_dppn_headword": "Videha",
@@ -4406,9 +4326,7 @@
     }
   },
   "mn95": {
-    "location_dppn_headword": "",
-    "location_text": "Opāsāda, God's Grove",
-    "geometry": {}
+    "location_text": "Opāsāda, God's Grove"
   },
   "mn96": {
     "location_dppn_headword": "Jetavana",
@@ -4456,8 +4374,7 @@
   },
   "mn100": {
     "location_dppn_headword": "Cañcalikappa",
-    "location_text": "The land of the Kosalans, Caṇḍalakappa, the mango grove of the Todeyya brahmins",
-    "geometry": {}
+    "location_text": "The land of the Kosalans, Caṇḍalakappa, the mango grove of the Todeyya brahmins"
   },
   "mn101": {
     "location_dppn_headword": "Devadaha",
@@ -4966,9 +4883,7 @@
     }
   },
   "mn147": {
-    "location_dppn_headword": "",
-    "location_text": "Unknown",
-    "geometry": {}
+    "location_text": "Unknown"
   },
   "mn148": {
     "location_dppn_headword": "Jetavana",
@@ -4994,8 +4909,7 @@
   },
   "mn150": {
     "location_dppn_headword": "Nagaravinda",
-    "location_text": "the land of the Kosalans, Nagaravinda",
-    "geometry": {}
+    "location_text": "the land of the Kosalans, Nagaravinda"
   },
   "mn151": {
     "location_dppn_headword": "Rājagaha",
@@ -5010,13 +4924,10 @@
   },
   "mn152": {
     "location_dppn_headword": "Gajaṅgala",
-    "location_text": "Kajaṅgalā in a bamboo grove",
-    "geometry": {}
+    "location_text": "Kajaṅgalā in a bamboo grove"
   },
   "pli-tv-bi-vb-as1-7": {
-    "location_dppn_headword": "",
-    "location_text": "N/A",
-    "geometry": {}
+    "location_text": "N/A"
   },
   "pli-tv-bi-vb-np1": {
     "location_dppn_headword": "Sāvatthī",
@@ -8419,13 +8330,10 @@
   },
   "pli-tv-bu-vb-sk55": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "Susumāragiri in the Bhesakaḷā Grove, Bhagga country",
-    "geometry": {}
+    "location_text": "Susumāragiri in the Bhesakaḷā Grove, Bhagga country"
   },
   "pli-tv-bu-vb-sk56": {
-    "location_dppn_headword": "",
-    "location_text": "Susumāragiri in the Bhesakaḷā Grove, Bhagga country",
-    "geometry": {}
+    "location_text": "Susumāragiri in the Bhesakaḷā Grove, Bhagga country"
   },
   "pli-tv-bu-vb-sk57": {
     "location_dppn_headword": "Isipatana",
@@ -9209,9 +9117,7 @@
     }
   },
   "sn2.12": {
-    "location_dppn_headword": "",
-    "location_text": "the Buddha's presence",
-    "geometry": {}
+    "location_text": "the Buddha's presence"
   },
   "sn2.13": {
     "location_dppn_headword": "Rājagaha",
@@ -9269,14 +9175,10 @@
     }
   },
   "sn2.22": {
-    "location_dppn_headword": "",
-    "location_text": "the Buddha's presence",
-    "geometry": {}
+    "location_text": "the Buddha's presence"
   },
   "sn2.25": {
-    "location_dppn_headword": "",
-    "location_text": "Kosalan lands, in a wilderness hut on the slopes of the Himalayas",
-    "geometry": {}
+    "location_text": "Kosalan lands, in a wilderness hut on the slopes of the Himalayas"
   },
   "sn2.26": {
     "location_dppn_headword": "Sāvatthī",
@@ -9871,8 +9773,7 @@
   },
   "sn4.14": {
     "location_dppn_headword": "Ekasālā",
-    "location_text": "the land of the Kosalans near the brahmin village of Ekasālā",
-    "geometry": {}
+    "location_text": "the land of the Kosalans near the brahmin village of Ekasālā"
   },
   "sn4.15": {
     "location_dppn_headword": "Jetavana",
@@ -9909,8 +9810,7 @@
   },
   "sn4.18": {
     "location_dppn_headword": "Pañcasāla",
-    "location_text": "the land of the Magadhans near the brahmin village of Pañcasālā",
-    "geometry": {}
+    "location_text": "the land of the Magadhans near the brahmin village of Pañcasālā"
   },
   "sn4.19": {
     "location_dppn_headword": "Sāvatthī",
@@ -10348,8 +10248,7 @@
   },
   "sn6.11": {
     "location_dppn_headword": "Sippinikātīra",
-    "location_text": "Near Rājagaha, on the bank of the Sappinī river",
-    "geometry": {}
+    "location_text": "Near Rājagaha, on the bank of the Sappinī river"
   },
   "sn6.12": {
     "location_dppn_headword": "Gijjhakūṭa",
@@ -10364,8 +10263,7 @@
   },
   "sn6.13": {
     "location_dppn_headword": "Andhakavinda",
-    "location_text": "Andhakavinda",
-    "geometry": {}
+    "location_text": "Andhakavinda"
   },
   "sn6.14": {
     "location_dppn_headword": "Sāvatthī",
@@ -10478,9 +10376,7 @@
     }
   },
   "sn7.9": {
-    "location_dppn_headword": "",
-    "location_text": "Kosalan lands on the bank of the Sundarika river",
-    "geometry": {}
+    "location_text": "Kosalan lands on the bank of the Sundarika river"
   },
   "sn7.10": {
     "location_dppn_headword": "Kosala",
@@ -12962,9 +12858,7 @@
     }
   },
   "sn9.13": {
-    "location_dppn_headword": "",
-    "location_text": "Kosalan lands in a certain forest grove",
-    "geometry": {}
+    "location_text": "Kosalan lands in a certain forest grove"
   },
   "sn9.14": {
     "location_dppn_headword": "Kosala",
@@ -13160,8 +13054,7 @@
   },
   "sn10.4": {
     "location_dppn_headword": "Maṇimālika",
-    "location_text": "the land of the Magadhans at the Maṇimālika tree shrine",
-    "geometry": {}
+    "location_text": "the land of the Magadhans at the Maṇimālika tree shrine"
   },
   "sn10.5": {
     "location_dppn_headword": "Jetavana",
@@ -13571,9 +13464,7 @@
     }
   },
   "sn12.10": {
-    "location_dppn_headword": "",
-    "location_text": "No location was mentioned",
-    "geometry": {}
+    "location_text": "No location was mentioned"
   },
   "sn12.11": {
     "location_dppn_headword": "Jetavana",
@@ -16140,8 +16031,7 @@
   },
   "sn22.1": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood.",
-    "geometry": {}
+    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood."
   },
   "sn22.2": {
     "location_dppn_headword": "Devadaha",
@@ -20336,24 +20226,19 @@
     }
   },
   "sn35.130": {
-    "location_dppn_headword": "",
-    "location_text": "the land of the Avantis near Kuraraghara on Steep Mountain",
-    "geometry": {}
+    "location_text": "the land of the Avantis near Kuraraghara on Steep Mountain"
   },
   "sn35.131": {
     "location_dppn_headword": "Susumāragiri",
-    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood",
-    "geometry": {}
+    "location_text": "the land of the Bhaggas on Crocodile Hill, in the deer park at Bhesakaḷā's Wood"
   },
   "sn35.132": {
     "location_dppn_headword": "Makkarakata",
-    "location_text": "the land of the Avantis near Makkarakaṭa",
-    "geometry": {}
+    "location_text": "the land of the Avantis near Makkarakaṭa"
   },
   "sn35.133": {
     "location_dppn_headword": "Kāmaṇḍā",
-    "location_text": "Kāmaṇḍā in the brahmin Todeyya's mango grove",
-    "geometry": {}
+    "location_text": "Kāmaṇḍā in the brahmin Todeyya's mango grove"
   },
   "sn35.134": {
     "location_dppn_headword": "Devadaha",
@@ -20422,9 +20307,7 @@
     }
   },
   "sn35.240": {
-    "location_dppn_headword": "",
-    "location_text": "along the bank of a river",
-    "geometry": {}
+    "location_text": "along the bank of a river"
   },
   "sn35.241": {
     "location_dppn_headword": "Kosambī",
@@ -20438,9 +20321,7 @@
     }
   },
   "sn35.242": {
-    "location_dppn_headword": "",
-    "location_text": "Kimibilā on the bank of the Ganges river",
-    "geometry": {}
+    "location_text": "Kimibilā on the bank of the Ganges river"
   },
   "sn35.243": {
     "location_dppn_headword": "Kapilavatthu",
@@ -20454,9 +20335,7 @@
     }
   },
   "sn35.248": {
-    "location_dppn_headword": "",
-    "location_text": "Crossroads",
-    "geometry": {}
+    "location_text": "Crossroads"
   },
   "sn36.7": {
     "location_dppn_headword": "Vesāli",
@@ -20492,9 +20371,7 @@
     }
   },
   "sn37.15": {
-    "location_dppn_headword": "",
-    "location_text": "with the Buddha",
-    "geometry": {}
+    "location_text": "with the Buddha"
   },
   "sn38.1": {
     "location_dppn_headword": "Nāḷandā",
@@ -20542,48 +20419,39 @@
   },
   "sn41.1": {
     "location_dppn_headword": "Macchikāsaṇḍa",
-    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove",
-    "geometry": {}
+    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove"
   },
   "sn41.2": {
     "location_dppn_headword": "Macchikāsaṇḍa",
-    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove",
-    "geometry": {}
+    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove"
   },
   "sn41.3": {
     "location_dppn_headword": "Macchikāsaṇḍa",
-    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove",
-    "geometry": {}
+    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove"
   },
   "sn41.4": {
     "location_dppn_headword": "Macchikāsaṇḍa",
-    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove",
-    "geometry": {}
+    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove"
   },
   "sn41.5": {
     "location_dppn_headword": "Macchikāsaṇḍa",
-    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove",
-    "geometry": {}
+    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove"
   },
   "sn41.6": {
     "location_dppn_headword": "Macchikāsaṇḍa",
-    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove",
-    "geometry": {}
+    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove"
   },
   "sn41.7": {
     "location_dppn_headword": "Macchikāsaṇḍa",
-    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove",
-    "geometry": {}
+    "location_text": "Macchikāsaṇḍa in the Wild Mango Grove"
   },
   "sn41.8": {
     "location_dppn_headword": "Macchikāsaṇḍa",
-    "location_text": "Macchikāsaṇḍa",
-    "geometry": {}
+    "location_text": "Macchikāsaṇḍa"
   },
   "sn41.9": {
     "location_dppn_headword": "Macchikāsaṇḍa",
-    "location_text": "Macchikāsaṇḍa",
-    "geometry": {}
+    "location_text": "Macchikāsaṇḍa"
   },
   "sn42.1": {
     "location_dppn_headword": "Sāvatthī",
@@ -20696,9 +20564,7 @@
     }
   },
   "sn43.11": {
-    "location_dppn_headword": "",
-    "location_text": "Roots of trees and empty huts",
-    "geometry": {}
+    "location_text": "Roots of trees and empty huts"
   },
   "sn44.1": {
     "location_dppn_headword": "Jetavana",
@@ -21053,9 +20919,7 @@
     }
   },
   "sn45.18": {
-    "location_dppn_headword": "",
-    "location_text": "Pāṭaliputta, in the Chicken Monastery",
-    "geometry": {}
+    "location_text": "Pāṭaliputta, in the Chicken Monastery"
   },
   "sn45.19": {
     "location_dppn_headword": "Pātaligāma",
@@ -21532,8 +21396,7 @@
   },
   "sn46.30": {
     "location_dppn_headword": "Sumbha",
-    "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka",
-    "geometry": {}
+    "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka"
   },
   "sn46.41": {
     "location_dppn_headword": "Sāvatthī",
@@ -21669,8 +21532,7 @@
   },
   "sn47.4": {
     "location_dppn_headword": "Sālā",
-    "location_text": "the land of the Kosalans near the brahmin village of Sālā",
-    "geometry": {}
+    "location_text": "the land of the Kosalans near the brahmin village of Sālā"
   },
   "sn47.5": {
     "location_dppn_headword": "Sāvatthī",
@@ -21684,14 +21546,10 @@
     }
   },
   "sn47.6": {
-    "location_dppn_headword": "",
-    "location_text": "Mendicant's own territory, the domain of the fathers",
-    "geometry": {}
+    "location_text": "Mendicant's own territory, the domain of the fathers"
   },
   "sn47.7": {
-    "location_dppn_headword": "",
-    "location_text": "Himalayas",
-    "geometry": {}
+    "location_text": "Himalayas"
   },
   "sn47.9": {
     "location_dppn_headword": "Vesāli",
@@ -21794,13 +21652,11 @@
   },
   "sn47.19": {
     "location_dppn_headword": "Sumbha",
-    "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka",
-    "geometry": {}
+    "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka"
   },
   "sn47.20": {
     "location_dppn_headword": "Sumbha",
-    "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka",
-    "geometry": {}
+    "location_text": "the land of the Sumbhas, near the town of the Sumbhas called Sedaka"
   },
   "sn47.21": {
     "location_dppn_headword": "Pātaligāma",
@@ -22079,8 +21935,7 @@
   },
   "sn48.51": {
     "location_dppn_headword": "Sālā",
-    "location_text": "the land of the Kosalans near the brahmin village of Sālā",
-    "geometry": {}
+    "location_text": "the land of the Kosalans near the brahmin village of Sālā"
   },
   "sn48.52": {
     "location_dppn_headword": "Uruvelakappa",
@@ -22149,9 +22004,7 @@
     }
   },
   "sn48.67": {
-    "location_dppn_headword": "",
-    "location_text": "India",
-    "geometry": {}
+    "location_text": "India"
   },
   "sn49.1-12": {
     "location_dppn_headword": "Sāvatthī",
@@ -22265,8 +22118,7 @@
   },
   "sn52.3": {
     "location_dppn_headword": "Sutanu",
-    "location_text": "the bank of the Sutanu",
-    "geometry": {}
+    "location_text": "the bank of the Sutanu"
   },
   "sn52.4": {
     "location_dppn_headword": "Sāketa",
@@ -22413,8 +22265,7 @@
   },
   "sn54.10": {
     "location_dppn_headword": "Kimilā",
-    "location_text": "Kimbilā in the Freshwater Mangrove Wood",
-    "geometry": {}
+    "location_text": "Kimbilā in the Freshwater Mangrove Wood"
   },
   "sn54.11": {
     "location_dppn_headword": "Iccānaṅgala",
@@ -23346,13 +23197,10 @@
   },
   "snp1.2": {
     "location_dppn_headword": "Mahī",
-    "location_text": "Mahī River",
-    "geometry": {}
+    "location_text": "Mahī River"
   },
   "snp1.4": {
-    "location_dppn_headword": "",
-    "location_text": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekanāḷa",
-    "geometry": {}
+    "location_text": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekanāḷa"
   },
   "snp1.6": {
     "location_dppn_headword": "Jetavana",
@@ -23454,9 +23302,7 @@
     }
   },
   "snp3.4": {
-    "location_dppn_headword": "",
-    "location_text": "Kosalan lands on the bank of the Sundarika river",
-    "geometry": {}
+    "location_text": "Kosalan lands on the bank of the Sundarika river"
   },
   "snp3.5": {
     "location_dppn_headword": "Gijjhakūṭa",
@@ -23514,9 +23360,7 @@
     }
   },
   "snp3.11": {
-    "location_dppn_headword": "",
-    "location_text": "Suddhodana's home",
-    "geometry": {}
+    "location_text": "Suddhodana's home"
   },
   "snp3.12": {
     "location_dppn_headword": "Sāvatthī",
@@ -23642,8 +23486,7 @@
   },
   "snp5.18": {
     "location_dppn_headword": "Magadha",
-    "location_text": "the land of the Magadhans at the Pāsāṇake shrine",
-    "geometry": {}
+    "location_text": "the land of the Magadhans at the Pāsāṇake shrine"
   },
   "ud1.1": {
     "location_dppn_headword": "Uruvelā",
@@ -23834,8 +23677,7 @@
   },
   "ud2.8": {
     "location_dppn_headword": "Kuṇḍadhānavana",
-    "location_text": "Kuṇḍiyā in the Kuṇḍadhāna Grove",
-    "geometry": {}
+    "location_text": "Kuṇḍiyā in the Kuṇḍadhāna Grove"
   },
   "ud2.9": {
     "location_dppn_headword": "Sāvatthī",
@@ -23850,8 +23692,7 @@
   },
   "ud2.10": {
     "location_dppn_headword": "Anupiya",
-    "location_text": "Anupiya in a mango grove",
-    "geometry": {}
+    "location_text": "Anupiya in a mango grove"
   },
   "ud3.1": {
     "location_dppn_headword": "Jetavana",
@@ -24745,8 +24586,7 @@
   },
   "ud8.5": {
     "location_dppn_headword": "Kakudhā",
-    "location_text": "Pāvā, Cunda the smith's mango grove, Kusinārā",
-    "geometry": {}
+    "location_text": "Pāvā, Cunda the smith's mango grove, Kusinārā"
   },
   "ud8.6": {
     "location_dppn_headword": "Pātaligāma",

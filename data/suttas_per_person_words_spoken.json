@@ -1,25 +1,4 @@
 {
-  "": {
-    "dn16": {
-      "mentions": 4
-    },
-    "sn12.35": {
-      "is_present": true,
-      "mentions": 1
-    }
-  },
-  "1.118 Kimbila": {
-    "thag1.118": {
-      "word_count_en": 34,
-      "is_present": true
-    }
-  },
-  "18.1. Mahākassapa": {
-    "thag18.1": {
-      "word_count_en": 911,
-      "is_present": true
-    }
-  },
   "A Deity (assumed)": {
     "sn1.76": {
       "word_count_en": 58,
@@ -11133,6 +11112,10 @@
       "word_count_en": 38,
       "is_present": true
     },
+    "thag1.118": {
+      "word_count_en": 34,
+      "is_present": true
+    },
     "mn31": {
       "is_present": true,
       "mentions": 2
@@ -12662,6 +12645,10 @@
     }
   },
   "Mahākassapa": {
+    "thag18.1": {
+      "word_count_en": 911,
+      "is_present": true
+    },
     "sn16.11": {
       "word_count_en": 781,
       "is_present": true,
