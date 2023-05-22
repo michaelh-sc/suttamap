@@ -26,7 +26,7 @@
   "mn100:6.1+mn100:6.2^who_else_mentioned": [
     "Gotama"
   ],
-  "mn100:7.1+mn100:14.6^speaker": "The Buddha",
+  "mn100:7.1+mn100:14.6^speaker": "the Buddha",
   "mn100:7.1+mn100:14.6^where_else_mentioned": [
     "Senanigama",
     "Uruvelā"
@@ -41,7 +41,7 @@
   ],
   "mn100:9.14^speaker": "Āḷāra Kālāma",
   "mn100:11.9^speaker": "Rāma",
-  "mn100:14.7+mn100:14.10^speaker": "The Buddha",
+  "mn100:14.7+mn100:14.10^speaker": "the Buddha",
   "mn100:14.7+mn100:14.10^who_else_mentioned": [
     "Gotama"
   ],
@@ -49,7 +49,7 @@
   "mn100:14.11+mn100:15.6^who_else_mentioned": [
     "Bhāradvāja"
   ],
-  "mn100:42.5^speaker": "The Buddha",
+  "mn100:42.5^speaker": "the Buddha",
   "mn100:42.12^geographic_locations_here_and_before": [
     "Cañcalikappa"
   ],
@@ -58,7 +58,7 @@
     "The land of the Kosalans Caṇḍalakappa the mango grove of the Todeyya brahmins"
   ],
   "mn100:42.12^who_around_here_and_before": [
-    "The Buddha",
+    "the Buddha",
     "a large Saṅgha of mendicants"
   ],
   "mn100:42.12^who_mentioned_here_and_before": [

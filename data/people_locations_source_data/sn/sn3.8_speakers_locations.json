@@ -1,11 +1,11 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn3.8:1.4^speaker": "King Pasenadi of Kosala",
+  "sn3.8:1.4^speaker": "King Pasenadi",
   "sn3.8:1.4^who_else_mentioned": [
     "Mallikā"
   ],
   "sn3.8:1.5+sn3.8:1.6^speaker": "Queen Mallikā",
-  "sn3.8:1.7^speaker": "King Pasenadi of Kosala",
+  "sn3.8:1.7^speaker": "King Pasenadi",
   "sn3.8:1.7^who_else_mentioned": [
     "Mallikā"
   ],

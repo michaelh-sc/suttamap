@@ -1,0 +1,24 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pc58:1.4^speaker": "Other nuns",
+  "pli-tv-bi-vb-pc58:1.5^speaker": "Nuns from the group of six",
+  "pli-tv-bi-vb-pc58:1.7^speaker": "Nuns of few desires",
+  "pli-tv-bi-vb-pc58:1.8^speaker": "Monks from the group of six",
+  "pli-tv-bi-vb-pc58:1.9^speaker": "Monks from the group of six",
+  "pli-tv-bi-vb-pc58:1.11+pli-tv-bi-vb-pc58:1.12^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc58:1.13+pli-tv-bi-vb-pc58:1.14.1^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc58:2.1.9^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "pli-tv-bi-vb-pc58:2.1.9^speaker": "Whoever",
+  "pli-tv-bi-vb-pc58:2.1.9^where_before_or_around_this_segment": "Banyan Tree Monastery at Kapilavatthu, Sakyan country",
+  "pli-tv-bi-vb-pc58:2.1.9^who_present_before_or_around_this_segment": [
+    "Monks from the group of six",
+    "Nuns from the group of six",
+    "Nuns of few desires"
+  ],
+  "pli-tv-bi-vb-pc58^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "pli-tv-bi-vb-pc58^where": "Banyan Tree Monastery at Kapilavatthu, Sakyan country"
+}

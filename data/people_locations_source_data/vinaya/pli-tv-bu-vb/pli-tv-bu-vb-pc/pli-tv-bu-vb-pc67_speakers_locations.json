@@ -1,0 +1,44 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc67:1.4^speaker": "woman",
+  "pli-tv-bu-vb-pc67:1.5^speaker": "monk",
+  "pli-tv-bu-vb-pc67:1.5^who_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc67:1.6^speaker": "woman",
+  "pli-tv-bu-vb-pc67:1.7^speaker": "monk",
+  "pli-tv-bu-vb-pc67:1.9^speaker": "woman's husband",
+  "pli-tv-bu-vb-pc67:1.10^speaker": "someone in the village",
+  "pli-tv-bu-vb-pc67:1.14+pli-tv-bu-vb-pc67:1.17^speaker": "woman",
+  "pli-tv-bu-vb-pc67:1.21^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc67:1.22^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc67:1.23^speaker": "monk",
+  "pli-tv-bu-vb-pc67:1.25+pli-tv-bu-vb-pc67:1.26^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc67:1.27+pli-tv-bu-vb-pc67:1.28.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc67:1.27^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc67:1.27^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc67:1.27^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc67:1.27^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc67:1.27^who_present_before_or_around_this_segment": [
+    "monks at Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc67:2.1.10^speaker": "the monk",
+  "pli-tv-bu-vb-pc67:2.1.10^who_mentioned_before_or_around_this_segment": [
+    "a woman",
+    "female spirit",
+    "female ghost",
+    "female animal",
+    "paṇḍaka"
+  ],
+  "pli-tv-bu-vb-pc67:2.1.10^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc67^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc67^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

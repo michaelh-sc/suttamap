@@ -36,7 +36,7 @@
   ],
   "an8.70:5.2^speaker": "the Buddha",
   "an8.70:5.3^speaker": "Ānanda",
-  "an8.70:6.1+an8.70:9.1^speaker": "Māra the Wicked",
+  "an8.70:6.1+an8.70:9.1^speaker": "Māra",
   "an8.70:6.1+an8.70:9.1^where_else_mentioned": [
     "the Holy One"
   ],
@@ -62,7 +62,7 @@
     "Vesālī at the Great Wood in the hall with the peaked roof"
   ],
   "an8.70:14.1^who_present_before_or_around_this_segment": [
-    "Māra the Wicked"
+    "Māra"
   ],
   "an8.70^initial_location_dppn_headword": [
     "Vesāli"

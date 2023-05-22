@@ -1,0 +1,52 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc85:1.5+pli-tv-bu-vb-pc85:1.7^speaker": "People",
+  "pli-tv-bu-vb-pc85:1.5+pli-tv-bu-vb-pc85:1.7^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-pc85:1.10^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc85:1.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc85:1.16^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc85:1.18+pli-tv-bu-vb-pc85:1.21^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc85:1.22+pli-tv-bu-vb-pc85:1.23.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc85:2.3^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc85:2.3^speaker": "People",
+  "pli-tv-bu-vb-pc85:2.3^where_before_or_around_this_segment": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery, a certain village in the Kosalan country",
+  "pli-tv-bu-vb-pc85:2.3^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika",
+    "monks walking through the Kosalan country"
+  ],
+  "pli-tv-bu-vb-pc85:2.3^who_present_before_or_around_this_segment": [
+    "monks from the group of six",
+    "monks of few desires"
+  ],
+  "pli-tv-bu-vb-pc85:2.10+pli-tv-bu-vb-pc85:2.12.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc85:3.3^speaker": "People",
+  "pli-tv-bu-vb-pc85:3.10+pli-tv-bu-vb-pc85:3.12.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc85:3.10^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc85:3.10^where_before_or_around_this_segment": "Sāvatthī",
+  "pli-tv-bu-vb-pc85:3.10^who_mentioned_before_or_around_this_segment": [
+    "thieves",
+    "a monk bitten by a snake",
+    "another monk who went to get fire"
+  ],
+  "pli-tv-bu-vb-pc85:3.10^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc85:4.7+pli-tv-bu-vb-pc85:4.9.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc85:4.7^who_mentioned_before_or_around_this_segment": [
+    "a monk bitten by a snake",
+    "another monk who went to the village to get fire"
+  ],
+  "pli-tv-bu-vb-pc85:4.7^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc85^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc85^where": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery, a certain village in the Kosalan country"
+}

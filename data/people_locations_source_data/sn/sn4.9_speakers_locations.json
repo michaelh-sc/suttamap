@@ -3,7 +3,7 @@
   "sn4.9:1.4^speaker": "the Buddha",
   "sn4.9:1.5^speaker": "the mendicants",
   "sn4.9:2.1+sn4.9:2.4^speaker": "the Buddha",
-  "sn4.9:4.1+sn4.9:4.4^speaker": "Māra the Wicked",
+  "sn4.9:4.1+sn4.9:4.4^speaker": "Māra",
   "sn4.9:5.1+sn4.9:5.4^speaker": "the Buddha",
   "sn4.9:5.1^event_dppn_headwords_before_or_around_this_segment": [
     "Rājagaha"
@@ -15,7 +15,7 @@
     "the mendicants"
   ],
   "sn4.9:5.1^who_mentioned_before_or_around_this_segment": [
-    "Māra the Wicked"
+    "Māra"
   ],
   "sn4.9^initial_location_dppn_headword": [
     "Rājagaha"

@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-np4:1.4^speaker": "A lay follower",
+  "pli-tv-bi-vb-np4:1.5^speaker": "Thullanandā",
+  "pli-tv-bi-vb-np4:1.8+pli-tv-bi-vb-np4:1.9^speaker": "Thullanandā",
+  "pli-tv-bi-vb-np4:1.11+pli-tv-bi-vb-np4:1.12^speaker": "The lay follower",
+  "pli-tv-bi-vb-np4:1.13+pli-tv-bi-vb-np4:1.14^speaker": "The shopkeeper",
+  "pli-tv-bi-vb-np4:1.16^speaker": "The lay follower",
+  "pli-tv-bi-vb-np4:1.16^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-np4:1.21^speaker": "the Buddha",
+  "pli-tv-bi-vb-np4:1.21^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-np4:1.22^speaker": "The monks",
+  "pli-tv-bi-vb-np4:1.24+pli-tv-bi-vb-np4:1.25^speaker": "the Buddha",
+  "pli-tv-bi-vb-np4:1.24+pli-tv-bi-vb-np4:1.25^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-np4:2.1.11+pli-tv-bi-vb-np4:2.1.16^speaker": "the Buddha",
+  "pli-tv-bi-vb-np4:2.1.11^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-np4:2.1.11^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-np4:2.1.11^who_mentioned_before_or_around_this_segment": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-np4:2.1.11^who_present_before_or_around_this_segment": [
+    "The nuns",
+    "the monks",
+    "the lay follower",
+    "the shopkeeper"
+  ],
+  "pli-tv-bi-vb-np4^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-np4^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

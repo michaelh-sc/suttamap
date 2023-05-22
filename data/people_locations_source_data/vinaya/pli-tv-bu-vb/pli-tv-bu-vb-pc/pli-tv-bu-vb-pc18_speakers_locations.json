@@ -1,0 +1,22 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc18:1.10^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc18:1.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc18:1.13^speaker": "the monk who sat down forcefully",
+  "pli-tv-bu-vb-pc18:1.15+pli-tv-bu-vb-pc18:1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc18:1.17+pli-tv-bu-vb-pc18:1.18.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc18:1.17^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc18:1.17^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc18:1.17^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc18:1.17^who_present_before_or_around_this_segment": [
+    "two monks"
+  ],
+  "pli-tv-bu-vb-pc18^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc18^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

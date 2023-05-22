@@ -1,0 +1,77 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-ay1:1.12^speaker": "the family that supported Udāyī",
+  "pli-tv-bu-vb-ay1:1.19+pli-tv-bu-vb-ay1:1.20^speaker": "Visākhā Migāramātā",
+  "pli-tv-bu-vb-ay1:1.24^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-ay1:1.24^speaker": "the monks of few desires",
+  "pli-tv-bu-vb-ay1:1.24^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-ay1:1.24^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-ay1:1.24^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-ay1:1.24^who_present_before_or_around_this_segment": [
+    "Udāyī",
+    "the daughter",
+    "the Buddha"
+  ],
+  "pli-tv-bu-vb-ay1:1.26^speaker": "the Buddha",
+  "pli-tv-bu-vb-ay1:1.26^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-ay1:1.27^speaker": "Udāyī",
+  "pli-tv-bu-vb-ay1:1.29+pli-tv-bu-vb-ay1:1.30^speaker": "the Buddha",
+  "pli-tv-bu-vb-ay1:1.31+pli-tv-bu-vb-ay1:1.36^speaker": "the Buddha",
+  "pli-tv-bu-vb-ay1:1.31^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-ay1:1.31^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-ay1:1.31^who_mentioned_before_or_around_this_segment": [
+    "Sangha"
+  ],
+  "pli-tv-bu-vb-ay1:1.31^who_present_before_or_around_this_segment": [
+    "Visākhā"
+  ],
+  "pli-tv-bu-vb-ay1:2.2.5^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.8^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.10^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.13^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.15^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.18^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.20^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.23^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.26^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.28^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.31^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.33^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.36^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.38^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.41^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.43^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.45^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.47^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.50^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.52^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.52^who_mentioned_before_or_around_this_segment": [
+    "Buddha",
+    "Teaching",
+    "Sangha"
+  ],
+  "pli-tv-bu-vb-ay1:2.2.52^who_present_before_or_around_this_segment": [
+    "woman"
+  ],
+  "pli-tv-bu-vb-ay1:2.2.54^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.56^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.59^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.61^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.63^speaker": "the monk",
+  "pli-tv-bu-vb-ay1:2.2.66^speaker": "female lay follower",
+  "pli-tv-bu-vb-ay1:2.2.68^speaker": "the monk",
+  "pli-tv-bu-vb-ay1^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-ay1^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

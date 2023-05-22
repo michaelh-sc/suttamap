@@ -1,0 +1,353 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc2:1.1.5+pli-tv-bu-vb-pc2:1.1.6^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc2:1.1.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:1.1.9^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc2:1.1.11+pli-tv-bu-vb-pc2:1.1.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:1.1.11^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc2:1.1.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:1.1.11^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc2:1.1.11^who_mentioned_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-pc2:1.1.11^who_present_before_or_around_this_segment": [
+    "good monks"
+  ],
+  "pli-tv-bu-vb-pc2:1.2.1+pli-tv-bu-vb-pc2:1.2.31^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:1.2.1+pli-tv-bu-vb-pc2:1.2.31^where_else_mentioned": [
+    "Takkasilā"
+  ],
+  "pli-tv-bu-vb-pc2:1.2.1+pli-tv-bu-vb-pc2:1.2.31^who_else_mentioned": [
+    "Nandivisāla"
+  ],
+  "pli-tv-bu-vb-pc2:1.2.32+pli-tv-bu-vb-pc2:1.2.33.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.20^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.24^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.24^who_mentioned_before_or_around_this_segment": [
+    "Nandivisāla",
+    "brahmin in Takkasilā",
+    "various families and occupations"
+  ],
+  "pli-tv-bu-vb-pc2:2.1.24^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc2:2.1.26^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.30^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.32^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.38^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.40^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.48^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.1.50^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.6^who_mentioned_before_or_around_this_segment": [
+    "fully ordained individuals",
+    "outcasts",
+    "bamboo workers",
+    "hunters",
+    "carriage makers",
+    "waste removers",
+    "aristocrats",
+    "brahmins",
+    "Avakaṇṇaka",
+    "Javakaṇṇaka",
+    "Dhaniṭṭhaka",
+    "Saviṭṭhaka",
+    "Kulavaḍḍhaka"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.8^who_else_mentioned": [
+    "Buddharakkhita"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.9^who_else_mentioned": [
+    "Buddharakkhita"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.10.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.11^who_mentioned_before_or_around_this_segment": [
+    "Kosiya family",
+    "Bhāradvāja",
+    "Buddha",
+    "Moggallāna",
+    "Kaccāna",
+    "Vāsiṭṭha",
+    "bamboo worker",
+    "hunter",
+    "carriage maker",
+    "waste remover",
+    "aristocrat",
+    "brahmin",
+    "Avakaṇṇaka",
+    "Javakaṇṇaka",
+    "Dhaniṭṭhaka",
+    "Saviṭṭhaka",
+    "Kulavaḍḍhaka",
+    "Buddharakkhita",
+    "Dhammarakkhita",
+    "Sangharakkhita"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.11^who_present_before_or_around_this_segment": [
+    "fully ordained monks"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.12^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.13^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.14.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.17^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.17^who_mentioned_before_or_around_this_segment": [
+    "Buddharakkhita",
+    "Dhammarakkhita",
+    "Sangharakkhita",
+    "Avakaṇṇaka",
+    "Javakaṇṇaka",
+    "Dhaniṭṭhaka",
+    "Saviṭṭhaka",
+    "Kulavaḍḍhaka",
+    "Kosiya",
+    "Bhāradvāja",
+    "Moggallāna",
+    "Kaccāna",
+    "Vāsiṭṭha",
+    "carpenter",
+    "waste remover",
+    "farmer",
+    "trader",
+    "cattle keeper"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.17^who_present_before_or_around_this_segment": [
+    "fully ordained monks"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.19.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.20^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.21^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.22^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.22^who_mentioned_before_or_around_this_segment": [
+    "Kosiya family",
+    "Bhāradvāja family",
+    "Buddha family",
+    "Moggallāna family",
+    "Kaccāna family",
+    "Vāsiṭṭha family",
+    "carpenter",
+    "waste remover",
+    "farmer",
+    "trader",
+    "cattle keeper",
+    "reed worker",
+    "potter",
+    "weaver",
+    "leather worker",
+    "barber",
+    "arithmetician",
+    "accountant",
+    "clerk"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.22^who_present_before_or_around_this_segment": [
+    "fully ordained monks"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.23.1^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.24^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.25^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.26^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.27.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc2:2.2.27.1^who_mentioned_before_or_around_this_segment": [
+    "farmers",
+    "traders",
+    "cattle keepers",
+    "reed workers",
+    "potters",
+    "weavers",
+    "leather workers",
+    "barbers",
+    "arithmeticians",
+    "accountants",
+    "clerks",
+    "lepers",
+    "people with abscesses",
+    "mild leprosy",
+    "tuberculosis",
+    "epilepsy",
+    "diabetes",
+    "those who are too tall",
+    "too short",
+    "too dark",
+    "or too fair)"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.27.1^who_present_before_or_around_this_segment": [
+    "fully ordained monks"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.28^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.29^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.30^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.31.1^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.31.1^who_mentioned_before_or_around_this_segment": [
+    "fully ordained monks",
+    "lepers",
+    "those with abscesses",
+    "mild leprosy",
+    "tuberculosis",
+    "epilepsy",
+    "diabetes",
+    "too tall",
+    "too short",
+    "too dark",
+    "too fair)"
+  ],
+  "pli-tv-bu-vb-pc2:2.2.32^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.33^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.34^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.35.1^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.36^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.37^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.38^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.39.1^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.40^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.41^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.2.42^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.1^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.1^who_mentioned_before_or_around_this_segment": [
+    "stream-enterers",
+    "those who committed various offenses",
+    "camels",
+    "rams",
+    "oxen",
+    "donkeys",
+    "animals",
+    "those bound for hell",
+    "wise",
+    "competent",
+    "intelligent",
+    "learned",
+    "expounders of the Teaching",
+    "outcasts",
+    "bamboo workers",
+    "hunters",
+    "carriage makers",
+    "waste removers"
+  ],
+  "pli-tv-bu-vb-pc2:2.3.2^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.3^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.3^who_else_mentioned": [
+    "Avakaṇṇakas"
+  ],
+  "pli-tv-bu-vb-pc2:2.3.4^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.4^where_else_mentioned": [
+    "Buddharakkhitas"
+  ],
+  "pli-tv-bu-vb-pc2:2.3.5^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.5^who_else_mentioned": [
+    "Kosiyas"
+  ],
+  "pli-tv-bu-vb-pc2:2.3.6^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.6^who_else_mentioned": [
+    "Gotamas"
+  ],
+  "pli-tv-bu-vb-pc2:2.3.7^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.8^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.9^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.10^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.11^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.12^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.13^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.13^who_mentioned_before_or_around_this_segment": [
+    "Various people from different professions",
+    "backgrounds"
+  ],
+  "pli-tv-bu-vb-pc2:2.3.14^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.15^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.16^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.17+pli-tv-bu-vb-pc2:2.3.18^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.17^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.19^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.20^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.3.21^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.4.1^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.4.2^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.5.1^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.5.2^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.6.4^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.6.4^who_present_before_or_around_this_segment": [
+    "other fully ordained monks",
+    "someone who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc2:2.6.5^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.6.6^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.6.7^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.6.8^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.6.9^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.6.10^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.6.10^who_mentioned_before_or_around_this_segment": [
+    "someone who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc2:2.7.1^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.2^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.3^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.4^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.4^who_mentioned_before_or_around_this_segment": [
+    "someone who is not fully ordained",
+    "outcasts",
+    "bamboo workers",
+    "hunters",
+    "carriage makers",
+    "waste removers",
+    "aristocrats",
+    "brahmins"
+  ],
+  "pli-tv-bu-vb-pc2:2.7.9^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.10.1^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.11^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.12^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.13^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.13^who_mentioned_before_or_around_this_segment": [
+    "outcasts",
+    "bamboo workers",
+    "hunters",
+    "carriage makers",
+    "waste removers",
+    "aristocrats",
+    "brahmins",
+    "wise ones",
+    "competent ones",
+    "intelligent ones",
+    "learned ones",
+    "expounders of the Teaching"
+  ],
+  "pli-tv-bu-vb-pc2:2.7.14^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.7.15^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.8.5^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.8.6^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.8.6^who_mentioned_before_or_around_this_segment": [
+    "someone who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc2:2.8.7^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.8.8^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.8.9^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.8.10^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.8.11^speaker": "a fully ordained monk",
+  "pli-tv-bu-vb-pc2:2.8.11^who_mentioned_before_or_around_this_segment": [
+    "someone who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc2^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc2^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

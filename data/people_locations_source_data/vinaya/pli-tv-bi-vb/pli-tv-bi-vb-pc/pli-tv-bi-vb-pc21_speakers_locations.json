@@ -1,0 +1,20 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pc21:1.4+pli-tv-bi-vb-pc21:1.6^speaker": "Sex workers",
+  "pli-tv-bi-vb-pc21:1.12+pli-tv-bi-vb-pc21:1.16.1^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc21:1.12^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pc21:1.12^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-pc21:1.12^who_mentioned_before_or_around_this_segment": [
+    "Sanghas"
+  ],
+  "pli-tv-bi-vb-pc21:1.12^who_present_before_or_around_this_segment": [
+    "Nuns",
+    "Monks"
+  ],
+  "pli-tv-bi-vb-pc21^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pc21^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

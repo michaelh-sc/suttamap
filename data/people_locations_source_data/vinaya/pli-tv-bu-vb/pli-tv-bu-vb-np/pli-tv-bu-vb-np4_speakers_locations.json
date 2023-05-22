@@ -1,0 +1,49 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-np4:1.10^speaker": "Udāyī",
+  "pli-tv-bu-vb-np4:1.11^speaker": "Udāyī's ex-wife (the nun)",
+  "pli-tv-bu-vb-np4:1.15^speaker": "the nuns",
+  "pli-tv-bu-vb-np4:1.16^speaker": "Udāyī's ex-wife (the nun)",
+  "pli-tv-bu-vb-np4:1.18^speaker": "the nuns",
+  "pli-tv-bu-vb-np4:1.18^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-np4:1.21^speaker": "monks of few desires",
+  "pli-tv-bu-vb-np4:1.21^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-np4:1.23^speaker": "the Buddha",
+  "pli-tv-bu-vb-np4:1.23^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-np4:1.24^speaker": "Udāyī",
+  "pli-tv-bu-vb-np4:1.25^speaker": "the Buddha",
+  "pli-tv-bu-vb-np4:1.26^speaker": "Udāyī",
+  "pli-tv-bu-vb-np4:1.27+pli-tv-bu-vb-np4:1.29^speaker": "the Buddha",
+  "pli-tv-bu-vb-np4:1.27^speaker": "the Buddha",
+  "pli-tv-bu-vb-np4:1.30+pli-tv-bu-vb-np4:1.31.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-np4:1.30^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np4:1.30^speaker": "the Buddha",
+  "pli-tv-bu-vb-np4:1.30^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-np4:1.30^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-np4:1.30^who_present_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-np4:2.1.18+pli-tv-bu-vb-np4:2.1.24^speaker": "the Buddha",
+  "pli-tv-bu-vb-np4:2.1.18^who_mentioned_before_or_around_this_segment": [
+    "a man",
+    "a woman",
+    "a nun"
+  ],
+  "pli-tv-bu-vb-np4:2.1.18^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-np4^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np4^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

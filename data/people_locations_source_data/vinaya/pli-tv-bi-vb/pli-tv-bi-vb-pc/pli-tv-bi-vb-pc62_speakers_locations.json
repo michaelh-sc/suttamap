@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pc62:1.5^speaker": "people",
+  "pli-tv-bi-vb-pc62:1.7^speaker": "people",
+  "pli-tv-bi-vb-pc62:1.10^speaker": "the nuns of few desires",
+  "pli-tv-bi-vb-pc62:1.11^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc62:1.12^speaker": "monks",
+  "pli-tv-bi-vb-pc62:1.14+pli-tv-bi-vb-pc62:1.15^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc62:1.16+pli-tv-bi-vb-pc62:1.17.1^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc62:1.16^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pc62:1.16^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-pc62:1.16^who_mentioned_before_or_around_this_segment": [
+    "the woman who was breastfeeding",
+    "the preceptor",
+    "the group and the teacher"
+  ],
+  "pli-tv-bi-vb-pc62:1.16^who_present_before_or_around_this_segment": [
+    "the nuns",
+    "monks"
+  ],
+  "pli-tv-bi-vb-pc62^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pc62^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

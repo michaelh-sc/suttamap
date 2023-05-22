@@ -1,0 +1,21 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc56:1.1.6^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc56:1.1.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc56:1.1.8^speaker": "monks",
+  "pli-tv-bu-vb-pc56:1.1.10+pli-tv-bu-vb-pc56:1.1.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc56:1.1.12+pli-tv-bu-vb-pc56:1.1.13.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc56:1.2.3^speaker": "monks who were looking after the sick monks",
+  "pli-tv-bu-vb-pc56:1.2.4+pli-tv-bu-vb-pc56:1.2.6^speaker": "sick monks",
+  "pli-tv-bu-vb-pc56:1.2.4+pli-tv-bu-vb-pc56:1.2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc56:1.2.4^geographic_locations_here_and_before": [
+    "Isipatana"
+  ],
+  "pli-tv-bu-vb-pc56:1.2.4^where_before_or_around_this_segment": "Susumāragiri in the Bhesakaḷā Grove, the deer park, in the Bhagga country",
+  "pli-tv-bu-vb-pc56^initial_geographic_location": [
+    "Isipatana"
+  ],
+  "pli-tv-bu-vb-pc56^where": "Susumāragiri in the Bhesakaḷā Grove, the deer park, in the Bhagga country"
+}

@@ -1,0 +1,59 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-np20:1.5+pli-tv-bu-vb-np20:1.6^speaker": "certain wanderer",
+  "pli-tv-bu-vb-np20:1.7^speaker": "Upananda the Sakyan",
+  "pli-tv-bu-vb-np20:1.8^speaker": "certain wanderer",
+  "pli-tv-bu-vb-np20:1.9^speaker": "Upananda the Sakyan",
+  "pli-tv-bu-vb-np20:1.12+pli-tv-bu-vb-np20:1.13^speaker": "wanderers at the wanderers' monastery",
+  "pli-tv-bu-vb-np20:1.14^speaker": "the wanderer who exchanged robes",
+  "pli-tv-bu-vb-np20:1.15+pli-tv-bu-vb-np20:1.16^speaker": "wanderers at the wanderers' monastery",
+  "pli-tv-bu-vb-np20:1.19^speaker": "the wanderer who exchanged robes",
+  "pli-tv-bu-vb-np20:1.20+pli-tv-bu-vb-np20:1.21^speaker": "Upananda the Sakyan",
+  "pli-tv-bu-vb-np20:1.23+pli-tv-bu-vb-np20:1.24^speaker": "the wanderer who exchanged robes",
+  "pli-tv-bu-vb-np20:1.27^speaker": "monks of few desires",
+  "pli-tv-bu-vb-np20:1.27^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-np20:1.29^speaker": "the Buddha",
+  "pli-tv-bu-vb-np20:1.29^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-np20:1.30^speaker": "Upananda the Sakyan",
+  "pli-tv-bu-vb-np20:1.32+pli-tv-bu-vb-np20:1.33^speaker": "the Buddha",
+  "pli-tv-bu-vb-np20:1.32^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-np20:1.32^speaker": "the Buddha",
+  "pli-tv-bu-vb-np20:1.32^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-np20:1.32^who_mentioned_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-np20:1.32^who_present_before_or_around_this_segment": [
+    "monks",
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-np20:1.34+pli-tv-bu-vb-np20:1.35.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-np20:2.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-np20:2.11+pli-tv-bu-vb-np20:2.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-np20:2.11^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np20:2.11^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-np20:2.11^who_present_before_or_around_this_segment": [
+    "Upananda",
+    "Wanderer",
+    "Monks of few desires",
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-np20:2.28^speaker": "the Buddha",
+  "pli-tv-bu-vb-np20:2.28^who_mentioned_before_or_around_this_segment": [
+    "Monk (who has been given the full ordination)"
+  ],
+  "pli-tv-bu-vb-np20:2.28^who_present_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-np20^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-np20^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

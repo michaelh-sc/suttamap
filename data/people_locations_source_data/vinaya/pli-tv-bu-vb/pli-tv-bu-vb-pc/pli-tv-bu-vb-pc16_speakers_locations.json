@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc16:1.4^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc16:1.6^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc16:1.8^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc16:1.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc16:1.11^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc16:1.13+pli-tv-bu-vb-pc16:1.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc16:1.15+pli-tv-bu-vb-pc16:1.16.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc16:1.15+pli-tv-bu-vb-pc16:1.16.1^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bu-vb-pc16:1.15^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc16:1.15^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc16:1.15^who_mentioned_before_or_around_this_segment": [
+    "Sangha"
+  ],
+  "pli-tv-bu-vb-pc16:1.15^who_present_before_or_around_this_segment": [
+    "senior monks"
+  ],
+  "pli-tv-bu-vb-pc16^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc16^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

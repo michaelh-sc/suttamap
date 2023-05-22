@@ -1,0 +1,55 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-ss1:1.7^speaker": "the one without faith",
+  "pli-tv-bi-vb-ss1:1.9+pli-tv-bi-vb-ss1:1.10^speaker": "the one with faith",
+  "pli-tv-bi-vb-ss1:1.19^speaker": "the one with faith",
+  "pli-tv-bi-vb-ss1:1.21^speaker": "the one with faith",
+  "pli-tv-bi-vb-ss1:1.24^speaker": "the one without faith",
+  "pli-tv-bi-vb-ss1:1.24^where_else_mentioned": [
+    "Venerables"
+  ],
+  "pli-tv-bi-vb-ss1:1.26^speaker": "the nun Thullanandā",
+  "pli-tv-bi-vb-ss1:1.29^speaker": "the judges",
+  "pli-tv-bi-vb-ss1:1.31^speaker": "Thullanandā",
+  "pli-tv-bi-vb-ss1:1.31^who_else_mentioned": [
+    "Sirs"
+  ],
+  "pli-tv-bi-vb-ss1:1.33^speaker": "the judges",
+  "pli-tv-bi-vb-ss1:1.33^who_else_mentioned": [
+    "Venerable"
+  ],
+  "pli-tv-bi-vb-ss1:1.35+pli-tv-bi-vb-ss1:1.36^speaker": "the defeated man",
+  "pli-tv-bi-vb-ss1:1.44+pli-tv-bi-vb-ss1:1.45^speaker": "people",
+  "pli-tv-bi-vb-ss1:1.48^speaker": "the nuns of few desires",
+  "pli-tv-bi-vb-ss1:1.48^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-ss1:1.50^speaker": "the nuns",
+  "pli-tv-bi-vb-ss1:1.50^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-ss1:1.51^speaker": "monks",
+  "pli-tv-bi-vb-ss1:1.53+pli-tv-bi-vb-ss1:1.54^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss1:1.53+pli-tv-bi-vb-ss1:1.54^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-ss1:2.1.17^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-ss1:2.1.17^speaker": "she",
+  "pli-tv-bi-vb-ss1:2.1.17^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's monastery",
+  "pli-tv-bi-vb-ss1:2.1.17^who_mentioned_before_or_around_this_segment": [
+    "the witness"
+  ],
+  "pli-tv-bi-vb-ss1:2.1.17^who_present_before_or_around_this_segment": [
+    "the Sangha of nuns",
+    "the lay follower",
+    "the two sons",
+    "the Ājīvaka ascetics"
+  ],
+  "pli-tv-bi-vb-ss1^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bi-vb-ss1^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's monastery",
+  "pli-tv-bi-vb-ss1_who_around": "Buddhist monks, nuns, trainee nuns, novice monks, and novice nuns"
+}

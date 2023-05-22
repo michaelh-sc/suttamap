@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "dn2:1.5+dn2:1.6^speaker": "King Ajātasattu Vedehiputta of Magadha",
+  "dn2:1.5+dn2:1.6^speaker": "King Ajātasattu",
   "dn2:2.2+dn2:2.4^speaker": "one of the king's ministers",
   "dn2:2.2+dn2:2.4^who_else_mentioned": [
     "Pūraṇa Kassapa"
@@ -111,13 +111,13 @@
     "Pakudha Kaccāyana",
     "the Jain Ñātika",
     "Jain",
-    "Nigaṇṭha Nāṭaputta",
+    "the Jain Ñātika",
     "Sañjaya Belaṭṭhiputta"
   ],
   "dn2:20.8^speaker": "King Ajātasattu",
   "dn2:34.7+dn2:35.17^speaker": "the Buddha",
   "dn2:34.7+dn2:35.17^who_else_mentioned": [
-    "Ajātasattu"
+    "King Ajātasattu"
   ],
   "dn2:36.1+dn2:36.2^speaker": "King Ajātasattu",
   "dn2:36.3+dn2:36.4^speaker": "the Buddha",
@@ -126,7 +126,7 @@
   "dn2:37.1^speaker": "King Ajātasattu",
   "dn2:37.2+dn2:37.20^speaker": "the Buddha",
   "dn2:37.2+dn2:37.20^who_else_mentioned": [
-    "Ajātasattu"
+    "King Ajātasattu"
   ],
   "dn2:38.1+dn2:38.2^speaker": "King Ajātasattu",
   "dn2:38.3+dn2:38.4^speaker": "the Buddha",

@@ -1,0 +1,38 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc40:1.5+pli-tv-bu-vb-pc40:1.6^speaker": "People",
+  "pli-tv-bu-vb-pc40:1.9^speaker": "Monks of few desires",
+  "pli-tv-bu-vb-pc40:1.10^speaker": "Monks",
+  "pli-tv-bu-vb-pc40:1.11^speaker": "The monk who only used discarded things",
+  "pli-tv-bu-vb-pc40:1.13+pli-tv-bu-vb-pc40:1.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc40:1.15+pli-tv-bu-vb-pc40:1.16.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc40:2.3+pli-tv-bu-vb-pc40:2.5.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc40:2.3^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "pli-tv-bu-vb-pc40:2.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc40:2.3^where_before_or_around_this_segment": "The hall with the peaked roof in the Great Wood near Vesālī",
+  "pli-tv-bu-vb-pc40:2.3^who_else_mentioned": [
+    "Monks"
+  ],
+  "pli-tv-bu-vb-pc40:2.3^who_mentioned_before_or_around_this_segment": [
+    "Ancestors",
+    "the monk who has been given the full ordination"
+  ],
+  "pli-tv-bu-vb-pc40:2.3^who_present_before_or_around_this_segment": [
+    "Monks"
+  ],
+  "pli-tv-bu-vb-pc40:3.1.8^speaker": "Monk",
+  "pli-tv-bu-vb-pc40:3.1.10^speaker": "Monk",
+  "pli-tv-bu-vb-pc40:3.1.10^who_mentioned_before_or_around_this_segment": [
+    "Sangha",
+    "attendant"
+  ],
+  "pli-tv-bu-vb-pc40:3.1.10^who_present_before_or_around_this_segment": [
+    "Monks"
+  ],
+  "pli-tv-bu-vb-pc40^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "pli-tv-bu-vb-pc40^where": "The hall with the peaked roof in the Great Wood near Vesālī"
+}

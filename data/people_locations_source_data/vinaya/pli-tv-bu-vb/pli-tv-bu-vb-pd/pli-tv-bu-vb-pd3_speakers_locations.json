@@ -1,0 +1,26 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pd3:1.5+pli-tv-bu-vb-pd3:1.6^speaker": "People",
+  "pli-tv-bu-vb-pd3:1.5+pli-tv-bu-vb-pd3:1.6^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-pd3:1.15^speaker": "the Buddha",
+  "pli-tv-bu-vb-pd3:1.19^speaker": "the Buddha",
+  "pli-tv-bu-vb-pd3:1.20^speaker": "the Buddha",
+  "pli-tv-bu-vb-pd3:1.22^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pd3:1.22^speaker": "the Buddha",
+  "pli-tv-bu-vb-pd3:1.22^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pd3:1.22^who_mentioned_before_or_around_this_segment": [
+    "a family with growing faith",
+    "declining wealth"
+  ],
+  "pli-tv-bu-vb-pd3:1.22^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pd3^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pd3^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

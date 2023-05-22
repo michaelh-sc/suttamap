@@ -1,0 +1,52 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pj5:1.4+pli-tv-bi-vb-pj5:1.5^speaker": "Sāḷha",
+  "pli-tv-bi-vb-pj5:1.21^speaker": "Sundarīnandā's pupil",
+  "pli-tv-bi-vb-pj5:1.23^speaker": "Sāḷha",
+  "pli-tv-bi-vb-pj5:1.23^who_else_mentioned": [
+    "Sundarīnandā"
+  ],
+  "pli-tv-bi-vb-pj5:1.24^speaker": "Sundarīnandā's pupil",
+  "pli-tv-bi-vb-pj5:1.25^speaker": "Sāḷha",
+  "pli-tv-bi-vb-pj5:1.25^where_else_mentioned": [
+    "Sundarīnandā"
+  ],
+  "pli-tv-bi-vb-pj5:1.29^speaker": "Sāḷha",
+  "pli-tv-bi-vb-pj5:1.30^speaker": "Sundarīnandā",
+  "pli-tv-bi-vb-pj5:1.36^speaker": "Sundarīnandā",
+  "pli-tv-bi-vb-pj5:1.36^who_else_mentioned": [
+    "Sundarīnandā"
+  ],
+  "pli-tv-bi-vb-pj5:1.39^speaker": "Sundarīnandā",
+  "pli-tv-bi-vb-pj5:1.39^who_else_mentioned": [
+    "Sundarīnandā"
+  ],
+  "pli-tv-bi-vb-pj5:1.43^speaker": "Sāḷha",
+  "pli-tv-bi-vb-pj5:1.43^who_else_mentioned": [
+    "Sundarīnandā"
+  ],
+  "pli-tv-bi-vb-pj5:1.44^speaker": "Monks",
+  "pli-tv-bi-vb-pj5:2.1.2^speaker": "Buddha",
+  "pli-tv-bi-vb-pj5:2.1.9^speaker": "Buddha",
+  "pli-tv-bi-vb-pj5:2.1.40^speaker": "Buddha",
+  "pli-tv-bi-vb-pj5:2.1.42^speaker": "Buddha",
+  "pli-tv-bi-vb-pj5:2.1.43^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pj5:2.1.43^speaker": "Buddha",
+  "pli-tv-bi-vb-pj5:2.1.43^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-pj5:2.1.43^who_mentioned_before_or_around_this_segment": [
+    "Nandā",
+    "Nandavatī",
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-pj5:2.1.43^who_present_before_or_around_this_segment": [
+    "Sāḷha",
+    "Sundarīnandā",
+    "Monks"
+  ],
+  "pli-tv-bi-vb-pj5^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bi-vb-pj5^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

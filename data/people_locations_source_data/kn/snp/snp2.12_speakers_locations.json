@@ -1,6 +1,14 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "snp2.12:1.5^speaker": "Vaṅgīsa",
+  "snp2.12:1.7+snp2.12:1.8^speaker": "Vaṅgīsa",
+  "snp2.12:2.1+snp2.12:13.4^speaker": "Vaṅgīsa",
+  "snp2.12:13.4^who_mentioned_before_or_around_this_segment": [
+    "Nigrodhakappa",
+    "Blessed One",
+    "Sakka",
+    "Kappāyana"
+  ],
   "snp2.12:14.1^speaker": "the Buddha",
   "snp2.12:14.1^where_before_or_around_this_segment": "Āḷavī, at the Aggāḷava Tree-shrine",
   "snp2.12:14.1^who_mentioned_before_or_around_this_segment": [
@@ -9,6 +17,11 @@
   "snp2.12:14.1^who_present_before_or_around_this_segment": [
     "Vaṅgīsa"
   ],
+  "snp2.12:14.3+snp2.12:14.4^speaker": "the Buddha",
+  "snp2.12:14.3^who_mentioned_before_or_around_this_segment": [
+  "Kappāyana"  
+  ],
+  "snp2.12:15.1+snp2.12:17.4^speaker": "the Buddha",
   "snp2.12^initial_geographic_location": [
     "Āḷavī"
   ],

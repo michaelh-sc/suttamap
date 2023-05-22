@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "an7.22:1.5^speaker": "King Ajātasattu Vedehiputta of Māgadha",
+  "an7.22:1.5^speaker": "King Ajātasattu",
   "an7.22:1.5^who_else_mentioned": [
     "Vajjis"
   ],
@@ -9,11 +9,11 @@
     "Māgadha"
   ],
   "an7.22:2.2+an7.22:2.9^who_else_mentioned": [
-    "Ajātasattu Vedehiputta",
+    "King Ajātasattu",
     "Vajjis",
     "Buddha"
   ],
-  "an7.22:2.7^speaker": "King Ajātasattu Vedehiputta of Māgadha",
+  "an7.22:2.7^speaker": "King Ajātasattu",
   "an7.22:2.7^who_else_mentioned": [
     "Vajjis"
   ],
@@ -22,7 +22,7 @@
   "an7.22:3.3+an7.22:3.6^who_else_mentioned": [
     "Gotama",
     "King Ajātasattu",
-    "Ajātasattu",
+    "King Ajātasattu",
     "Vajjis"
   ],
   "an7.22:4.3^speaker": "the Buddha",
@@ -95,7 +95,7 @@
   ],
   "an7.22:12.5^who_mentioned_before_or_around_this_segment": [
     "Vajjis",
-    "King Ajātasattu Vedehiputta of Māgadha",
+    "King Ajātasattu",
     "Vassakāra the brahmin minister of Māgadha"
   ],
   "an7.22^initial_location_dppn_headword": [

@@ -45,6 +45,7 @@
     "Gotama"
   ],
   "snp1.9:18.1^speaker": "Hemavata",
+  "snp1.9:18.3+snp1.9:18.5^speaker": "Hemavata",
   "snp1.9:19.1^speaker": "the Buddha",
   "snp1.9:19.3+snp1.9:19.5^speaker": "the Buddha",
   "snp1.9:20.1+snp1.9:20.4^speaker": "Hemavata",

@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "mn88:3.4^speaker": "King Pasenadi of Kosala",
+  "mn88:3.4^speaker": "King Pasenadi",
   "mn88:3.4^who_else_mentioned": [
     "Sirivaḍḍha",
     "Ānanda"
@@ -12,13 +12,13 @@
     "Kosala"
   ],
   "mn88:5.1^speaker": "man",
-  "mn88:6.3^speaker": "King Pasenadi of Kosala",
+  "mn88:6.3^speaker": "King Pasenadi",
   "mn88:6.3^where_else_mentioned": [
     "the Aciravatī river"
   ],
-  "mn88:7.4^speaker": "King Pasenadi of Kosala",
+  "mn88:7.4^speaker": "King Pasenadi",
   "mn88:7.5+mn88:7.7^speaker": "Ānanda",
-  "mn88:8.3^speaker": "King Pasenadi of Kosala",
+  "mn88:8.3^speaker": "King Pasenadi",
   "mn88:8.3^who_else_mentioned": [
     "Buddha"
   ],
@@ -26,41 +26,40 @@
   "mn88:8.4^who_else_mentioned": [
     "Buddha"
   ],
-  "mn88:9.1+mn88:10.1^speaker": "King Pasenadi of Kosala",
+  "mn88:9.1+mn88:10.1^speaker": "King Pasenadi",
   "mn88:10.2^speaker": "Ānanda",
-  "mn88:10.3^speaker": "King Pasenadi of Kosala",
+  "mn88:10.3^speaker": "King Pasenadi",
   "mn88:10.4^speaker": "Ānanda",
-  "mn88:10.5^speaker": "King Pasenadi of Kosala",
+  "mn88:10.5^speaker": "King Pasenadi",
   "mn88:10.6^speaker": "Ānanda",
-  "mn88:10.7^speaker": "King Pasenadi of Kosala",
+  "mn88:10.7^speaker": "King Pasenadi",
   "mn88:10.8^speaker": "Ānanda",
-  "mn88:10.9^speaker": "King Pasenadi of Kosala",
+  "mn88:10.9^speaker": "King Pasenadi",
   "mn88:10.10+mn88:10.12^speaker": "Ānanda",
-  "mn88:11.1+mn88:11.2^speaker": "King Pasenadi of Kosala",
+  "mn88:11.1+mn88:11.2^speaker": "King Pasenadi",
   "mn88:12.4+mn88:12.6^speaker": "Ānanda",
-  "mn88:13.1^speaker": "King Pasenadi of Kosala",
+  "mn88:13.1^speaker": "King Pasenadi",
   "mn88:13.1^who_else_mentioned": [
     "Buddha"
   ],
   "mn88:13.2^speaker": "Ānanda",
-  "mn88:14.1^speaker": "King Pasenadi of Kosala",
+  "mn88:14.1^speaker": "King Pasenadi",
   "mn88:14.2^speaker": "Ānanda",
-  "mn88:14.3^speaker": "King Pasenadi of Kosala",
+  "mn88:14.3^speaker": "King Pasenadi",
   "mn88:14.4^speaker": "Ānanda",
-  "mn88:14.5^speaker": "King Pasenadi of Kosala",
+  "mn88:14.5^speaker": "King Pasenadi",
   "mn88:14.6^speaker": "Ānanda",
-  "mn88:14.7^speaker": "King Pasenadi of Kosala",
+  "mn88:14.7^speaker": "King Pasenadi",
   "mn88:14.8^speaker": "Ānanda",
-  "mn88:14.9^speaker": "King Pasenadi of Kosala",
+  "mn88:14.9^speaker": "King Pasenadi",
   "mn88:14.10+mn88:14.12^speaker": "Ānanda",
-  "mn88:15.1+mn88:15.2^speaker": "King Pasenadi of Kosala",
+  "mn88:15.1+mn88:15.2^speaker": "King Pasenadi",
   "mn88:16.6+mn88:16.8^speaker": "Ānanda",
-  "mn88:17.1^speaker": "King Pasenadi of Kosala",
+  "mn88:17.1^speaker": "King Pasenadi",
   "mn88:17.1^who_else_mentioned": [
     "Buddha"
   ],
   "mn88:17.2^event_dppn_headwords_before_or_around_this_segment": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "mn88:17.2^speaker": "Ānanda",
@@ -75,20 +74,20 @@
   "mn88:17.2^who_mentioned_before_or_around_this_segment": [
     "Migāra's mother"
   ],
-  "mn88:18.1+mn88:18.11^speaker": "King Pasenadi of Kosala",
+  "mn88:18.1+mn88:18.11^speaker": "King Pasenadi",
   "mn88:18.1+mn88:18.11^where_else_mentioned": [
     "Magadha"
   ],
   "mn88:18.1+mn88:18.11^who_else_mentioned": [
     "Ānanda",
-    "Ajātasattu Vedehiputta"
+    "King Ajātasattu"
   ],
   "mn88:18.12^speaker": "Ānanda",
-  "mn88:19.1+mn88:19.6^speaker": "King Pasenadi of Kosala",
+  "mn88:19.1+mn88:19.6^speaker": "King Pasenadi",
   "mn88:19.1+mn88:19.6^who_else_mentioned": [
     "Ānanda"
   ],
-  "mn88:20.3+mn88:20.4^speaker": "King Pasenadi of Kosala",
+  "mn88:20.3+mn88:20.4^speaker": "King Pasenadi",
   "mn88:20.5^speaker": "Ānanda",
   "mn88:22.2+mn88:22.3^speaker": "the Buddha",
   "mn88:22.2+mn88:22.3^who_else_mentioned": [
@@ -99,7 +98,6 @@
     "mendicants"
   ],
   "mn88^initial_location_dppn_headword": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "mn88^where": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery"

@@ -1,0 +1,32 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc59:1.4^speaker": "the monk who was Upananda's brother's student",
+  "pli-tv-bu-vb-pc59:1.4^who_else_mentioned": [
+    "Upananada"
+  ],
+  "pli-tv-bu-vb-pc59:1.6^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc59:1.6^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc59:1.7^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc59:1.7^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc59:1.8^speaker": "Upananda",
+  "pli-tv-bu-vb-pc59:1.10+pli-tv-bu-vb-pc59:1.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc59:1.12+pli-tv-bu-vb-pc59:1.13.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc59:1.12^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc59:1.12^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc59:1.12^who_mentioned_before_or_around_this_segment": [
+    "Upananda the Sakyan"
+  ],
+  "pli-tv-bu-vb-pc59:1.12^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc59^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc59^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

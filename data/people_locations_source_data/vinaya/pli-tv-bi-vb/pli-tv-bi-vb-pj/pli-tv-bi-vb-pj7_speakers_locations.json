@@ -1,0 +1,64 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pj7:1.4^speaker": "The nuns of few desires",
+  "pli-tv-bi-vb-pj7:1.4^who_else_mentioned": [
+    "Thullanandā",
+    "Ariṭṭha",
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pj7:1.5^speaker": "the Buddha",
+  "pli-tv-bi-vb-pj7:1.5^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-pj7:1.6^speaker": "Monks",
+  "pli-tv-bi-vb-pj7:1.8+pli-tv-bi-vb-pj7:1.9^speaker": "the Buddha",
+  "pli-tv-bi-vb-pj7:1.8+pli-tv-bi-vb-pj7:1.9^who_else_mentioned": [
+    "Thullanandā",
+    "Ariṭṭha",
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pj7:1.12^speaker": "Nuns",
+  "pli-tv-bi-vb-pj7:1.12^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pj7:2.1.18^speaker": "Monks",
+  "pli-tv-bi-vb-pj7:2.1.19^speaker": "Monks",
+  "pli-tv-bi-vb-pj7:2.1.26+pli-tv-bi-vb-pj7:2.1.27^speaker": "Nuns",
+  "pli-tv-bi-vb-pj7:2.1.26+pli-tv-bi-vb-pj7:2.1.27^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pj7:2.1.26^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pj7:2.1.26^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-pj7:2.1.26^who_mentioned_before_or_around_this_segment": [
+    "Conqueror"
+  ],
+  "pli-tv-bi-vb-pj7:2.1.26^who_present_before_or_around_this_segment": [
+    "Thullanandā",
+    "Ariṭṭha",
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bi-vb-pj7:2.1.34+pli-tv-bi-vb-pj7:2.1.35^speaker": "the Sangha",
+  "pli-tv-bi-vb-pj7:2.1.34+pli-tv-bi-vb-pj7:2.1.35^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pj7:2.1.41+pli-tv-bi-vb-pj7:2.1.56^speaker": "the Sangha",
+  "pli-tv-bi-vb-pj7:2.1.41+pli-tv-bi-vb-pj7:2.1.56^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pj7:2.1.63^speaker": "the Sangha",
+  "pli-tv-bi-vb-pj7:2.1.65^speaker": "the Sangha",
+  "pli-tv-bi-vb-pj7:2.1.66^speaker": "the Sangha",
+  "pli-tv-bi-vb-pj7:2.1.66^who_mentioned_before_or_around_this_segment": [
+    "the monk",
+    "the Teacher"
+  ],
+  "pli-tv-bi-vb-pj7:2.1.66^who_present_before_or_around_this_segment": [
+    "the nun"
+  ],
+  "pli-tv-bi-vb-pj7^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bi-vb-pj7^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

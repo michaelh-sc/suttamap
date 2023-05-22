@@ -1,0 +1,60 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-np14:1.4+pli-tv-bu-vb-np14:1.5^speaker": "monks",
+  "pli-tv-bu-vb-np14:1.7+pli-tv-bu-vb-np14:1.9^speaker": "people",
+  "pli-tv-bu-vb-np14:1.7+pli-tv-bu-vb-np14:1.9^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-np14:1.14^speaker": "monks of few desires",
+  "pli-tv-bu-vb-np14:1.17^speaker": "the Buddha",
+  "pli-tv-bu-vb-np14:1.19^speaker": "monks",
+  "pli-tv-bu-vb-np14:1.21+pli-tv-bu-vb-np14:1.23^speaker": "the Buddha",
+  "pli-tv-bu-vb-np14:1.24+pli-tv-bu-vb-np14:1.26^speaker": "the Buddha",
+  "pli-tv-bu-vb-np14:2.3^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-np14:2.3^speaker": "the sick monk's relatives",
+  "pli-tv-bu-vb-np14:2.3^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-np14:2.3^who_mentioned_before_or_around_this_segment": [
+    "a certain monk at Kosambī"
+  ],
+  "pli-tv-bu-vb-np14:2.3^who_present_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-np14:2.7+pli-tv-bu-vb-np14:2.11^speaker": "the sick monk",
+  "pli-tv-bu-vb-np14:2.7+pli-tv-bu-vb-np14:2.11^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-np14:2.7^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np14:2.7^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-np14:2.7^who_mentioned_before_or_around_this_segment": [
+    ""
+  ],
+  "pli-tv-bu-vb-np14:2.7^who_present_before_or_around_this_segment": [
+    "monks",
+    "people",
+    "monks of few desires"
+  ],
+  "pli-tv-bu-vb-np14:2.14+pli-tv-bu-vb-np14:2.39^speaker": "the Buddha",
+  "pli-tv-bu-vb-np14:2.14+pli-tv-bu-vb-np14:2.39^who_else_mentioned": [
+    "Sangha",
+    "Venerables"
+  ],
+  "pli-tv-bu-vb-np14:3.19+pli-tv-bu-vb-np14:3.25^speaker": "the Buddha",
+  "pli-tv-bu-vb-np14:3.19^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-np14:3.19^where_before_or_around_this_segment": "Kosambī",
+  "pli-tv-bu-vb-np14:3.19^who_mentioned_before_or_around_this_segment": [
+    "the sick monk's relatives"
+  ],
+  "pli-tv-bu-vb-np14:3.19^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-np14^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-np14^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

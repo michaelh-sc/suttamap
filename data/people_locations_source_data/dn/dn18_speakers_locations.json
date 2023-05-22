@@ -39,7 +39,7 @@
   ],
   "dn18:10.1+dn18:29.1^who_else_mentioned": [
     "Ānanda",
-    "I am Bimbisāra",
+    "Bimbisāra",
     "Janavasabha",
     "Buddha",
     "Vessavaṇa",
@@ -118,6 +118,12 @@
   ],
   "dn18^where": "Nādika in the brick house",
   "dn18^initial_location_dppn_headword": "Nādikā",
-  "who_around": "Brahmā Sanaṅkumāra, Great King Vessavaṇa, Spirit Janavasabha, the Buddha, Ānanda",
+  "dn18^who_around": [
+    "Brahmā Sanaṅkumāra",
+    "Great King Vessavaṇa", 
+    "Spirit Janavasabha",
+    "the Buddha", 
+    "Ānanda"
+  ],
   "who_mentioned": "Monks, Nuns, Laymen, Laywomen"
 }

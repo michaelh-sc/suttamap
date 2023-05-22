@@ -1,0 +1,28 @@
+{
+  "[answer]^who_mentioned_before_or_around_this_segment": [
+    "disciples",
+    "sages",
+    "gods"
+  ],
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc4:1.5^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc4:1.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc4:1.10^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc4:1.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc4:1.15+pli-tv-bu-vb-pc4:1.16.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc4:2.1.18^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc4:2.1.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc4:2.1.18^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc4:2.1.18^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc4:2.1.18^who_present_before_or_around_this_segment": [
+    "lay followers"
+  ],
+  "pli-tv-bu-vb-pc4^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc4^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

@@ -106,7 +106,6 @@
   "mn99:13.10^speaker": "Subha",
   "mn99:13.11^speaker": "the Buddha",
   "mn99:13.12^event_dppn_headwords_before_or_around_this_segment": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "mn99:13.12^speaker": "Subha",
@@ -257,10 +256,9 @@
     "Sāvatthī"
   ],
   "mn99:31.2^who_mentioned_before_or_around_this_segment": [
-    "King Pasenadi of Kosala"
+    "King Pasenadi"
   ],
   "mn99^initial_location_dppn_headword": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "mn99^where": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery"

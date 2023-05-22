@@ -61,11 +61,16 @@
     "Moggallāna",
     "Brahmā Sahampati"
   ],
+  "snp3.10_8.1^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "snp3.10:9.1+snp3.10:30.4^speaker": "the Buddha",
+  "snp3.10:9.1+snp3.10:30.4^where_else_mentioned": [
+    "Vetaraṇi River",
+    "Pink Lotus Hell"
+  ],
   "snp3.10^initial_geographic_location": [
     "Jetavana"
   ],
-  "snp3.10^where": "Jeta's Grove, Anāthapiṇḍika's monastery",
-  "snp3.10_8.1^geographic_locations_here_and_before": [
-    "Jetavana"
-  ]
+  "snp3.10^where": "Jeta's Grove, Anāthapiṇḍika's monastery"
 }

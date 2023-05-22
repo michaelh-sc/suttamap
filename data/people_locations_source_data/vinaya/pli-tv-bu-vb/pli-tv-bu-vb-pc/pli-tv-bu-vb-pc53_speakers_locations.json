@@ -1,0 +1,38 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc53:1.6^speaker": "King Pasenadi",
+  "pli-tv-bu-vb-pc53:1.6^who_else_mentioned": [
+    "Mallikā"
+  ],
+  "pli-tv-bu-vb-pc53:1.7+pli-tv-bu-vb-pc53:1.8^speaker": "Queen Mallikā",
+  "pli-tv-bu-vb-pc53:1.7+pli-tv-bu-vb-pc53:1.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc53:1.10^speaker": "King Pasenadi",
+  "pli-tv-bu-vb-pc53:1.10^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc53:1.12^speaker": "King Pasenadi",
+  "pli-tv-bu-vb-pc53:1.12^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc53:1.15^speaker": "the monks from the group of seventeen",
+  "pli-tv-bu-vb-pc53:1.15^who_else_mentioned": [
+    "King Pasenadi"
+  ],
+  "pli-tv-bu-vb-pc53:1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc53:1.17^speaker": "the monks from the group of seventeen",
+  "pli-tv-bu-vb-pc53:1.19+pli-tv-bu-vb-pc53:1.20^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc53:1.21+pli-tv-bu-vb-pc53:1.22.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc53:1.21^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc53:1.21^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc53:1.21^who_present_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc53^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc53^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

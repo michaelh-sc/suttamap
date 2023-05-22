@@ -1,0 +1,57 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc7:1.7^speaker": "daughter-in-law",
+  "pli-tv-bu-vb-pc7:1.10^speaker": "housewife",
+  "pli-tv-bu-vb-pc7:1.13^speaker": "housewife",
+  "pli-tv-bu-vb-pc7:1.14+pli-tv-bu-vb-pc7:1.15^speaker": "daughter-in-law",
+  "pli-tv-bu-vb-pc7:1.16^speaker": "housewife",
+  "pli-tv-bu-vb-pc7:1.18+pli-tv-bu-vb-pc7:1.19^speaker": "women (housewife and daughter-in-law)",
+  "pli-tv-bu-vb-pc7:1.18+pli-tv-bu-vb-pc7:1.19^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-pc7:1.22^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc7:1.22^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-pc7:1.24^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:1.24^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-pc7:1.25^speaker": "Udāyī",
+  "pli-tv-bu-vb-pc7:1.27+pli-tv-bu-vb-pc7:1.28^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:1.27^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:1.29+pli-tv-bu-vb-pc7:1.30.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:1.29^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc7:1.29^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:1.29^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc7:1.29^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc7:1.29^who_present_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-pc7:2.2^speaker": "female lay followers",
+  "pli-tv-bu-vb-pc7:2.3^speaker": "monks",
+  "pli-tv-bu-vb-pc7:2.4^speaker": "female lay followers",
+  "pli-tv-bu-vb-pc7:2.5^speaker": "monks",
+  "pli-tv-bu-vb-pc7:2.8^speaker": "female lay followers",
+  "pli-tv-bu-vb-pc7:2.12+pli-tv-bu-vb-pc7:2.14.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:3.3^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc7:3.5^speaker": "monks",
+  "pli-tv-bu-vb-pc7:3.6^speaker": "monks",
+  "pli-tv-bu-vb-pc7:3.8+pli-tv-bu-vb-pc7:3.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:3.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:3.10+pli-tv-bu-vb-pc7:3.11.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:3.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc7:3.10^who_mentioned_before_or_around_this_segment": [
+    "A woman",
+    "a man who understands",
+    "a monk who has been given full ordination"
+  ],
+  "pli-tv-bu-vb-pc7^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc7^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

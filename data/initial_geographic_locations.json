@@ -1378,13 +1378,13 @@
     }
   },
   "an6.43": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -3063,13 +3063,13 @@
     }
   },
   "dn16": {
-    "location_dppn_headword": "Rājagaha",
+    "location_dppn_headword": "Gijjhakūṭa",
     "location_text": "Rājagaha, on the Vulture's Peak Mountain",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        85.42,
-        25.03
+        85.446707,
+        25.001967
       ]
     }
   },
@@ -4215,13 +4215,13 @@
     }
   },
   "mn88": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -4237,15 +4237,9 @@
     }
   },
   "mn90": {
-    "location_dppn_headword": "Isipatana",
+    "location_dppn_headword": "Kaṇṇakatthala",
     "location_text": "Ujuñña, deer park at Kaṇṇakatthala",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        83.034238,
-        25.397519
-      ]
-    }
+    "geometry": {}
   },
   "mn91": {
     "location_dppn_headword": "Videha",
@@ -4413,7 +4407,7 @@
   },
   "mn95": {
     "location_dppn_headword": "",
-    "location_text": "north of Opāsāda, God's Grove",
+    "location_text": "Opāsāda, God's Grove",
     "geometry": {}
   },
   "mn96": {
@@ -4450,13 +4444,13 @@
     }
   },
   "mn99": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -5019,6 +5013,3772 @@
     "location_text": "Kajaṅgalā in a bamboo grove",
     "geometry": {}
   },
+  "pli-tv-bi-vb-as1-7": {
+    "location_dppn_headword": "",
+    "location_text": "N/A",
+    "geometry": {}
+  },
+  "pli-tv-bi-vb-np1": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np2": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np3": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np4": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np5": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np6": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np7": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np8": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np9": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np10": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np11": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-np12": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc1": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc2": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc3": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc4": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc5": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Banyan Tree Monastery at Kapilavatthu, Sakyan country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc6": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc7": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc8": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc9": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc10": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc11": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc12": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc13": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc14": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc15": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc16": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc17": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc18": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc19": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc20": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc21": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc22": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc23": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc24": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc25": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc26": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc27": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc28": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc29": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc30": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc31": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc32": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc33": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta Grove, Anāthapiṇḍika's Monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc34": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc35": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc36": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc37": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc38": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc39": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc40": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc41": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc42": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc43": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc44": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc45": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc46": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc47": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc48": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc49": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc50": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc51": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc52": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "The hall with the peaked roof in the Great Wood near Vesālī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc53": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc54": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc55": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc56": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc57": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc58": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Banyan Tree Monastery at Kapilavatthu, Sakyan country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc59": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc60": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc61": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc62": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc63": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc64": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc65": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc66": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc67": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc68": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc69": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc70": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc71": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc72": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc73": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc74": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc75": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc76": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc77": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc78": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc79": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc80": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc81": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc82": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc83": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc84": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc85": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc86": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc87": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc88": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc89": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc90": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc91-93": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc94": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc95": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pc96": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pd1": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pd2-8": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pj5": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pj6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pj7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-pj8": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-sk1-75": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss1": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss2": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍiki's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss3": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss5": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss10": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss11": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss12": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bi-vb-ss13": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ay1": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ay2": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np1": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Vesālī at the Buddhaka Shrine",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np2": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np3": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np4": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np5": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, Sāvatthī, and the Blind Men's Grove",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np7": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np8": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np9": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np10": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np11": {
+    "location_dppn_headword": "Āḷavī",
+    "location_text": "Āḷavī at the Aggāḷava Shrine",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.43188,
+        26.101153
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np12": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "the hall with the peaked roof in the Great Wood near Vesālī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np13": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np14": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np15": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np16": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np17": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Banyan Tree Monastery at Kapilavatthu in the Sakyan country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np18": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np19": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np20": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np21": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np22": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Banyan Tree Monastery at Kapilavatthu in the Sakyan country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np23": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery, and near Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np24": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np25": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np26": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np27": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np28": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np29": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-np30": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc1": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc2": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc3": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc4": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc5": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Āḷavī at the Aggāḷava Shrine, and later at the Badarikā Monastery in Kosambī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc6": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "a certain village in the Kosalan country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc8": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "the hall with the peaked roof in the Great Wood near Vesālī, and the banks of the river Vaggumudā",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc9": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc10": {
+    "location_dppn_headword": "Āḷavī",
+    "location_text": "Āḷavī at the Aggāḷava Shrine",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.43188,
+        26.101153
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc11": {
+    "location_dppn_headword": "Āḷavī",
+    "location_text": "Āḷavī at the Aggāḷava Shrine",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.43188,
+        26.101153
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc12": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambī in Ghosita's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc13": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc14": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc15": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc16": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc17": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc18": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc19": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambī in Ghosita's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc20": {
+    "location_dppn_headword": "Āḷavī",
+    "location_text": "Āḷavī at the Aggāḷava Shrine",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.43188,
+        26.101153
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc21": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc22": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc23": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Banyan Tree Monastery at Kapilavatthu",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc24": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc25": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc26": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc27": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc28": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc29": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc30": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc31": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc32": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc33": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "the Great Wood near Vesālī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc34": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc35": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc36": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc37": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc38": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc39": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc40": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "The hall with the peaked roof in the Great Wood near Vesālī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc41": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "the hall with the peaked roof in the Great Wood near Vesālī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc42": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc43": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc44": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc45": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc46": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc47": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Banyan Tree Monastery at Kapilavatthu in the Sakyan country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc48": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc49": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc50": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc51": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Country of Ceti, Bhaddavatikā, Kosambī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc52": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc53": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc54": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambī in Ghosita's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc55": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc56": {
+    "location_dppn_headword": "Isipatana",
+    "location_text": "Susumāragiri in the Bhesakaḷā Grove, the deer park, in the Bhagga country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.034238,
+        25.397519
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc57": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc58": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc59": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc60": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc61": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc62": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc63": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc64": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc65": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc66": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc67": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc68": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc69": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc70": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc71": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambī in Ghosita's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc72": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc73": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc74": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc75": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc76": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc77": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc78": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc79": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc80": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc81": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc82": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc83": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc84": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc85": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery, a certain village in the Kosalan country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc86": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Banyan Tree Monastery at Kapilavatthu in the Sakyan country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc87": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc88": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc89": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc90": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc91": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pc92": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pd1": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pd2": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pd3": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pd4": {
+    "location_dppn_headword": "Kapilavatthu",
+    "location_text": "Banyan Tree Monastery at Kapilavatthu in the Sakyan country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.062961,
+        27.5498798
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pj1": {
+    "location_dppn_headword": "Verañjā",
+    "location_text": "Verañjā at the foot of Naḷeru's Nimba tree",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        78.8572753,
+        26.8165158
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pj2": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Rājagaha on the Vulture Peak and the slope of Mount Isigili",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pj3": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "the hall with the peaked roof in the Great Wood near Vesālī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "pli-tv-bu-vb-pj4": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "the Great Wood near Vesālī, on the banks of the river Vaggumudā",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk1": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk2": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk3": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk5": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk8": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk9": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk10": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk11": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk12": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk13": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk14": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk15": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk16": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk17": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk18": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk19": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk20": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk21": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk22": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk23": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk24": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk25": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk26": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk27": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk28": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk29": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk30": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk31": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk32": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk33": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk34": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk35": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk36": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk37": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk38": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk39": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk40": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk41": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk42": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk43": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk44": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk45": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk46": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk47": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk48": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk49": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk50": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk51": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambī in Ghosita's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk52": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk53": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk54": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk55": {
+    "location_dppn_headword": "Susumāragiri",
+    "location_text": "Susumāragiri in the Bhesakaḷā Grove, Bhagga country",
+    "geometry": {}
+  },
+  "pli-tv-bu-vb-sk56": {
+    "location_dppn_headword": "",
+    "location_text": "Susumāragiri in the Bhesakaḷā Grove, Bhagga country",
+    "geometry": {}
+  },
+  "pli-tv-bu-vb-sk57": {
+    "location_dppn_headword": "Isipatana",
+    "location_text": "Susumāragiri in the Bhesakaḷā Grove, the deer park, Bhagga country",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.034238,
+        25.397519
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk58": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk59": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk60": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk61": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk62": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk63": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk64": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk65": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk66": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk67": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk68": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk69": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk70": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk71": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk72": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk73": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk74": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-sk75": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss1": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss2": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss3": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss5": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Anāthapiṇḍika's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss6": {
+    "location_dppn_headword": "Āḷavī",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.43188,
+        26.101153
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss7": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambī in Ghosita's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss8": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss9": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss10": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss11": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss12": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambī in Ghosita's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "pli-tv-bu-vb-ss13": {
+    "location_dppn_headword": "Kīṭāgiri",
+    "location_text": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery, Kīṭāgiri",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.956724,
+        25.881474
+      ]
+    }
+  },
   "sn1.1": {
     "location_dppn_headword": "Jetavana",
     "location_text": "Jeta's Grove, Anāthapiṇḍika's Monastery",
@@ -5031,13 +8791,13 @@
     }
   },
   "sn1.2": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī, Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -5207,13 +8967,13 @@
     }
   },
   "sn1.33": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī, Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -5350,13 +9110,13 @@
     }
   },
   "sn2.3": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī, Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -5372,13 +9132,13 @@
     }
   },
   "sn2.5": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī, Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -5405,13 +9165,13 @@
     }
   },
   "sn2.8": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī, Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -5438,13 +9198,13 @@
     }
   },
   "sn2.11": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī, Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -6499,13 +10259,13 @@
     }
   },
   "sn6.3": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -6565,24 +10325,24 @@
     }
   },
   "sn6.9": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī, Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
   "sn6.10": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī, Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -9569,13 +13329,13 @@
     }
   },
   "sn11.8": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Near Sāvatthī in Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -9613,13 +13373,13 @@
     }
   },
   "sn11.12": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Near Sāvatthī in Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -9646,13 +13406,13 @@
     }
   },
   "sn11.15": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Near Sāvatthī in Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -9668,13 +13428,13 @@
     }
   },
   "sn11.17": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Near Sāvatthī in Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -9690,13 +13450,13 @@
     }
   },
   "sn11.19": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Near Sāvatthī in Jeta's Grove.",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -9712,24 +13472,24 @@
     }
   },
   "sn11.21": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Near Sāvatthī in Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
   "sn11.22": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Near Sāvatthī in Jeta's Grove",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -18482,13 +22242,13 @@
     }
   },
   "sn52.1": {
-    "location_dppn_headword": "Sāvatthī",
+    "location_dppn_headword": "Jetavana",
     "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
     "geometry": {
       "type": "Point",
       "coordinates": [
-        82.062976,
-        27.519508
+        82.040073,
+        27.509466
       ]
     }
   },
@@ -19581,6 +23341,1613 @@
       "coordinates": [
         85.10951,
         26.014521
+      ]
+    }
+  },
+  "snp1.2": {
+    "location_dppn_headword": "Mahī",
+    "location_text": "Mahī River",
+    "geometry": {}
+  },
+  "snp1.4": {
+    "location_dppn_headword": "",
+    "location_text": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekanāḷa",
+    "geometry": {}
+  },
+  "snp1.6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "snp1.7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "snp1.10": {
+    "location_dppn_headword": "Āḷavī",
+    "location_text": "Āḷavī in the haunt of the native spirit Āḷavaka",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.43188,
+        26.101153
+      ]
+    }
+  },
+  "snp2.4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "snp2.5": {
+    "location_dppn_headword": "Gayā",
+    "location_text": "Gayā on the cut-stone ledge in the haunt of Spiky the native spirit",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.01,
+        24.75
+      ]
+    }
+  },
+  "snp2.7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "snp2.12": {
+    "location_dppn_headword": "Āḷavī",
+    "location_text": "Āḷavī, at the Aggāḷava Tree-shrine",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.43188,
+        26.101153
+      ]
+    }
+  },
+  "snp2.14": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "snp3.3": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "snp3.4": {
+    "location_dppn_headword": "",
+    "location_text": "Kosalan lands on the bank of the Sundarika river",
+    "geometry": {}
+  },
+  "snp3.5": {
+    "location_dppn_headword": "Gijjhakūṭa",
+    "location_text": "Rājagaha, on the Vulture's Peak Mountain",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.446707,
+        25.001967
+      ]
+    }
+  },
+  "snp3.6": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "snp3.7": {
+    "location_dppn_headword": "Āpaṇa",
+    "location_text": "Āpaṇa",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        87.132568,
+        25.465594
+      ]
+    }
+  },
+  "snp3.9": {
+    "location_dppn_headword": "Iccānaṅgala",
+    "location_text": "a forest near Icchānaṅgala",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.706451,
+        27.630007
+      ]
+    }
+  },
+  "snp3.10": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "snp3.11": {
+    "location_dppn_headword": "",
+    "location_text": "Suddhodana's home",
+    "geometry": {}
+  },
+  "snp3.12": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "snp5.1": {
+    "location_dppn_headword": "Assaka",
+    "location_text": "on the bank of the Godhāvarī River, in a region under the shared dominion of Assaka and Muḷaka",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            75.2525579,
+            19.608395
+          ],
+          [
+            75.1206079,
+            19.1100064
+          ],
+          [
+            75.2307087,
+            18.8498744
+          ],
+          [
+            75.4508345,
+            18.6415047
+          ],
+          [
+            75.7149585,
+            18.4850744
+          ],
+          [
+            75.9350506,
+            18.391154
+          ],
+          [
+            76.2211579,
+            18.3285258
+          ],
+          [
+            76.3642135,
+            18.2658557
+          ],
+          [
+            76.7273352,
+            18.2763331
+          ],
+          [
+            76.9804203,
+            18.2867948
+          ],
+          [
+            77.2995276,
+            18.3494809
+          ],
+          [
+            77.4975959,
+            18.401696
+          ],
+          [
+            77.6846644,
+            18.5478098
+          ],
+          [
+            77.7837108,
+            18.9125569
+          ],
+          [
+            77.805729,
+            19.2245768
+          ],
+          [
+            77.7176986,
+            19.5463883
+          ],
+          [
+            77.5636303,
+            19.8468672
+          ],
+          [
+            77.3105035,
+            20.0847783
+          ],
+          [
+            77.068375,
+            20.2190875
+          ],
+          [
+            76.6941782,
+            20.2397223
+          ],
+          [
+            76.3419893,
+            20.2809932
+          ],
+          [
+            76.0008182,
+            20.2190025
+          ],
+          [
+            75.6816679,
+            20.1259833
+          ],
+          [
+            75.3955604,
+            19.9294767
+          ],
+          [
+            75.2525579,
+            19.608395
+          ]
+        ]
+      ]
+    }
+  },
+  "snp5.18": {
+    "location_dppn_headword": "Magadha",
+    "location_text": "the land of the Magadhans at the Pāsāṇake shrine",
+    "geometry": {}
+  },
+  "ud1.1": {
+    "location_dppn_headword": "Uruvelā",
+    "location_text": "Uruvelā, near the root of the tree of awakening on the bank of the Nerañjarā River",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.991275,
+        24.695102
+      ]
+    }
+  },
+  "ud1.2": {
+    "location_dppn_headword": "Uruvelā",
+    "location_text": "Near Uruvelā at the root of the tree of awakening on the bank of the Nerañjarā River",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.991275,
+        24.695102
+      ]
+    }
+  },
+  "ud1.3": {
+    "location_dppn_headword": "Uruvelā",
+    "location_text": "Uruvelā, near the root of the tree of awakening on the bank of the Nerañjarā River",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.991275,
+        24.695102
+      ]
+    }
+  },
+  "ud1.4": {
+    "location_dppn_headword": "Uruvelā",
+    "location_text": "Uruvelā, near the goatherd's banyan tree on the bank of the Nerañjarā River",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.991275,
+        24.695102
+      ]
+    }
+  },
+  "ud1.5": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud1.6": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "ud1.7": {
+    "location_dppn_headword": "Pāvā",
+    "location_text": "Pāvā at the Ajakalāpaka tree shrine",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.055193,
+        26.683878
+      ]
+    }
+  },
+  "ud1.8": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud1.9": {
+    "location_dppn_headword": "Gayā",
+    "location_text": "Near Gayā on Gayā Head",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.01,
+        24.75
+      ]
+    }
+  },
+  "ud1.10": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud2.1": {
+    "location_dppn_headword": "Uruvelā",
+    "location_text": "Uruvelā, near the root of the Mucalinda tree on the bank of the Nerañjarā River",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.991275,
+        24.695102
+      ]
+    }
+  },
+  "ud2.2": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud2.3": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud2.4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud2.5": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud2.6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud2.7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud2.8": {
+    "location_dppn_headword": "Kuṇḍadhānavana",
+    "location_text": "Kuṇḍiyā in the Kuṇḍadhāna Grove",
+    "geometry": {}
+  },
+  "ud2.9": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī, Eastern Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "ud2.10": {
+    "location_dppn_headword": "Anupiya",
+    "location_text": "Anupiya in a mango grove",
+    "geometry": {}
+  },
+  "ud3.1": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud3.2": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud3.3": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud3.4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud3.5": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud3.6": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "ud3.7": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha, Bamboo Grove, Pipphali cave",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "ud3.8": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud3.9": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud3.10": {
+    "location_dppn_headword": "Uruvelā",
+    "location_text": "Uruvelā, near the root of the tree of awakening on the bank of the Nerañjarā River",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.991275,
+        24.695102
+      ]
+    }
+  },
+  "ud4.1": {
+    "location_dppn_headword": "Cālikā",
+    "location_text": "Cālikā mountain, Jantu village, Kimikālā river, mango grove",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.88076,
+        25.690508
+      ]
+    }
+  },
+  "ud4.2": {
+    "location_dppn_headword": "Upavatta",
+    "location_text": "The sal forest of the Mallas at Upavattana near Kusinārā",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        83.8986393,
+        26.7301265
+      ]
+    }
+  },
+  "ud4.3": {
+    "location_dppn_headword": "Kosala",
+    "location_text": "the land of the Kosalans",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
+  },
+  "ud4.4": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "ud4.5": {
+    "location_dppn_headword": "Pālileyya",
+    "location_text": "Kosambi, Ghosita's Monastery, Pārileyya",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.622925,
+        25.413509
+      ]
+    }
+  },
+  "ud4.6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, near Sāvatthī, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud4.7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud4.8": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud4.9": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Bamboo Grove, near Rājagaha",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "ud4.10": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud5.1": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud5.2": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, near Sāvatthī in Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud5.3": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha, Bamboo Grove, the squirrels' feeding ground",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "ud5.4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud5.5": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Eastern Monastery, the stilt longhouse of Migāra's mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "ud5.6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud5.7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud5.8": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha, Bamboo Grove, the squirrels' feeding ground",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "ud5.9": {
+    "location_dppn_headword": "Kosala",
+    "location_text": "the land of the Kosalans",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
+  },
+  "ud5.10": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud6.1": {
+    "location_dppn_headword": "Vesāli",
+    "location_text": "Vesālī, at the Great Wood, in the hall with the peaked roof",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.10951,
+        26.014521
+      ]
+    }
+  },
+  "ud6.2": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in the Eastern Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "ud6.3": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud6.4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud6.5": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī, Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud6.6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud6.7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud6.8": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "ud6.9": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud6.10": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "ud7.1": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud7.2": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud7.3": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "ud7.4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud7.5": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud7.6": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Anāthapiṇḍika's monastery, near Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud7.7": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud7.8": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud7.9": {
+    "location_dppn_headword": "Thūṇa",
+    "location_text": "Thūṇa, land of the Mallas",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        76.8197522,
+        29.9696148
+      ]
+    }
+  },
+  "ud7.10": {
+    "location_dppn_headword": "Kosambī",
+    "location_text": "Kosambi, in Ghosita's Monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        81.392899,
+        25.338984
+      ]
+    }
+  },
+  "ud8.1": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud8.2": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud8.3": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud8.4": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
+      ]
+    }
+  },
+  "ud8.5": {
+    "location_dppn_headword": "Kakudhā",
+    "location_text": "Pāvā, Cunda the smith's mango grove, Kusinārā",
+    "geometry": {}
+  },
+  "ud8.6": {
+    "location_dppn_headword": "Pātaligāma",
+    "location_text": "Pāṭali Village",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.159149,
+        25.576511
+      ]
+    }
+  },
+  "ud8.7": {
+    "location_dppn_headword": "Kosala",
+    "location_text": "the Kosalan lands",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.116425,
+            26.975933
+          ],
+          [
+            80.292206,
+            26.652368
+          ],
+          [
+            80.572357,
+            26.332807
+          ],
+          [
+            80.934906,
+            26.111054
+          ],
+          [
+            81.259003,
+            25.958045
+          ],
+          [
+            81.401825,
+            25.923467
+          ],
+          [
+            81.478729,
+            25.948166
+          ],
+          [
+            81.665497,
+            25.943227
+          ],
+          [
+            81.808319,
+            25.923467
+          ],
+          [
+            81.901703,
+            25.928407
+          ],
+          [
+            82.033538,
+            25.903704
+          ],
+          [
+            82.176361,
+            25.992612
+          ],
+          [
+            82.418061,
+            26.007424
+          ],
+          [
+            82.632294,
+            26.101188
+          ],
+          [
+            82.775116,
+            26.199806
+          ],
+          [
+            82.720185,
+            26.372185
+          ],
+          [
+            82.65976,
+            26.519735
+          ],
+          [
+            82.624054,
+            26.7075866
+          ],
+          [
+            82.6460167,
+            26.821586
+          ],
+          [
+            82.666626,
+            26.928192
+          ],
+          [
+            83.0566412,
+            27.2631752
+          ],
+          [
+            83.8271779,
+            27.2464624
+          ],
+          [
+            83.8675374,
+            27.4332014
+          ],
+          [
+            83.8744357,
+            27.5825469
+          ],
+          [
+            82.8739932,
+            27.8463619
+          ],
+          [
+            82.3109435,
+            27.9458858
+          ],
+          [
+            81.9291688,
+            28.0622858
+          ],
+          [
+            81.5583803,
+            28.2318101
+          ],
+          [
+            81.3496407,
+            28.2947072
+          ],
+          [
+            81.1134343,
+            28.3793186
+          ],
+          [
+            80.8854682,
+            28.4686917
+          ],
+          [
+            80.48996,
+            28.560401
+          ],
+          [
+            80.242221,
+            28.1924958
+          ],
+          [
+            80.0889592,
+            27.8123572
+          ],
+          [
+            79.9982453,
+            27.5859841
+          ],
+          [
+            80.0560005,
+            27.36201
+          ],
+          [
+            80.116425,
+            26.975933
+          ]
+        ]
+      ]
+    }
+  },
+  "ud8.8": {
+    "location_dppn_headword": "Sāvatthī",
+    "location_text": "Sāvatthī, Eastern Monastery, the stilt longhouse of Migāra's mother",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.062976,
+        27.519508
+      ]
+    }
+  },
+  "ud8.9": {
+    "location_dppn_headword": "Rājagaha",
+    "location_text": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.42,
+        25.03
+      ]
+    }
+  },
+  "ud8.10": {
+    "location_dppn_headword": "Jetavana",
+    "location_text": "Jeta's Grove, Sāvatthī, Anāthapiṇḍika's monastery",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        82.040073,
+        27.509466
       ]
     }
   }

@@ -1,0 +1,50 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pc36:1.4^speaker": "The nuns of few desires",
+  "pli-tv-bi-vb-pc36:1.5^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc36:1.5^who_else_mentioned": [
+    "Caṇḍakāḷī"
+  ],
+  "pli-tv-bi-vb-pc36:1.6^speaker": "Monks",
+  "pli-tv-bi-vb-pc36:1.8+pli-tv-bi-vb-pc36:1.9^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc36:1.8+pli-tv-bi-vb-pc36:1.9^who_else_mentioned": [
+    "Caṇḍakāḷī"
+  ],
+  "pli-tv-bi-vb-pc36:1.10+pli-tv-bi-vb-pc36:1.14^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc36:1.10+pli-tv-bi-vb-pc36:1.14^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pc36:1.12^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc36:1.12^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pc36:2.1.15+pli-tv-bi-vb-pc36:2.1.17^speaker": "Other nuns",
+  "pli-tv-bi-vb-pc36:2.1.15+pli-tv-bi-vb-pc36:2.1.17^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pc36:2.1.24+pli-tv-bi-vb-pc36:2.1.26^speaker": "Other nuns",
+  "pli-tv-bi-vb-pc36:2.1.24+pli-tv-bi-vb-pc36:2.1.26^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pc36:2.1.32+pli-tv-bi-vb-pc36:2.1.48^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc36:2.1.32+pli-tv-bi-vb-pc36:2.1.48^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-pc36:2.1.32^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pc36:2.1.32^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-pc36:2.1.32^who_mentioned_before_or_around_this_segment": [
+    "A householder",
+    "a householder's child"
+  ],
+  "pli-tv-bi-vb-pc36:2.1.32^who_present_before_or_around_this_segment": [
+    "Caṇḍakāḷī",
+    "the nuns of few desires",
+    "monks"
+  ],
+  "pli-tv-bi-vb-pc36^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pc36^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

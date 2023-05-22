@@ -1,0 +1,45 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc48:1.6^speaker": "King Pasenadi",
+  "pli-tv-bu-vb-pc48:1.7^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc48:1.8+pli-tv-bu-vb-pc48:1.9^speaker": "King Pasenadi",
+  "pli-tv-bu-vb-pc48:1.8+pli-tv-bu-vb-pc48:1.9^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc48:1.11+pli-tv-bu-vb-pc48:1.12^speaker": "people",
+  "pli-tv-bu-vb-pc48:1.11+pli-tv-bu-vb-pc48:1.12^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-pc48:1.15^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc48:1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc48:1.17^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc48:1.19+pli-tv-bu-vb-pc48:1.20^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc48:1.21+pli-tv-bu-vb-pc48:1.22.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc48:2.3+pli-tv-bu-vb-pc48:2.5^speaker": "sick uncle",
+  "pli-tv-bu-vb-pc48:2.3^speaker": "sick uncle",
+  "pli-tv-bu-vb-pc48:2.7+pli-tv-bu-vb-pc48:2.8^speaker": "certain monk",
+  "pli-tv-bu-vb-pc48:2.7^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc48:2.7^speaker": "certain monk",
+  "pli-tv-bu-vb-pc48:2.7^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc48:2.7^who_mentioned_before_or_around_this_segment": [
+    "army",
+    "wives and children",
+    "people"
+  ],
+  "pli-tv-bu-vb-pc48:2.7^who_present_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc48:2.11+pli-tv-bu-vb-pc48:2.13.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc48:2.11^who_mentioned_before_or_around_this_segment": [
+    "the army"
+  ],
+  "pli-tv-bu-vb-pc48:2.11^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc48^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc48^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

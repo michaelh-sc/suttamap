@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-ss6:1.6^speaker": "The nun next to Sundarīnandā",
+  "pli-tv-bi-vb-ss6:1.7^speaker": "Sundarīnandā",
+  "pli-tv-bi-vb-ss6:1.8^speaker": "The nun next to Sundarīnandā",
+  "pli-tv-bi-vb-ss6:1.9^speaker": "Sundarīnandā",
+  "pli-tv-bi-vb-ss6:1.10+pli-tv-bi-vb-ss6:1.11^speaker": "The nun next to Sundarīnandā",
+  "pli-tv-bi-vb-ss6:1.13+pli-tv-bi-vb-ss6:1.15^speaker": "The nuns of few desires",
+  "pli-tv-bi-vb-ss6:1.16^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss6:1.19^speaker": "Monks",
+  "pli-tv-bi-vb-ss6:1.21^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss6:1.26.1^speaker": "Nuns",
+  "pli-tv-bi-vb-ss6:2.1.6^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-ss6:2.1.6^speaker": "Nuns",
+  "pli-tv-bi-vb-ss6:2.1.6^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-ss6:2.1.6^who_mentioned_before_or_around_this_segment": [
+    "The nuns of few desires",
+    "male spirit",
+    "male ghost",
+    "paṇḍaka",
+    "male animal in human form"
+  ],
+  "pli-tv-bi-vb-ss6:2.1.6^who_present_before_or_around_this_segment": [
+    "Sundarīnandā",
+    "Monks"
+  ],
+  "pli-tv-bi-vb-ss6^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bi-vb-ss6^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

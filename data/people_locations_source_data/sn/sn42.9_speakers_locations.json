@@ -1,12 +1,12 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "sn42.9:2.4+sn42.9:2.6^speaker": "Nigaṇṭha Nāṭaputta",
+  "sn42.9:2.4+sn42.9:2.6^speaker": "the Jain Ñātika",
   "sn42.9:2.4+sn42.9:2.6^who_else_mentioned": [
     "Gotama",
     "Asibandhaka"
   ],
   "sn42.9:3.1^speaker": "Asibandhaka's son the chief",
-  "sn42.9:3.2+sn42.9:3.8^speaker": "Nigaṇṭha Nāṭaputta",
+  "sn42.9:3.2+sn42.9:3.8^speaker": "the Jain Ñātika",
   "sn42.9:3.2+sn42.9:3.8^who_else_mentioned": [
     "Gotama",
     "Saṅgha",

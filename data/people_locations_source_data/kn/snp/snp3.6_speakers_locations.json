@@ -49,10 +49,10 @@
   "snp3.6:19.1^who_present_before_or_around_this_segment": [
     "Pūraṇa Kassapa",
     "Makkhali Gosāla",
-    "Nigaṇṭha Nāṭaputta",
+    "the Jain Ñātika",
     "Sañjaya Belaṭṭhiputta",
     "Pakudha Kaccāyana",
-    "and Ajita Kesakambala"
+    "Ajita Kesakambala"
   ],
   "snp3.6:19.3+snp3.6:22.4^speaker": "the Buddha",
   "snp3.6:24.1^speaker": "Sabhiya",
@@ -68,6 +68,7 @@
   "snp3.6:25.3+snp3.6:27.4^who_else_mentioned": [
     "Brahmas"
   ],
+  "snp3.6:28.1+snp3.6:28.4^speaker": "the Buddha",
   "snp3.6:30.1^speaker": "Sabhiya",
   "snp3.6:30.3+snp3.6:30.5^speaker": "Sabhiya",
   "snp3.6:30.3+snp3.6:30.5^who_else_mentioned": [
@@ -85,7 +86,7 @@
   "snp3.6:42.1+snp3.6:51.6^speaker": "Sabhiya",
   "snp3.6:42.1+snp3.6:51.6^who_else_mentioned": [
     "Buddha",
-    "O Seer",
+    "Seer",
     "Nārada",
     "Pabbata",
     "Māra",

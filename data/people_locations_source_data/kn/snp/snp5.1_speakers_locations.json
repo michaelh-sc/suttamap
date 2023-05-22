@@ -1,7 +1,7 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "snp5.1:7.1+snp5.1:7.4^speaker": "Bāvari",
-  "snp5.1:8.1+snp5.1:8.4^speaker": "the charlatan",
+  "snp5.1:8.1+snp5.1:8.4^speaker": "the charlatan brahmin",
   "snp5.1:12.1+snp5.1:12.4^speaker": "the goddess",
   "snp5.1:13.1+snp5.1:13.4^speaker": "Bāvari",
   "snp5.1:14.1+snp5.1:14.4^speaker": "the goddess",
@@ -18,23 +18,111 @@
     "Sakyan",
     "Buddha"
   ],
-  "snp5.1:19.1^speaker": "the goddess",
+  "snp5.1:19.1^geographic_locations_here_and_before": [
+    "Godhāvarī",
+    "Assaka"
+  ],
+  "snp5.1:19.1^speaker": "Bāvari",
+  "snp5.1:19.1^where_before_or_around_this_segment": "on the bank of the Godhāvarī River, in a region under the shared dominion of Assaka and Muḷaka",
   "snp5.1:19.1^who_else_mentioned": [
     "Buddha"
   ],
-  "snp5.1:20.3+snp5.1:20.6^speaker": "Bāvari",
-  "snp5.1:20.3^where_before_or_around_this_segment": "Near Sāvatthī, the home of the Kosalans",
-  "snp5.1:20.3^who_mentioned_before_or_around_this_segment": [
-    "the Buddha"
+  "snp5.1:19.1^who_mentioned_before_or_around_this_segment": [
+    "the Victors",
+    "people from the city of Kapilavatthu"
   ],
-  "snp5.1:20.3^who_present_before_or_around_this_segment": [
-    "the charlatan"
+  "snp5.1:20.3+snp5.1:20.6^speaker": "the goddess",
+  "snp5.1:20.3^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "snp5.1:20.3^where_before_or_around_this_segment": "Near Sāvatthī, home of the Kosalans",
+  "snp5.1:20.3^who_mentioned_before_or_around_this_segment": [
+    "the Awakened One",
+    "the Buddha",
+    "the Kosalans",
+    "the brahmin Bāvari",
+    "the Clear-eyed One"
+  ],
+  "snp5.1:21.1+snp5.1:21.4^speaker": "the goddess",
+  "snp5.1:21.1+snp5.1:21.4^who_else_mentioned": [
+    "Kosalans",
+    "Victor",
+    "Sakyan"
+  ],
+  "snp5.1:22.3+snp5.1:23.6^speaker": "Bāvari",
+  "snp5.1:22.3+snp5.1:23.6^who_else_mentioned": [
+    "Sāvatthī"
+  ],
+  "snp5.1:24.1+snp5.1:24.4^speaker": "a brahmin pupil",
+  "snp5.1:24.1+snp5.1:24.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp5.1:25.1+snp5.1:30.4^speaker": "Bāvari",
+  "snp5.1:25.1+snp5.1:30.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "snp5.1:25.1^where_before_or_around_this_segment": "Pāsāṇaka shrine",
+  "snp5.1:25.1^who_mentioned_before_or_around_this_segment": [
+    "the Buddha",
+    "the mendicant Saṅgha"
+  ],
+  "snp5.1:25.1^who_present_before_or_around_this_segment": [
+    "Ajita",
+    "Tissametteyya",
+    "Puṇṇaka",
+    "Mettagū",
+    "Dhotaka",
+    "Upasīva",
+    "Nanda",
+    "Hemaka",
+    "Todeyya",
+    "Kappa",
+    "Jatukaṇṇī",
+    "Bhadrāvudha",
+    "Udaya",
+    "Posāla",
+    "Mogharājā",
+    "Piṅgiya"
+  ],
+  "snp5.1:43.1+snp5.1:43.4^speaker": "Ajita",
+  "snp5.1:44.1+snp5.1:45.4^speaker": "the Buddha",
+  "snp5.1:44.1+snp5.1:45.4^who_else_mentioned": [
+    "Bāvari"
+  ],
+  "snp5.1:46.1+snp5.1:46.4^speaker": "Ajita",
+  "snp5.1:46.1+snp5.1:46.4^who_else_mentioned": [
+    "Bāvari"
+  ],
+  "snp5.1:47.1+snp5.1:47.4^speaker": "the Buddha",
+  "snp5.1:49.1+snp5.1:49.4^speaker": "the people",
+  "snp5.1:49.1+snp5.1:49.4^who_else_mentioned": [
+    "Indra",
+    "Sujā",
+    "Buddha"
+  ],
+  "snp5.1:50.1+snp5.1:50.4^speaker": "the Buddha",
+  "snp5.1:50.1+snp5.1:50.4^who_else_mentioned": [
+    "Bāvari",
+    "Buddha"
+  ],
+  "snp5.1:51.1+snp5.1:51.4^speaker": "Ajita",
+  "snp5.1:53.1+snp5.1:53.4^speaker": "Ajita",
+  "snp5.1:53.1+snp5.1:53.4^who_else_mentioned": [
+    "Bāvari"
+  ],
+  "snp5.1:54.1+snp5.1:55.4^speaker": "the Buddha",
+  "snp5.1:54.1+snp5.1:55.4^who_else_mentioned": [
+    "Bāvari"
+  ],
+  "snp5.1:54.1^who_mentioned_before_or_around_this_segment": [
+    "Bāvari"
+  ],
+  "snp5.1:54.1^who_present_before_or_around_this_segment": [
+    "the mendicant Saṅgha",
+    "the people"
   ],
   "snp5.1^initial_geographic_location": [
-    "Sāvatthī"
+    "Assaka"
   ],
-  "snp5.1^where": "Near Sāvatthī, the home of the Kosalans",
-  "snp5.1_20.3^geographic_locations_here_and_before": [
-    "Sāvatthī"
-  ]
+  "snp5.1^where": "on the bank of the Godhāvarī River, in a region under the shared dominion of Assaka and Muḷaka"
 }

@@ -1,0 +1,257 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-ss8:1.1.9+pli-tv-bu-vb-ss8:1.1.11^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.2.3+pli-tv-bu-vb-ss8:1.2.5^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.2.3^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.2.7+pli-tv-bu-vb-ss8:1.2.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.2.7+pli-tv-bu-vb-ss8:1.2.8^who_else_mentioned": [
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.2.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.2.7^who_else_mentioned": [
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.2.9^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-ss8:1.2.9^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.2.9^where_before_or_around_this_segment": "Rājagaha in the Bamboo Grove",
+  "pli-tv-bu-vb-ss8:1.2.9^who_mentioned_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-ss8:1.2.9^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-ss8:1.3.2+pli-tv-bu-vb-ss8:1.3.15^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.3.2+pli-tv-bu-vb-ss8:1.3.15^who_else_mentioned": [
+    "Sangha",
+    "Dabba the Mallian",
+    "Venerables",
+    "Venerable Dabba",
+    "Mallian",
+    "Venerable Dabba the Mallian",
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.3^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.4.5^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.4.7^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.4.9^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.4.11^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.4.16^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.16^who_else_mentioned": [
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.18^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.20^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.20^where_else_mentioned": [
+    "the Vulture Peak"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.21^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.4.21^who_else_mentioned": [
+    "Cliff"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.22^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.22^where_else_mentioned": [
+    "Black Rock",
+    "Mount Isigili"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.23^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.4.23^where_else_mentioned": [
+    "the Sattapaṇṇi Cave",
+    "Mount Vebhāra"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.23^who_mentioned_before_or_around_this_segment": [
+    "experts on the discourses",
+    "experts on the Monastic Law",
+    "expounders of the Teaching",
+    "meditators",
+    "gossips",
+    "body-builders"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.23^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.24^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.24^where_else_mentioned": [
+    "Cool Grove"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.25^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.26^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.27^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.28^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.28^where_else_mentioned": [
+    "Tapoda Park"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.29^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.29^where_else_mentioned": [
+    "Jīvaka",
+    "Mango Grove"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.30^speaker": "monks",
+  "pli-tv-bu-vb-ss8:1.4.30^where_else_mentioned": [
+    "Maddakucchi"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.34+pli-tv-bu-vb-ss8:1.4.35^speaker": "Dabba the Mallian",
+  "pli-tv-bu-vb-ss8:1.4.34^where_before_or_around_this_segment": "Bamboo Grove",
+  "pli-tv-bu-vb-ss8:1.4.34^who_mentioned_before_or_around_this_segment": [
+    "people of Rājagaha"
+  ],
+  "pli-tv-bu-vb-ss8:1.4.34^who_present_before_or_around_this_segment": [
+    "Mettiya",
+    "Bhūmajaka",
+    "senior monks"
+  ],
+  "pli-tv-bu-vb-ss8:1.5.6^speaker": "senior monks",
+  "pli-tv-bu-vb-ss8:1.5.8^speaker": "some senior monks",
+  "pli-tv-bu-vb-ss8:1.5.10^speaker": "monks Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.6.9^speaker": "the householder",
+  "pli-tv-bu-vb-ss8:1.6.10^speaker": "Dabba",
+  "pli-tv-bu-vb-ss8:1.6.10^who_else_mentioned": [
+    "Mettiya",
+    "Bhūmajaka"
+  ],
+  "pli-tv-bu-vb-ss8:1.6.12^speaker": "the householder",
+  "pli-tv-bu-vb-ss8:1.6.14^speaker": "the householder",
+  "pli-tv-bu-vb-ss8:1.6.15^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-ss8:1.6.15^speaker": "the female slave",
+  "pli-tv-bu-vb-ss8:1.6.15^where_before_or_around_this_segment": "Bamboo Grove, Rājagaha",
+  "pli-tv-bu-vb-ss8:1.6.15^who_present_before_or_around_this_segment": [
+    "Dabba",
+    "the householder's wives and children"
+  ],
+  "pli-tv-bu-vb-ss8:1.7.2+pli-tv-bu-vb-ss8:1.7.4^speaker": "Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.7.8^speaker": "the female slave",
+  "pli-tv-bu-vb-ss8:1.7.10^speaker": "Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.7.12^speaker": "the female slave",
+  "pli-tv-bu-vb-ss8:1.7.13^speaker": "Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.7.14+pli-tv-bu-vb-ss8:1.7.16^speaker": "the female slave",
+  "pli-tv-bu-vb-ss8:1.7.18+pli-tv-bu-vb-ss8:1.7.19^speaker": "Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.7.18+pli-tv-bu-vb-ss8:1.7.19^who_else_mentioned": [
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.7.18^speaker": "Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.7.18^where_before_or_around_this_segment": "the householder's house and the monastery",
+  "pli-tv-bu-vb-ss8:1.7.18^who_else_mentioned": [
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.7.18^who_mentioned_before_or_around_this_segment": [
+    "bad monks"
+  ],
+  "pli-tv-bu-vb-ss8:1.7.18^who_present_before_or_around_this_segment": [
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.8.2^speaker": "the nun Mettiyā",
+  "pli-tv-bu-vb-ss8:1.8.2^who_else_mentioned": [
+    "Venerables"
+  ],
+  "pli-tv-bu-vb-ss8:1.8.8+pli-tv-bu-vb-ss8:1.8.9^speaker": "the nun Mettiyā",
+  "pli-tv-bu-vb-ss8:1.8.10^speaker": "Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.8.10^who_else_mentioned": [
+    "Dabba",
+    "Mallian"
+  ],
+  "pli-tv-bu-vb-ss8:1.8.11^speaker": "the nun Mettiyā",
+  "pli-tv-bu-vb-ss8:1.8.12^speaker": "Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.8.12^who_else_mentioned": [
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.8.13^speaker": "the nun Mettiyā",
+  "pli-tv-bu-vb-ss8:1.8.14+pli-tv-bu-vb-ss8:1.8.19^speaker": "Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.8.14+pli-tv-bu-vb-ss8:1.8.19^who_else_mentioned": [
+    "Buddha",
+    "Dabba",
+    "Mallian"
+  ],
+  "pli-tv-bu-vb-ss8:1.8.20^speaker": "the nun Mettiyā",
+  "pli-tv-bu-vb-ss8:1.8.20^where_else_mentioned": [
+    "Venerables"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.9.2^who_else_mentioned": [
+    "Dabba",
+    "Mettiyā"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.3^speaker": "Dabba",
+  "pli-tv-bu-vb-ss8:1.9.8+pli-tv-bu-vb-ss8:1.9.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.9.8+pli-tv-bu-vb-ss8:1.9.10^who_else_mentioned": [
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.9.8^who_else_mentioned": [
+    "Dabba",
+    "Dabbas"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.11^speaker": "Dabba",
+  "pli-tv-bu-vb-ss8:1.9.11^where_before_or_around_this_segment": "the monastery",
+  "pli-tv-bu-vb-ss8:1.9.11^who_mentioned_before_or_around_this_segment": [
+    "the householder",
+    "Dabba the Mallian"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.11^who_present_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.13+pli-tv-bu-vb-ss8:1.9.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.9.13+pli-tv-bu-vb-ss8:1.9.14^who_else_mentioned": [
+    "Mettiyā"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.18+pli-tv-bu-vb-ss8:1.9.20^speaker": "monks Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.9.18+pli-tv-bu-vb-ss8:1.9.20^who_else_mentioned": [
+    "Mettiyā",
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.21^speaker": "the monks",
+  "pli-tv-bu-vb-ss8:1.9.21^who_else_mentioned": [
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.22^speaker": "monks Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.9.24^speaker": "monks of few desires",
+  "pli-tv-bu-vb-ss8:1.9.24^who_else_mentioned": [
+    "Mettiya",
+    "Bhūmajaka",
+    "Dabba"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.26^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.9.27^speaker": "monks Mettiya and Bhūmajaka",
+  "pli-tv-bu-vb-ss8:1.9.29+pli-tv-bu-vb-ss8:1.9.30^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.9.29^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.9.31+pli-tv-bu-vb-ss8:1.9.33^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.9.31^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss8:1.9.31^who_mentioned_before_or_around_this_segment": [
+    "Dabbas"
+  ],
+  "pli-tv-bu-vb-ss8:1.9.31^who_present_before_or_around_this_segment": [
+    "monks",
+    "nun Mettiyā"
+  ],
+  "pli-tv-bu-vb-ss8:2.28^who_mentioned_before_or_around_this_segment": [
+    "a monk who has been given the full ordination",
+    "another monk"
+  ],
+  "pli-tv-bu-vb-ss8:3.1.2+pli-tv-bu-vb-ss8:3.1.4^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-ss8:3.1.8+pli-tv-bu-vb-ss8:3.1.10^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-ss8:3.1.14+pli-tv-bu-vb-ss8:3.1.16^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-ss8:3.3.25+pli-tv-bu-vb-ss8:3.3.26^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-ss8:3.4.8+pli-tv-bu-vb-ss8:3.4.10^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-ss8:3.5.2+pli-tv-bu-vb-ss8:3.5.5^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-ss8:3.8.12+pli-tv-bu-vb-ss8:3.8.15^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-ss8^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-ss8^where": "Rājagaha in the Bamboo Grove"
+}

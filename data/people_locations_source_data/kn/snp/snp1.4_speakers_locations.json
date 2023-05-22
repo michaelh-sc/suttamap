@@ -7,7 +7,8 @@
   "snp1.4:13.1^who_else_mentioned": [
     "Gotama"
   ],
-  "snp1.4:16.3^speaker": "the Buddha",
+  "snp1.4:15.2+snp1.4:15.5^speaker": "Bhāradvāja the Farmer",
+  "snp1.4:16.3^speaker": "Bhāradvāja the Farmer",
   "snp1.4:16.3^where_before_or_around_this_segment": "the land of the Magadhans in the Southern Hills near the brahmin village of Ekanāḷa",
   "snp1.4:16.3^who_mentioned_before_or_around_this_segment": [
     "gods",

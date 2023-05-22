@@ -1,0 +1,69 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-ss3:1.3^speaker": "Bhaddā Kāpilānī",
+  "pli-tv-bi-vb-ss3:1.4^speaker": "the nuns",
+  "pli-tv-bi-vb-ss3:1.4^who_else_mentioned": [
+    "Venerable"
+  ],
+  "pli-tv-bi-vb-ss3:1.5^speaker": "Bhaddā Kāpilānī",
+  "pli-tv-bi-vb-ss3:1.6^speaker": "the nuns",
+  "pli-tv-bi-vb-ss3:1.7^speaker": "the pupil of Bhaddā Kāpilānī",
+  "pli-tv-bi-vb-ss3:1.9^speaker": "the nuns of few desires",
+  "pli-tv-bi-vb-ss3:1.10^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss3:1.11^speaker": "the monks",
+  "pli-tv-bi-vb-ss3:1.13+pli-tv-bi-vb-ss3:1.14^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss3:2.3^speaker": "the nuns",
+  "pli-tv-bi-vb-ss3:2.4^speaker": "the boatman",
+  "pli-tv-bi-vb-ss3:2.9^speaker": "the nuns",
+  "pli-tv-bi-vb-ss3:2.10+pli-tv-bi-vb-ss3:2.11^speaker": "the nuns",
+  "pli-tv-bi-vb-ss3:2.12^speaker": "the nuns",
+  "pli-tv-bi-vb-ss3:2.15^speaker": "the nuns of few desires",
+  "pli-tv-bi-vb-ss3:2.18^speaker": "the monks",
+  "pli-tv-bi-vb-ss3:2.19^speaker": "the monks",
+  "pli-tv-bi-vb-ss3:2.21+pli-tv-bi-vb-ss3:2.22^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss3:3.4^speaker": "the nun",
+  "pli-tv-bi-vb-ss3:3.7^speaker": "the nuns",
+  "pli-tv-bi-vb-ss3:3.8^speaker": "the nuns",
+  "pli-tv-bi-vb-ss3:3.9^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-ss3:3.9^speaker": "the nun",
+  "pli-tv-bi-vb-ss3:3.9^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-ss3:3.9^who_else_mentioned": [
+    "Venerables"
+  ],
+  "pli-tv-bi-vb-ss3:3.9^who_mentioned_before_or_around_this_segment": [
+    "the nuns of few desires"
+  ],
+  "pli-tv-bi-vb-ss3:3.9^who_present_before_or_around_this_segment": [
+    "Bhaddā Kāpilānī",
+    "the pupil of Bhaddā Kāpilānī",
+    "the boatman",
+    "the monks"
+  ],
+  "pli-tv-bi-vb-ss3:3.12^speaker": "the nuns of few desires",
+  "pli-tv-bi-vb-ss3:3.13^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss3:3.14^speaker": "the monks",
+  "pli-tv-bi-vb-ss3:3.16+pli-tv-bi-vb-ss3:3.17^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss3:4.4^speaker": "the other nuns",
+  "pli-tv-bi-vb-ss3:4.5^speaker": "the nun",
+  "pli-tv-bi-vb-ss3:4.7^speaker": "the nuns of few desires",
+  "pli-tv-bi-vb-ss3:4.8^speaker": "the monks",
+  "pli-tv-bi-vb-ss3:4.9^speaker": "the monks",
+  "pli-tv-bi-vb-ss3:4.11+pli-tv-bi-vb-ss3:4.12^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss3:4.11^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-ss3:4.11^where_before_or_around_this_segment": "Kosalan country on their way to Sāvatthī",
+  "pli-tv-bi-vb-ss3:4.11^who_mentioned_before_or_around_this_segment": [
+    "the nun who has been given the full ordination in unanimity by both Sanghas through a legal procedure consisting of one motion"
+  ],
+  "pli-tv-bi-vb-ss3:4.11^who_present_before_or_around_this_segment": [
+    "the other nuns",
+    "the man"
+  ],
+  "pli-tv-bi-vb-ss3^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-ss3^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

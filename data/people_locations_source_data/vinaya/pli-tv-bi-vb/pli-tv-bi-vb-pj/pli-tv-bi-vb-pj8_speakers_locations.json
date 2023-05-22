@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pj8:1.4^speaker": "The nuns of few desires",
+  "pli-tv-bi-vb-pj8:1.5^speaker": "the Buddha",
+  "pli-tv-bi-vb-pj8:1.6^speaker": "The monks",
+  "pli-tv-bi-vb-pj8:1.8+pli-tv-bi-vb-pj8:1.9^speaker": "the Buddha",
+  "pli-tv-bi-vb-pj8:1.8^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pj8:1.8^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-pj8:1.8^who_present_before_or_around_this_segment": [
+    "The nuns from the group of six"
+  ],
+  "pli-tv-bi-vb-pj8:2.1.33^speaker": "Therefore it is said",
+  "pli-tv-bi-vb-pj8:2.1.35^speaker": "Community",
+  "pli-tv-bi-vb-pj8:2.1.36^speaker": "She does not take part in this",
+  "pli-tv-bi-vb-pj8:2.2.11+pli-tv-bi-vb-pj8:2.2.19^speaker": "Venerables",
+  "pli-tv-bi-vb-pj8:2.2.11^where_before_or_around_this_segment": "N/A",
+  "pli-tv-bi-vb-pj8:2.2.11^who_mentioned_before_or_around_this_segment": [
+    "N/A"
+  ],
+  "pli-tv-bi-vb-pj8:2.2.11^who_present_before_or_around_this_segment": [
+    "N/A"
+  ],
+  "pli-tv-bi-vb-pj8^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bi-vb-pj8^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

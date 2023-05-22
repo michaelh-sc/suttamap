@@ -11,7 +11,6 @@
   ],
   "sn11.8:5.1+sn11.8:5.6^speaker": "Verocana",
   "sn11.8:5.1^event_dppn_headwords_before_or_around_this_segment": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn11.8:5.1^where_before_or_around_this_segment": [
@@ -22,7 +21,6 @@
     "lord of gods"
   ],
   "sn11.8^initial_location_dppn_headword": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn11.8^where": "Near Sāvatthī in Jeta's Grove"

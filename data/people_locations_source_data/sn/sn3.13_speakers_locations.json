@@ -1,14 +1,14 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn3.13:3.1+sn3.13:3.4^speaker": "the Buddha",
-  "sn3.13:4.3+sn3.13:4.4^speaker": "King Pasenadi of Kosala",
+  "sn3.13:4.3+sn3.13:4.4^speaker": "King Pasenadi",
   "sn3.13:4.3+sn3.13:4.4^who_else_mentioned": [
     "Sudassana",
     "Buddha"
   ],
   "sn3.13:4.5^speaker": "Sudassana",
   "sn3.13:5.1+sn3.13:5.4^speaker": "Sudassana",
-  "sn3.13:6.3+sn3.13:6.4^speaker": "King Pasenadi of Kosala",
+  "sn3.13:6.3+sn3.13:6.4^speaker": "King Pasenadi",
   "sn3.13:6.3+sn3.13:6.4^who_else_mentioned": [
     "Buddha"
   ],

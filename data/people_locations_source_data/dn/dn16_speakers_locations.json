@@ -1,6 +1,6 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
-  "dn16:1.1.5^speaker": "King Ajātasattu Vedehiputta of Māgadha",
+  "dn16:1.1.5^speaker": "King Ajātasattu",
   "dn16:1.1.5^who_else_mentioned": [
     "Vajjis"
   ],
@@ -9,11 +9,11 @@
     "Māgadha"
   ],
   "dn16:1.2.2+dn16:1.2.9^who_else_mentioned": [
-    "Ajātasattu Vedehiputta",
+    "King Ajātasattu",
     "Vajjis",
     "Buddha"
   ],
-  "dn16:1.2.7^speaker": "King Ajātasattu Vedehiputta of Māgadha",
+  "dn16:1.2.7^speaker": "King Ajātasattu",
   "dn16:1.2.7^who_else_mentioned": [
     "Vajjis"
   ],
@@ -24,8 +24,8 @@
   ],
   "dn16:1.3.4+dn16:1.3.7^who_else_mentioned": [
     "Gotama",
-    "Ajātasattu Vedehiputta",
-    "Ajātasattu",
+    "King Ajātasattu",
+    "King Ajātasattu",
     "Vajjis"
   ],
   "dn16:1.4.3^speaker": "the Buddha",
@@ -72,7 +72,7 @@
   ],
   "dn16:1.4.19^who_around_here_and_before": [
     "Vassakāra the brahmin minister of Māgadha",
-    "King Ajātasattu Vedehiputta of Māgadha"
+    "King Ajātasattu"
   ],
   "dn16:1.4.19^who_mentioned_here_and_before": [
     "Vajjis"
@@ -467,7 +467,7 @@
   ],
   "dn16:3.6.2+dn16:3.6.3^speaker": "the Buddha",
   "dn16:3.6.4^speaker": "Ānanda",
-  "dn16:3.7.2+dn16:3.8.18^speaker": "Māra the Wicked",
+  "dn16:3.7.2+dn16:3.8.18^speaker": "Māra",
   "dn16:3.7.2+dn16:3.8.18^where_else_mentioned": [
     "the Holy One"
   ],
@@ -515,7 +515,7 @@
     "Cāpāla tree shrine"
   ],
   "dn16:3.39.6^who_around_here_and_before": [
-    "Māra the Wicked"
+    "Māra"
   ],
   "dn16:3.39.6^who_mentioned_here_and_before": [
     "Vesālī",
@@ -524,7 +524,7 @@
     "Sattamba",
     "Bahuputta",
     "Sārandada",
-    "and Cāpāla"
+    "Cāpāla"
   ],
   "dn16:3.40.1+dn16:3.40.3^speaker": "Ānanda",
   "dn16:3.40.1+dn16:3.40.3^who_else_mentioned": [
@@ -693,7 +693,7 @@
     "ascetics",
     "brahmins",
     "gods",
-    "and humans"
+    "humans"
   ],
   "dn16:4.22.2^who_mentioned_here_and_before": [
     ""
@@ -863,7 +863,7 @@
     "",
     "astute aristocrats",
     "brahmins",
-    "and householders"
+    "householders"
   ],
   "dn16:5.11.4+dn16:5.12.20^speaker": "the Buddha",
   "dn16:5.11.4+dn16:5.12.20^who_else_mentioned": [
@@ -939,7 +939,7 @@
     "the Mallas",
     "their sons",
     "daughters-in-law",
-    "and wives",
+    "wives",
     "Subhadda"
   ],
   "dn16:5.22.2^who_mentioned_here_and_before": [
@@ -981,7 +981,7 @@
     "Gotama",
     "Pūraṇa Kassapa",
     "Makkhali Gosāla",
-    "Nigaṇṭha Nāṭaputta",
+    "the Jain Ñātika",
     "Sañjaya Belaṭṭhiputta",
     "Pakudha Kaccāyana",
     "Ajita Kesakambala"
@@ -1167,7 +1167,7 @@
     "the Mallas",
     "their sons",
     "daughters-in-law",
-    "and wives",
+    "wives",
     "eight of the leading Mallas"
   ],
   "dn16:6.15.1^who_mentioned_here_and_before": [
@@ -1327,16 +1327,15 @@
     "the Mallas of Pāvā",
     "the Mallas of Kusinārā",
     "the brahmin Doṇa",
-    "and the Moriyas of Pippalivana"
+    "the Moriyas of Pippalivana"
   ],
   "dn16:6.26.5^who_mentioned_here_and_before": [
     "the gods of the Three and Thirty",
     "the city of Gandhāra",
     "the realm of the Kaliṅga King",
-    "and a dragon king"
+    "a dragon king"
   ],
   "dn16^initial_geographic_location": [
-    "Rājagaha",
     "Gijjhakūṭa"
   ],
   "dn16^where": "Rājagaha, on the Vulture's Peak Mountain"

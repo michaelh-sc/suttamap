@@ -1,0 +1,45 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc26:1.4^speaker": "a certain nun",
+  "pli-tv-bu-vb-pc26:1.7^speaker": "the same nun",
+  "pli-tv-bu-vb-pc26:1.8^speaker": "Udāyī",
+  "pli-tv-bu-vb-pc26:1.11^speaker": "people",
+  "pli-tv-bu-vb-pc26:1.13^speaker": "the nuns",
+  "pli-tv-bu-vb-pc26:1.14^speaker": "the same nun who received the robe",
+  "pli-tv-bu-vb-pc26:1.14^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-pc26:1.15^speaker": "the nuns",
+  "pli-tv-bu-vb-pc26:1.15^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-pc26:1.18^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc26:1.18^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-pc26:1.19^speaker": "the monks of few desires",
+  "pli-tv-bu-vb-pc26:1.19^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-pc26:1.20^speaker": "Udāyī",
+  "pli-tv-bu-vb-pc26:1.21^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc26:1.22^speaker": "Udāyī",
+  "pli-tv-bu-vb-pc26:1.23+pli-tv-bu-vb-pc26:1.25^speaker": "the monks of few desires",
+  "pli-tv-bu-vb-pc26:1.23^speaker": "the monks of few desires",
+  "pli-tv-bu-vb-pc26:1.26+pli-tv-bu-vb-pc26:1.27.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc26:1.26^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc26:1.26^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc26:1.26^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc26:1.26^who_mentioned_before_or_around_this_segment": [
+    "an unrelated nun"
+  ],
+  "pli-tv-bu-vb-pc26:1.26^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc26^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc26^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

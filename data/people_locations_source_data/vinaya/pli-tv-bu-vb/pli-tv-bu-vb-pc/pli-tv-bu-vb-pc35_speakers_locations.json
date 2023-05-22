@@ -1,0 +1,39 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc35:1.5+pli-tv-bu-vb-pc35:1.6^speaker": "certain brahmin",
+  "pli-tv-bu-vb-pc35:1.7+pli-tv-bu-vb-pc35:1.8^speaker": "neighbors",
+  "pli-tv-bu-vb-pc35:1.10+pli-tv-bu-vb-pc35:1.11^speaker": "certain brahmin",
+  "pli-tv-bu-vb-pc35:1.14^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc35:1.15^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35:1.16^speaker": "monks",
+  "pli-tv-bu-vb-pc35:1.18+pli-tv-bu-vb-pc35:1.19^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35:1.20+pli-tv-bu-vb-pc35:1.21.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35:1.20^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc35:1.20^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc35:1.20^who_present_before_or_around_this_segment": [
+    "monks",
+    "sick monks"
+  ],
+  "pli-tv-bu-vb-pc35:2.6^speaker": "Ānanda",
+  "pli-tv-bu-vb-pc35:2.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35:2.8^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "pli-tv-bu-vb-pc35:2.9^speaker": "Ānanda",
+  "pli-tv-bu-vb-pc35:2.11+pli-tv-bu-vb-pc35:2.15.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35:3.1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35:3.1.16^who_present_before_or_around_this_segment": [
+    "monks",
+    "sick monks"
+  ],
+  "pli-tv-bu-vb-pc35:3.1.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35:3.1.26^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35:3.1.28^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35:3.1.30^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc35^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc35^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

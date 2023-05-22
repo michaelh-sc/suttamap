@@ -13,5 +13,8 @@
   "ud8.9^initial_geographic_location": [
     "Rājagaha"
   ],
-  "ud8.9^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground"
+  "ud8.9^where": "Rājagaha, in the Bamboo Grove, the squirrels' feeding ground",
+  "ud8.9^who_around": [ 
+    "Dabba the Mallian" 
+  ]
 }

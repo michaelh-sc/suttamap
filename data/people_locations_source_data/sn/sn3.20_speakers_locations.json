@@ -1,7 +1,7 @@
 {
   "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
   "sn3.20:1.2^speaker": "the Buddha",
-  "sn3.20:2.1+sn3.20:2.9^speaker": "King Pasenadi of Kosala",
+  "sn3.20:2.1+sn3.20:2.9^speaker": "King Pasenadi",
   "sn3.20:2.1+sn3.20:2.9^who_else_mentioned": [
     "Sāvatthī"
   ],
@@ -13,7 +13,7 @@
     "Buddha",
     "Tagarasikhī"
   ],
-  "sn3.20:4.9^speaker": "King Pasenadi of Kosala",
+  "sn3.20:4.9^speaker": "King Pasenadi",
   "sn3.20:4.10^speaker": "the Buddha",
   "sn3.20:5.1+sn3.20:8.4^speaker": "the Buddha",
   "sn3.20:5.1^event_dppn_headwords_before_or_around_this_segment": [
@@ -23,7 +23,7 @@
     "Sāvatthī"
   ],
   "sn3.20:5.1^who_present_before_or_around_this_segment": [
-    "King Pasenadi of Kosala"
+    "King Pasenadi"
   ],
   "sn3.20^initial_location_dppn_headword": [
     "Sāvatthī"

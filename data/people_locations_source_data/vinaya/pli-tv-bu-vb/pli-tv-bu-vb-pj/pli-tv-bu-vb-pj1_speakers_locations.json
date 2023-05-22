@@ -1,0 +1,325 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pj1:1.1.3+pli-tv-bu-vb-pj1:1.1.8^speaker": "the person who informed the brahmin",
+  "pli-tv-bu-vb-pj1:1.1.3+pli-tv-bu-vb-pj1:1.1.8^where_else_mentioned": [
+    "Verañjā",
+    "Naleru",
+    "Nimba"
+  ],
+  "pli-tv-bu-vb-pj1:1.1.3+pli-tv-bu-vb-pj1:1.1.8^who_else_mentioned": [
+    "Gotama",
+    "Sakyan",
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pj1:1.2.2+pli-tv-bu-vb-pj1:1.2.5^speaker": "the brahmin",
+  "pli-tv-bu-vb-pj1:1.2.2+pli-tv-bu-vb-pj1:1.2.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:1.2.2^speaker": "the brahmin",
+  "pli-tv-bu-vb-pj1:1.2.2^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:1.2.6+pli-tv-bu-vb-pj1:1.2.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:1.2.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:1.2.6^who_else_mentioned": [
+    "Brahmin"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.1^geographic_locations_here_and_before": [
+    "Verañjā"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.1^speaker": "the brahmin",
+  "pli-tv-bu-vb-pj1:1.3.1^where_before_or_around_this_segment": "Verañjā at the foot of Naḷeru's Nimba tree",
+  "pli-tv-bu-vb-pj1:1.3.1^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.1^who_mentioned_before_or_around_this_segment": [
+    "the Sakyan clan",
+    "gods",
+    "lords of death",
+    "supreme beings",
+    "monastics",
+    "humans"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.1^who_present_before_or_around_this_segment": [
+    "a large Sangha of five hundred monks"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.2+pli-tv-bu-vb-pj1:1.3.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:1.3.5^speaker": "the brahmin",
+  "pli-tv-bu-vb-pj1:1.3.5^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.6+pli-tv-bu-vb-pj1:1.3.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:1.3.9^speaker": "the brahmin",
+  "pli-tv-bu-vb-pj1:1.3.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.10+pli-tv-bu-vb-pj1:1.3.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:1.3.14^speaker": "the brahmin",
+  "pli-tv-bu-vb-pj1:1.3.14^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.15+pli-tv-bu-vb-pj1:1.3.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:1.3.19^speaker": "the brahmin",
+  "pli-tv-bu-vb-pj1:1.3.19^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.20+pli-tv-bu-vb-pj1:1.3.23^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:1.3.24^speaker": "the brahmin",
+  "pli-tv-bu-vb-pj1:1.3.24^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.25+pli-tv-bu-vb-pj1:1.3.28^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:1.3.29^speaker": "the brahmin",
+  "pli-tv-bu-vb-pj1:1.3.29^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:1.3.35^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:1.3.35^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pj1:2.1.12^geographic_locations_here_and_before": [
+    "Verañjā"
+  ],
+  "pli-tv-bu-vb-pj1:2.1.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:2.1.12^where_before_or_around_this_segment": "Verañjā",
+  "pli-tv-bu-vb-pj1:2.1.12^who_mentioned_before_or_around_this_segment": [
+    "Sangha of monks"
+  ],
+  "pli-tv-bu-vb-pj1:2.1.12^who_present_before_or_around_this_segment": [
+    "Ānanda"
+  ],
+  "pli-tv-bu-vb-pj1:2.2.6^speaker": "Moggallāna",
+  "pli-tv-bu-vb-pj1:2.2.6^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "pli-tv-bu-vb-pj1:2.2.11^speaker": "Moggallāna",
+  "pli-tv-bu-vb-pj1:2.2.11^where_else_mentioned": [
+    "Uttarakuru"
+  ],
+  "pli-tv-bu-vb-pj1:2.2.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:2.2.12^who_else_mentioned": [
+    "Moggallāna"
+  ],
+  "pli-tv-bu-vb-pj1:3.1.2^speaker": "Sāriputta",
+  "pli-tv-bu-vb-pj1:3.1.2^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "pli-tv-bu-vb-pj1:3.1.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:3.1.5^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "pli-tv-bu-vb-pj1:3.2.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:3.2.1^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "pli-tv-bu-vb-pj1:3.3.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:3.3.1^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "pli-tv-bu-vb-pj1:4.3^speaker": "Ānanda",
+  "pli-tv-bu-vb-pj1:5.1.4^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.1.13^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.1.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:5.1.14^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.1.15^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:5.1.16^who_else_mentioned": [
+    "Buddhas"
+  ],
+  "pli-tv-bu-vb-pj1:5.1.17^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.2.29^geographic_locations_here_and_before": [
+    "Verañjā"
+  ],
+  "pli-tv-bu-vb-pj1:5.2.29^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.2.29^where_before_or_around_this_segment": "Verañjā",
+  "pli-tv-bu-vb-pj1:5.2.29^who_mentioned_before_or_around_this_segment": [
+    "Vipassī",
+    "Sikhī",
+    "Vessabhū",
+    "Kakusandha",
+    "Konāgamana",
+    "Kassapa"
+  ],
+  "pli-tv-bu-vb-pj1:5.2.29^who_present_before_or_around_this_segment": [
+    "Ānanda",
+    "Moggallāna",
+    "Sāriputta",
+    "the Sangha of monks",
+    "the brahmin of Verañjā",
+    "Sudinna's parents"
+  ],
+  "pli-tv-bu-vb-pj1:5.4.8^speaker": "Sudinna's father",
+  "pli-tv-bu-vb-pj1:5.4.10^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.4.10^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.6.3^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.6.8^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.6.16^speaker": "Sudinna's father",
+  "pli-tv-bu-vb-pj1:5.6.18^speaker": "Sudinna's father",
+  "pli-tv-bu-vb-pj1:5.6.18^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.6.19^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.6.20^speaker": "Sudinna's father",
+  "pli-tv-bu-vb-pj1:5.6.25^speaker": "Sudinna's mother",
+  "pli-tv-bu-vb-pj1:5.6.25^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.6.26^speaker": "Sudinna's ex-wife",
+  "pli-tv-bu-vb-pj1:5.7.6^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.7.12^speaker": "Sudinna's father",
+  "pli-tv-bu-vb-pj1:5.7.13^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.7.17^speaker": "Sudinna's father",
+  "pli-tv-bu-vb-pj1:5.7.17^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.7.19^speaker": "Sudinna's mother",
+  "pli-tv-bu-vb-pj1:5.7.19^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.7.21^speaker": "Sudinna's ex-wife",
+  "pli-tv-bu-vb-pj1:5.7.22^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.7.23^speaker": "Sudinna's ex-wife",
+  "pli-tv-bu-vb-pj1:5.7.23^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.8.4^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.8.4^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.8.10^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.8.16^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.8.17^speaker": "Sudinna's ex-wife",
+  "pli-tv-bu-vb-pj1:5.8.18^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.9.2^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.9.3^speaker": "Sudinna's ex-wife",
+  "pli-tv-bu-vb-pj1:5.9.6^speaker": "Sudinna's mother",
+  "pli-tv-bu-vb-pj1:5.9.6^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.9.7^speaker": "Sudinna's ex-wife",
+  "pli-tv-bu-vb-pj1:5.9.19^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:5.9.19^where_before_or_around_this_segment": "Sudinna's home and the Great Wood.",
+  "pli-tv-bu-vb-pj1:5.9.19^who_mentioned_before_or_around_this_segment": [
+    "Licchavīs"
+  ],
+  "pli-tv-bu-vb-pj1:5.9.19^who_present_before_or_around_this_segment": [
+    "Sudinna's parents",
+    "Sudinna's ex-wife"
+  ],
+  "pli-tv-bu-vb-pj1:5.11.3^speaker": "another monk",
+  "pli-tv-bu-vb-pj1:5.11.3^who_else_mentioned": [
+    "Sudinna"
+  ],
+  "pli-tv-bu-vb-pj1:5.11.4^speaker": "Sudinna",
+  "pli-tv-bu-vb-pj1:6.6^speaker": "the monks",
+  "pli-tv-bu-vb-pj1:6.13^speaker": "another monk",
+  "pli-tv-bu-vb-pj1:6.13^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pj1:6.23^speaker": "another monk",
+  "pli-tv-bu-vb-pj1:6.24^speaker": "the monk who had intercourse with a monkey",
+  "pli-tv-bu-vb-pj1:7.1.10^speaker": "Ānanda",
+  "pli-tv-bu-vb-pj1:7.1.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:7.1.11^who_else_mentioned": [
+    "Ānanda",
+    "Buddha",
+    "Vajjians"
+  ],
+  "pli-tv-bu-vb-pj1:8.1.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:8.1.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:8.1.21^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:8.1.22^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:8.5.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:8.5.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:8.5.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:8.5.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:8.5.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:8.5.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:9.7.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:9.7.1^who_mentioned_before_or_around_this_segment": [
+    "Sudinna's mother",
+    "Sudinna's ex-wife",
+    "the Vajjians",
+    "enemy monks"
+  ],
+  "pli-tv-bu-vb-pj1:9.7.1^who_present_before_or_around_this_segment": [
+    "monks",
+    "Ānanda"
+  ],
+  "pli-tv-bu-vb-pj1:9.7.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.1.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.2.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.3.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.3.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.3.24^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.5.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.7.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.7.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.8.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.8.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.9.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.9.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.11.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.11.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.11.6^who_else_mentioned": [
+    "Monk"
+  ],
+  "pli-tv-bu-vb-pj1:10.11.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.11.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.12.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.12.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.12.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.12.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.12.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.12.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.12.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.12.19^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.12.25^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.13.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.13.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.13.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.14.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.15.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.15.5^who_present_before_or_around_this_segment": [
+    "monks",
+    "nuns"
+  ],
+  "pli-tv-bu-vb-pj1:10.18.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.18.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.19.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.19.5^speaker": "a monk",
+  "pli-tv-bu-vb-pj1:10.19.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.19.8^speaker": "a monk",
+  "pli-tv-bu-vb-pj1:10.19.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.20.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.20.6^speaker": "a monk",
+  "pli-tv-bu-vb-pj1:10.20.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.20.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.20.13^speaker": "a monk",
+  "pli-tv-bu-vb-pj1:10.20.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.21.4^speaker": "a group of women",
+  "pli-tv-bu-vb-pj1:10.22.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.23.5^speaker": "a woman",
+  "pli-tv-bu-vb-pj1:10.23.6^speaker": "a monk",
+  "pli-tv-bu-vb-pj1:10.24.5^speaker": "a woman",
+  "pli-tv-bu-vb-pj1:10.24.6^speaker": "a monk",
+  "pli-tv-bu-vb-pj1:10.26.2^speaker": "a woman",
+  "pli-tv-bu-vb-pj1:10.26.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.26.7^speaker": "a monk",
+  "pli-tv-bu-vb-pj1:10.26.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.27.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj1:10.27.5^who_mentioned_before_or_around_this_segment": [
+    "women"
+  ],
+  "pli-tv-bu-vb-pj1:10.27.5^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj1^initial_geographic_location": [
+    "Verañjā"
+  ],
+  "pli-tv-bu-vb-pj1^where": "Verañjā at the foot of Naḷeru's Nimba tree"
+}

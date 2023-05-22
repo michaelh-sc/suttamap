@@ -1,0 +1,147 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc8:1.1.4^speaker": "the monks",
+  "pli-tv-bu-vb-pc8:1.1.5^speaker": "some monks",
+  "pli-tv-bu-vb-pc8:1.1.7+pli-tv-bu-vb-pc8:1.1.8^speaker": "other monks",
+  "pli-tv-bu-vb-pc8:1.1.10+pli-tv-bu-vb-pc8:1.1.15^speaker": "still other monks",
+  "pli-tv-bu-vb-pc8:1.1.18^geographic_locations_here_and_before": [
+    "Vesāli",
+    "Vaggumudā"
+  ],
+  "pli-tv-bu-vb-pc8:1.1.18^speaker": "the people there",
+  "pli-tv-bu-vb-pc8:1.1.18^where_before_or_around_this_segment": "the hall with the peaked roof in the Great Wood near Vesālī, and the banks of the river Vaggumudā",
+  "pli-tv-bu-vb-pc8:1.1.18^who_mentioned_before_or_around_this_segment": [
+    "householders",
+    "parents",
+    "wives and children",
+    "slaves",
+    "servants",
+    "workers",
+    "friends",
+    "companions",
+    "relatives"
+  ],
+  "pli-tv-bu-vb-pc8:1.1.18^who_present_before_or_around_this_segment": [
+    "the Buddha"
+  ],
+  "pli-tv-bu-vb-pc8:1.2.9+pli-tv-bu-vb-pc8:1.2.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc8:1.2.11+pli-tv-bu-vb-pc8:1.2.12^speaker": "the monks from the banks of the Vaggumudā",
+  "pli-tv-bu-vb-pc8:1.2.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc8:1.2.20^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc8:1.2.21^speaker": "the monks from the banks of the Vaggumudā",
+  "pli-tv-bu-vb-pc8:1.2.23+pli-tv-bu-vb-pc8:1.2.24^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc8:1.2.25+pli-tv-bu-vb-pc8:1.2.26.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc8:1.2.25^geographic_locations_here_and_before": [
+    "Vesāli"
+  ],
+  "pli-tv-bu-vb-pc8:1.2.25^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc8:1.2.25^where_before_or_around_this_segment": "the hall with the peaked roof in the Great Wood, Vesālī",
+  "pli-tv-bu-vb-pc8:1.2.25^who_mentioned_before_or_around_this_segment": [
+    "householders"
+  ],
+  "pli-tv-bu-vb-pc8:1.2.25^who_present_before_or_around_this_segment": [
+    "monks who had completed the rains residence in that region"
+  ],
+  "pli-tv-bu-vb-pc8:2.2.2^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.4^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.6^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.8^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.8^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.2.8^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc8:2.2.10^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.12^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.14+pli-tv-bu-vb-pc8:2.2.16^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.18+pli-tv-bu-vb-pc8:2.2.23^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.25+pli-tv-bu-vb-pc8:2.2.27^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.29^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.31+pli-tv-bu-vb-pc8:2.2.33^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.31^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.31^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.2.35+pli-tv-bu-vb-pc8:2.2.36^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.38^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.40^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.42+pli-tv-bu-vb-pc8:2.2.45^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.47+pli-tv-bu-vb-pc8:2.2.49^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.47^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.51+pli-tv-bu-vb-pc8:2.2.53^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.51^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.2.51^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.2.55+pli-tv-bu-vb-pc8:2.2.58^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.2^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.4+pli-tv-bu-vb-pc8:2.3.5^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.7+pli-tv-bu-vb-pc8:2.3.12^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.14+pli-tv-bu-vb-pc8:2.3.16^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.14^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.18^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.18^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.3.20+pli-tv-bu-vb-pc8:2.3.22^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.24+pli-tv-bu-vb-pc8:2.3.25^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.27^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.29^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.31+pli-tv-bu-vb-pc8:2.3.34^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.31^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.31^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.3.36+pli-tv-bu-vb-pc8:2.3.38^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.40+pli-tv-bu-vb-pc8:2.3.42^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.44+pli-tv-bu-vb-pc8:2.3.45^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.47^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.49^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.52^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.52^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.3.54^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.56+pli-tv-bu-vb-pc8:2.3.57^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.3.56^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.4.2^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.4.2^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.4.4^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.4.34^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.4.35^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.4.37^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.4.37^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.4.40^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.4.42^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.4.44^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.4.46^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.2^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.2^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.5.4+pli-tv-bu-vb-pc8:2.5.6^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.8+pli-tv-bu-vb-pc8:2.5.13^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.15+pli-tv-bu-vb-pc8:2.5.17^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.19+pli-tv-bu-vb-pc8:2.5.36^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.38+pli-tv-bu-vb-pc8:2.5.41^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.38^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.43+pli-tv-bu-vb-pc8:2.5.46^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.43^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.43^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8:2.5.48+pli-tv-bu-vb-pc8:2.5.52^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.54+pli-tv-bu-vb-pc8:2.5.59^speaker": "a monk",
+  "pli-tv-bu-vb-pc8:2.5.54^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc8^initial_geographic_location": [
+    "Vesāli"
+  ],
+  "pli-tv-bu-vb-pc8^where": "the hall with the peaked roof in the Great Wood near Vesālī, and the banks of the river Vaggumudā"
+}

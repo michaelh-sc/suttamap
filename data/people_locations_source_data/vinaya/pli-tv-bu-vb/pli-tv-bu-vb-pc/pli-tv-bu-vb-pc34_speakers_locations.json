@@ -1,0 +1,50 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc34:1.1.5^speaker": "Kāṇā's husband",
+  "pli-tv-bu-vb-pc34:1.1.5^who_else_mentioned": [
+    "Kāṇā"
+  ],
+  "pli-tv-bu-vb-pc34:1.1.6^speaker": "Kāṇamātā",
+  "pli-tv-bu-vb-pc34:1.1.19^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc34:1.1.19^speaker": "Kāṇā's husband",
+  "pli-tv-bu-vb-pc34:1.1.19^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc34:1.1.19^who_else_mentioned": [
+    "Kāṇā"
+  ],
+  "pli-tv-bu-vb-pc34:1.1.19^who_mentioned_before_or_around_this_segment": [
+    "a certain caravan",
+    "a lay follower"
+  ],
+  "pli-tv-bu-vb-pc34:1.1.19^who_present_before_or_around_this_segment": [
+    "Kāṇā",
+    "the Buddha",
+    "alms-collecting monks"
+  ],
+  "pli-tv-bu-vb-pc34:1.2.8+pli-tv-bu-vb-pc34:1.2.9^speaker": "lay follower",
+  "pli-tv-bu-vb-pc34:1.2.10^speaker": "other people in the caravan",
+  "pli-tv-bu-vb-pc34:1.2.13+pli-tv-bu-vb-pc34:1.2.14^speaker": "people complaining and criticizing",
+  "pli-tv-bu-vb-pc34:1.2.13+pli-tv-bu-vb-pc34:1.2.14^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-pc34:1.2.18+pli-tv-bu-vb-pc34:1.2.22^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc34:2.1.10^speaker": "the family",
+  "pli-tv-bu-vb-pc34:2.1.18^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc34:2.1.18^speaker": "the monk who accepted two or three bowlfuls",
+  "pli-tv-bu-vb-pc34:2.1.18^where_before_or_around_this_segment": "Rājagaha",
+  "pli-tv-bu-vb-pc34:2.1.18^who_mentioned_before_or_around_this_segment": [
+    "alms-collecting monk",
+    "another monk",
+    "thieves"
+  ],
+  "pli-tv-bu-vb-pc34:2.1.18^who_present_before_or_around_this_segment": [
+    "other monks"
+  ],
+  "pli-tv-bu-vb-pc34^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc34^where": "Rājagaha"
+}

@@ -1,0 +1,53 @@
+{
+  "[answer]^who_mentioned_before_or_around_this_segment": [
+    "criminals"
+  ],
+  "[answer]^who_present_before_or_around_this_segment": [
+    "nuns"
+  ],
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc27:1.4^speaker": "People",
+  "pli-tv-bu-vb-pc27:1.4^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-pc27:1.7^speaker": "Monks of few desires",
+  "pli-tv-bu-vb-pc27:1.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc27:1.9^speaker": "Monks from the group of six",
+  "pli-tv-bu-vb-pc27:1.11+pli-tv-bu-vb-pc27:1.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc27:1.13+pli-tv-bu-vb-pc27:1.14.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc27:2.3^speaker": "Nuns",
+  "pli-tv-bu-vb-pc27:2.4+pli-tv-bu-vb-pc27:2.5^speaker": "Monks",
+  "pli-tv-bu-vb-pc27:2.6+pli-tv-bu-vb-pc27:2.7^speaker": "Nuns",
+  "pli-tv-bu-vb-pc27:2.6^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc27:2.6^where_before_or_around_this_segment": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc27:2.6^who_mentioned_before_or_around_this_segment": [
+    "Monks from the group of six",
+    "nuns",
+    "bandits"
+  ],
+  "pli-tv-bu-vb-pc27:2.6^who_present_before_or_around_this_segment": [
+    "Monks",
+    "nuns",
+    "people"
+  ],
+  "pli-tv-bu-vb-pc27:2.13+pli-tv-bu-vb-pc27:2.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc27:3.1.10^speaker": "the monk (in a hypothetical appointment scenario)",
+  "pli-tv-bu-vb-pc27:3.1.21^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc27:3.1.21^speaker": "the monk (in a hypothetical appointment scenario)",
+  "pli-tv-bu-vb-pc27:3.1.21^where_before_or_around_this_segment": "Sāvatthī",
+  "pli-tv-bu-vb-pc27:3.1.21^who_mentioned_before_or_around_this_segment": [
+    "bandits"
+  ],
+  "pli-tv-bu-vb-pc27:3.1.21^who_present_before_or_around_this_segment": [
+    "monks",
+    "nuns"
+  ],
+  "pli-tv-bu-vb-pc27^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc27^where": "Sāvatthī, Jeta Grove, Anāthapiṇḍika's Monastery"
+}

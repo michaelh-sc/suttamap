@@ -1,0 +1,41 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc65:1.5+pli-tv-bu-vb-pc65:1.17^speaker": "Upāli's parents",
+  "pli-tv-bu-vb-pc65:1.5+pli-tv-bu-vb-pc65:1.17^who_else_mentioned": [
+    "Upāli",
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-pc65:1.20^speaker": "Upāli",
+  "pli-tv-bu-vb-pc65:1.20^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-pc65:1.21^speaker": "the other boys",
+  "pli-tv-bu-vb-pc65:1.23^speaker": "the boys",
+  "pli-tv-bu-vb-pc65:1.29^speaker": "the boys",
+  "pli-tv-bu-vb-pc65:1.31+pli-tv-bu-vb-pc65:1.35^speaker": "the monks",
+  "pli-tv-bu-vb-pc65:1.44^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc65:1.45^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc65:1.45^speaker": "the monks",
+  "pli-tv-bu-vb-pc65:1.45^where_before_or_around_this_segment": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+  "pli-tv-bu-vb-pc65:1.45^who_mentioned_before_or_around_this_segment": [
+    "Sakyan monastics",
+    "the parents of the boys"
+  ],
+  "pli-tv-bu-vb-pc65:1.45^who_present_before_or_around_this_segment": [
+    "Ānanda"
+  ],
+  "pli-tv-bu-vb-pc65:1.47+pli-tv-bu-vb-pc65:1.51^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc65:1.52+pli-tv-bu-vb-pc65:1.53.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc65:1.52^who_mentioned_before_or_around_this_segment": [
+    "monks giving full ordination to people less than twenty years old"
+  ],
+  "pli-tv-bu-vb-pc65:1.52^who_present_before_or_around_this_segment": [
+    "Ānanda"
+  ],
+  "pli-tv-bu-vb-pc65^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc65^where": "Rājagaha in the Bamboo Grove, the squirrel sanctuary"
+}

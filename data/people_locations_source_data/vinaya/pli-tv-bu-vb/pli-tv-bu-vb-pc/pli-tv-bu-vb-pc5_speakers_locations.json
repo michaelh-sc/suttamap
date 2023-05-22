@@ -1,0 +1,55 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc5:1.6^speaker": "lay followers",
+  "pli-tv-bu-vb-pc5:1.9^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc5:1.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc5:1.12^speaker": "monks",
+  "pli-tv-bu-vb-pc5:1.14+pli-tv-bu-vb-pc5:1.15^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc5:1.16+pli-tv-bu-vb-pc5:1.17.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc5:2.4+pli-tv-bu-vb-pc5:2.5^speaker": "monks at Badarikā Monastery",
+  "pli-tv-bu-vb-pc5:2.4+pli-tv-bu-vb-pc5:2.5^who_else_mentioned": [
+    "Rāhula",
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc5:2.4^geographic_locations_here_and_before": [
+    "Āḷavī",
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-pc5:2.4^speaker": "monks at Badarikā Monastery",
+  "pli-tv-bu-vb-pc5:2.4^where_before_or_around_this_segment": "Āḷavī at the Aggāḷava Shrine, and later at the Badarikā Monastery in Kosambī",
+  "pli-tv-bu-vb-pc5:2.4^who_else_mentioned": [
+    "Rāhula",
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc5:2.4^who_mentioned_before_or_around_this_segment": [
+    "Rāhula"
+  ],
+  "pli-tv-bu-vb-pc5:2.4^who_present_before_or_around_this_segment": [
+    "newly ordained monks",
+    "senior monks"
+  ],
+  "pli-tv-bu-vb-pc5:2.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc5:2.10^speaker": "Rāhula",
+  "pli-tv-bu-vb-pc5:2.10^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "pli-tv-bu-vb-pc5:2.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc5:2.11^who_else_mentioned": [
+    "Rāhula"
+  ],
+  "pli-tv-bu-vb-pc5:2.14+pli-tv-bu-vb-pc5:2.16.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc5:2.14^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-pc5:2.14^where_before_or_around_this_segment": "Badarikā Monastery, near Kosambī",
+  "pli-tv-bu-vb-pc5:2.14^who_mentioned_before_or_around_this_segment": [
+    "a person who is not fully ordained"
+  ],
+  "pli-tv-bu-vb-pc5:2.14^who_present_before_or_around_this_segment": [
+    "monks at Badarikā Monastery"
+  ],
+  "pli-tv-bu-vb-pc5^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-pc5^where": "Āḷavī at the Aggāḷava Shrine, and later at the Badarikā Monastery in Kosambī"
+}

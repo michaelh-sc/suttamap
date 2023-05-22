@@ -1,0 +1,58 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc57:1.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:1.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:1.12^speaker": "the monks",
+  "pli-tv-bu-vb-pc57:1.14+pli-tv-bu-vb-pc57:1.15^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:1.16+pli-tv-bu-vb-pc57:1.17.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:1.16^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc57:1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:1.16^where_before_or_around_this_segment": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+  "pli-tv-bu-vb-pc57:1.16^who_mentioned_before_or_around_this_segment": [
+    "monks bathing in the hot springs"
+  ],
+  "pli-tv-bu-vb-pc57:1.16^who_present_before_or_around_this_segment": [
+    "King Seniya Bimbisāra of Magadha"
+  ],
+  "pli-tv-bu-vb-pc57:2.4+pli-tv-bu-vb-pc57:2.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:3.3^speaker": "monks who were looking after the sick monks",
+  "pli-tv-bu-vb-pc57:3.4+pli-tv-bu-vb-pc57:3.5^speaker": "sick monks",
+  "pli-tv-bu-vb-pc57:3.4+pli-tv-bu-vb-pc57:3.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc57:3.7+pli-tv-bu-vb-pc57:3.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:3.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:3.7^who_else_mentioned": [
+    "Monks"
+  ],
+  "pli-tv-bu-vb-pc57:3.7^who_mentioned_before_or_around_this_segment": [
+    "monks doing building work"
+  ],
+  "pli-tv-bu-vb-pc57:3.7^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc57:4.4+pli-tv-bu-vb-pc57:4.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:5.4+pli-tv-bu-vb-pc57:5.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:5.4^who_mentioned_before_or_around_this_segment": [
+    "sick monks",
+    "monks doing building work",
+    "monks traveling",
+    "monks making robes"
+  ],
+  "pli-tv-bu-vb-pc57:5.4^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc57:6.5+pli-tv-bu-vb-pc57:6.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc57:6.5^who_mentioned_before_or_around_this_segment": [
+    "a number of monks making robes out in the open"
+  ],
+  "pli-tv-bu-vb-pc57:6.5^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc57^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc57^where": "Rājagaha in the Bamboo Grove, the squirrel sanctuary"
+}

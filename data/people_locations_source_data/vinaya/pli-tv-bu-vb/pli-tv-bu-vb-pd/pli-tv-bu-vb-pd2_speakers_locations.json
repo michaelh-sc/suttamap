@@ -1,0 +1,26 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pd2:1.4^speaker": "nuns from the group of six",
+  "pli-tv-bu-vb-pd2:1.8^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pd2:1.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pd2:1.10^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pd2:1.12+pli-tv-bu-vb-pd2:1.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pd2:1.15.1^speaker": "the Buddha (quoting the nun)",
+  "pli-tv-bu-vb-pd2:1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pd2:2.1.8^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pd2:2.1.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pd2:2.1.8^where_before_or_around_this_segment": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+  "pli-tv-bu-vb-pd2:2.1.8^who_mentioned_before_or_around_this_segment": [
+    "families inviting monks to meals"
+  ],
+  "pli-tv-bu-vb-pd2:2.1.8^who_present_before_or_around_this_segment": [
+    "monks",
+    "nuns"
+  ],
+  "pli-tv-bu-vb-pd2^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pd2^where": "Rājagaha in the Bamboo Grove, the squirrel sanctuary"
+}

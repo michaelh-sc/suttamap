@@ -30,7 +30,6 @@
   "ud3.3:6.4^speaker": "The mendicants",
   "ud3.3:8.5^speaker": "Ānanda",
   "ud3.3:9.1^geographic_locations_here_and_before": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "ud3.3:9.1^speaker": "Ānanda",
@@ -42,6 +41,7 @@
     "The resident mendicants",
     "Ānanda"
   ],
+  "ud3.3:17.1+ud3.3:17.4^speaker": "the Buddha",
   "ud3.3^initial_geographic_location": [
     "Jetavana"
   ],

@@ -1,0 +1,19 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc90:1.7^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc90:1.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc90:1.9^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc90:1.11+pli-tv-bu-vb-pc90:1.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc90:1.13+pli-tv-bu-vb-pc90:1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc90:1.13^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc90:1.13^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc90:1.13^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc90^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc90^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

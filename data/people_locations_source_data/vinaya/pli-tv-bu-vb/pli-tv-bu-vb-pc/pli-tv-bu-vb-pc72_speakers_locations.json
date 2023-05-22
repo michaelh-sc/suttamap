@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc72:1.5^speaker": "monks",
+  "pli-tv-bu-vb-pc72:1.8+pli-tv-bu-vb-pc72:1.9^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc72:1.11^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc72:1.13^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc72:1.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc72:1.15^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc72:1.17+pli-tv-bu-vb-pc72:1.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc72:1.20.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc72:2.1.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc72:2.1.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc72:2.3.2^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc72:2.3.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc72:2.3.2^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc72:2.3.2^who_mentioned_before_or_around_this_segment": [
+    "senior and junior monks",
+    "monks of middle standing"
+  ],
+  "pli-tv-bu-vb-pc72:2.3.2^who_present_before_or_around_this_segment": [
+    "Upāli"
+  ],
+  "pli-tv-bu-vb-pc72^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc72^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

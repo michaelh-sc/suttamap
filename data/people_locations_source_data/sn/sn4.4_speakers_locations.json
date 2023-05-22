@@ -3,7 +3,7 @@
   "sn4.4:1.4^speaker": "the Buddha",
   "sn4.4:1.5^speaker": "the mendicants",
   "sn4.4:2.1+sn4.4:2.2^speaker": "the Buddha",
-  "sn4.4:3.1+sn4.4:3.4^speaker": "Māra the Wicked",
+  "sn4.4:3.1+sn4.4:3.4^speaker": "Māra",
   "sn4.4:3.1+sn4.4:3.4^who_else_mentioned": [
     "Māra"
   ],
@@ -23,7 +23,7 @@
     "the mendicants"
   ],
   "sn4.4:4.1^who_mentioned_before_or_around_this_segment": [
-    "Māra the Wicked"
+    "Māra"
   ],
   "sn4.4^initial_location_dppn_headword": [
     "Bārānasī",

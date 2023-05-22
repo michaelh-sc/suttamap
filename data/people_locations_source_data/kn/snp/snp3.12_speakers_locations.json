@@ -41,6 +41,10 @@
     "Brahmās"
   ],
   "snp3.12:51.1+snp3.12:53.4^speaker": "the mendicants",
+  "snp3.12:55.1+snp3.12:62.4^speaker": "the Buddha",
+  "snp3.12:55.1+snp3.12:62.4^who_else_mentioned": [
+    "Māra"
+  ],
   "snp3.12^initial_geographic_location": [
     "Sāvatthī"
   ],

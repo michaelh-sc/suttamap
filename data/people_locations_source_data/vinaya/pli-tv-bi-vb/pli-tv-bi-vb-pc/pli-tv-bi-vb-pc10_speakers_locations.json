@@ -1,0 +1,26 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pc10:1.5^speaker": "People",
+  "pli-tv-bi-vb-pc10:1.8^speaker": "Nuns of few desires",
+  "pli-tv-bi-vb-pc10:1.9^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc10:1.10^speaker": "Monks",
+  "pli-tv-bi-vb-pc10:1.12+pli-tv-bi-vb-pc10:1.13^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc10:1.14+pli-tv-bi-vb-pc10:1.15.1^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc10:1.14^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bi-vb-pc10:1.14^where_before_or_around_this_segment": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+  "pli-tv-bi-vb-pc10:1.14^who_mentioned_before_or_around_this_segment": [
+    "Dancers",
+    "Singers",
+    "Musicians"
+  ],
+  "pli-tv-bi-vb-pc10:1.14^who_present_before_or_around_this_segment": [
+    "Nuns from the group of six",
+    "Monks"
+  ],
+  "pli-tv-bi-vb-pc10^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "pli-tv-bi-vb-pc10^where": "Rājagaha in the Bamboo Grove, the squirrel sanctuary"
+}

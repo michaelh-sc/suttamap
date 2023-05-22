@@ -1,0 +1,49 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-np21:1.4+pli-tv-bu-vb-np21:1.5^speaker": "people walking about dwellings",
+  "pli-tv-bu-vb-np21:1.4+pli-tv-bu-vb-np21:1.5^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-np21:1.8^speaker": "monks of few desires",
+  "pli-tv-bu-vb-np21:1.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-np21:1.11^speaker": "monks",
+  "pli-tv-bu-vb-np21:1.13+pli-tv-bu-vb-np21:1.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-np21:1.15+pli-tv-bu-vb-np21:1.16.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-np21:2.10^speaker": "Ānanda",
+  "pli-tv-bu-vb-np21:2.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-np21:2.13^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np21:2.13^speaker": "Ānanda",
+  "pli-tv-bu-vb-np21:2.13^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-np21:2.13^who_mentioned_before_or_around_this_segment": [
+    "Sāriputta"
+  ],
+  "pli-tv-bu-vb-np21:2.13^who_present_before_or_around_this_segment": [
+    "monks from the group of six",
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-np21:2.15+pli-tv-bu-vb-np21:2.17.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-np21:2.15^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np21:2.15^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-np21:2.15^who_mentioned_before_or_around_this_segment": [
+    "Sāriputta"
+  ],
+  "pli-tv-bu-vb-np21:2.15^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-np21:3.15+pli-tv-bu-vb-np21:3.40^speaker": "the Buddha",
+  "pli-tv-bu-vb-np21:3.15+pli-tv-bu-vb-np21:3.40^who_else_mentioned": [
+    "Sangha"
+  ],
+  "pli-tv-bu-vb-np21:4.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-np21:4.3^who_present_before_or_around_this_segment": [
+    "monks from the group of six"
+  ],
+  "pli-tv-bu-vb-np21^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np21^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

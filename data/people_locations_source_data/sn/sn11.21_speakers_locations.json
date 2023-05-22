@@ -3,14 +3,12 @@
   "sn11.21:2.1+sn11.21:2.4^speaker": "Sakka",
   "sn11.21:3.1+sn11.21:3.6^speaker": "the Buddha",
   "sn11.21:3.1^event_dppn_headwords_before_or_around_this_segment": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn11.21:3.1^where_before_or_around_this_segment": [
     "Near Sāvatthī in Jeta's Grove"
   ],
   "sn11.21^initial_location_dppn_headword": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn11.21^where": "Near Sāvatthī in Jeta's Grove"

@@ -1,0 +1,101 @@
+{
+  "[answer]^who_mentioned_before_or_around_this_segment": [
+    "unrelated woman",
+    "related woman",
+    "nun who is fully ordained only on one side",
+    "trainee nun",
+    "novice nun"
+  ],
+  "[answer]^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-np5:1.1.9^speaker": "head bandit",
+  "pli-tv-bu-vb-np5:1.1.12^speaker": "head bandit",
+  "pli-tv-bu-vb-np5:1.2.4^speaker": "Uppalavaṇṇā",
+  "pli-tv-bu-vb-np5:1.2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-np5:1.2.5^speaker": "unidentified person",
+  "pli-tv-bu-vb-np5:1.2.6^speaker": "Uppalavaṇṇā",
+  "pli-tv-bu-vb-np5:1.2.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-np5:1.2.7+pli-tv-bu-vb-np5:1.2.8^speaker": "Udāyī",
+  "pli-tv-bu-vb-np5:1.2.7+pli-tv-bu-vb-np5:1.2.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-np5:1.2.7^speaker": "Udāyī",
+  "pli-tv-bu-vb-np5:1.2.7^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-np5:1.2.9+pli-tv-bu-vb-np5:1.2.10^speaker": "Uppalavaṇṇā",
+  "pli-tv-bu-vb-np5:1.2.9^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np5:1.2.9^speaker": "Uppalavaṇṇā",
+  "pli-tv-bu-vb-np5:1.2.9^where_before_or_around_this_segment": "Rājagaha in the Bamboo Grove, Sāvatthī, and the Blind Men's Grove",
+  "pli-tv-bu-vb-np5:1.2.9^who_present_before_or_around_this_segment": [
+    "the Buddha",
+    "other bandits"
+  ],
+  "pli-tv-bu-vb-np5:1.2.11+pli-tv-bu-vb-np5:1.2.12^speaker": "Udāyī",
+  "pli-tv-bu-vb-np5:1.2.11+pli-tv-bu-vb-np5:1.2.12^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-np5:1.2.18^speaker": "nuns",
+  "pli-tv-bu-vb-np5:1.2.18^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-np5:1.2.21^speaker": "monks of few desires",
+  "pli-tv-bu-vb-np5:1.2.21^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-np5:1.2.23^speaker": "the Buddha",
+  "pli-tv-bu-vb-np5:1.2.23^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-np5:1.2.24^speaker": "Udāyī",
+  "pli-tv-bu-vb-np5:1.2.25^speaker": "the Buddha",
+  "pli-tv-bu-vb-np5:1.2.26^speaker": "Udāyī",
+  "pli-tv-bu-vb-np5:1.2.27+pli-tv-bu-vb-np5:1.2.29^speaker": "the Buddha",
+  "pli-tv-bu-vb-np5:1.2.30+pli-tv-bu-vb-np5:1.2.31.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-np5:1.2.30^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np5:1.2.30^where_before_or_around_this_segment": "Rājagaha in the Bamboo Grove, Sāvatthī, Blind Men's Grove",
+  "pli-tv-bu-vb-np5:1.2.30^who_mentioned_before_or_around_this_segment": [
+    "The head bandit"
+  ],
+  "pli-tv-bu-vb-np5:1.2.30^who_present_before_or_around_this_segment": [
+    "Uppalavaṇṇā",
+    "Udāyī",
+    "the nuns",
+    "the monks of few desires"
+  ],
+  "pli-tv-bu-vb-np5:2.3^speaker": "nuns",
+  "pli-tv-bu-vb-np5:2.3^who_mentioned_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-np5:2.3^who_present_before_or_around_this_segment": [
+    "monks",
+    "nuns"
+  ],
+  "pli-tv-bu-vb-np5:2.7+pli-tv-bu-vb-np5:2.10.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-np5:3.1.16+pli-tv-bu-vb-np5:3.1.22^speaker": "the Buddha",
+  "pli-tv-bu-vb-np5:3.1.16^who_mentioned_before_or_around_this_segment": [
+    "trainee nuns",
+    "novice monks",
+    "novice nuns"
+  ],
+  "pli-tv-bu-vb-np5:3.1.16^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-np5^initial_geographic_location": [
+    "Rājagaha",
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-np5^where": "Rājagaha in the Bamboo Grove, Sāvatthī, and the Blind Men's Grove"
+}

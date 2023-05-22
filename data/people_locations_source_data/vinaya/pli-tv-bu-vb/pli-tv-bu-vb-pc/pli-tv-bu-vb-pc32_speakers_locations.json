@@ -1,0 +1,82 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc32:1.4+pli-tv-bu-vb-pc32:1.5^speaker": "People",
+  "pli-tv-bu-vb-pc32:1.4+pli-tv-bu-vb-pc32:1.5^who_else_mentioned": [
+    "Sakyan"
+  ],
+  "pli-tv-bu-vb-pc32:1.8^speaker": "Monks of few desires",
+  "pli-tv-bu-vb-pc32:1.8^who_else_mentioned": [
+    "Devadatta"
+  ],
+  "pli-tv-bu-vb-pc32:1.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:1.9^who_else_mentioned": [
+    "Devadatta"
+  ],
+  "pli-tv-bu-vb-pc32:1.10^speaker": "Devadatta",
+  "pli-tv-bu-vb-pc32:1.12+pli-tv-bu-vb-pc32:1.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:1.14+pli-tv-bu-vb-pc32:1.15.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:2.5+pli-tv-bu-vb-pc32:2.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:3.2^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc32:3.2^speaker": "People",
+  "pli-tv-bu-vb-pc32:3.2^where_before_or_around_this_segment": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+  "pli-tv-bu-vb-pc32:3.2^who_mentioned_before_or_around_this_segment": [
+    "Sick monks"
+  ],
+  "pli-tv-bu-vb-pc32:3.2^who_present_before_or_around_this_segment": [
+    "Monks",
+    "Devadatta and his followers"
+  ],
+  "pli-tv-bu-vb-pc32:3.6+pli-tv-bu-vb-pc32:3.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:4.4+pli-tv-bu-vb-pc32:4.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:5.3^speaker": "monks",
+  "pli-tv-bu-vb-pc32:5.5^speaker": "people",
+  "pli-tv-bu-vb-pc32:5.8+pli-tv-bu-vb-pc32:5.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:6.2^speaker": "monks",
+  "pli-tv-bu-vb-pc32:6.3^speaker": "people",
+  "pli-tv-bu-vb-pc32:6.3^who_mentioned_before_or_around_this_segment": [
+    "robe-making monks",
+    "people traveling with monks",
+    "people traveling by boat with monks"
+  ],
+  "pli-tv-bu-vb-pc32:6.3^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc32:6.6+pli-tv-bu-vb-pc32:6.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:7.5+pli-tv-bu-vb-pc32:7.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:8.1^speaker": "the relative of King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pc32:8.2^speaker": "King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pc32:8.2^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc32:8.3^speaker": "the relative of King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pc32:8.4^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc32:8.4^speaker": "the relative of King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pc32:8.4^where_before_or_around_this_segment": "Rājagaha",
+  "pli-tv-bu-vb-pc32:8.4^who_mentioned_before_or_around_this_segment": [
+    "Sangha of monks headed by the Buddha"
+  ],
+  "pli-tv-bu-vb-pc32:8.4^who_present_before_or_around_this_segment": [
+    "monks",
+    "Ājīvaka ascetics"
+  ],
+  "pli-tv-bu-vb-pc32:8.7+pli-tv-bu-vb-pc32:8.9^speaker": "the Ājīvaka ascetic",
+  "pli-tv-bu-vb-pc32:8.7+pli-tv-bu-vb-pc32:8.9^who_else_mentioned": [
+    "Gotama"
+  ],
+  "pli-tv-bu-vb-pc32:8.13+pli-tv-bu-vb-pc32:8.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:9.1.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc32:9.1.2^who_mentioned_before_or_around_this_segment": [
+    "Sangha of monks"
+  ],
+  "pli-tv-bu-vb-pc32:9.1.2^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc32^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc32^where": "Rājagaha in the Bamboo Grove, the squirrel sanctuary"
+}

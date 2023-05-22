@@ -3,9 +3,9 @@
   "an9.40:1.1+an9.40:6.7^speaker": "the Buddha (assumed)",
   "an9.40:1.1^who_mentioned_before_or_around_this_segment": [
     "wild bull elephant",
-    "other elephants (males",
-    "females",
-    "younglings",
-    "or cubs)"
+    "male elephants",
+    "female elephants",
+    "youngling elephants",
+    "cubs elephants"
   ]
 }

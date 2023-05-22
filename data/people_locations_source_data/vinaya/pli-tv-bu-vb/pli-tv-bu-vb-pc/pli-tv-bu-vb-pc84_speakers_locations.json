@@ -1,0 +1,70 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc84:1.3^speaker": "the monk",
+  "pli-tv-bu-vb-pc84:1.4^speaker": "the brahmin",
+  "pli-tv-bu-vb-pc84:1.5^speaker": "the monk",
+  "pli-tv-bu-vb-pc84:1.6^speaker": "the brahmin",
+  "pli-tv-bu-vb-pc84:1.7^speaker": "the brahmin",
+  "pli-tv-bu-vb-pc84:1.10^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc84:1.11^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc84:1.12^speaker": "the monk",
+  "pli-tv-bu-vb-pc84:1.14+pli-tv-bu-vb-pc84:1.15^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:1.16+pli-tv-bu-vb-pc84:1.17.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:2.3^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc84:2.3^speaker": "Visākhā Migāramātā",
+  "pli-tv-bu-vb-pc84:2.3^where_before_or_around_this_segment": "Sāvatthī, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc84:2.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc84:2.3^who_mentioned_before_or_around_this_segment": [
+    "people in Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc84:2.3^who_present_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc84:2.4^speaker": "Visākhā Migāramātā",
+  "pli-tv-bu-vb-pc84:2.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:2.10+pli-tv-bu-vb-pc84:2.12.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:3.4^speaker": "the apprentice",
+  "pli-tv-bu-vb-pc84:3.4^where_else_mentioned": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc84:3.7^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc84:3.7^speaker": "the apprentice",
+  "pli-tv-bu-vb-pc84:3.7^where_before_or_around_this_segment": "Sāvatthī and the country of Kāsī",
+  "pli-tv-bu-vb-pc84:3.7^who_mentioned_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc84:3.7^who_present_before_or_around_this_segment": [
+    "monks",
+    "slave girl"
+  ],
+  "pli-tv-bu-vb-pc84:3.8^speaker": "the monks",
+  "pli-tv-bu-vb-pc84:3.9^speaker": "the man",
+  "pli-tv-bu-vb-pc84:3.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:4.1.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:4.1.20^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:4.1.21^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:4.1.22^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:4.2.2^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc84:4.2.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc84:4.2.2^where_before_or_around_this_segment": "Sāvatthī",
+  "pli-tv-bu-vb-pc84:4.2.2^who_mentioned_before_or_around_this_segment": [
+    "monks from the country of Kāsī"
+  ],
+  "pli-tv-bu-vb-pc84:4.2.2^who_present_before_or_around_this_segment": [
+    "monks",
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-pc84^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc84^where": "Sāvatthī, Anāthapiṇḍika's Monastery"
+}

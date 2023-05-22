@@ -3,7 +3,6 @@
   "sn2.11:2.1+sn2.11:2.4^speaker": "god Candimasa",
   "sn2.11:3.1+sn2.11:3.4^speaker": "god Candimasa",
   "sn2.11:3.1^event_dppn_headwords_before_or_around_this_segment": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn2.11:3.1^where_before_or_around_this_segment": [
@@ -14,7 +13,6 @@
     "the Buddha"
   ],
   "sn2.11^initial_location_dppn_headword": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn2.11^where": "Sāvatthī, Jeta's Grove"

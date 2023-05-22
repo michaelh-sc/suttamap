@@ -4,9 +4,9 @@
   "sn4.18:1.5^who_else_mentioned": [
     "Gotama"
   ],
-  "sn4.18:2.3^speaker": "Māra the Wicked",
+  "sn4.18:2.3^speaker": "Māra",
   "sn4.18:2.4^speaker": "the Buddha",
-  "sn4.18:2.5+sn4.18:2.6^speaker": "Māra the Wicked",
+  "sn4.18:2.5+sn4.18:2.6^speaker": "Māra",
   "sn4.18:2.5+sn4.18:2.6^where_else_mentioned": [
     "Pañcasālā"
   ],
@@ -20,7 +20,7 @@
   "sn4.18:5.1^geographical_locations_before_or_around_this_segment": [
     "Pañcasāla"
   ],
-  "sn4.18:5.1^speaker": "Māra the Wicked",
+  "sn4.18:5.1^speaker": "Māra",
   "sn4.18:5.1^where_before_or_around_this_segment": [
     "the land of the Magadhans near the brahmin village of Pañcasālā"
   ],

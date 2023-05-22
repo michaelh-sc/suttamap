@@ -1,0 +1,35 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-sk69:1.4^speaker": "(not provided in the text)",
+  "pli-tv-bu-vb-sk69:1.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-sk69:1.6^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-sk69:1.8+pli-tv-bu-vb-sk69:1.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-sk69:1.8^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-sk69:1.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-sk69:1.8^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-sk69:1.8^who_mentioned_before_or_around_this_segment": [
+    "people sitting on high seats"
+  ],
+  "pli-tv-bu-vb-sk69:1.8^who_present_before_or_around_this_segment": [
+    "monks from the group of six",
+    "monks of few desires"
+  ],
+  "pli-tv-bu-vb-sk69:1.12.1+pli-tv-bu-vb-sk69:1.44^speaker": "the Buddha",
+  "pli-tv-bu-vb-sk69:1.12.1+pli-tv-bu-vb-sk69:1.44^where_else_mentioned": [
+    "Bārāṇasī"
+  ],
+  "pli-tv-bu-vb-sk69:1.46.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-sk69:1.46.1^who_mentioned_before_or_around_this_segment": [
+    "a low-caste man",
+    "his wife from Bārāṇasī"
+  ],
+  "pli-tv-bu-vb-sk69:1.46.1^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-sk69^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-sk69^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

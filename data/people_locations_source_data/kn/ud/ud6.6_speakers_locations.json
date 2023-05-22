@@ -16,9 +16,9 @@
   "ud6.6:15.2^speaker": "ascetics and brahmins",
   "ud6.6:16.2^speaker": "ascetics and brahmins",
   "ud6.6:17.2^speaker": "ascetics and brahmins",
+  "ud6.6:18.2+ud6.6:18.3^speaker": "ascetics and brahmins",
   "ud6.6:24.1+ud6.6:26.4^speaker": "the Buddha",
   "ud6.6:24.1^geographic_locations_here_and_before": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "ud6.6:24.1^where_before_or_around_this_segment": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
@@ -28,7 +28,7 @@
   "ud6.6:24.1^who_present_before_or_around_this_segment": [
     "several ascetics",
     "brahmins",
-    "and wanderers",
+    "wanderers",
     "several mendicants"
   ],
   "ud6.6^initial_geographic_location": [

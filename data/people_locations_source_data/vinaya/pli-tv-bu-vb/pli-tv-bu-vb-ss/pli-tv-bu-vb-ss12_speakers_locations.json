@@ -1,0 +1,51 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-ss12:1.4+pli-tv-bu-vb-ss12:1.5^speaker": "monks",
+  "pli-tv-bu-vb-ss12:1.7+pli-tv-bu-vb-ss12:1.16^speaker": "Channa",
+  "pli-tv-bu-vb-ss12:1.7+pli-tv-bu-vb-ss12:1.16^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-ss12:1.18^speaker": "monks of few desires",
+  "pli-tv-bu-vb-ss12:1.18^who_else_mentioned": [
+    "Channa"
+  ],
+  "pli-tv-bu-vb-ss12:1.20+pli-tv-bu-vb-ss12:1.35^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss12:1.20+pli-tv-bu-vb-ss12:1.35^who_else_mentioned": [
+    "Channa",
+    "Buddha",
+    "Venerables"
+  ],
+  "pli-tv-bu-vb-ss12:1.21^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-ss12:1.21^speaker": "Channa",
+  "pli-tv-bu-vb-ss12:1.21^where_before_or_around_this_segment": "Kosambī in Ghosita's Monastery",
+  "pli-tv-bu-vb-ss12:1.21^who_present_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-ss12:2.15^who_mentioned_before_or_around_this_segment": [
+    "the Buddha",
+    "the monk who is difficult to correct",
+    "other monks"
+  ],
+  "pli-tv-bu-vb-ss12:2.25+pli-tv-bu-vb-ss12:2.26^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-ss12:2.25^who_mentioned_before_or_around_this_segment": [
+    "a monk",
+    "the Buddha's community"
+  ],
+  "pli-tv-bu-vb-ss12:2.32+pli-tv-bu-vb-ss12:2.55^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss12:2.32+pli-tv-bu-vb-ss12:2.55^who_else_mentioned": [
+    "Sangha",
+    "Venerables"
+  ],
+  "pli-tv-bu-vb-ss12:2.61^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss12:2.61^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-ss12^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-ss12^where": "Kosambī in Ghosita's Monastery"
+}

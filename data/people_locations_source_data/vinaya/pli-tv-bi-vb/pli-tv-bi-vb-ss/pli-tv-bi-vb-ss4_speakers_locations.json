@@ -1,0 +1,42 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-ss4:1.11^speaker": "Caṇḍakāḷī",
+  "pli-tv-bi-vb-ss4:1.12^speaker": "Thullanandā",
+  "pli-tv-bi-vb-ss4:1.12^who_else_mentioned": [
+    "Venerable"
+  ],
+  "pli-tv-bi-vb-ss4:1.13+pli-tv-bi-vb-ss4:1.14^speaker": "Caṇḍakāḷī",
+  "pli-tv-bi-vb-ss4:1.16+pli-tv-bi-vb-ss4:1.18^speaker": "Thullanandā",
+  "pli-tv-bi-vb-ss4:1.20^speaker": "The nuns of few desires",
+  "pli-tv-bi-vb-ss4:1.20^who_else_mentioned": [
+    "Thullanandā",
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-ss4:1.21^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss4:1.21^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-ss4:1.22^speaker": "Monks",
+  "pli-tv-bi-vb-ss4:1.24+pli-tv-bi-vb-ss4:1.25^speaker": "the Buddha",
+  "pli-tv-bi-vb-ss4:1.24+pli-tv-bi-vb-ss4:1.25^who_else_mentioned": [
+    "Thullanandā",
+    "Sangha"
+  ],
+  "pli-tv-bi-vb-ss4:1.24^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-ss4:1.24^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-ss4:1.24^who_mentioned_before_or_around_this_segment": [
+    "The Conqueror"
+  ],
+  "pli-tv-bi-vb-ss4:1.24^who_present_before_or_around_this_segment": [
+    "Thullanandā",
+    "Caṇḍakāḷī",
+    "Monks",
+    "The nuns of few desires"
+  ],
+  "pli-tv-bi-vb-ss4^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bi-vb-ss4^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

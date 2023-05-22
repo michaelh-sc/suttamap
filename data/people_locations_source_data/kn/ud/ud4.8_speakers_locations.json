@@ -8,9 +8,9 @@
   "ud4.8:4.4^who_else_mentioned": [
     "Sundarī"
   ],
-  "ud4.8:4.5^speaker": "King Pasenadi of Kosala",
+  "ud4.8:4.5^speaker": "King Pasenadi",
   "ud4.8:4.6^speaker": "wanderers who followed other paths",
-  "ud4.8:4.7^speaker": "King Pasenadi of Kosala",
+  "ud4.8:4.7^speaker": "King Pasenadi",
   "ud4.8:6.1+ud4.8:6.8^speaker": "wanderers who followed other paths",
   "ud4.8:6.1+ud4.8:6.8^who_else_mentioned": [
     "Sakyan"
@@ -31,7 +31,6 @@
   ],
   "ud4.8:19.1+ud4.8:19.4^speaker": "Buddha",
   "ud4.8:19.1^geographic_locations_here_and_before": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "ud4.8:19.1^where_before_or_around_this_segment": "Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery",
@@ -40,7 +39,7 @@
   ],
   "ud4.8:19.1^who_present_before_or_around_this_segment": [
     "the mendicant Saṅgha",
-    "King Pasenadi of Kosala"
+    "King Pasenadi"
   ],
   "ud4.8^initial_geographic_location": [
     "Jetavana"

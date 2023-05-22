@@ -56,7 +56,6 @@
   "mn91:8.9+mn91:22.2^speaker": "Uttara",
   "mn91:8.9+mn91:22.2^who_else_mentioned": [
     "Gotama",
-    "Brahmā’s",
     "Brahmā"
   ],
   "mn91:23.2+mn91:23.5^speaker": "Brahmāyu",
@@ -121,7 +120,7 @@
   "mn91:33.2+mn91:33.11^speaker": "Buddha",
   "mn91:34.2+mn91:34.3^speaker": "Brahmāyu",
   "mn91:34.2+mn91:34.3^who_else_mentioned": [
-    "I am the brahmin Brahmāyu",
+    "the brahmin Brahmāyu",
     "Gotama"
   ],
   "mn91:34.2^event_dppn_headwords_before_or_around_this_segment": [

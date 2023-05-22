@@ -37,7 +37,6 @@
   "ud5.6:18.1^speaker": "Soṇa",
   "ud5.6:18.5^speaker": "Soṇa",
   "ud5.6:18.6^geographic_locations_here_and_before": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "ud5.6:18.6^speaker": "Soṇa",
@@ -48,6 +47,11 @@
   "ud5.6:18.6^who_present_before_or_around_this_segment": [
     "Mahākaccāna",
     "the Buddha"
+  ],
+  "ud5.6:20.1+ud5.6:20.4^speaker": "the Buddha",
+  "ud5.6:20.1+ud5.6:20.4^who_else_mentioned": [
+    "the Noble One",
+    "the Pure One"
   ],
   "ud5.6^initial_geographic_location": [
     "Jetavana"

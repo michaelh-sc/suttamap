@@ -1,0 +1,40 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pc28:1.3^speaker": "Thullanandā",
+  "pli-tv-bi-vb-pc28:1.5+pli-tv-bi-vb-pc28:1.6^speaker": "actors, dancers, acrobats, magicians, and musicians",
+  "pli-tv-bi-vb-pc28:1.5+pli-tv-bi-vb-pc28:1.6^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-pc28:1.8^speaker": "nuns of few desires",
+  "pli-tv-bi-vb-pc28:1.8^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-pc28:1.9^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc28:1.9^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-pc28:1.10^speaker": "monks",
+  "pli-tv-bi-vb-pc28:1.12+pli-tv-bi-vb-pc28:1.13^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc28:1.12+pli-tv-bi-vb-pc28:1.13^who_else_mentioned": [
+    "Thullanandā"
+  ],
+  "pli-tv-bi-vb-pc28:1.14+pli-tv-bi-vb-pc28:1.15.1^speaker": "monks",
+  "pli-tv-bi-vb-pc28:1.14^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pc28:1.14^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-pc28:1.14^who_present_before_or_around_this_segment": [
+    "Thullanandā",
+    "actors",
+    "dancers",
+    "acrobats",
+    "magicians",
+    "musicians",
+    "nuns of few desires",
+    "monks"
+  ],
+  "pli-tv-bi-vb-pc28^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bi-vb-pc28^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

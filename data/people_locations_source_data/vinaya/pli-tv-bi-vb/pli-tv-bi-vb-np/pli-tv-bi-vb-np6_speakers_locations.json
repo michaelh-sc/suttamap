@@ -1,0 +1,27 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-np6:1.3^speaker": "the lay followers",
+  "pli-tv-bi-vb-np6:1.6^speaker": "the lay followers",
+  "pli-tv-bi-vb-np6:1.9^speaker": "the nuns of few desires",
+  "pli-tv-bi-vb-np6:1.10^speaker": "the Buddha",
+  "pli-tv-bi-vb-np6:1.11^speaker": "monks",
+  "pli-tv-bi-vb-np6:1.13+pli-tv-bi-vb-np6:1.14^speaker": "the Buddha",
+  "pli-tv-bi-vb-np6:2.1.13+pli-tv-bi-vb-np6:2.1.19^speaker": "monks",
+  "pli-tv-bi-vb-np6:2.1.13^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-np6:2.1.13^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-np6:2.1.13^who_mentioned_before_or_around_this_segment": [
+    "the nun who has been given the full ordination in unanimity by both Sanghas through a legal procedure consisting of one motion",
+    "three announcements that is irreversible",
+    "fit to stand"
+  ],
+  "pli-tv-bi-vb-np6:2.1.13^who_present_before_or_around_this_segment": [
+    "the nuns",
+    "the lay followers"
+  ],
+  "pli-tv-bi-vb-np6^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-np6^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

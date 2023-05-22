@@ -1,0 +1,78 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc46:1.6^speaker": "other monks",
+  "pli-tv-bu-vb-pc46:1.7^speaker": "the family",
+  "pli-tv-bu-vb-pc46:1.7^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc46:1.10^speaker": "other monks",
+  "pli-tv-bu-vb-pc46:1.11+pli-tv-bu-vb-pc46:1.12^speaker": "the family",
+  "pli-tv-bu-vb-pc46:1.11+pli-tv-bu-vb-pc46:1.12^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc46:1.16^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc46:1.16^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc46:1.17^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc46:1.17^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc46:1.18^speaker": "Upananda",
+  "pli-tv-bu-vb-pc46:1.20+pli-tv-bu-vb-pc46:1.21^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc46:1.22+pli-tv-bu-vb-pc46:1.23.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc46:2.7^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc46:2.7^speaker": "the family",
+  "pli-tv-bu-vb-pc46:2.7^where_before_or_around_this_segment": "Rājagaha in the Bamboo Grove, the squirrel sanctuary",
+  "pli-tv-bu-vb-pc46:2.7^who_else_mentioned": [
+    "Venerable Upananda"
+  ],
+  "pli-tv-bu-vb-pc46:2.7^who_mentioned_before_or_around_this_segment": [
+    "a family supporting Upananda"
+  ],
+  "pli-tv-bu-vb-pc46:2.7^who_present_before_or_around_this_segment": [
+    "Upananda the Sakyan",
+    "other monks"
+  ],
+  "pli-tv-bu-vb-pc46:2.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc46:2.10^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc46:2.13^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc46:2.13^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc46:2.14^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc46:2.14^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc46:2.15^speaker": "Upananda",
+  "pli-tv-bu-vb-pc46:2.17+pli-tv-bu-vb-pc46:2.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc46:3.4+pli-tv-bu-vb-pc46:3.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc46:3.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc46:3.4^where_before_or_around_this_segment": "a monastery",
+  "pli-tv-bu-vb-pc46:3.4^who_else_mentioned": [
+    "Monks"
+  ],
+  "pli-tv-bu-vb-pc46:3.4^who_mentioned_before_or_around_this_segment": [
+    "people who brought food",
+    "donors"
+  ],
+  "pli-tv-bu-vb-pc46:3.4^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc46:4.4+pli-tv-bu-vb-pc46:4.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc46:5.4+pli-tv-bu-vb-pc46:5.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc46:5.4^who_mentioned_before_or_around_this_segment": [
+    "sick monks"
+  ],
+  "pli-tv-bu-vb-pc46:5.4^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc46^initial_geographic_location": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pc46^where": "Rājagaha in the Bamboo Grove, the squirrel sanctuary"
+}

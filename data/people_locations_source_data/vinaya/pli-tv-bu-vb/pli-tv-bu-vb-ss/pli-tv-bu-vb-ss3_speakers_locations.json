@@ -1,0 +1,89 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-ss3:1.1.7^speaker": "women",
+  "pli-tv-bu-vb-ss3:1.1.11+pli-tv-bu-vb-ss3:1.1.12^speaker": "monks in dialogue",
+  "pli-tv-bu-vb-ss3:1.1.11+pli-tv-bu-vb-ss3:1.1.12^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-ss3:1.2.2^speaker": "monks of few desires",
+  "pli-tv-bu-vb-ss3:1.2.2^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-ss3:1.2.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss3:1.2.5^who_else_mentioned": [
+    "Udāyī"
+  ],
+  "pli-tv-bu-vb-ss3:1.2.6^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-ss3:1.2.6^speaker": "Udāyī",
+  "pli-tv-bu-vb-ss3:1.2.6^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-ss3:1.2.6^who_mentioned_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-ss3:1.2.6^who_present_before_or_around_this_segment": [
+    "Anāthapiṇḍika"
+  ],
+  "pli-tv-bu-vb-ss3:1.2.8+pli-tv-bu-vb-ss3:1.2.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss3:1.2.13+pli-tv-bu-vb-ss3:1.2.14.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss3:2.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss3:2.9^who_mentioned_before_or_around_this_segment": [
+    "women",
+    "a young man",
+    "a young woman"
+  ],
+  "pli-tv-bu-vb-ss3:2.9^who_present_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-ss3:3.6.8+pli-tv-bu-vb-ss3:3.6.11^speaker": "Summary verses of case studies (not a specific speaker)",
+  "pli-tv-bu-vb-ss3:4.1.3^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.1.5^speaker": "certain woman",
+  "pli-tv-bu-vb-ss3:4.1.6^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.1.6^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-ss3:4.1.8+pli-tv-bu-vb-ss3:4.1.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss3:4.2.3^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.2.5^speaker": "certain woman",
+  "pli-tv-bu-vb-ss3:4.2.7+pli-tv-bu-vb-ss3:4.2.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-ss3:4.3.3^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.3.5^speaker": "certain woman",
+  "pli-tv-bu-vb-ss3:4.3.5^who_mentioned_before_or_around_this_segment": [
+    "a woman",
+    "a paṇḍaka",
+    "various women wearing different types of woolen cloaks"
+  ],
+  "pli-tv-bu-vb-ss3:4.3.7+pli-tv-bu-vb-ss3:4.3.8^speaker": "reply",
+  "pli-tv-bu-vb-ss3:4.4.3^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.4.5^speaker": "certain woman",
+  "pli-tv-bu-vb-ss3:4.4.7+pli-tv-bu-vb-ss3:4.4.8^speaker": "reply",
+  "pli-tv-bu-vb-ss3:4.5.3^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.5.5^speaker": "certain woman",
+  "pli-tv-bu-vb-ss3:4.5.7+pli-tv-bu-vb-ss3:4.5.8^speaker": "reply",
+  "pli-tv-bu-vb-ss3:4.6.3^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.6.5^speaker": "certain woman",
+  "pli-tv-bu-vb-ss3:4.6.7+pli-tv-bu-vb-ss3:4.6.8^speaker": "reply",
+  "pli-tv-bu-vb-ss3:4.6.7^speaker": "reply",
+  "pli-tv-bu-vb-ss3:4.6.7^who_mentioned_before_or_around_this_segment": [
+    "female wanderer"
+  ],
+  "pli-tv-bu-vb-ss3:4.7.2^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.7.4^speaker": "female wanderer",
+  "pli-tv-bu-vb-ss3:4.7.6+pli-tv-bu-vb-ss3:4.7.7^speaker": "reply",
+  "pli-tv-bu-vb-ss3:4.8.2+pli-tv-bu-vb-ss3:4.8.3^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.8.4^speaker": "woman",
+  "pli-tv-bu-vb-ss3:4.8.5^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.8.7^speaker": "reply",
+  "pli-tv-bu-vb-ss3:4.9.2+pli-tv-bu-vb-ss3:4.9.3^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.9.4^speaker": "woman",
+  "pli-tv-bu-vb-ss3:4.9.5^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.9.7^speaker": "reply",
+  "pli-tv-bu-vb-ss3:4.10.3^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.10.4^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.10.5^speaker": "lustful monk",
+  "pli-tv-bu-vb-ss3:4.10.8+pli-tv-bu-vb-ss3:4.10.9^speaker": "reply",
+  "pli-tv-bu-vb-ss3^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-ss3^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

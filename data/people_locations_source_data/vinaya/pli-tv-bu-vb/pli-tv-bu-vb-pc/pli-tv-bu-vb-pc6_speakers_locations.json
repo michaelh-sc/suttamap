@@ -1,0 +1,54 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc6:1.4^speaker": "Anuruddha",
+  "pli-tv-bu-vb-pc6:1.5^speaker": "the woman",
+  "pli-tv-bu-vb-pc6:1.6^speaker": "other travelers",
+  "pli-tv-bu-vb-pc6:1.7^speaker": "the woman",
+  "pli-tv-bu-vb-pc6:1.8^speaker": "other travelers",
+  "pli-tv-bu-vb-pc6:1.9^speaker": "Anuruddha",
+  "pli-tv-bu-vb-pc6:1.11+pli-tv-bu-vb-pc6:1.12^speaker": "the woman",
+  "pli-tv-bu-vb-pc6:1.15+pli-tv-bu-vb-pc6:1.16^speaker": "the woman",
+  "pli-tv-bu-vb-pc6:1.20+pli-tv-bu-vb-pc6:1.21^speaker": "the woman",
+  "pli-tv-bu-vb-pc6:1.20^speaker": "the woman",
+  "pli-tv-bu-vb-pc6:1.20^where_before_or_around_this_segment": "a certain village in the Kosalan country",
+  "pli-tv-bu-vb-pc6:1.20^who_present_before_or_around_this_segment": [
+    "the Buddha"
+  ],
+  "pli-tv-bu-vb-pc6:1.25+pli-tv-bu-vb-pc6:1.27^speaker": "the woman",
+  "pli-tv-bu-vb-pc6:1.29+pli-tv-bu-vb-pc6:1.30^speaker": "the woman",
+  "pli-tv-bu-vb-pc6:1.31+pli-tv-bu-vb-pc6:1.33^speaker": "Anuruddha",
+  "pli-tv-bu-vb-pc6:1.37+pli-tv-bu-vb-pc6:1.41^speaker": "the woman",
+  "pli-tv-bu-vb-pc6:1.44^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc6:1.44^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "pli-tv-bu-vb-pc6:1.46^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc6:1.46^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "pli-tv-bu-vb-pc6:1.47^speaker": "Anuruddha",
+  "pli-tv-bu-vb-pc6:1.48+pli-tv-bu-vb-pc6:1.49^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc6:1.48+pli-tv-bu-vb-pc6:1.49^who_else_mentioned": [
+    "Anuruddha"
+  ],
+  "pli-tv-bu-vb-pc6:1.50+pli-tv-bu-vb-pc6:1.51.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc6:1.50^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc6:1.50^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc6:1.50^where_before_or_around_this_segment": "Sāvatthī",
+  "pli-tv-bu-vb-pc6:1.50^who_mentioned_before_or_around_this_segment": [
+    "a woman",
+    "a female spirit",
+    "a female ghost",
+    "a female animal",
+    "a paṇḍaka"
+  ],
+  "pli-tv-bu-vb-pc6:1.50^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc6^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc6^where": "a certain village in the Kosalan country"
+}

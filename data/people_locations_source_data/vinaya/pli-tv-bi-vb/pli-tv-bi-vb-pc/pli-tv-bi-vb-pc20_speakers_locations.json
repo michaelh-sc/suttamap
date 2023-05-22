@@ -1,0 +1,30 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bi-vb-pc20:1.4^speaker": "The nuns of few desires",
+  "pli-tv-bi-vb-pc20:1.4^who_else_mentioned": [
+    "Caṇḍakāḷī"
+  ],
+  "pli-tv-bi-vb-pc20:1.5^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc20:1.5^who_else_mentioned": [
+    "Caṇḍakāḷī"
+  ],
+  "pli-tv-bi-vb-pc20:1.6^speaker": "The monks",
+  "pli-tv-bi-vb-pc20:1.8+pli-tv-bi-vb-pc20:1.9^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc20:1.10+pli-tv-bi-vb-pc20:1.11.1^speaker": "the Buddha",
+  "pli-tv-bi-vb-pc20:1.10^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pc20:1.10^where_before_or_around_this_segment": "Sāvatthī in the Anāthapiṇḍika's Monastery",
+  "pli-tv-bi-vb-pc20:1.10^who_mentioned_before_or_around_this_segment": [
+    "The nun who has been given the full ordination in unanimity by both Sanghas through a legal procedure consisting of one motion",
+    "three announcements that is irreversible",
+    "fit to stand"
+  ],
+  "pli-tv-bi-vb-pc20:1.10^who_present_before_or_around_this_segment": [
+    "The nun Caṇḍakāḷī"
+  ],
+  "pli-tv-bi-vb-pc20^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bi-vb-pc20^where": "Sāvatthī in the Anāthapiṇḍika's Monastery"
+}

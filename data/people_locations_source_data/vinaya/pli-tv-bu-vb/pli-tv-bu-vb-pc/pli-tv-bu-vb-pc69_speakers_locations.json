@@ -1,0 +1,31 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc69:1.4^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc69:1.4^who_else_mentioned": [
+    "Ariṭṭha"
+  ],
+  "pli-tv-bu-vb-pc69:1.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc69:1.6^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pc69:1.8+pli-tv-bu-vb-pc69:1.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc69:1.10+pli-tv-bu-vb-pc69:1.11.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc69:2.1.8^geographic_locations_here_and_before": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc69:2.1.8^speaker": "one who says this (referring to the monk Ariṭṭha)",
+  "pli-tv-bu-vb-pc69:2.1.8^where_before_or_around_this_segment": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc69:2.1.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pc69:2.1.8^who_mentioned_before_or_around_this_segment": [
+    "the monk who has been given the full ordination",
+    "the offender",
+    "the one who has been ejected"
+  ],
+  "pli-tv-bu-vb-pc69:2.1.8^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc69^initial_geographic_location": [
+    "Jetavana"
+  ],
+  "pli-tv-bu-vb-pc69^where": "Sāvatthī in the Jeta Grove, Anāthapiṇḍika's Monastery"
+}

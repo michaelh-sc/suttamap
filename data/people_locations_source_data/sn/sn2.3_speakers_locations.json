@@ -3,7 +3,6 @@
   "sn2.3:2.1+sn2.3:2.4^speaker": "Māgha",
   "sn2.3:3.1+sn2.3:3.6^speaker": "the Buddha",
   "sn2.3:3.1^event_dppn_headwords_before_or_around_this_segment": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn2.3:3.1^where_before_or_around_this_segment": [
@@ -11,7 +10,6 @@
     "Jeta's Grove"
   ],
   "sn2.3^initial_location_dppn_headword": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn2.3^where": "Sāvatthī, Jeta's Grove"

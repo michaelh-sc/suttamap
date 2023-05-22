@@ -1,0 +1,33 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc44:1.4^speaker": "the husband",
+  "pli-tv-bu-vb-pc44:1.4^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc44:1.7^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc44:1.7^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc44:1.8^speaker": "the monks",
+  "pli-tv-bu-vb-pc44:1.8^who_else_mentioned": [
+    "Upananda"
+  ],
+  "pli-tv-bu-vb-pc44:1.9^speaker": "Upananda",
+  "pli-tv-bu-vb-pc44:1.11+pli-tv-bu-vb-pc44:1.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc44:1.13+pli-tv-bu-vb-pc44:1.14.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc44:1.13^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc44:1.13^where_before_or_around_this_segment": "Sāvatthī in Anāthapiṇḍika's Monastery",
+  "pli-tv-bu-vb-pc44:1.13^who_mentioned_before_or_around_this_segment": [
+    "Upananda's friend",
+    "Upananda's friend's wife"
+  ],
+  "pli-tv-bu-vb-pc44:1.13^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pc44^initial_geographic_location": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pc44^where": "Sāvatthī in Anāthapiṇḍika's Monastery"
+}

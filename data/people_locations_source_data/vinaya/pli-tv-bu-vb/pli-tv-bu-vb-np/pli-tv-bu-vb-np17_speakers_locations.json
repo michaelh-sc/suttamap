@@ -1,0 +1,40 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-np17:1.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-np17:1.5^who_else_mentioned": [
+    "Gotamī"
+  ],
+  "pli-tv-bu-vb-np17:1.6^speaker": "Mahāpajāpati Gotamī",
+  "pli-tv-bu-vb-np17:1.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-np17:1.13^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-np17:1.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-np17:1.15^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-np17:1.16+pli-tv-bu-vb-np17:1.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-np17:1.19+pli-tv-bu-vb-np17:1.20.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-np17:1.19^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "pli-tv-bu-vb-np17:1.19^where_before_or_around_this_segment": "Banyan Tree Monastery at Kapilavatthu in the Sakyan country",
+  "pli-tv-bu-vb-np17:1.19^who_mentioned_before_or_around_this_segment": [
+    "nuns"
+  ],
+  "pli-tv-bu-vb-np17:1.19^who_present_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-np17:2.16+pli-tv-bu-vb-np17:2.22^speaker": "the Buddha",
+  "pli-tv-bu-vb-np17:2.16^geographic_locations_here_and_before": [
+    "Kapilavatthu"
+  ],
+  "pli-tv-bu-vb-np17:2.16^where_before_or_around_this_segment": "Sakyan country in the Banyan Tree Monastery at Kapilavatthu",
+  "pli-tv-bu-vb-np17:2.16^who_mentioned_before_or_around_this_segment": [
+    "a nun",
+    "unrelated individuals"
+  ],
+  "pli-tv-bu-vb-np17:2.16^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-np17^initial_geographic_location": [
+    "Kapilavatthu"
+  ],
+  "pli-tv-bu-vb-np17^where": "Banyan Tree Monastery at Kapilavatthu in the Sakyan country"
+}

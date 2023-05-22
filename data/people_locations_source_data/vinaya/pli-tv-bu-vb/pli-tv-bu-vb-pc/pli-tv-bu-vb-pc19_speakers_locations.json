@@ -1,0 +1,29 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pc19:1.7^speaker": "a certain brahmin",
+  "pli-tv-bu-vb-pc19:1.10^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pc19:1.10^who_else_mentioned": [
+    "Channa"
+  ],
+  "pli-tv-bu-vb-pc19:1.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc19:1.12^who_else_mentioned": [
+    "Channa"
+  ],
+  "pli-tv-bu-vb-pc19:1.13^speaker": "Channa",
+  "pli-tv-bu-vb-pc19:1.15+pli-tv-bu-vb-pc19:1.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc19:1.17+pli-tv-bu-vb-pc19:1.18.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pc19:1.17^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-pc19:1.17^where_before_or_around_this_segment": "Kosambī in Ghosita's Monastery",
+  "pli-tv-bu-vb-pc19:1.17^who_mentioned_before_or_around_this_segment": [
+    "a government official (Channa's supporter)"
+  ],
+  "pli-tv-bu-vb-pc19:1.17^who_present_before_or_around_this_segment": [
+    "the Sangha"
+  ],
+  "pli-tv-bu-vb-pc19^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-pc19^where": "Kosambī in Ghosita's Monastery"
+}

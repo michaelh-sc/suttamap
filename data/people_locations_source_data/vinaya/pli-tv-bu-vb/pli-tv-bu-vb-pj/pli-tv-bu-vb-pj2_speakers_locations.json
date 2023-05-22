@@ -1,0 +1,669 @@
+{
+  "_comment": "This data is an early work-in-progress and contains errors. Keys with _else are produced with non-trained Stanford NLP and as such only includes capitalized words. The + designates a segment range. Produced by @michaelh at Discuss and Discover SuttaCentral forum - please get in touch! Finished code forthcoming.",
+  "pli-tv-bu-vb-pj2:1.1.12+pli-tv-bu-vb-pj2:1.1.14^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.1.12^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Isigili"
+  ],
+  "pli-tv-bu-vb-pj2:1.1.12^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.1.12^where_before_or_around_this_segment": "Rājagaha on the Vulture Peak and the slope of Mount Isigili",
+  "pli-tv-bu-vb-pj2:1.1.12^who_mentioned_before_or_around_this_segment": [
+    "a number of monks who were friends",
+    "some women gathering grass and firewood"
+  ],
+  "pli-tv-bu-vb-pj2:1.1.12^who_present_before_or_around_this_segment": [
+    "the Buddha",
+    "a number of monks"
+  ],
+  "pli-tv-bu-vb-pj2:1.2.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:1.2.6+pli-tv-bu-vb-pj2:1.2.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:1.2.13^speaker": "the monks",
+  "pli-tv-bu-vb-pj2:1.2.15^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.2.16^speaker": "the monks",
+  "pli-tv-bu-vb-pj2:1.2.16^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pj2:1.2.17^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.3.2+pli-tv-bu-vb-pj2:1.3.5^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.3.2+pli-tv-bu-vb-pj2:1.3.5^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pj2:1.3.9+pli-tv-bu-vb-pj2:1.3.10^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.3.9^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.3.11+pli-tv-bu-vb-pj2:1.3.13^speaker": "the caretaker of the woodyard",
+  "pli-tv-bu-vb-pj2:1.3.11+pli-tv-bu-vb-pj2:1.3.13^who_else_mentioned": [
+    "King"
+  ],
+  "pli-tv-bu-vb-pj2:1.3.11^speaker": "the caretaker of the woodyard",
+  "pli-tv-bu-vb-pj2:1.3.14^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.3.14^where_before_or_around_this_segment": "Vulture Peak",
+  "pli-tv-bu-vb-pj2:1.3.14^who_else_mentioned": [
+    "King"
+  ],
+  "pli-tv-bu-vb-pj2:1.3.14^who_mentioned_before_or_around_this_segment": [
+    "women gathering grass and firewood",
+    "the King"
+  ],
+  "pli-tv-bu-vb-pj2:1.3.14^who_present_before_or_around_this_segment": [
+    "the Buddha",
+    "the monks"
+  ],
+  "pli-tv-bu-vb-pj2:1.3.16+pli-tv-bu-vb-pj2:1.3.18^speaker": "the caretaker of the woodyard",
+  "pli-tv-bu-vb-pj2:1.3.16+pli-tv-bu-vb-pj2:1.3.18^who_else_mentioned": [
+    "Sakyan",
+    "King"
+  ],
+  "pli-tv-bu-vb-pj2:1.3.20^speaker": "the caretaker of the woodyard",
+  "pli-tv-bu-vb-pj2:1.4.2+pli-tv-bu-vb-pj2:1.4.3^speaker": "Vassakāra",
+  "pli-tv-bu-vb-pj2:1.4.2+pli-tv-bu-vb-pj2:1.4.3^who_else_mentioned": [
+    "King"
+  ],
+  "pli-tv-bu-vb-pj2:1.4.4^speaker": "the caretaker of the woodyard",
+  "pli-tv-bu-vb-pj2:1.4.4^who_else_mentioned": [
+    "King",
+    "Dhaniya"
+  ],
+  "pli-tv-bu-vb-pj2:1.4.6^speaker": "the caretaker of the woodyard",
+  "pli-tv-bu-vb-pj2:1.4.6^who_else_mentioned": [
+    "Dhaniya"
+  ],
+  "pli-tv-bu-vb-pj2:1.4.8^speaker": "Vassakāra",
+  "pli-tv-bu-vb-pj2:1.4.8^who_else_mentioned": [
+    "Dhaniya"
+  ],
+  "pli-tv-bu-vb-pj2:1.4.9^speaker": "King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pj2:1.4.10^speaker": "Vassakāra",
+  "pli-tv-bu-vb-pj2:1.4.11^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pj2:1.4.11^speaker": "King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pj2:1.4.11^where_before_or_around_this_segment": "Rājagaha",
+  "pli-tv-bu-vb-pj2:1.4.11^who_mentioned_before_or_around_this_segment": [
+    "brahmin Vassakāra",
+    "King Seniya Bimbisāra"
+  ],
+  "pli-tv-bu-vb-pj2:1.4.11^who_present_before_or_around_this_segment": [
+    "Sakyan monastics"
+  ],
+  "pli-tv-bu-vb-pj2:1.4.15^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.4.16^speaker": "the caretaker of the woodyard",
+  "pli-tv-bu-vb-pj2:1.4.17^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.4.18^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.5.4^speaker": "King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pj2:1.5.5^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.5.6+pli-tv-bu-vb-pj2:1.5.8^speaker": "King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pj2:1.5.9+pli-tv-bu-vb-pj2:1.5.10^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.5.9^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.5.11+pli-tv-bu-vb-pj2:1.5.18^speaker": "King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pj2:1.5.11^speaker": "King Seniya Bimbisāra",
+  "pli-tv-bu-vb-pj2:1.5.11^where_before_or_around_this_segment": "King Seniya Bimbisāra's house",
+  "pli-tv-bu-vb-pj2:1.5.11^who_mentioned_before_or_around_this_segment": [
+    "monastics",
+    "brahmins"
+  ],
+  "pli-tv-bu-vb-pj2:1.5.11^who_present_before_or_around_this_segment": [
+    "the caretaker of the woodyard",
+    "Vassakāra",
+    "Dhaniya",
+    "King Seniya Bimbisāra"
+  ],
+  "pli-tv-bu-vb-pj2:1.6.2+pli-tv-bu-vb-pj2:1.6.8^speaker": "people",
+  "pli-tv-bu-vb-pj2:1.6.2+pli-tv-bu-vb-pj2:1.6.8^who_else_mentioned": [
+    "Sakyan",
+    "King"
+  ],
+  "pli-tv-bu-vb-pj2:1.6.11^speaker": "monks of few desires",
+  "pli-tv-bu-vb-pj2:1.6.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:1.6.14^who_else_mentioned": [
+    "Dhaniya"
+  ],
+  "pli-tv-bu-vb-pj2:1.6.15^speaker": "Dhaniya",
+  "pli-tv-bu-vb-pj2:1.6.17+pli-tv-bu-vb-pj2:1.6.20^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:1.6.23^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:1.6.23^who_else_mentioned": [
+    "Bimbisāra"
+  ],
+  "pli-tv-bu-vb-pj2:1.6.24^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pj2:1.6.24^speaker": "former judge",
+  "pli-tv-bu-vb-pj2:1.6.24^where_before_or_around_this_segment": "Rājagaha",
+  "pli-tv-bu-vb-pj2:1.6.24^who_mentioned_before_or_around_this_segment": [
+    "Sakyan monastics"
+  ],
+  "pli-tv-bu-vb-pj2:1.6.24^who_present_before_or_around_this_segment": [
+    "monks",
+    "former judge"
+  ],
+  "pli-tv-bu-vb-pj2:1.6.27+pli-tv-bu-vb-pj2:1.6.30^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:1.6.29^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:2.3+pli-tv-bu-vb-pj2:2.4^speaker": "other monks",
+  "pli-tv-bu-vb-pj2:2.5+pli-tv-bu-vb-pj2:2.6^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pj2:2.7+pli-tv-bu-vb-pj2:2.8^speaker": "other monks",
+  "pli-tv-bu-vb-pj2:2.7+pli-tv-bu-vb-pj2:2.8^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pj2:2.9+pli-tv-bu-vb-pj2:2.10^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pj2:2.9+pli-tv-bu-vb-pj2:2.10^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pj2:2.11+pli-tv-bu-vb-pj2:2.15^speaker": "other monks",
+  "pli-tv-bu-vb-pj2:2.11^speaker": "other monks",
+  "pli-tv-bu-vb-pj2:2.18^geographic_locations_here_and_before": [
+    "Rājagaha"
+  ],
+  "pli-tv-bu-vb-pj2:2.18^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pj2:2.18^where_before_or_around_this_segment": "Rājagaha",
+  "pli-tv-bu-vb-pj2:2.18^who_mentioned_before_or_around_this_segment": [
+    "dyers",
+    "Sangha of monks"
+  ],
+  "pli-tv-bu-vb-pj2:2.18^who_present_before_or_around_this_segment": [
+    "King Bimbisāra",
+    "Dhaniya"
+  ],
+  "pli-tv-bu-vb-pj2:2.19^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pj2:2.21+pli-tv-bu-vb-pj2:2.24^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:2.27+pli-tv-bu-vb-pj2:2.30^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:2.29^speaker": "kings",
+  "pli-tv-bu-vb-pj2:3.6^who_mentioned_before_or_around_this_segment": [
+    "a thief",
+    "a monk who has been given the full ordination"
+  ],
+  "pli-tv-bu-vb-pj2:3.6^who_present_before_or_around_this_segment": [
+    "the Sangha of monks"
+  ],
+  "pli-tv-bu-vb-pj2:3.23^who_mentioned_before_or_around_this_segment": [
+    "Monk",
+    "Sangha",
+    "kings"
+  ],
+  "pli-tv-bu-vb-pj2:3.43^who_mentioned_before_or_around_this_segment": [
+    "Kings",
+    "rulers",
+    "government officials",
+    "judges",
+    "thieves",
+    "monks."
+  ],
+  "pli-tv-bu-vb-pj2:5.1.14^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.2.2^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.2.8^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.3.2^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.3.5^speaker": "the second monk",
+  "pli-tv-bu-vb-pj2:5.3.7^speaker": "the first monk",
+  "pli-tv-bu-vb-pj2:5.4.2^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.4.5^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.4.9^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.4.12^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.4.13^speaker": "the second monk",
+  "pli-tv-bu-vb-pj2:5.4.17^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.4.20^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:5.4.21^speaker": "the second monk",
+  "pli-tv-bu-vb-pj2:6.4.14+pli-tv-bu-vb-pj2:6.4.53^where_else_mentioned": [
+    "Rājagaha",
+    "Sāgalā"
+  ],
+  "pli-tv-bu-vb-pj2:6.4.14+pli-tv-bu-vb-pj2:6.4.53^who_else_mentioned": [
+    "Sāvatthī",
+    "Kosambī",
+    "Dalhika"
+  ],
+  "pli-tv-bu-vb-pj2:7.1.3+pli-tv-bu-vb-pj2:7.1.4^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pj2:7.1.3+pli-tv-bu-vb-pj2:7.1.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pj2:7.1.3^speaker": "monks from the group of six",
+  "pli-tv-bu-vb-pj2:7.1.3^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pj2:7.1.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.1.6^who_mentioned_before_or_around_this_segment": [
+    "the dyers"
+  ],
+  "pli-tv-bu-vb-pj2:7.2.3+pli-tv-bu-vb-pj2:7.2.4^speaker": "monk who intended to steal",
+  "pli-tv-bu-vb-pj2:7.2.3+pli-tv-bu-vb-pj2:7.2.4^who_else_mentioned": [
+    "Buddha"
+  ],
+  "pli-tv-bu-vb-pj2:7.2.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.2.9+pli-tv-bu-vb-pj2:7.2.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.2.13+pli-tv-bu-vb-pj2:7.2.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.2.17^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.3.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.3.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.3.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.3.3^who_mentioned_before_or_around_this_segment": [
+    "a monk who intended to steal",
+    "an alms-collecting monk",
+    "dyers"
+  ],
+  "pli-tv-bu-vb-pj2:7.3.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.4.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.4.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.4.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.4.13+pli-tv-bu-vb-pj2:7.4.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.4.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.1^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.3^who_mentioned_before_or_around_this_segment": [
+    "Monks",
+    "alms-collecting monk"
+  ],
+  "pli-tv-bu-vb-pj2:7.5.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.5.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.6.2^speaker": "the second monk",
+  "pli-tv-bu-vb-pj2:7.6.3^speaker": "the first monk",
+  "pli-tv-bu-vb-pj2:7.6.4^speaker": "the second monk",
+  "pli-tv-bu-vb-pj2:7.6.4^who_mentioned_before_or_around_this_segment": [
+    "a monk carrying goods",
+    "a monk who spread out his robe"
+  ],
+  "pli-tv-bu-vb-pj2:7.6.4^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.6.5^speaker": "the first monk",
+  "pli-tv-bu-vb-pj2:7.6.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.6.9^speaker": "the second monk",
+  "pli-tv-bu-vb-pj2:7.6.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.6.14^speaker": "the second monk",
+  "pli-tv-bu-vb-pj2:7.6.15^speaker": "the first monk",
+  "pli-tv-bu-vb-pj2:7.6.16^speaker": "the second monk",
+  "pli-tv-bu-vb-pj2:7.6.17^speaker": "the first monk",
+  "pli-tv-bu-vb-pj2:7.6.19^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.6.21^speaker": "second nun",
+  "pli-tv-bu-vb-pj2:7.6.23^speaker": "first nun",
+  "pli-tv-bu-vb-pj2:7.6.24^speaker": "the second nun",
+  "pli-tv-bu-vb-pj2:7.6.25^speaker": "the first nun",
+  "pli-tv-bu-vb-pj2:7.6.25^who_present_before_or_around_this_segment": [
+    "monks",
+    "nuns"
+  ],
+  "pli-tv-bu-vb-pj2:7.6.30^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.7.1^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:7.7.3^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.7.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.7.6^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.7.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.7.11^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.7.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.8.4^speaker": "the ghost",
+  "pli-tv-bu-vb-pj2:7.8.4^who_mentioned_before_or_around_this_segment": [
+    "fresh corpse"
+  ],
+  "pli-tv-bu-vb-pj2:7.8.4^who_present_before_or_around_this_segment": [
+    "nuns",
+    "monks",
+    "owners"
+  ],
+  "pli-tv-bu-vb-pj2:7.8.10+pli-tv-bu-vb-pj2:7.8.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.9.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.10.3^speaker": "another monk",
+  "pli-tv-bu-vb-pj2:7.10.4^speaker": "Ānanda",
+  "pli-tv-bu-vb-pj2:7.10.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.11.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.11.3^where_before_or_around_this_segment": "Various locations, including Vulture Peak",
+  "pli-tv-bu-vb-pj2:7.11.3^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.11.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.12.2^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:7.12.4+pli-tv-bu-vb-pj2:7.12.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.12.10^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:7.12.12+pli-tv-bu-vb-pj2:7.12.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.13.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.13.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.13.6^who_mentioned_before_or_around_this_segment": [
+    "monks descending from the Vulture Peak",
+    "monks in the rice kitchen",
+    "monks in the slaughterhouse"
+  ],
+  "pli-tv-bu-vb-pj2:7.13.6^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.13.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.14.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.14.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.14.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.14.13+pli-tv-bu-vb-pj2:7.14.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.14.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.15.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.15.2^who_mentioned_before_or_around_this_segment": [
+    "a certain monk"
+  ],
+  "pli-tv-bu-vb-pj2:7.15.2^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.15.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.16.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.17.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.18.2^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.18.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.19.6^speaker": "a certain monk",
+  "pli-tv-bu-vb-pj2:7.19.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.19.9^speaker": "the second monk",
+  "pli-tv-bu-vb-pj2:7.19.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.19.10^who_mentioned_before_or_around_this_segment": [
+    "two monks who were friends"
+  ],
+  "pli-tv-bu-vb-pj2:7.19.10^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.20.5^speaker": "another monk",
+  "pli-tv-bu-vb-pj2:7.20.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.20.8^speaker": "the monk who ate the food",
+  "pli-tv-bu-vb-pj2:7.20.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.20.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.21.6^speaker": "the owners of the mangoes",
+  "pli-tv-bu-vb-pj2:7.21.6^who_mentioned_before_or_around_this_segment": [
+    "the monk who took food on trust",
+    "the monk who ate another monk's portion",
+    "the owner of the food",
+    "the owner of the bowl"
+  ],
+  "pli-tv-bu-vb-pj2:7.21.6^who_present_before_or_around_this_segment": [
+    "a number of monks making robes",
+    "mango thieves",
+    "owners of the mangoes"
+  ],
+  "pli-tv-bu-vb-pj2:7.21.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.21.10^speaker": "the monks",
+  "pli-tv-bu-vb-pj2:7.21.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.21.22^speaker": "the owners of the fruits",
+  "pli-tv-bu-vb-pj2:7.21.24^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.22.6^speaker": "the owners of the fruits",
+  "pli-tv-bu-vb-pj2:7.22.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.22.8^who_mentioned_before_or_around_this_segment": [
+    "thieves"
+  ],
+  "pli-tv-bu-vb-pj2:7.22.8^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.22.19^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.22.21^speaker": "the monks",
+  "pli-tv-bu-vb-pj2:7.23.9^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.24.3^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.24.6^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.25.2^speaker": "a certain monk",
+  "pli-tv-bu-vb-pj2:7.25.2^who_mentioned_before_or_around_this_segment": [
+    "black plum thieves",
+    "bread-fruit thieves",
+    "jack-fruit thieves",
+    "palm-fruit thieves",
+    "sugarcane thieves",
+    "gaub fruit thieves",
+    "the Sangha",
+    "the family that supports the monk"
+  ],
+  "pli-tv-bu-vb-pj2:7.25.2^who_present_before_or_around_this_segment": [
+    "another monk"
+  ],
+  "pli-tv-bu-vb-pj2:7.25.5^speaker": "the other monk",
+  "pli-tv-bu-vb-pj2:7.25.7+pli-tv-bu-vb-pj2:7.25.9^speaker": "the accused monk",
+  "pli-tv-bu-vb-pj2:7.25.12^speaker": "another monk",
+  "pli-tv-bu-vb-pj2:7.25.15^speaker": "the other monk",
+  "pli-tv-bu-vb-pj2:7.25.17+pli-tv-bu-vb-pj2:7.25.19^speaker": "the accused monk",
+  "pli-tv-bu-vb-pj2:7.25.21^speaker": "a monk",
+  "pli-tv-bu-vb-pj2:7.25.23^speaker": "another monk",
+  "pli-tv-bu-vb-pj2:7.25.26^speaker": "the other monk",
+  "pli-tv-bu-vb-pj2:7.25.26^who_mentioned_before_or_around_this_segment": [
+    "the family that supports the monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.25.28+pli-tv-bu-vb-pj2:7.25.30^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.26.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.26.5^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.26.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.26.10^speaker": "the man",
+  "pli-tv-bu-vb-pj2:7.26.11^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.26.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.26.15^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.26.16^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.26.16^who_mentioned_before_or_around_this_segment": [
+    "a man carrying a valuable gem",
+    "a man pretending to be sick",
+    "a man befriending a monk"
+  ],
+  "pli-tv-bu-vb-pj2:7.26.16^who_present_before_or_around_this_segment": [
+    "monks",
+    "a man traveling with a monk",
+    "a group of monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.26.19^speaker": "the man",
+  "pli-tv-bu-vb-pj2:7.26.22^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.27.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.27.4^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.27.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.27.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.27.17^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.28.2^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.28.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.28.5^who_mentioned_before_or_around_this_segment": [
+    "a man",
+    "owners of the snare",
+    "fish-net",
+    "vehicle"
+  ],
+  "pli-tv-bu-vb-pj2:7.28.5^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.29.4^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.29.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.29.10^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.29.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.30.5^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.30.7^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.30.12^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.30.14^geographic_locations_here_and_before": [
+    "Aciravatī"
+  ],
+  "pli-tv-bu-vb-pj2:7.30.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.30.14^where_before_or_around_this_segment": "near the river Aciravatī",
+  "pli-tv-bu-vb-pj2:7.30.14^who_mentioned_before_or_around_this_segment": [
+    "cowherd",
+    "men making a raft",
+    "hawk"
+  ],
+  "pli-tv-bu-vb-pj2:7.30.14^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.31.4^speaker": "the cowherd",
+  "pli-tv-bu-vb-pj2:7.31.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.32.2^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.32.4^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.32.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.32.10^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.32.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.33.3+pli-tv-bu-vb-pj2:7.33.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.33.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.33.3^who_mentioned_before_or_around_this_segment": [
+    "cowherd",
+    "dyer",
+    "owners"
+  ],
+  "pli-tv-bu-vb-pj2:7.33.3^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.34.2^speaker": "a number of monks",
+  "pli-tv-bu-vb-pj2:7.34.5+pli-tv-bu-vb-pj2:7.34.6^speaker": "the others",
+  "pli-tv-bu-vb-pj2:7.34.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.34.12^speaker": "the monks",
+  "pli-tv-bu-vb-pj2:7.34.14^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.35.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.35.8^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pj2:7.35.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.35.8^where_before_or_around_this_segment": "Sāvatthī, Dark Wood near Sāvatthī",
+  "pli-tv-bu-vb-pj2:7.35.8^who_present_before_or_around_this_segment": [
+    "monks",
+    "shopkeeper",
+    "thieves"
+  ],
+  "pli-tv-bu-vb-pj2:7.36.4^speaker": "thieves",
+  "pli-tv-bu-vb-pj2:7.36.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.36.10^speaker": "thieves",
+  "pli-tv-bu-vb-pj2:7.36.12^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.37.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.37.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.38.3^speaker": "resident monks",
+  "pli-tv-bu-vb-pj2:7.38.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.38.7^speaker": "newly arrived monks",
+  "pli-tv-bu-vb-pj2:7.38.8^geographic_locations_here_and_before": [
+    "Sāvatthī"
+  ],
+  "pli-tv-bu-vb-pj2:7.38.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.38.8^where_before_or_around_this_segment": "Dark Wood near Sāvatthī",
+  "pli-tv-bu-vb-pj2:7.38.8^who_mentioned_before_or_around_this_segment": [
+    "thieves",
+    "shopkeeper"
+  ],
+  "pli-tv-bu-vb-pj2:7.38.8^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.38.16^speaker": "resident monks",
+  "pli-tv-bu-vb-pj2:7.38.18^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.39.2^speaker": "monks",
+  "pli-tv-bu-vb-pj2:7.39.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.39.12^speaker": "monks",
+  "pli-tv-bu-vb-pj2:7.39.12^who_mentioned_before_or_around_this_segment": [
+    "keepers of various groves (mango",
+    "black plum",
+    "bread-fruit",
+    "jack-fruit",
+    "palm",
+    "sugarcane",
+    "gaub fruit)"
+  ],
+  "pli-tv-bu-vb-pj2:7.39.12^who_present_before_or_around_this_segment": [
+    "newly arrived monks",
+    "resident monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.39.15^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.40.3^speaker": "monks",
+  "pli-tv-bu-vb-pj2:7.40.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.40.7^speaker": "the monk",
+  "pli-tv-bu-vb-pj2:7.40.8^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.41.5^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.41.8+pli-tv-bu-vb-pj2:7.41.9^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.42.3^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.42.3^who_mentioned_before_or_around_this_segment": [
+    "keepers of a palm grove",
+    "keepers of a sugarcane field",
+    "keepers of a gaub fruit grove"
+  ],
+  "pli-tv-bu-vb-pj2:7.42.3^who_present_before_or_around_this_segment": [
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.42.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.43.3^speaker": "a certain lay follower",
+  "pli-tv-bu-vb-pj2:7.43.5+pli-tv-bu-vb-pj2:7.43.6^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.44.4^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.45.2^speaker": "a nun who was a pupil of Thullanandā",
+  "pli-tv-bu-vb-pj2:7.45.5^geographic_locations_here_and_before": [
+    "Campā"
+  ],
+  "pli-tv-bu-vb-pj2:7.45.5^speaker": "Thullanandā",
+  "pli-tv-bu-vb-pj2:7.45.5^where_before_or_around_this_segment": "Campā",
+  "pli-tv-bu-vb-pj2:7.45.5^who_mentioned_before_or_around_this_segment": [
+    "the nun Thullanandā",
+    "a family that supported Thullanandā"
+  ],
+  "pli-tv-bu-vb-pj2:7.45.5^who_present_before_or_around_this_segment": [
+    "monks",
+    "nuns"
+  ],
+  "pli-tv-bu-vb-pj2:7.45.10+pli-tv-bu-vb-pj2:7.45.11^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.45.13^speaker": "the nun (pupil of Thullanandā)",
+  "pli-tv-bu-vb-pj2:7.45.16^speaker": "Thullanandā",
+  "pli-tv-bu-vb-pj2:7.45.18+pli-tv-bu-vb-pj2:7.45.19^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.46.3^speaker": "the householder",
+  "pli-tv-bu-vb-pj2:7.46.7^speaker": "Ānanda",
+  "pli-tv-bu-vb-pj2:7.46.7^who_else_mentioned": [
+    "Ānanda"
+  ],
+  "pli-tv-bu-vb-pj2:7.46.8^speaker": "Ānanda",
+  "pli-tv-bu-vb-pj2:7.46.9^geographic_locations_here_and_before": [
+    "Rājagaha",
+    "Vesāli"
+  ],
+  "pli-tv-bu-vb-pj2:7.46.9^speaker": "the householder's son",
+  "pli-tv-bu-vb-pj2:7.46.9^where_before_or_around_this_segment": "Rājagaha and Vesāli",
+  "pli-tv-bu-vb-pj2:7.46.9^who_else_mentioned": [
+    "Venerable Ajjuka"
+  ],
+  "pli-tv-bu-vb-pj2:7.46.9^who_mentioned_before_or_around_this_segment": [
+    "Ajjuka",
+    "householder's nephew",
+    "householder's son"
+  ],
+  "pli-tv-bu-vb-pj2:7.46.9^who_present_before_or_around_this_segment": [
+    "nuns",
+    "monks"
+  ],
+  "pli-tv-bu-vb-pj2:7.46.10^speaker": "Ānanda",
+  "pli-tv-bu-vb-pj2:7.46.10^who_else_mentioned": [
+    "Ajjuka"
+  ],
+  "pli-tv-bu-vb-pj2:7.46.12^speaker": "Ajjuka",
+  "pli-tv-bu-vb-pj2:7.46.15^speaker": "Upāli",
+  "pli-tv-bu-vb-pj2:7.46.16^speaker": "Ānanda",
+  "pli-tv-bu-vb-pj2:7.46.17+pli-tv-bu-vb-pj2:7.46.18^speaker": "Upāli",
+  "pli-tv-bu-vb-pj2:7.46.17+pli-tv-bu-vb-pj2:7.46.18^who_else_mentioned": [
+    "Ajjuka"
+  ],
+  "pli-tv-bu-vb-pj2:7.47.5^speaker": "people",
+  "pli-tv-bu-vb-pj2:7.47.8^speaker": "monks",
+  "pli-tv-bu-vb-pj2:7.47.8^who_else_mentioned": [
+    "Pilindavaccha"
+  ],
+  "pli-tv-bu-vb-pj2:7.47.10^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-pj2:7.47.10^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.47.10^where_before_or_around_this_segment": "Kosambī",
+  "pli-tv-bu-vb-pj2:7.47.10^who_mentioned_before_or_around_this_segment": [
+    "Pilindavaccha",
+    "Paṇḍaka",
+    "Kapila"
+  ],
+  "pli-tv-bu-vb-pj2:7.47.10^who_present_before_or_around_this_segment": [
+    "Ajjuka",
+    "Upāli",
+    "Ānanda",
+    "the householder's son",
+    "the householder's nephew",
+    "monks",
+    "people"
+  ],
+  "pli-tv-bu-vb-pj2:7.48.4^speaker": "the traveling monk",
+  "pli-tv-bu-vb-pj2:7.48.6^speaker": "the owners",
+  "pli-tv-bu-vb-pj2:7.48.8^speaker": "the woman cowherd",
+  "pli-tv-bu-vb-pj2:7.48.12+pli-tv-bu-vb-pj2:7.48.13^speaker": "the Buddha",
+  "pli-tv-bu-vb-pj2:7.49.2^speaker": "the monk at Sāgalā",
+  "pli-tv-bu-vb-pj2:7.49.3^speaker": "Daḷhika",
+  "pli-tv-bu-vb-pj2:7.49.7^geographic_locations_here_and_before": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-pj2:7.49.7^speaker": "Daḷhika",
+  "pli-tv-bu-vb-pj2:7.49.7^where_before_or_around_this_segment": "Kosambī and Sāgalā",
+  "pli-tv-bu-vb-pj2:7.49.7^who_mentioned_before_or_around_this_segment": [
+    "Pilindavaccha",
+    "a pork-butcher",
+    "a shopkeeper"
+  ],
+  "pli-tv-bu-vb-pj2:7.49.7^who_present_before_or_around_this_segment": [
+    "Paṇḍaka",
+    "Kapila",
+    "monks at Kosambī"
+  ],
+  "pli-tv-bu-vb-pj2^initial_geographic_location": [
+    "Kosambī"
+  ],
+  "pli-tv-bu-vb-pj2^where": "Rājagaha on the Vulture Peak and the slope of Mount Isigili"
+}

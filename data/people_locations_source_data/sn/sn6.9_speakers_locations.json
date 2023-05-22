@@ -16,7 +16,6 @@
   ],
   "sn6.9:2.1+sn6.9:5.4^speaker": "Tudu the independent brahmā",
   "sn6.9:2.1^event_dppn_headwords_before_or_around_this_segment": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn6.9:2.1^where_before_or_around_this_segment": [
@@ -27,10 +26,10 @@
     "Kokālika"
   ],
   "sn6.9:2.1^who_mentioned_before_or_around_this_segment": [
-    "Sāriputta Moggallāna"
+    "Sāriputta",
+    "Moggallāna"
   ],
   "sn6.9^initial_location_dppn_headword": [
-    "Sāvatthī",
     "Jetavana"
   ],
   "sn6.9^where": "Sāvatthī, Jeta's Grove"
